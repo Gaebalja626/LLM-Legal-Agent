@@ -1,0 +1,30 @@
+{
+  "submission": "sub_v5_round2_with_hyde2_oL20_oC10_gw0.05_valF1_0_1336_20260506_212720.csv",
+  "pipeline": "Qwen3-14B-AWQ round-1 + round-2 (iterative agentic) → BGE-M3 split dense → RRF → court→law graph boost",
+  "config": {
+    "llm_model": "Qwen/Qwen3-14B-AWQ",
+    "embedding_model": "BAAI/bge-m3",
+    "max_seq_length": 256,
+    "K_LAW": 200,
+    "K_COURT": 200,
+    "out_n_law": 20,
+    "out_n_court": 10,
+    "graph_pool": 100,
+    "graph_w": 0.05,
+    "use_hyde2": true
+  },
+  "val_macro_f1": 0.13360697738451238,
+  "val_per_query_f1": {
+    "val_001": 0.08333333333333333,
+    "val_002": 0.2727272727272727,
+    "val_003": 0.051948051948051945,
+    "val_004": 0.2,
+    "val_005": 0.14634146341463417,
+    "val_006": 0.16666666666666669,
+    "val_007": 0.12244897959183673,
+    "val_008": 0.10169491525423728,
+    "val_009": 0.045454545454545456,
+    "val_010": 0.14545454545454545
+  },
+  "n_test_predictions": 40
+}

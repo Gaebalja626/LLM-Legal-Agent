@@ -1,0 +1,307 @@
+{
+  "val_001": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZVG\", \"StGB\", \"BGG\"],\n  \"additional_keywords_de\": [\"Zeugenbeeinflussung\", \"Beweissicherung\", \"Verhältnismässigkeit\", \"Haftverlängerung\", \"Wiederholungstäter\", \"Freiheitsentziehung\", \"Vollzugsdauer\", \"Strafverfahren\", \"Vorverhängnis\", \"Anklageerhebung\", \"Verfahrensgeschwindigkeit\", \"Gefahrenabwehr\", \"Verfahrensfortschritt\", \"Ersatzmaßnahmen\"],\n  \"refined_hyde\": \"Die Verlängerung der Untersuchungshaft gemäß Art. 227 StPO unterliegt dem Prinzip der Verhältnismäßigkeit (Art. 36 Abs. 3 BV). Es ist zu prüfen, ob die konkrete Gefahr der Zeugenbeeinflussung oder Beweisverfälschung im Verhältnis zur Dauer der Haft und zur Schwere der Tat besteht. Relevant sind auch die verbleibenden Ermittlungsmaßnahmen und die Möglichkeit von Ersatzmaßnahmen (Art. 237 StPO). Die Zulässigkeit der Verlängerung hängt von der Dringlichkeit der Ermittlungen und der Verhältnismäßigkeit der Freiheitsentziehung ab, insbesondere wenn die Anklageerhebung noch nicht erfolgt ist und die Verfahrensgeschwindigkeit berücksichtigt werden muss.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZVG",
+        "StGB",
+        "BGG"
+      ],
+      "additional_keywords_de": [
+        "Zeugenbeeinflussung",
+        "Beweissicherung",
+        "Verhältnismässigkeit",
+        "Haftverlängerung",
+        "Wiederholungstäter",
+        "Freiheitsentziehung",
+        "Vollzugsdauer",
+        "Strafverfahren",
+        "Vorverhängnis",
+        "Anklageerhebung",
+        "Verfahrensgeschwindigkeit",
+        "Gefahrenabwehr",
+        "Verfahrensfortschritt",
+        "Ersatzmaßnahmen"
+      ],
+      "refined_hyde": "Die Verlängerung der Untersuchungshaft gemäß Art. 227 StPO unterliegt dem Prinzip der Verhältnismäßigkeit (Art. 36 Abs. 3 BV). Es ist zu prüfen, ob die konkrete Gefahr der Zeugenbeeinflussung oder Beweisverfälschung im Verhältnis zur Dauer der Haft und zur Schwere der Tat besteht. Relevant sind auch die verbleibenden Ermittlungsmaßnahmen und die Möglichkeit von Ersatzmaßnahmen (Art. 237 StPO). Die Zulässigkeit der Verlängerung hängt von der Dringlichkeit der Ermittlungen und der Verhältnismäßigkeit der Freiheitsentziehung ab, insbesondere wenn die Anklageerhebung noch nicht erfolgt ist und die Verfahrensgeschwindigkeit berücksichtigt werden muss."
+    }
+  },
+  "val_002": {
+    "raw": "{\n  \"additional_law_codes\": [\"IVG\", \"UVG\", \"ATSG\", \"BVG\", \"IVV\"],\n  \"additional_keywords_de\": [\"Erwerbsunfähigkeit\", \"Eingliederungsmassnahmen\", \"Invaliditätsgrad\", \"Arbeitsfähigkeit\", \"Berufskrankheit\", \"Allergiebedingte Erwerbsunfähigkeit\", \"Vocational Eingliederung\", \"Medizinische Eingliederung\", \"Invalidenrente\", \"Arbeitsumfeldanpassung\", \"Allergenexposition\", \"Therapeutische Massnahmen\", \"Einschränkung der Erwerbsfähigkeit\", \"Berufsgenossenschaftliche Vorsorge\"],\n  \"refined_hyde\": \"Die Frage der Invaliditätsversicherung (IV) und der Berufsvorsorge (BVG) hängt von der Bewertung der Erwerbsunfähigkeit (Art. 8 ATSG) und der Eingliederungsmassnahmen (Art. 12 IVG) ab. Relevant sind auch die Bestimmungen zur Berufskrankheit (Art. 6 UVG) und zur Invalidenrente (Art. 18 UVG). Die Allergiebedingte Erwerbsunfähigkeit und die Anforderung an eine Arbeitsumfeldanpassung (z. B. in einem low-dust Umfeld) sind entscheidend. Die Bewertung des Invaliditätsgrades (Art. 16 ATSG) und die mögliche Reduktion der Erwerbsfähigkeit um 20 % (jurisprudenzbezogener Benchmark) sind zentral. Die Berücksichtigung von therapeutischen Optionen (z. B. Allergenimmuntherapie) und die Rolle der Berufsgenossenschaft (BGG) im Rahmen der Eingliederungsmassnahmen sind ebenfalls zu prüfen.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "IVG",
+        "UVG",
+        "ATSG",
+        "BVG",
+        "IVV"
+      ],
+      "additional_keywords_de": [
+        "Erwerbsunfähigkeit",
+        "Eingliederungsmassnahmen",
+        "Invaliditätsgrad",
+        "Arbeitsfähigkeit",
+        "Berufskrankheit",
+        "Allergiebedingte Erwerbsunfähigkeit",
+        "Vocational Eingliederung",
+        "Medizinische Eingliederung",
+        "Invalidenrente",
+        "Arbeitsumfeldanpassung",
+        "Allergenexposition",
+        "Therapeutische Massnahmen",
+        "Einschränkung der Erwerbsfähigkeit",
+        "Berufsgenossenschaftliche Vorsorge"
+      ],
+      "refined_hyde": "Die Frage der Invaliditätsversicherung (IV) und der Berufsvorsorge (BVG) hängt von der Bewertung der Erwerbsunfähigkeit (Art. 8 ATSG) und der Eingliederungsmassnahmen (Art. 12 IVG) ab. Relevant sind auch die Bestimmungen zur Berufskrankheit (Art. 6 UVG) und zur Invalidenrente (Art. 18 UVG). Die Allergiebedingte Erwerbsunfähigkeit und die Anforderung an eine Arbeitsumfeldanpassung (z. B. in einem low-dust Umfeld) sind entscheidend. Die Bewertung des Invaliditätsgrades (Art. 16 ATSG) und die mögliche Reduktion der Erwerbsfähigkeit um 20 % (jurisprudenzbezogener Benchmark) sind zentral. Die Berücksichtigung von therapeutischen Optionen (z. B. Allergenimmuntherapie) und die Rolle der Berufsgenossenschaft (BGG) im Rahmen der Eingliederungsmassnahmen sind ebenfalls zu prüfen."
+    }
+  },
+  "val_003": {
+    "raw": "{\n  \"additional_law_codes\": [\"BV\", \"VPA\", \"VStrR\", \"MStP\", \"LFG\", \"BGST\"],\n  \"additional_keywords_de\": [\"Verhältnismässigkeit der Untersuchungshaft\", \"Verletzung des Rechts auf Anhörung\", \"Beweiswürdigkeit der Fluchtgefahr\", \"Verdachtsgrundlage nach StPO\", \"Ersatzmassnahmen statt Untersuchungshaft\", \"Verfassungsrechte im Strafverfahren\", \"Verhältnismässigkeit der Sicherheitsleistung\", \"Beweiswürdigkeit der Zusammenarbeit\", \"Verletzung der Presumtion of innocence\", \"Verhältnismässigkeit der Haftverlängerung\"],\n  \"refined_hyde\": \"Die Rechtfertigung der Untersuchungshaft gemäss Art. 221 Abs. 1 StPO erfordert eine dringende Verdächtigung der Beschuldigten und eine ernsthafte Fluchtgefahr. Die Verhältnismässigkeit der Maßnahme ist unter Berücksichtigung der Verfassungsrechte (Art. 31 Abs. 1 BV) zu prüfen. Der Beschuldigte muss über die Beweismittel und die Grundlage der Haftentscheidung vollständig informiert werden, um seine Rechte wirksam geltend machen zu können. Die Verletzung des Rechts auf Anhörung (Art. 36 Abs. 3 BV) oder die Unzureichendheit der Beweise (z. B. fehlende biologische Spuren) könnten die Rechtfertigung der Haft untergraben. Ersatzmaßnahmen (Art. 237 StPO) sind zu prüfen, wenn die Haft nicht verhältnismäßig ist.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "BV",
+        "VPA",
+        "VStrR",
+        "MStP",
+        "LFG",
+        "BGST"
+      ],
+      "additional_keywords_de": [
+        "Verhältnismässigkeit der Untersuchungshaft",
+        "Verletzung des Rechts auf Anhörung",
+        "Beweiswürdigkeit der Fluchtgefahr",
+        "Verdachtsgrundlage nach StPO",
+        "Ersatzmassnahmen statt Untersuchungshaft",
+        "Verfassungsrechte im Strafverfahren",
+        "Verhältnismässigkeit der Sicherheitsleistung",
+        "Beweiswürdigkeit der Zusammenarbeit",
+        "Verletzung der Presumtion of innocence",
+        "Verhältnismässigkeit der Haftverlängerung"
+      ],
+      "refined_hyde": "Die Rechtfertigung der Untersuchungshaft gemäss Art. 221 Abs. 1 StPO erfordert eine dringende Verdächtigung der Beschuldigten und eine ernsthafte Fluchtgefahr. Die Verhältnismässigkeit der Maßnahme ist unter Berücksichtigung der Verfassungsrechte (Art. 31 Abs. 1 BV) zu prüfen. Der Beschuldigte muss über die Beweismittel und die Grundlage der Haftentscheidung vollständig informiert werden, um seine Rechte wirksam geltend machen zu können. Die Verletzung des Rechts auf Anhörung (Art. 36 Abs. 3 BV) oder die Unzureichendheit der Beweise (z. B. fehlende biologische Spuren) könnten die Rechtfertigung der Haft untergraben. Ersatzmaßnahmen (Art. 237 StPO) sind zu prüfen, wenn die Haft nicht verhältnismäßig ist."
+    }
+  },
+  "val_005": {
+    "raw": "{\n  \"additional_law_codes\": [\"KSchG\", \"BVG\", \"ZPO\", \"ZGB\", \"IPRG\", \"StGB\", \"StPO\", \"BGG\", \"OR\", \"DBG\", \"ZGB\", \"BVG\", \"KSchG\"],\n  \"additional_keywords_de\": [\"Kindeswohlgefährdung\", \"Besuchsrechtseinschränkung\", \"Psychiatrische Gutachten\", \"Alkoholabhängigkeit\", \"Kindeswohlbericht\", \"Vollzugsverbot\", \"Kindeswohlverletzung\", \"Besuchsüberwachung\", \"Kindeswohlmaßnahmen\", \"Vaterschaftsrecht\", \"Kindeswohlverfahren\", \"Besuchsrechtsgestaltung\", \"Kindeswohlverletzung\", \"Kindeswohlverfahren\", \"Vollzugsmaßnahmen\"],\n  \"refined_hyde\": \"Die Frage betrifft die Ausgestaltung des Besuchsrechts unter Berücksichtigung des Kindeswohls, insbesondere bei Vorliegen von Sexualvorwürfen, Alkoholabhängigkeit und fehlenden psychiatrischen Gutachten. Relevant sind die ZGB-Artikel 273–275, die das Recht auf angemessenen persönlichen Verkehr regeln, sowie die Kindesschutzbehörde (KSchG) und ihre Befugnisse zur Schutzmaßnahme. Das Gericht muss die Wahrung des Kindeswohls ex officio prüfen, wozu eine umfassende Sachverhaltsfeststellung erforderlich ist. Die fehlende psychiatrische Gutachten und der Einfluss der Alkoholabhängigkeit auf das Verhalten des Elternteils sind entscheidende Faktoren. Zudem sind die Vorgaben des BGG und ZPO für die Verfahrensablauf und Ermessensausübung zu beachten.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "KSchG",
+        "BVG",
+        "ZPO",
+        "ZGB",
+        "IPRG",
+        "StGB",
+        "StPO",
+        "BGG",
+        "OR",
+        "DBG",
+        "ZGB",
+        "BVG",
+        "KSchG"
+      ],
+      "additional_keywords_de": [
+        "Kindeswohlgefährdung",
+        "Besuchsrechtseinschränkung",
+        "Psychiatrische Gutachten",
+        "Alkoholabhängigkeit",
+        "Kindeswohlbericht",
+        "Vollzugsverbot",
+        "Kindeswohlverletzung",
+        "Besuchsüberwachung",
+        "Kindeswohlmaßnahmen",
+        "Vaterschaftsrecht",
+        "Kindeswohlverfahren",
+        "Besuchsrechtsgestaltung",
+        "Kindeswohlverletzung",
+        "Kindeswohlverfahren",
+        "Vollzugsmaßnahmen"
+      ],
+      "refined_hyde": "Die Frage betrifft die Ausgestaltung des Besuchsrechts unter Berücksichtigung des Kindeswohls, insbesondere bei Vorliegen von Sexualvorwürfen, Alkoholabhängigkeit und fehlenden psychiatrischen Gutachten. Relevant sind die ZGB-Artikel 273–275, die das Recht auf angemessenen persönlichen Verkehr regeln, sowie die Kindesschutzbehörde (KSchG) und ihre Befugnisse zur Schutzmaßnahme. Das Gericht muss die Wahrung des Kindeswohls ex officio prüfen, wozu eine umfassende Sachverhaltsfeststellung erforderlich ist. Die fehlende psychiatrische Gutachten und der Einfluss der Alkoholabhängigkeit auf das Verhalten des Elternteils sind entscheidende Faktoren. Zudem sind die Vorgaben des BGG und ZPO für die Verfahrensablauf und Ermessensausübung zu beachten."
+    }
+  },
+  "val_006": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZPO\", \"BVG\", \"SVG\", \"AHV\", \"UVG\"],\n  \"additional_keywords_de\": [\"Gefälligkeitshaftung\", \"Sorgfaltspflichtverletzung\", \"Gewerbeberechtigungspflicht\", \"Schadenszufügung\", \"Gefährdungshaftung\", \"Gewerbeordnung\", \"Gewerbeberechtigung\", \"Gewerbebetrieb\", \"Gewerbevollmacht\", \"Gewerbeverbot\", \"Gewerbeausführung\", \"Gewerbevorschriften\", \"Gewerbevollmacht\", \"Gewerbevollmachtspflicht\", \"Gewerbevollmachtverletzung\"],\n  \"refined_hyde\": \"Die Haftung von G hängt davon ab, ob die Handlung als vertragsgestützte Dienstleistung oder als Gefälligkeit eingestuft wird. Relevant sind die Pflichten aus Art. 364 Abs. 1 OR (Objektivstandard) sowie die Analogie zu Art. 248 Abs. 1 OR und Art. 41 OR. Da G keine Gewerbeberechtigung besaß und die Vorschriften der Gewerbeordnung verletzte, könnte dies als Sorgfaltspflichtverletzung gelten. Die Bewertung der Haftung erfordert eine Analyse der konkreten Umstände, insbesondere der Verletzung der Gewerbevorschriften und der objektiven Sorgfaltspflicht. Zudem sind die Bestimmungen des ZPO und SVG für die Schadensersatzansprüche relevant.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZPO",
+        "BVG",
+        "SVG",
+        "AHV",
+        "UVG"
+      ],
+      "additional_keywords_de": [
+        "Gefälligkeitshaftung",
+        "Sorgfaltspflichtverletzung",
+        "Gewerbeberechtigungspflicht",
+        "Schadenszufügung",
+        "Gefährdungshaftung",
+        "Gewerbeordnung",
+        "Gewerbeberechtigung",
+        "Gewerbebetrieb",
+        "Gewerbevollmacht",
+        "Gewerbeverbot",
+        "Gewerbeausführung",
+        "Gewerbevorschriften",
+        "Gewerbevollmacht",
+        "Gewerbevollmachtspflicht",
+        "Gewerbevollmachtverletzung"
+      ],
+      "refined_hyde": "Die Haftung von G hängt davon ab, ob die Handlung als vertragsgestützte Dienstleistung oder als Gefälligkeit eingestuft wird. Relevant sind die Pflichten aus Art. 364 Abs. 1 OR (Objektivstandard) sowie die Analogie zu Art. 248 Abs. 1 OR und Art. 41 OR. Da G keine Gewerbeberechtigung besaß und die Vorschriften der Gewerbeordnung verletzte, könnte dies als Sorgfaltspflichtverletzung gelten. Die Bewertung der Haftung erfordert eine Analyse der konkreten Umstände, insbesondere der Verletzung der Gewerbevorschriften und der objektiven Sorgfaltspflicht. Zudem sind die Bestimmungen des ZPO und SVG für die Schadensersatzansprüche relevant."
+    }
+  },
+  "val_008": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZPO\", \"BVG\", \"VwVfG\", \"VwVfV\", \"VwVfVZG\", \"VwVfVZG\"],\n  \"additional_keywords_de\": [\"Amtsverletzung\", \"Vorteilsannahme\", \"Geschäftsführungsverletzung\", \"Verwaltungsverantwortung\", \"Gewinnausbeutung\", \"Verwaltungsfehler\", \"Verwaltungsverfahrensfehler\", \"Verwaltungsrechtliche Pflichtverletzung\", \"Geschäftsführungsverantwortung\", \"Verwaltungsverfahrensrecht\", \"Verwaltungsverfahrensfehler\", \"Verwaltungsverfahrensverletzung\", \"Verwaltungsverfahrensrechtliche Pflichten\", \"Verwaltungsverfahrensrechtliche Verletzung\", \"Verwaltungsverfahrensrechtliche Pflichtverletzung\"],\n  \"refined_hyde\": \"Die Frage betrifft die Strafbarkeit einer untreuen Amtsführung gemäß StGB, insbesondere Art. 312, 314 und 322sexies, sowie die Verwaltungsrechtliche Pflichten des Verwaltungsrats gemäß OR. Es fehlen jedoch spezifische Verweisungen auf das Verwaltungsverfahrensrecht (VwVfG) und die Verwaltungsverfahrensverletzungen (VwVfV), die für die Bewertung der Verfahrensfehler im Rahmen der Verwaltungsverfahrensrechtlichen Pflichten entscheidend sind. Zudem sind die Begriffe wie 'Geschäftsführungsverletzung' und 'Verwaltungsverfahrensfehler' für die Identifizierung relevanter Rechtsnormen und Entscheidungen von Bedeutung. Die fehlende Berücksichtigung von VwVfG und VwVfV könnte zu einer unvollständigen Bewertung der Verfahrensfehler führen.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZPO",
+        "BVG",
+        "VwVfG",
+        "VwVfV",
+        "VwVfVZG",
+        "VwVfVZG"
+      ],
+      "additional_keywords_de": [
+        "Amtsverletzung",
+        "Vorteilsannahme",
+        "Geschäftsführungsverletzung",
+        "Verwaltungsverantwortung",
+        "Gewinnausbeutung",
+        "Verwaltungsfehler",
+        "Verwaltungsverfahrensfehler",
+        "Verwaltungsrechtliche Pflichtverletzung",
+        "Geschäftsführungsverantwortung",
+        "Verwaltungsverfahrensrecht",
+        "Verwaltungsverfahrensfehler",
+        "Verwaltungsverfahrensverletzung",
+        "Verwaltungsverfahrensrechtliche Pflichten",
+        "Verwaltungsverfahrensrechtliche Verletzung",
+        "Verwaltungsverfahrensrechtliche Pflichtverletzung"
+      ],
+      "refined_hyde": "Die Frage betrifft die Strafbarkeit einer untreuen Amtsführung gemäß StGB, insbesondere Art. 312, 314 und 322sexies, sowie die Verwaltungsrechtliche Pflichten des Verwaltungsrats gemäß OR. Es fehlen jedoch spezifische Verweisungen auf das Verwaltungsverfahrensrecht (VwVfG) und die Verwaltungsverfahrensverletzungen (VwVfV), die für die Bewertung der Verfahrensfehler im Rahmen der Verwaltungsverfahrensrechtlichen Pflichten entscheidend sind. Zudem sind die Begriffe wie 'Geschäftsführungsverletzung' und 'Verwaltungsverfahrensfehler' für die Identifizierung relevanter Rechtsnormen und Entscheidungen von Bedeutung. Die fehlende Berücksichtigung von VwVfG und VwVfV könnte zu einer unvollständigen Bewertung der Verfahrensfehler führen."
+    }
+  },
+  "val_009": {
+    "raw": "{\n  \"additional_law_codes\": [\"SchKG\", \"VStrR\", \"BGG\", \"IPRG\", \"StGB\", \"ZGB\", \"StPO\", \"BV\", \"DBG\", \"OR\"],\n  \"additional_keywords_de\": [\"Vermögenssicherung\", \"Zwangsverkauf\", \"Unterhaltssicherung\", \"Vermögenssperre\", \"Vollstreckungsverfahren\", \"Vermögenswerte\", \"Ersatzforderung\", \"Vollstreckungssicherung\", \"Vermögensbeschlagnahme\", \"Vollstreckungssicherung\", \"Vermögenssicherung\", \"Vollstreckungssicherung\", \"Vermögenssperre\", \"Vollstreckungssicherung\", \"Vermögenswerte\", \"Vollstreckungssicherung\"],\n  \"refined_hyde\": \"Die Frage betrifft die Unterhaltspflicht eines inhaftierten Elternteils sowie die Sicherung von Vermögenswerten im Rahmen der Vollstreckung. Relevant sind die Bestimmungen des ZGB über die Unterhaltspflicht, insbesondere Art. 276–289 ZGB, sowie die Regelungen zur Vermögenssicherung im SchKG und StPO. Die Sicherung von Vermögenswerten des nicht zahlenden Elternteils, insbesondere im Kontext eines Zwangsverkaufs, erfordert eine Prüfung der Anwendbarkeit von Art. 71 Abs. 3 StGB und Art. 263 StPO. Zudem sind die Vorschriften zur Vollstreckungssicherung im SchKG und zur Vermögenssperre zu berücksichtigen. Die Frage der Indexierung und Kapitalisierung von Unterhaltspflichten erfordert eine Analyse der Rechtsprechung zu Unterhaltssicherung und Vermögenswerten.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "SchKG",
+        "VStrR",
+        "BGG",
+        "IPRG",
+        "StGB",
+        "ZGB",
+        "StPO",
+        "BV",
+        "DBG",
+        "OR"
+      ],
+      "additional_keywords_de": [
+        "Vermögenssicherung",
+        "Zwangsverkauf",
+        "Unterhaltssicherung",
+        "Vermögenssperre",
+        "Vollstreckungsverfahren",
+        "Vermögenswerte",
+        "Ersatzforderung",
+        "Vollstreckungssicherung",
+        "Vermögensbeschlagnahme",
+        "Vollstreckungssicherung",
+        "Vermögenssicherung",
+        "Vollstreckungssicherung",
+        "Vermögenssperre",
+        "Vollstreckungssicherung",
+        "Vermögenswerte",
+        "Vollstreckungssicherung"
+      ],
+      "refined_hyde": "Die Frage betrifft die Unterhaltspflicht eines inhaftierten Elternteils sowie die Sicherung von Vermögenswerten im Rahmen der Vollstreckung. Relevant sind die Bestimmungen des ZGB über die Unterhaltspflicht, insbesondere Art. 276–289 ZGB, sowie die Regelungen zur Vermögenssicherung im SchKG und StPO. Die Sicherung von Vermögenswerten des nicht zahlenden Elternteils, insbesondere im Kontext eines Zwangsverkaufs, erfordert eine Prüfung der Anwendbarkeit von Art. 71 Abs. 3 StGB und Art. 263 StPO. Zudem sind die Vorschriften zur Vollstreckungssicherung im SchKG und zur Vermögenssperre zu berücksichtigen. Die Frage der Indexierung und Kapitalisierung von Unterhaltspflichten erfordert eine Analyse der Rechtsprechung zu Unterhaltssicherung und Vermögenswerten."
+    }
+  },
+  "val_010": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZPO\", \"ZGB\", \"OR\", \"BGG\", \"StGB\", \"ATSG\", \"IVG\", \"SchKG\", \"BGS\", \"AHVG\"],\n  \"additional_keywords_de\": [\"Unterschriftsprüfungspflicht\", \"Vertragsgestaltung\", \"Ratifikationsklausel\", \"Geschäftsfähigkeit\", \"Schadensersatzanspruch\", \"Verjährung\", \"Währungsangabe\", \"Geschäftsführungsverbot\", \"Protestpflicht\", \"Grossfahrlässigkeit\", \"Kontoeröffnungsbedingungen\", \"Wertpapierverwaltung\", \"Kundenidentifikation\", \"Schadensersatzpflicht\", \"Verjährungsfrist\"],\n  \"refined_hyde\": \"Die Frage der Haftung der Bank hängt von der Einhaltung ihrer Unterschriftsprüfungspflicht und der Vertragsgestaltung ab, insbesondere der 30-tägigen Protestpflicht sowie der Währungsangabe im Vertrag. Relevant sind auch die ZPO für die Verjährung und die Verjährungsfristen, sowie die ZGB für die Vertragsverhältnisse und die Schadensersatzpflicht. Die AHVG könnte für die Haftung bei grobfahrlässiger Handlung relevant sein. Die Währung des Anspruchs (Schweizer Franken vs. Euro) könnte die Vertragsgestaltung und die Anwendbarkeit der exculpativen Klauseln beeinflussen. Es ist wichtig, die Verjährung und die Einhaltung der Protestpflicht zu prüfen, sowie die Haftung bei fehlender Identifikation des Kunden.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZPO",
+        "ZGB",
+        "OR",
+        "BGG",
+        "StGB",
+        "ATSG",
+        "IVG",
+        "SchKG",
+        "BGS",
+        "AHVG"
+      ],
+      "additional_keywords_de": [
+        "Unterschriftsprüfungspflicht",
+        "Vertragsgestaltung",
+        "Ratifikationsklausel",
+        "Geschäftsfähigkeit",
+        "Schadensersatzanspruch",
+        "Verjährung",
+        "Währungsangabe",
+        "Geschäftsführungsverbot",
+        "Protestpflicht",
+        "Grossfahrlässigkeit",
+        "Kontoeröffnungsbedingungen",
+        "Wertpapierverwaltung",
+        "Kundenidentifikation",
+        "Schadensersatzpflicht",
+        "Verjährungsfrist"
+      ],
+      "refined_hyde": "Die Frage der Haftung der Bank hängt von der Einhaltung ihrer Unterschriftsprüfungspflicht und der Vertragsgestaltung ab, insbesondere der 30-tägigen Protestpflicht sowie der Währungsangabe im Vertrag. Relevant sind auch die ZPO für die Verjährung und die Verjährungsfristen, sowie die ZGB für die Vertragsverhältnisse und die Schadensersatzpflicht. Die AHVG könnte für die Haftung bei grobfahrlässiger Handlung relevant sein. Die Währung des Anspruchs (Schweizer Franken vs. Euro) könnte die Vertragsgestaltung und die Anwendbarkeit der exculpativen Klauseln beeinflussen. Es ist wichtig, die Verjährung und die Einhaltung der Protestpflicht zu prüfen, sowie die Haftung bei fehlender Identifikation des Kunden."
+    }
+  },
+  "val_004": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZGB\", \"BGG\", \"ZPO\", \"BV\"],\n  \"additional_keywords_de\": [\n    \"Testamentsfälschung\",\n    \"Willensmangel\",\n    \"Sprachverständnis im Testament\",\n    \"Formgültigkeit Handschrifttestament\",\n    \"ZGB 505\",\n    \"ZGB 467\",\n    \"ZGB 469\",\n    \"ZGB 519\",\n    \"ZGB 520a\"\n  ],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse konzentrieren sich primär auf die formellen Anforderungen an ein Handschrifttestament und die Verfügungsfähigkeit des Erblassers. Allerdings fehlen relevante Regelungen, die sich direkt mit der Sprachkompetenz des Erblassers bei der Errichtung eines Testaments befassen, insbesondere in Bezug auf die Verwendung rechtlicher Fachbegriffe. Zudem könnten Aspekte wie Testamentsfälschung oder die Annahme von Willensmängeln, die nicht explizit in den aktuellen Suchbegriffen enthalten sind, weitergehend beleuchtet werden. Es wäre zudem hilfreich, Regelungen zum Umgang mit unklaren oder möglicherweise manipulierten Teilen eines Testaments einzubeziehen, um die Validität der Verfügung besser zu beurteilen.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZGB",
+        "BGG",
+        "ZPO",
+        "BV"
+      ],
+      "additional_keywords_de": [
+        "Testamentsfälschung",
+        "Willensmangel",
+        "Sprachverständnis im Testament",
+        "Formgültigkeit Handschrifttestament",
+        "ZGB 505",
+        "ZGB 467",
+        "ZGB 469",
+        "ZGB 519",
+        "ZGB 520a"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse konzentrieren sich primär auf die formellen Anforderungen an ein Handschrifttestament und die Verfügungsfähigkeit des Erblassers. Allerdings fehlen relevante Regelungen, die sich direkt mit der Sprachkompetenz des Erblassers bei der Errichtung eines Testaments befassen, insbesondere in Bezug auf die Verwendung rechtlicher Fachbegriffe. Zudem könnten Aspekte wie Testamentsfälschung oder die Annahme von Willensmängeln, die nicht explizit in den aktuellen Suchbegriffen enthalten sind, weitergehend beleuchtet werden. Es wäre zudem hilfreich, Regelungen zum Umgang mit unklaren oder möglicherweise manipulierten Teilen eines Testaments einzubeziehen, um die Validität der Verfügung besser zu beurteilen."
+    }
+  },
+  "val_007": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZGB\", \"OR\", \"IPRG\", \"ATSG\", \"AVIG\", \"KMG\", \"WG\", \"BGG\"],\n  \"additional_keywords_de\": [\"Gutgläubigkeit\", \"Besitzrecht\", \"Eigentumsübertragung\", \"Verfügung über Todes wegen\", \"Formvollmacht\", \"Rechtswirksamkeit von Photokopien\", \"Beweislast\", \"Schutz des Guten Glaubens\", \"Unwirksamkeit von Schenkungen\", \"Dotation causa mortis\", \"Eigentumsnachweis\", \"Recht auf Rückgabe\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse zeigen, dass relevante Aspekte der Schweizerischen Zivilprozessordnung (ZPO) und speziell der Regelungen zum Beweis und zur Gutgläubigkeit fehlen. Insbesondere könnten die Regelungen zur Beweisführung (Art. 8 ZGB) und zur Gutgläubigkeit (Art. 933 ZGB) für die Bewertung der Validität der Schenkung und der Admissibilität der Photokopie entscheidend sein. Zudem fehlen Schlüsselbegriffe wie „Eigentumsnachweis“ und „Dotation causa mortis“, welche für die Unterscheidung zwischen einer inter vivos-Schenkung und einer Verfügung causa mortis notwendig sind. Die Admissibilität von Zeugenaussagen unter dem Dead Man's Statute (Art. 4519 CPLR) und die Anwendung der Schweizerischen Zivilprozessordnung (ZPO) auf die Frage der Beweislast sollten ebenfalls stärker berücksichtigt werden.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZGB",
+        "OR",
+        "IPRG",
+        "ATSG",
+        "AVIG",
+        "KMG",
+        "WG",
+        "BGG"
+      ],
+      "additional_keywords_de": [
+        "Gutgläubigkeit",
+        "Besitzrecht",
+        "Eigentumsübertragung",
+        "Verfügung über Todes wegen",
+        "Formvollmacht",
+        "Rechtswirksamkeit von Photokopien",
+        "Beweislast",
+        "Schutz des Guten Glaubens",
+        "Unwirksamkeit von Schenkungen",
+        "Dotation causa mortis",
+        "Eigentumsnachweis",
+        "Recht auf Rückgabe"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse zeigen, dass relevante Aspekte der Schweizerischen Zivilprozessordnung (ZPO) und speziell der Regelungen zum Beweis und zur Gutgläubigkeit fehlen. Insbesondere könnten die Regelungen zur Beweisführung (Art. 8 ZGB) und zur Gutgläubigkeit (Art. 933 ZGB) für die Bewertung der Validität der Schenkung und der Admissibilität der Photokopie entscheidend sein. Zudem fehlen Schlüsselbegriffe wie „Eigentumsnachweis“ und „Dotation causa mortis“, welche für die Unterscheidung zwischen einer inter vivos-Schenkung und einer Verfügung causa mortis notwendig sind. Die Admissibilität von Zeugenaussagen unter dem Dead Man's Statute (Art. 4519 CPLR) und die Anwendung der Schweizerischen Zivilprozessordnung (ZPO) auf die Frage der Beweislast sollten ebenfalls stärker berücksichtigt werden."
+    }
+  }
+}

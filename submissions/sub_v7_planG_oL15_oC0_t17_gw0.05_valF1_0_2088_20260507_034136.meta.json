@@ -1,0 +1,35 @@
+{
+  "submission": "sub_v7_planG_oL15_oC0_t17_gw0.05_valF1_0_2088_20260507_034136.csv",
+  "pipeline": "multi-view + Plan-G additional citations from LLM verify",
+  "config": {
+    "modes": [
+      "orig",
+      "kw",
+      "hyde",
+      "hyde_statute",
+      "sub_q3",
+      "trans_concise"
+    ],
+    "n_law_base": 15,
+    "n_court_base": 0,
+    "graph_w": 0.05,
+    "target_size": 17,
+    "K_LAW": 200,
+    "K_COURT": 200,
+    "graph_pool": 100
+  },
+  "val_macro_f1": 0.2087776203606738,
+  "val_per_query_f1": {
+    "val_001": 0.14035087719298245,
+    "val_002": 0.23076923076923078,
+    "val_003": 0.03125,
+    "val_004": 0.29629629629629634,
+    "val_005": 0.23076923076923075,
+    "val_006": 0.28571428571428575,
+    "val_007": 0.3888888888888889,
+    "val_008": 0.13043478260869565,
+    "val_009": 0.2580645161290323,
+    "val_010": 0.09523809523809526
+  },
+  "n_test_predictions": 40
+}

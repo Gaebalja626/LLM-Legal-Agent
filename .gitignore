@@ -1,0 +1,32 @@
+# Large data / artifacts (rebuild from scripts or download from HF/Drive)
+parquet/
+indexes/
+graph/
+data/
+uploads/
+notebooks/
+
+# HuggingFace / model caches (live in ~/.cache anyway, but just in case)
+*.npy
+*.faiss
+*.pkl
+
+# log files (kept SESSION_LOG.md separately)
+scripts/*.log
+*.log.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp

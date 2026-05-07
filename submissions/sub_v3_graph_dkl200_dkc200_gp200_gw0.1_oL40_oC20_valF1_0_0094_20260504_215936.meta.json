@@ -1,0 +1,33 @@
+{
+  "submission": "sub_v3_graph_dkl200_dkc200_gp200_gw0.1_oL40_oC20_valF1_0_0094_20260504_215936.csv",
+  "pipeline": "BGE-M3 dense (split) + Graph 1-hop (court\u2192law citation extraction)",
+  "config": {
+    "dense_k_law": 200,
+    "dense_k_court": 200,
+    "graph_court_pool": 200,
+    "graph_freq_weight": 0.1,
+    "out_n_law": 40,
+    "out_n_court": 20
+  },
+  "val_macro_f1": 0.009432906073821934,
+  "val_per_query_f1": {
+    "val_001": 0.0196078431372549,
+    "val_002": 0.020833333333333336,
+    "val_003": 0.0,
+    "val_004": 0.028571428571428574,
+    "val_005": 0.0,
+    "val_006": 0.0,
+    "val_007": 0.02531645569620253,
+    "val_008": 0.0,
+    "val_009": 0.0,
+    "val_010": 0.0
+  },
+  "graph_stats": {
+    "total_court": 1985178,
+    "court_with_law_citations": 386823,
+    "avg_law_refs_per_court": 1.8273241249873973,
+    "total_law_refs": 706851,
+    "build_time_sec": 3.4686479568481445
+  },
+  "timestamp": "20260504_215936"
+}

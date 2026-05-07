@@ -1,0 +1,2858 @@
+{
+  "val_001__r1": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 212 Abs. 3 StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 227 Abs. 7 StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 221 Abs. 1 StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 221 Abs. 2 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 36 Abs. 3 BV\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 237 Abs. 1 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 5 Abs. 2 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 81 Abs. 1 BGG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 212 Abs. 2 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 31 Abs. 4 BV\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 227 Abs. 4 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 431 Abs. 2 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 227 Abs. 1 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 31 Abs. 3 BV\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 227 Abs. 5 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"1B_18/2022 E. 7\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_6/2019 E. 6.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_461/2020 E. 7\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_285/2014 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_505/2022 E. 1\", \"verdict\": \"reject\"},\n    {\"citation\": \"1B_44/2021 E. 4.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_442/2022 E. 5.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1P.677/2004 14.12.2004 E. 2\", \"verdict\": \"reject\"},\n    {\"citation\": \"7B_910/2025 E. B\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_585/2012 30.10.2012 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_406/2012 31.07.2012 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_354/2021 E. 3\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_334/2018 E. 6.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_200/2022 E. 4.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_386/2022 E. 6.2\", \"verdict\": \"keep\"}\n  ],\n  \"missing\": [\n    \"Art. 221 Abs. 1 lit. b StPO\",\n    \"Art. 227 Abs. 6 StPO\",\n    \"Art. 197 Abs. 1 lit. c StPO\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 212 Abs. 3 StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 227 Abs. 7 StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 221 Abs. 1 StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 221 Abs. 2 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 36 Abs. 3 BV",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 237 Abs. 1 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 5 Abs. 2 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 81 Abs. 1 BGG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 212 Abs. 2 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 31 Abs. 4 BV",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 227 Abs. 4 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 431 Abs. 2 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 227 Abs. 1 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 31 Abs. 3 BV",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 227 Abs. 5 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "1B_18/2022 E. 7",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_6/2019 E. 6.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_461/2020 E. 7",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_285/2014 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_505/2022 E. 1",
+          "verdict": "reject"
+        },
+        {
+          "citation": "1B_44/2021 E. 4.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_442/2022 E. 5.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1P.677/2004 14.12.2004 E. 2",
+          "verdict": "reject"
+        },
+        {
+          "citation": "7B_910/2025 E. B",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_585/2012 30.10.2012 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_406/2012 31.07.2012 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_354/2021 E. 3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_334/2018 E. 6.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_200/2022 E. 4.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_386/2022 E. 6.2",
+          "verdict": "keep"
+        }
+      ],
+      "missing": [
+        "Art. 221 Abs. 1 lit. b StPO",
+        "Art. 227 Abs. 6 StPO",
+        "Art. 197 Abs. 1 lit. c StPO"
+      ]
+    }
+  },
+  "val_002__r1": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 23 BVG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 8 Abs. 1 ATSG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 6 ATSG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 12 Abs. 1 IVG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 5 Abs. 2 IVG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 10 Abs. 3 BVG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 28 Abs. 1 IVG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 16 ATSG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 4 Abs. 1 IVG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 6 BVG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 7 Abs. 1 ATSG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 19 Abs. 1 UVG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 88a Abs. 1 IVV\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 8 Abs. 1 IVG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 95 BGG\", \"verdict\": \"reject\"},\n    {\"citation\": \"9C_928/2008 03.03.2009 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_124/2008 16.01.2009 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_12/2009 29.05.2009 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_868/2011 04.07.2012 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_115/2024 E. 2.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_412/2010 22.02.2011 E. A\", \"verdict\": \"reject\"},\n    {\"citation\": \"I 602/02 13.03.2003 E. 2.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"8C_166/2007 20.06.2007 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"I 264/01 06.02.2002 E. A\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_126/2013 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"8C_423/2007 18.03.2008 E. 3\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_901/2017 E. A\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_387/2019 E. 2.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"I 192/01 29.01.2002 E. 1\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_967/2008 05.01.2009 E. 2\", \"verdict\": \"keep\"}\n  ],\n  \"missing\": [\n    \"Art. 17 LAI\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 23 BVG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 8 Abs. 1 ATSG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 6 ATSG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 12 Abs. 1 IVG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 5 Abs. 2 IVG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 10 Abs. 3 BVG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 28 Abs. 1 IVG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 16 ATSG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 4 Abs. 1 IVG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 6 BVG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 7 Abs. 1 ATSG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 19 Abs. 1 UVG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 88a Abs. 1 IVV",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 8 Abs. 1 IVG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 95 BGG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "9C_928/2008 03.03.2009 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_124/2008 16.01.2009 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_12/2009 29.05.2009 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_868/2011 04.07.2012 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_115/2024 E. 2.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_412/2010 22.02.2011 E. A",
+          "verdict": "reject"
+        },
+        {
+          "citation": "I 602/02 13.03.2003 E. 2.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "8C_166/2007 20.06.2007 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "I 264/01 06.02.2002 E. A",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_126/2013 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "8C_423/2007 18.03.2008 E. 3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_901/2017 E. A",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_387/2019 E. 2.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "I 192/01 29.01.2002 E. 1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_967/2008 05.01.2009 E. 2",
+          "verdict": "keep"
+        }
+      ],
+      "missing": [
+        "Art. 17 LAI"
+      ]
+    }
+  },
+  "val_003__r1": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 221 Abs. 1 StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 212 Abs. 3 StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 237 Abs. 1 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 221 Abs. 2 StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 36 Abs. 3 BV\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 95 BGG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 105 Abs. 2 BGG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 5 Abs. 2 StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 42 Abs. 2 BGG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 31 Abs. 3 BV\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 109 Abs. 3 BGG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 31 Abs. 4 BV\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 81 Abs. 1 BGG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 221 Abs. 1bis StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 140 Abs. 1 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"1P.677/2004 14.12.2004 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_285/2014 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_606/2011 16.11.2011 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_73/2015 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_585/2012 30.10.2012 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_200/2022 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_427/2014 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_83/2018 E. 2.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_234/2015 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_100/2018 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_406/2012 31.07.2012 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_87/2008 29.04.2008 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_6/2020 E. 2.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"7B_365/2024 E. 4.2.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_166/2016 E. 2.1\", \"verdict\": \"keep\"}\n  ],\n  \"missing\": []\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 221 Abs. 1 StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 212 Abs. 3 StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 237 Abs. 1 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 221 Abs. 2 StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 36 Abs. 3 BV",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 95 BGG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 105 Abs. 2 BGG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 5 Abs. 2 StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 42 Abs. 2 BGG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 31 Abs. 3 BV",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 109 Abs. 3 BGG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 31 Abs. 4 BV",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 81 Abs. 1 BGG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 221 Abs. 1bis StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 140 Abs. 1 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "1P.677/2004 14.12.2004 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_285/2014 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_606/2011 16.11.2011 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_73/2015 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_585/2012 30.10.2012 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_200/2022 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_427/2014 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_83/2018 E. 2.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_234/2015 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_100/2018 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_406/2012 31.07.2012 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_87/2008 29.04.2008 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_6/2020 E. 2.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "7B_365/2024 E. 4.2.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_166/2016 E. 2.1",
+          "verdict": "keep"
+        }
+      ],
+      "missing": []
+    }
+  },
+  "val_004__r1": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 8 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 7 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 18 Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 16 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 469 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 505 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 498 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 510 Abs. 1 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 559 Abs. 1 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 510 Abs. 2 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 467 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 520a ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 509 Abs. 1 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 509 Abs. 2 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 635 Abs. 1 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"5A_208/2019 E. 3.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 150 III 1 E. 3\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_133/2023 E. 3\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 124 III 406 E. 1a\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_647/2024 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"5C.153/2005 22.09.2005 E. 3\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_323/2013 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 129 III 580 E. 1.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_69/2019 E. 3.5\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 124 III 5 E. 1\", \"verdict\": \"keep\"},\n    {\"citation\": \"5C.258/2000 16.01.2001 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_723/2008 19.01.2009 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 133 I 259 E. 5.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_323/2013 E. 4\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_666/2024 E. 3.4.2\", \"verdict\": \"reject\"}\n  ],\n  \"missing\": [\n    \"Art. 506 ZGB\",\n    \"Art. 507 ZGB\",\n    \"Art. 508 ZGB\",\n    \"Art. 511 ZGB\",\n    \"Art. 512 ZGB\",\n    \"Art. 513 ZGB\",\n    \"Art. 514 ZGB\",\n    \"Art. 515 ZGB\",\n    \"Art. 516 ZGB\",\n    \"Art. 517 ZGB\",\n    \"Art. 518 ZGB\",\n    \"Art. 519 ZGB\",\n    \"Art. 520 ZGB\",\n    \"Art. 521 ZGB\",\n    \"Art. 522 ZGB\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 8 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 7 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 18 Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 16 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 469 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 505 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 498 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 510 Abs. 1 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 559 Abs. 1 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 510 Abs. 2 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 467 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 520a ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 509 Abs. 1 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 509 Abs. 2 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 635 Abs. 1 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "5A_208/2019 E. 3.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 150 III 1 E. 3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_133/2023 E. 3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 124 III 406 E. 1a",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_647/2024 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5C.153/2005 22.09.2005 E. 3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_323/2013 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 129 III 580 E. 1.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_69/2019 E. 3.5",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 124 III 5 E. 1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5C.258/2000 16.01.2001 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_723/2008 19.01.2009 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 133 I 259 E. 5.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_323/2013 E. 4",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_666/2024 E. 3.4.2",
+          "verdict": "reject"
+        }
+      ],
+      "missing": [
+        "Art. 506 ZGB",
+        "Art. 507 ZGB",
+        "Art. 508 ZGB",
+        "Art. 511 ZGB",
+        "Art. 512 ZGB",
+        "Art. 513 ZGB",
+        "Art. 514 ZGB",
+        "Art. 515 ZGB",
+        "Art. 516 ZGB",
+        "Art. 517 ZGB",
+        "Art. 518 ZGB",
+        "Art. 519 ZGB",
+        "Art. 520 ZGB",
+        "Art. 521 ZGB",
+        "Art. 522 ZGB"
+      ]
+    }
+  },
+  "val_005__r1": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 273 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 274 Abs. 2 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 273 Abs. 2 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 4 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 105 Abs. 1 BGG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 298 Abs. 2ter ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 308 Abs. 2 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 298b Abs. 3ter ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 307 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 296 Abs. 3 ZPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 440 Abs. 3 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 307 Abs. 3 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 133 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 315a Abs. 1 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 301a Abs. 1 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"5C.24/2003 10.03.2003 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_400/2023 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_38/2020 E. 2.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5C.158/2002 19.12.2002 E. 5\", \"verdict\": \"keep\"},\n    {\"citation\": \"5C.250/2005 03.01.2006 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_501/2022 E. 3.2.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"5C.71/2003 06.05.2003 E. B\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_560/2013 E. 3.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 130 III 585 E. 1\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_117/2007 11.10.2007 E. 6\", \"verdict\": \"keep\"},\n    {\"citation\": \"2C_27/2023 E. 4.4\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_299/2011 08.08.2011 E. 6\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_654/2019 E. 3.4.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_972/2023 E. 3.1.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"5C.46/2003 16.04.2003 E. 2\", \"verdict\": \"keep\"}\n  ],\n  \"missing\": [\n    \"Art. 275 ZGB\",\n    \"Art. 307 Abs. 2 ZGB\",\n    \"Art. 315 ZGB\",\n    \"Art. 316 ZGB\",\n    \"Art. 317 ZGB\",\n    \"Art. 318 ZGB\",\n    \"Art. 319 ZGB\",\n    \"Art. 320 ZGB\",\n    \"Art. 321 ZGB\",\n    \"Art. 322 ZGB\",\n    \"Art. 323 ZGB\",\n    \"Art. 324 ZGB\",\n    \"Art. 325 ZGB\",\n    \"Art. 326 ZGB\",\n    \"Art. 327 ZGB\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 273 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 274 Abs. 2 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 273 Abs. 2 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 4 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 105 Abs. 1 BGG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 298 Abs. 2ter ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 308 Abs. 2 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 298b Abs. 3ter ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 307 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 296 Abs. 3 ZPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 440 Abs. 3 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 307 Abs. 3 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 133 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 315a Abs. 1 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 301a Abs. 1 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "5C.24/2003 10.03.2003 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_400/2023 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_38/2020 E. 2.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5C.158/2002 19.12.2002 E. 5",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5C.250/2005 03.01.2006 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_501/2022 E. 3.2.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5C.71/2003 06.05.2003 E. B",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_560/2013 E. 3.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 130 III 585 E. 1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_117/2007 11.10.2007 E. 6",
+          "verdict": "keep"
+        },
+        {
+          "citation": "2C_27/2023 E. 4.4",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_299/2011 08.08.2011 E. 6",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_654/2019 E. 3.4.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_972/2023 E. 3.1.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5C.46/2003 16.04.2003 E. 2",
+          "verdict": "keep"
+        }
+      ],
+      "missing": [
+        "Art. 275 ZGB",
+        "Art. 307 Abs. 2 ZGB",
+        "Art. 315 ZGB",
+        "Art. 316 ZGB",
+        "Art. 317 ZGB",
+        "Art. 318 ZGB",
+        "Art. 319 ZGB",
+        "Art. 320 ZGB",
+        "Art. 321 ZGB",
+        "Art. 322 ZGB",
+        "Art. 323 ZGB",
+        "Art. 324 ZGB",
+        "Art. 325 ZGB",
+        "Art. 326 ZGB",
+        "Art. 327 ZGB"
+      ]
+    }
+  },
+  "val_006__r1": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 398 Abs. 2 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 398 Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 41 Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 321e Abs. 2 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 97 Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 58 Abs. 1 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 56 Abs. 1 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 222 Abs. 1 StGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 12 Abs. 3 StGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 6 Abs. 2 HVI\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 8 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 394 Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 321e Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 394 Abs. 3 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 9 BV\", \"verdict\": \"reject\"},\n    {\"citation\": \"4C.139/2005 29.03.2006 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"6B_1144/2023 E. 1.4.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 146 III 14 E. 5.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_299/2013 E. 5.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_404/2023 E. 5.1.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"7B_768/2023 E. 3.6.1\", \"verdict\": \"reject\"},\n    {\"citation\": \"BGE 135 III 198 E. 2.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_283/2023 E. 3.1.3\", \"verdict\": \"reject\"},\n    {\"citation\": \"4A_608/2017 E. 3.1.1\", \"verdict\": \"reject\"},\n    {\"citation\": \"4A_478/2023 E. 3.1.2\", \"verdict\": \"reject\"},\n    {\"citation\": \"4A_606/2017 E. 3.1.1\", \"verdict\": \"reject\"},\n    {\"citation\": \"4A_36/2019 E. 5.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_321/2015 E. 2.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_353/2020 E. 2.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 144 III 327 E. 4.2.2\", \"verdict\": \"keep\"}\n  ],\n  \"missing\": [\n    \"Art. 364 Abs. 1 OR\",\n    \"Art. 248 Abs. 1 OR\",\n    \"Art. 41 OR\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 398 Abs. 2 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 398 Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 41 Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 321e Abs. 2 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 97 Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 58 Abs. 1 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 56 Abs. 1 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 222 Abs. 1 StGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 12 Abs. 3 StGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 6 Abs. 2 HVI",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 8 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 394 Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 321e Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 394 Abs. 3 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 9 BV",
+          "verdict": "reject"
+        },
+        {
+          "citation": "4C.139/2005 29.03.2006 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6B_1144/2023 E. 1.4.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 146 III 14 E. 5.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_299/2013 E. 5.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_404/2023 E. 5.1.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "7B_768/2023 E. 3.6.1",
+          "verdict": "reject"
+        },
+        {
+          "citation": "BGE 135 III 198 E. 2.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_283/2023 E. 3.1.3",
+          "verdict": "reject"
+        },
+        {
+          "citation": "4A_608/2017 E. 3.1.1",
+          "verdict": "reject"
+        },
+        {
+          "citation": "4A_478/2023 E. 3.1.2",
+          "verdict": "reject"
+        },
+        {
+          "citation": "4A_606/2017 E. 3.1.1",
+          "verdict": "reject"
+        },
+        {
+          "citation": "4A_36/2019 E. 5.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_321/2015 E. 2.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_353/2020 E. 2.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 144 III 327 E. 4.2.2",
+          "verdict": "keep"
+        }
+      ],
+      "missing": [
+        "Art. 364 Abs. 1 OR",
+        "Art. 248 Abs. 1 OR",
+        "Art. 41 OR"
+      ]
+    }
+  },
+  "val_007__r1": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 8 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 494 Abs. 3 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 29 Abs. 2 BV\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 106 Abs. 2 BGG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 100 Abs. 1 IPRG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 509 Abs. 1 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 3 Abs. 2 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 626 Abs. 2 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 934 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 25 Abs. 1 WG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 940 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 26 Abs. 1 BV\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 933 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 245 Abs. 2 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 18 Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_575/2009 11.02.2010 E. 2\", \"verdict\": \"reject\"},\n    {\"citation\": \"4A_186/2019 E. 3.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_520/2023 E. 8.3\", \"verdict\": \"reject\"},\n    {\"citation\": \"4C.203/2002 30.10.2002 E. 2\", \"verdict\": \"reject\"},\n    {\"citation\": \"5A_520/2023 E. 8.1\", \"verdict\": \"reject\"},\n    {\"citation\": \"5A_44/2008 07.07.2008 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"6B_1003/2022 E. 1.4.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"6B_462/2014 E. 11.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_365/2024 E. 4\", \"verdict\": \"reject\"},\n    {\"citation\": \"6B_1068/2021 E. 2.4\", \"verdict\": \"reject\"},\n    {\"citation\": \"6P.153/2005 26.09.2006 E. 10\", \"verdict\": \"reject\"},\n    {\"citation\": \"BGE 127 III 390 E. 1971f\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_370/2013 E. A\", \"verdict\": \"reject\"},\n    {\"citation\": \"1A.187/2005 09.12.2005 E. 4.3.2\", \"verdict\": \"reject\"},\n    {\"citation\": \"4A_171/2023 E. 5.8\", \"verdict\": \"reject\"}\n  ],\n  \"missing\": [\n    \"Art. 4519 CPLR\",\n    \"Art. 936 ZGB\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 8 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 494 Abs. 3 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 29 Abs. 2 BV",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 106 Abs. 2 BGG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 100 Abs. 1 IPRG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 509 Abs. 1 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 3 Abs. 2 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 626 Abs. 2 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 934 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 25 Abs. 1 WG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 940 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 26 Abs. 1 BV",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 933 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 245 Abs. 2 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 18 Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_575/2009 11.02.2010 E. 2",
+          "verdict": "reject"
+        },
+        {
+          "citation": "4A_186/2019 E. 3.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_520/2023 E. 8.3",
+          "verdict": "reject"
+        },
+        {
+          "citation": "4C.203/2002 30.10.2002 E. 2",
+          "verdict": "reject"
+        },
+        {
+          "citation": "5A_520/2023 E. 8.1",
+          "verdict": "reject"
+        },
+        {
+          "citation": "5A_44/2008 07.07.2008 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6B_1003/2022 E. 1.4.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6B_462/2014 E. 11.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_365/2024 E. 4",
+          "verdict": "reject"
+        },
+        {
+          "citation": "6B_1068/2021 E. 2.4",
+          "verdict": "reject"
+        },
+        {
+          "citation": "6P.153/2005 26.09.2006 E. 10",
+          "verdict": "reject"
+        },
+        {
+          "citation": "BGE 127 III 390 E. 1971f",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_370/2013 E. A",
+          "verdict": "reject"
+        },
+        {
+          "citation": "1A.187/2005 09.12.2005 E. 4.3.2",
+          "verdict": "reject"
+        },
+        {
+          "citation": "4A_171/2023 E. 5.8",
+          "verdict": "reject"
+        }
+      ],
+      "missing": [
+        "Art. 4519 CPLR",
+        "Art. 936 ZGB"
+      ]
+    }
+  },
+  "val_008__r1": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 312 StGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 314 StGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 423 Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 322sexies StGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 9 BV\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 423 Abs. 2 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 647e Abs. 2 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 110 Abs. 3 StGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 29 Abs. 2 BV\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 7b BPDV\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 29 StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 735c OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 322novies Abs. 1 StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 44 WaG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 107 AVIG\", \"verdict\": \"reject\"},\n    {\"citation\": \"6P.28/2006 26.07.2006 E. 5\", \"verdict\": \"keep\"},\n    {\"citation\": \"6P.190/2006 30.05.2007 E. 5\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 135 IV 198 E. 6.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"6B_986/2017 E. 2.3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1C_395/2019 E. 3.2.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"6B_986/2017 E. 5.3\", \"verdict\": \"reject\"},\n    {\"citation\": \"1C_746/2021 E. 2.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"6B_252/2017 E. 3.1.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 144 I 242 E. 3.1.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"6B_1104/2022 E. 1.1.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 147 III 553 E. 4\", \"verdict\": \"reject\"},\n    {\"citation\": \"6B_748/2017 E. 3.2.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"6B_120/2022 E. B\", \"verdict\": \"reject\"},\n    {\"citation\": \"6B_343/2020 E. 5.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"7B_554/2023 E. 2.3\", \"verdict\": \"keep\"}\n  ],\n  \"missing\": [\n    \"Art. 165 Ziff. 1 StGB\",\n    \"Art. 322ter StGB\",\n    \"Art. 322quater StGB\",\n    \"Art. 322quinquies StGB\",\n    \"Art. 322sexies StGB\",\n    \"Art. 322septies StGB\",\n    \"Art. 322octies StGB\",\n    \"Art. 322nonies StGB\",\n    \"Art. 322decies StGB\",\n    \"Art. 322undecies StGB\",\n    \"Art. 322duodecies StGB\",\n    \"Art. 322tertias StGB\",\n    \"Art. 322quartas StGB\",\n    \"Art. 322quintas StGB\",\n    \"Art. 322sexies StGB\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 312 StGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 314 StGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 423 Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 322sexies StGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 9 BV",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 423 Abs. 2 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 647e Abs. 2 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 110 Abs. 3 StGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 29 Abs. 2 BV",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 7b BPDV",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 29 StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 735c OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 322novies Abs. 1 StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 44 WaG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 107 AVIG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "6P.28/2006 26.07.2006 E. 5",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6P.190/2006 30.05.2007 E. 5",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 135 IV 198 E. 6.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6B_986/2017 E. 2.3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1C_395/2019 E. 3.2.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6B_986/2017 E. 5.3",
+          "verdict": "reject"
+        },
+        {
+          "citation": "1C_746/2021 E. 2.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6B_252/2017 E. 3.1.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 144 I 242 E. 3.1.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6B_1104/2022 E. 1.1.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 147 III 553 E. 4",
+          "verdict": "reject"
+        },
+        {
+          "citation": "6B_748/2017 E. 3.2.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6B_120/2022 E. B",
+          "verdict": "reject"
+        },
+        {
+          "citation": "6B_343/2020 E. 5.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "7B_554/2023 E. 2.3",
+          "verdict": "keep"
+        }
+      ],
+      "missing": [
+        "Art. 165 Ziff. 1 StGB",
+        "Art. 322ter StGB",
+        "Art. 322quater StGB",
+        "Art. 322quinquies StGB",
+        "Art. 322sexies StGB",
+        "Art. 322septies StGB",
+        "Art. 322octies StGB",
+        "Art. 322nonies StGB",
+        "Art. 322decies StGB",
+        "Art. 322undecies StGB",
+        "Art. 322duodecies StGB",
+        "Art. 322tertias StGB",
+        "Art. 322quartas StGB",
+        "Art. 322quintas StGB",
+        "Art. 322sexies StGB"
+      ]
+    }
+  },
+  "val_009__r1": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 285 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 276 Abs. 2 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 276 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 277 Abs. 2 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 289 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 285a Abs. 3 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 285 Abs. 2 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 276 Abs. 3 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 276a Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 277 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 263 Abs. 1 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 177 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 291 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 145 V 154 E. 4.2.2.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_780/2022 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_743/2017 E. 5.4.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"5D_121/2009 30.11.2009 E. 6\", \"verdict\": \"reject\"},\n    {\"citation\": \"5A_336/2015 E. 4.3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 145 V 154 E. 4.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_109/2014 03.11.2014 E. 2\", \"verdict\": \"reject\"},\n    {\"citation\": \"5A_661/2012 17.01.2013 E. 4.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_90/2017 E. 3.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"8C_796/2018 E. 4.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_86/2013 E. 3.5\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_184/2015 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_90/2017 E. 8.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_507/2020 E. 7.4.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_20/2017 E. 4.2\", \"verdict\": \"keep\"}\n  ],\n  \"missing\": [\n    \"Art. 285a Abs. 2 ZGB\",\n    \"Art. 285 Abs. 3 ZGB\",\n    \"Art. 285b ZGB\",\n    \"Art. 286 ZGB\",\n    \"Art. 287 ZGB\",\n    \"Art. 288 ZGB\",\n    \"Art. 290 ZGB\",\n    \"Art. 292 ZGB\",\n    \"Art. 293 ZGB\",\n    \"Art. 294 ZGB\",\n    \"Art. 295 ZGB\",\n    \"Art. 296 ZGB\",\n    \"Art. 297 ZGB\",\n    \"Art. 298 ZGB\",\n    \"Art. 299 ZGB\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 285 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 276 Abs. 2 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 276 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 277 Abs. 2 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 289 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 285a Abs. 3 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 285 Abs. 2 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 276 Abs. 3 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 276a Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 277 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 263 Abs. 1 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 177 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 291 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 145 V 154 E. 4.2.2.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_780/2022 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_743/2017 E. 5.4.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5D_121/2009 30.11.2009 E. 6",
+          "verdict": "reject"
+        },
+        {
+          "citation": "5A_336/2015 E. 4.3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 145 V 154 E. 4.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_109/2014 03.11.2014 E. 2",
+          "verdict": "reject"
+        },
+        {
+          "citation": "5A_661/2012 17.01.2013 E. 4.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_90/2017 E. 3.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "8C_796/2018 E. 4.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_86/2013 E. 3.5",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_184/2015 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_90/2017 E. 8.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_507/2020 E. 7.4.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_20/2017 E. 4.2",
+          "verdict": "keep"
+        }
+      ],
+      "missing": [
+        "Art. 285a Abs. 2 ZGB",
+        "Art. 285 Abs. 3 ZGB",
+        "Art. 285b ZGB",
+        "Art. 286 ZGB",
+        "Art. 287 ZGB",
+        "Art. 288 ZGB",
+        "Art. 290 ZGB",
+        "Art. 292 ZGB",
+        "Art. 293 ZGB",
+        "Art. 294 ZGB",
+        "Art. 295 ZGB",
+        "Art. 296 ZGB",
+        "Art. 297 ZGB",
+        "Art. 298 ZGB",
+        "Art. 299 ZGB"
+      ]
+    }
+  },
+  "val_010__r1": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 97 Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 7 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 755 Abs. 1 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 42 Abs. 5 BGG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 84 Abs. 2 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 4 Abs. 3 IQG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 285 Abs. 4 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 105 Abs. 1 BGG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 292 StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 100 Abs. 2 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 146 Abs. 1 StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 716 Abs. 2 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 754 Abs. 1 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 111 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 717 Abs. 1 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"4A_76/2025 E. 2.1.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_361/2024 18.06.2025 E. 9.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_539/2021 E. 7.1.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"6B_74/2011 13.09.2011 E. 2.4\", \"verdict\": \"reject\"},\n    {\"citation\": \"BGE 135 III 198 E. 2.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_119/2018 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_679/2016 E. B\", \"verdict\": \"reject\"},\n    {\"citation\": \"BGE 146 III 387 E. 6.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"7B_947/2024 E. A\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_577/2024 E. 11.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_361/2024 18.06.2025 E. 10.1.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1P.843/2005 19.12.2006 E. 1\", \"verdict\": \"reject\"},\n    {\"citation\": \"4C.81/2002 01.07.2002 E. 2\", \"verdict\": \"reject\"},\n    {\"citation\": \"1P.687/2006 19.12.2006 E. 1\", \"verdict\": \"reject\"},\n    {\"citation\": \"4A_76/2025 E. 5.2\", \"verdict\": \"keep\"}\n  ],\n  \"missing\": [\n    \"Art. 97 Abs. 1 OR\",\n    \"Art. 42 Abs. 5 BGG\",\n    \"Art. 84 Abs. 2 OR\",\n    \"Art. 4 Abs. 3 IQG\",\n    \"Art. 100 Abs. 2 OR\",\n    \"BGE 135 III 198 E. 2.3\",\n    \"BGE 146 III 387 E. 6.2\",\n    \"4A_76/2025 E. 2.1.2\",\n    \"4A_361/2024 18.06.2025 E. 9.1\",\n    \"4A_539/2021 E. 7.1.1\",\n    \"4A_119/2018 E. 3.1\",\n    \"7B_947/2024 E. A\",\n    \"4A_577/2024 E. 11.1\",\n    \"4A_361/2024 18.06.2025 E. 10.1.1\",\n    \"4A_76/2025 E. 5.2\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 97 Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 7 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 755 Abs. 1 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 42 Abs. 5 BGG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 84 Abs. 2 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 4 Abs. 3 IQG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 285 Abs. 4 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 105 Abs. 1 BGG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 292 StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 100 Abs. 2 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 146 Abs. 1 StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 716 Abs. 2 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 754 Abs. 1 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 111 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 717 Abs. 1 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "4A_76/2025 E. 2.1.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_361/2024 18.06.2025 E. 9.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_539/2021 E. 7.1.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6B_74/2011 13.09.2011 E. 2.4",
+          "verdict": "reject"
+        },
+        {
+          "citation": "BGE 135 III 198 E. 2.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_119/2018 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_679/2016 E. B",
+          "verdict": "reject"
+        },
+        {
+          "citation": "BGE 146 III 387 E. 6.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "7B_947/2024 E. A",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_577/2024 E. 11.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_361/2024 18.06.2025 E. 10.1.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1P.843/2005 19.12.2006 E. 1",
+          "verdict": "reject"
+        },
+        {
+          "citation": "4C.81/2002 01.07.2002 E. 2",
+          "verdict": "reject"
+        },
+        {
+          "citation": "1P.687/2006 19.12.2006 E. 1",
+          "verdict": "reject"
+        },
+        {
+          "citation": "4A_76/2025 E. 5.2",
+          "verdict": "keep"
+        }
+      ],
+      "missing": [
+        "Art. 97 Abs. 1 OR",
+        "Art. 42 Abs. 5 BGG",
+        "Art. 84 Abs. 2 OR",
+        "Art. 4 Abs. 3 IQG",
+        "Art. 100 Abs. 2 OR",
+        "BGE 135 III 198 E. 2.3",
+        "BGE 146 III 387 E. 6.2",
+        "4A_76/2025 E. 2.1.2",
+        "4A_361/2024 18.06.2025 E. 9.1",
+        "4A_539/2021 E. 7.1.1",
+        "4A_119/2018 E. 3.1",
+        "7B_947/2024 E. A",
+        "4A_577/2024 E. 11.1",
+        "4A_361/2024 18.06.2025 E. 10.1.1",
+        "4A_76/2025 E. 5.2"
+      ]
+    }
+  },
+  "val_001__r2": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 212 Abs. 3 StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 227 Abs. 7 StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 221 Abs. 1 StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 36 Abs. 3 BV\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_18/2022 E. 7\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_6/2019 E. 6.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_461/2020 E. 7\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_285/2014 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_44/2021 E. 4.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_442/2022 E. 5.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"7B_910/2025 E. B\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_585/2012 30.10.2012 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_406/2012 31.07.2012 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_354/2021 E. 3\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_334/2018 E. 6.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_200/2022 E. 4.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_386/2022 E. 6.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 221 Abs. 1 lit. b StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 227 Abs. 6 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 197 Abs. 1 lit. c StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 233 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 10 Abs. 2 BV\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 130 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 57 Abs. 1 VStrR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 221 Abs. 1bis StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 62 Abs. 4 StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 99 Abs. 1 VStrR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 220 Abs. 2 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 180 Abs. 1 StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 27 Abs. 2 JStPO\", \"verdict\": \"reject\"}\n  ],\n  \"missing\": [\n    \"Art. 221 Abs. 1 lit. b StPO\",\n    \"Art. 227 Abs. 7 StPO\",\n    \"Art. 36 Abs. 3 BV\",\n    \"Art. 212 Abs. 3 StPO\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 212 Abs. 3 StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 227 Abs. 7 StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 221 Abs. 1 StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 36 Abs. 3 BV",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_18/2022 E. 7",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_6/2019 E. 6.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_461/2020 E. 7",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_285/2014 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_44/2021 E. 4.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_442/2022 E. 5.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "7B_910/2025 E. B",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_585/2012 30.10.2012 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_406/2012 31.07.2012 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_354/2021 E. 3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_334/2018 E. 6.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_200/2022 E. 4.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_386/2022 E. 6.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 221 Abs. 1 lit. b StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 227 Abs. 6 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 197 Abs. 1 lit. c StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 233 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 10 Abs. 2 BV",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 130 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 57 Abs. 1 VStrR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 221 Abs. 1bis StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 62 Abs. 4 StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 99 Abs. 1 VStrR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 220 Abs. 2 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 180 Abs. 1 StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 27 Abs. 2 JStPO",
+          "verdict": "reject"
+        }
+      ],
+      "missing": [
+        "Art. 221 Abs. 1 lit. b StPO",
+        "Art. 227 Abs. 7 StPO",
+        "Art. 36 Abs. 3 BV",
+        "Art. 212 Abs. 3 StPO"
+      ]
+    }
+  },
+  "val_002__r2": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 23 BVG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 8 Abs. 1 ATSG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 6 ATSG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 12 Abs. 1 IVG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 5 Abs. 2 IVG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 28 Abs. 1 IVG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 16 ATSG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 7 Abs. 1 ATSG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 19 Abs. 1 UVG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 88a Abs. 1 IVV\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 8 Abs. 1 IVG\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_928/2008 03.03.2009 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_124/2008 16.01.2009 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_12/2009 29.05.2009 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_868/2011 04.07.2012 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_115/2024 E. 2.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"I 602/02 13.03.2003 E. 2.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"8C_166/2007 20.06.2007 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"I 264/01 06.02.2002 E. A\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_126/2013 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"8C_423/2007 18.03.2008 E. 3\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_901/2017 E. A\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_387/2019 E. 2.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"I 192/01 29.01.2002 E. 1\", \"verdict\": \"keep\"},\n    {\"citation\": \"9C_967/2008 05.01.2009 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 17 LAI\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 97 Abs. 1 BGG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 8 Abs. 2 ATSG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 26 Abs. 3 BVG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 17 Abs. 1 ATSG\", \"verdict\": \"reject\"}\n  ],\n  \"missing\": [\n    \"Art. 17 LAI\",\n    \"Art. 12 Abs. 2 IVG\",\n    \"Art. 18 UVG\",\n    \"Art. 20 UVG\",\n    \"Art. 21 UVG\",\n    \"Art. 22 UVG\",\n    \"Art. 24 BVG\",\n    \"Art. 25 BVG\",\n    \"Art. 27 BVG\",\n    \"Art. 29 BVG\",\n    \"Art. 30 BVG\",\n    \"Art. 31 BVG\",\n    \"Art. 32 BVG\",\n    \"Art. 33 BVG\",\n    \"Art. 34 BVG\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 23 BVG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 8 Abs. 1 ATSG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 6 ATSG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 12 Abs. 1 IVG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 5 Abs. 2 IVG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 28 Abs. 1 IVG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 16 ATSG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 7 Abs. 1 ATSG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 19 Abs. 1 UVG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 88a Abs. 1 IVV",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 8 Abs. 1 IVG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_928/2008 03.03.2009 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_124/2008 16.01.2009 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_12/2009 29.05.2009 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_868/2011 04.07.2012 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_115/2024 E. 2.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "I 602/02 13.03.2003 E. 2.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "8C_166/2007 20.06.2007 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "I 264/01 06.02.2002 E. A",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_126/2013 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "8C_423/2007 18.03.2008 E. 3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_901/2017 E. A",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_387/2019 E. 2.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "I 192/01 29.01.2002 E. 1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "9C_967/2008 05.01.2009 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 17 LAI",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 97 Abs. 1 BGG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 8 Abs. 2 ATSG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 26 Abs. 3 BVG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 17 Abs. 1 ATSG",
+          "verdict": "reject"
+        }
+      ],
+      "missing": [
+        "Art. 17 LAI",
+        "Art. 12 Abs. 2 IVG",
+        "Art. 18 UVG",
+        "Art. 20 UVG",
+        "Art. 21 UVG",
+        "Art. 22 UVG",
+        "Art. 24 BVG",
+        "Art. 25 BVG",
+        "Art. 27 BVG",
+        "Art. 29 BVG",
+        "Art. 30 BVG",
+        "Art. 31 BVG",
+        "Art. 32 BVG",
+        "Art. 33 BVG",
+        "Art. 34 BVG"
+      ]
+    }
+  },
+  "val_003__r2": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 221 Abs. 1 StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 212 Abs. 3 StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 221 Abs. 2 StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 36 Abs. 3 BV\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 95 BGG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 105 Abs. 2 BGG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 5 Abs. 2 StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 42 Abs. 2 BGG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 31 Abs. 3 BV\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 109 Abs. 3 BGG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 31 Abs. 4 BV\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 81 Abs. 1 BGG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 221 Abs. 1bis StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"1P.677/2004 14.12.2004 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_285/2014 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_606/2011 16.11.2011 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_73/2015 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_585/2012 30.10.2012 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_200/2022 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_427/2014 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_83/2018 E. 2.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_234/2015 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_100/2018 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_406/2012 31.07.2012 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_87/2008 29.04.2008 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_6/2020 E. 2.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"7B_365/2024 E. 4.2.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1B_166/2016 E. 2.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 431 Abs. 2 StPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 56 Abs. 1 MStP\", \"verdict\": \"keep\"}\n  ],\n  \"missing\": []\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 221 Abs. 1 StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 212 Abs. 3 StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 221 Abs. 2 StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 36 Abs. 3 BV",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 95 BGG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 105 Abs. 2 BGG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 5 Abs. 2 StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 42 Abs. 2 BGG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 31 Abs. 3 BV",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 109 Abs. 3 BGG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 31 Abs. 4 BV",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 81 Abs. 1 BGG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 221 Abs. 1bis StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1P.677/2004 14.12.2004 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_285/2014 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_606/2011 16.11.2011 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_73/2015 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_585/2012 30.10.2012 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_200/2022 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_427/2014 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_83/2018 E. 2.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_234/2015 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_100/2018 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_406/2012 31.07.2012 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_87/2008 29.04.2008 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_6/2020 E. 2.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "7B_365/2024 E. 4.2.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1B_166/2016 E. 2.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 431 Abs. 2 StPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 56 Abs. 1 MStP",
+          "verdict": "keep"
+        }
+      ],
+      "missing": []
+    }
+  },
+  "val_004__r2": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 8 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 18 Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 16 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 469 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 505 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 498 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 467 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 520a ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_208/2019 E. 3.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 150 III 1 E. 3\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_133/2023 E. 3\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 124 III 406 E. 1a\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_647/2024 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"5C.153/2005 22.09.2005 E. 3\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_323/2013 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 129 III 580 E. 1.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_69/2019 E. 3.5\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 124 III 5 E. 1\", \"verdict\": \"keep\"},\n    {\"citation\": \"5C.258/2000 16.01.2001 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_723/2008 19.01.2009 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 133 I 259 E. 5.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_323/2013 E. 4\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 506 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 507 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 508 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 511 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 512 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 513 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 514 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 515 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 516 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 517 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 518 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 519 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 520 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 521 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 522 ZGB\", \"verdict\": \"reject\"}\n  ],\n  \"missing\": [\n    \"Art. 509 ZGB\",\n    \"Art. 510 ZGB\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 8 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 18 Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 16 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 469 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 505 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 498 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 467 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 520a ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_208/2019 E. 3.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 150 III 1 E. 3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_133/2023 E. 3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 124 III 406 E. 1a",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_647/2024 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5C.153/2005 22.09.2005 E. 3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_323/2013 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 129 III 580 E. 1.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_69/2019 E. 3.5",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 124 III 5 E. 1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5C.258/2000 16.01.2001 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_723/2008 19.01.2009 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 133 I 259 E. 5.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_323/2013 E. 4",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 506 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 507 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 508 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 511 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 512 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 513 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 514 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 515 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 516 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 517 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 518 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 519 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 520 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 521 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 522 ZGB",
+          "verdict": "reject"
+        }
+      ],
+      "missing": [
+        "Art. 509 ZGB",
+        "Art. 510 ZGB"
+      ]
+    }
+  },
+  "val_005__r2": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 273 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 274 Abs. 2 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 273 Abs. 2 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 4 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 307 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 296 Abs. 3 ZPO\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 307 Abs. 3 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 133 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"5C.24/2003 10.03.2003 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_400/2023 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_38/2020 E. 2.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5C.158/2002 19.12.2002 E. 5\", \"verdict\": \"keep\"},\n    {\"citation\": \"5C.250/2005 03.01.2006 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_501/2022 E. 3.2.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"5C.71/2003 06.05.2003 E. B\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_560/2013 E. 3.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 130 III 585 E. 1\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_117/2007 11.10.2007 E. 6\", \"verdict\": \"keep\"},\n    {\"citation\": \"2C_27/2023 E. 4.4\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_299/2011 08.08.2011 E. 6\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_654/2019 E. 3.4.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_972/2023 E. 3.1.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"5C.46/2003 16.04.2003 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 275 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 307 Abs. 2 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 315 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 316 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 317 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 318 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 319 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 320 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 321 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 322 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 323 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 324 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 325 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 326 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 327 ZGB\", \"verdict\": \"reject\"}\n  ],\n  \"missing\": [\n    \"Art. 276 ZGB\",\n    \"Art. 277 ZGB\",\n    \"Art. 278 ZGB\",\n    \"Art. 279 ZGB\",\n    \"Art. 280 ZGB\",\n    \"Art. 281 ZGB\",\n    \"Art. 282 ZGB\",\n    \"Art. 283 ZGB\",\n    \"Art. 284 ZGB\",\n    \"Art. 285 ZGB\",\n    \"Art. 286 ZGB\",\n    \"Art. 287 ZGB\",\n    \"Art. 288 ZGB\",\n    \"Art. 289 ZGB\",\n    \"Art. 290 ZGB\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 273 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 274 Abs. 2 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 273 Abs. 2 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 4 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 307 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 296 Abs. 3 ZPO",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 307 Abs. 3 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 133 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5C.24/2003 10.03.2003 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_400/2023 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_38/2020 E. 2.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5C.158/2002 19.12.2002 E. 5",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5C.250/2005 03.01.2006 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_501/2022 E. 3.2.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5C.71/2003 06.05.2003 E. B",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_560/2013 E. 3.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 130 III 585 E. 1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_117/2007 11.10.2007 E. 6",
+          "verdict": "keep"
+        },
+        {
+          "citation": "2C_27/2023 E. 4.4",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_299/2011 08.08.2011 E. 6",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_654/2019 E. 3.4.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_972/2023 E. 3.1.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5C.46/2003 16.04.2003 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 275 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 307 Abs. 2 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 315 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 316 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 317 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 318 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 319 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 320 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 321 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 322 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 323 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 324 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 325 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 326 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 327 ZGB",
+          "verdict": "reject"
+        }
+      ],
+      "missing": [
+        "Art. 276 ZGB",
+        "Art. 277 ZGB",
+        "Art. 278 ZGB",
+        "Art. 279 ZGB",
+        "Art. 280 ZGB",
+        "Art. 281 ZGB",
+        "Art. 282 ZGB",
+        "Art. 283 ZGB",
+        "Art. 284 ZGB",
+        "Art. 285 ZGB",
+        "Art. 286 ZGB",
+        "Art. 287 ZGB",
+        "Art. 288 ZGB",
+        "Art. 289 ZGB",
+        "Art. 290 ZGB"
+      ]
+    }
+  },
+  "val_006__r2": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 398 Abs. 2 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 398 Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 41 Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 321e Abs. 2 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 97 Abs. 1 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 222 Abs. 1 StGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 12 Abs. 3 StGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 394 Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 321e Abs. 1 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"4C.139/2005 29.03.2006 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"6B_1144/2023 E. 1.4.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 146 III 14 E. 5.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_299/2013 E. 5.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_404/2023 E. 5.1.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 135 III 198 E. 2.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_36/2019 E. 5.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_321/2015 E. 2.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_353/2020 E. 2.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 144 III 327 E. 4.2.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 364 Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 248 Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 41 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 55 Abs. 1 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 25 Abs. 1 ChemG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 61 Abs. 1 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 221 Abs. 1 StGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 105 Abs. 1 BGG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 7 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 42 Abs. 2 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 41 Abs. 2 OR\", \"verdict\": \"reject\"}\n  ],\n  \"missing\": [\n    \"Art. 364 Abs. 1 OR\",\n    \"Art. 248 Abs. 1 OR\",\n    \"Art. 41 OR\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 398 Abs. 2 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 398 Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 41 Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 321e Abs. 2 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 97 Abs. 1 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 222 Abs. 1 StGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 12 Abs. 3 StGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 394 Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 321e Abs. 1 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "4C.139/2005 29.03.2006 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6B_1144/2023 E. 1.4.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 146 III 14 E. 5.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_299/2013 E. 5.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_404/2023 E. 5.1.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 135 III 198 E. 2.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_36/2019 E. 5.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_321/2015 E. 2.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_353/2020 E. 2.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 144 III 327 E. 4.2.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 364 Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 248 Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 41 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 55 Abs. 1 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 25 Abs. 1 ChemG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 61 Abs. 1 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 221 Abs. 1 StGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 105 Abs. 1 BGG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 7 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 42 Abs. 2 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 41 Abs. 2 OR",
+          "verdict": "reject"
+        }
+      ],
+      "missing": [
+        "Art. 364 Abs. 1 OR",
+        "Art. 248 Abs. 1 OR",
+        "Art. 41 OR"
+      ]
+    }
+  },
+  "val_007__r2": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 8 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 494 Abs. 3 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 100 Abs. 1 IPRG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 3 Abs. 2 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 934 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 940 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 933 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 245 Abs. 2 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 18 Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_186/2019 E. 3.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_44/2008 07.07.2008 E. 2\", \"verdict\": \"keep\"},\n    {\"citation\": \"6B_1003/2022 E. 1.4.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"6B_462/2014 E. 11.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 127 III 390 E. 1971f\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 4519 CPLR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 936 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 512 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 105 Abs. 1 BGG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 157 ZPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 103 IPRG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 4 KMG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 12 WG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 5 Abs. 2 WG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 5 Abs. 1 WG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 86 Abs. 1 IPRG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 100 Abs. 2 IPRG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 936 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 936 Abs. 2 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 141 Abs. 1 StPO\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 147 Abs. 4 StPO\", \"verdict\": \"reject\"}\n  ],\n  \"missing\": [\n    \"Art. 100 Abs. 1 IPRG\",\n    \"Art. 934 ZGB\",\n    \"Art. 936 ZGB\",\n    \"Art. 933 ZGB\",\n    \"Art. 494 Abs. 3 ZGB\",\n    \"Art. 245 Abs. 2 OR\",\n    \"Art. 18 Abs. 1 OR\",\n    \"Art. 4519 CPLR\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 8 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 494 Abs. 3 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 100 Abs. 1 IPRG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 3 Abs. 2 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 934 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 940 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 933 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 245 Abs. 2 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 18 Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_186/2019 E. 3.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_44/2008 07.07.2008 E. 2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6B_1003/2022 E. 1.4.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6B_462/2014 E. 11.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 127 III 390 E. 1971f",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 4519 CPLR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 936 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 512 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 105 Abs. 1 BGG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 157 ZPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 103 IPRG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 4 KMG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 12 WG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 5 Abs. 2 WG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 5 Abs. 1 WG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 86 Abs. 1 IPRG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 100 Abs. 2 IPRG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 936 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 936 Abs. 2 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 141 Abs. 1 StPO",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 147 Abs. 4 StPO",
+          "verdict": "reject"
+        }
+      ],
+      "missing": [
+        "Art. 100 Abs. 1 IPRG",
+        "Art. 934 ZGB",
+        "Art. 936 ZGB",
+        "Art. 933 ZGB",
+        "Art. 494 Abs. 3 ZGB",
+        "Art. 245 Abs. 2 OR",
+        "Art. 18 Abs. 1 OR",
+        "Art. 4519 CPLR"
+      ]
+    }
+  },
+  "val_008__r2": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 312 StGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 314 StGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 423 Abs. 1 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 322sexies StGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 9 BV\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 423 Abs. 2 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 110 Abs. 3 StGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 29 Abs. 2 BV\", \"verdict\": \"reject\"},\n    {\"citation\": \"6P.28/2006 26.07.2006 E. 5\", \"verdict\": \"keep\"},\n    {\"citation\": \"6P.190/2006 30.05.2007 E. 5\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 135 IV 198 E. 6.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"6B_986/2017 E. 2.3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"1C_395/2019 E. 3.2.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"1C_746/2021 E. 2.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"6B_252/2017 E. 3.1.1\", \"verdict\": \"reject\"},\n    {\"citation\": \"BGE 144 I 242 E. 3.1.1\", \"verdict\": \"reject\"},\n    {\"citation\": \"6B_1104/2022 E. 1.1.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"6B_748/2017 E. 3.2.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"6B_343/2020 E. 5.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"7B_554/2023 E. 2.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 165 Ziff. 1 StGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 322ter StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 322quater StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 322quinquies StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 322septies StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 322octies StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 322nonies StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 322decies StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 322undecies StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 322duodecies StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 322tertias StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 322quartas StGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 322quintas StGB\", \"verdict\": \"reject\"}\n  ],\n  \"missing\": [\n    \"Art. 322quinties StGB\",\n    \"Art. 322sexties StGB\",\n    \"Art. 322septies StGB\",\n    \"Art. 322octies StGB\",\n    \"Art. 322nonies StGB\",\n    \"Art. 322decies StGB\",\n    \"Art. 322undecies StGB\",\n    \"Art. 322duodecies StGB\",\n    \"Art. 322tertias StGB\",\n    \"Art. 322quartas StGB\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 312 StGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 314 StGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 423 Abs. 1 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 322sexies StGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 9 BV",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 423 Abs. 2 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 110 Abs. 3 StGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 29 Abs. 2 BV",
+          "verdict": "reject"
+        },
+        {
+          "citation": "6P.28/2006 26.07.2006 E. 5",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6P.190/2006 30.05.2007 E. 5",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 135 IV 198 E. 6.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6B_986/2017 E. 2.3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1C_395/2019 E. 3.2.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "1C_746/2021 E. 2.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6B_252/2017 E. 3.1.1",
+          "verdict": "reject"
+        },
+        {
+          "citation": "BGE 144 I 242 E. 3.1.1",
+          "verdict": "reject"
+        },
+        {
+          "citation": "6B_1104/2022 E. 1.1.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6B_748/2017 E. 3.2.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "6B_343/2020 E. 5.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "7B_554/2023 E. 2.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 165 Ziff. 1 StGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 322ter StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 322quater StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 322quinquies StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 322septies StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 322octies StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 322nonies StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 322decies StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 322undecies StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 322duodecies StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 322tertias StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 322quartas StGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 322quintas StGB",
+          "verdict": "reject"
+        }
+      ],
+      "missing": [
+        "Art. 322quinties StGB",
+        "Art. 322sexties StGB",
+        "Art. 322septies StGB",
+        "Art. 322octies StGB",
+        "Art. 322nonies StGB",
+        "Art. 322decies StGB",
+        "Art. 322undecies StGB",
+        "Art. 322duodecies StGB",
+        "Art. 322tertias StGB",
+        "Art. 322quartas StGB"
+      ]
+    }
+  },
+  "val_009__r2": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 285 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 276 Abs. 2 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 276 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 277 Abs. 2 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 289 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 285a Abs. 3 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 285 Abs. 2 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 276 Abs. 3 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 276a Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 277 Abs. 1 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 177 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 291 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 145 V 154 E. 4.2.2.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_780/2022 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_743/2017 E. 5.4.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_336/2015 E. 4.3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 145 V 154 E. 4.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_661/2012 17.01.2013 E. 4.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_90/2017 E. 3.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"8C_796/2018 E. 4.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_86/2013 E. 3.5\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_184/2015 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_90/2017 E. 8.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_507/2020 E. 7.4.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"5A_20/2017 E. 4.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 285 Abs. 3 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 285b ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 286 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 287 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 288 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 290 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 292 ZGB\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 293 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 294 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 295 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 296 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 297 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 298 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 299 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 71 Abs. 3 StGB\", \"verdict\": \"reject\"}\n  ],\n  \"missing\": [\n    \"Art. 285a Abs. 2 ZGB\",\n    \"Art. 285b Abs. 1 ZGB\",\n    \"BGE 116 II 110 E. 3c\",\n    \"BGE 145 V 154 E. 4.2.2.2\",\n    \"BGE 145 V 154 E. 4.3\",\n    \"BGE 145 V 154 E. 4.3.1\",\n    \"BGE 145 V 154 E. 5.4.3\",\n    \"BGE 145 V 154 E. 7.4.2\",\n    \"BGE 145 V 154 E. 8.2\",\n    \"BGE 145 V 154 E. 3.5\",\n    \"BGE 145 V 154 E. 3.1\",\n    \"BGE 145 V 154 E. 4.2\",\n    \"BGE 145 V 154 E. 5.4.3\",\n    \"BGE 145 V 154 E. 4.3.1\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 285 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 276 Abs. 2 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 276 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 277 Abs. 2 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 289 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 285a Abs. 3 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 285 Abs. 2 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 276 Abs. 3 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 276a Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 277 Abs. 1 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 177 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 291 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 145 V 154 E. 4.2.2.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_780/2022 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_743/2017 E. 5.4.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_336/2015 E. 4.3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 145 V 154 E. 4.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_661/2012 17.01.2013 E. 4.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_90/2017 E. 3.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "8C_796/2018 E. 4.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_86/2013 E. 3.5",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_184/2015 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_90/2017 E. 8.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_507/2020 E. 7.4.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "5A_20/2017 E. 4.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 285 Abs. 3 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 285b ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 286 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 287 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 288 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 290 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 292 ZGB",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 293 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 294 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 295 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 296 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 297 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 298 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 299 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 71 Abs. 3 StGB",
+          "verdict": "reject"
+        }
+      ],
+      "missing": [
+        "Art. 285a Abs. 2 ZGB",
+        "Art. 285b Abs. 1 ZGB",
+        "BGE 116 II 110 E. 3c",
+        "BGE 145 V 154 E. 4.2.2.2",
+        "BGE 145 V 154 E. 4.3",
+        "BGE 145 V 154 E. 4.3.1",
+        "BGE 145 V 154 E. 5.4.3",
+        "BGE 145 V 154 E. 7.4.2",
+        "BGE 145 V 154 E. 8.2",
+        "BGE 145 V 154 E. 3.5",
+        "BGE 145 V 154 E. 3.1",
+        "BGE 145 V 154 E. 4.2",
+        "BGE 145 V 154 E. 5.4.3",
+        "BGE 145 V 154 E. 4.3.1"
+      ]
+    }
+  },
+  "val_010__r2": {
+    "raw": "{\n  \"verdicts\": [\n    {\"citation\": \"Art. 97 Abs. 1 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 42 Abs. 5 BGG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 84 Abs. 2 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 4 Abs. 3 IQG\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 100 Abs. 2 OR\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_76/2025 E. 2.1.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_361/2024 18.06.2025 E. 9.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_539/2021 E. 7.1.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 135 III 198 E. 2.3\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_119/2018 E. 3.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"BGE 146 III 387 E. 6.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"7B_947/2024 E. A\", \"verdict\": \"reject\"},\n    {\"citation\": \"4A_577/2024 E. 11.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_361/2024 18.06.2025 E. 10.1.1\", \"verdict\": \"keep\"},\n    {\"citation\": \"4A_76/2025 E. 5.2\", \"verdict\": \"keep\"},\n    {\"citation\": \"Art. 106 Abs. 1 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 97 Abs. 1 BGG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 13 KG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 4 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 44 Abs. 1 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 2 Abs. 1 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 62 Abs. 1 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 29 Abs. 1 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 725 Abs. 2 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 373 Abs. 2 OR\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 52 Abs. 1 AHVG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 52 Abs. 3 AHVG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 14 Abs. 1 AHVG\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 61a Abs. 1 BIV-FINMA\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 8 ZGB\", \"verdict\": \"reject\"},\n    {\"citation\": \"Art. 12 OR\", \"verdict\": \"uncertain\"}\n  ],\n  \"missing\": [\n    \"Art. 97 Abs. 1 ZGB\",\n    \"Art. 398 Abs. 1 ZGB\",\n    \"Art. 41 Abs. 1 OR\",\n    \"Art. 426 Abs. 1 ZGB\",\n    \"Art. 12 OR\",\n    \"Art. 13 OR\",\n    \"Art. 15 OR\",\n    \"Art. 16 OR\",\n    \"Art. 17 OR\",\n    \"Art. 18 OR\",\n    \"Art. 19 OR\",\n    \"Art. 20 OR\",\n    \"Art. 21 OR\",\n    \"Art. 22 OR\",\n    \"Art. 23 OR\"\n  ]\n}",
+    "parsed": {
+      "verdicts": [
+        {
+          "citation": "Art. 97 Abs. 1 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 42 Abs. 5 BGG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 84 Abs. 2 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 4 Abs. 3 IQG",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 100 Abs. 2 OR",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_76/2025 E. 2.1.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_361/2024 18.06.2025 E. 9.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_539/2021 E. 7.1.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 135 III 198 E. 2.3",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_119/2018 E. 3.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "BGE 146 III 387 E. 6.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "7B_947/2024 E. A",
+          "verdict": "reject"
+        },
+        {
+          "citation": "4A_577/2024 E. 11.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_361/2024 18.06.2025 E. 10.1.1",
+          "verdict": "keep"
+        },
+        {
+          "citation": "4A_76/2025 E. 5.2",
+          "verdict": "keep"
+        },
+        {
+          "citation": "Art. 106 Abs. 1 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 97 Abs. 1 BGG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 13 KG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 4 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 44 Abs. 1 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 2 Abs. 1 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 62 Abs. 1 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 29 Abs. 1 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 725 Abs. 2 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 373 Abs. 2 OR",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 52 Abs. 1 AHVG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 52 Abs. 3 AHVG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 14 Abs. 1 AHVG",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 61a Abs. 1 BIV-FINMA",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 8 ZGB",
+          "verdict": "reject"
+        },
+        {
+          "citation": "Art. 12 OR",
+          "verdict": "uncertain"
+        }
+      ],
+      "missing": [
+        "Art. 97 Abs. 1 ZGB",
+        "Art. 398 Abs. 1 ZGB",
+        "Art. 41 Abs. 1 OR",
+        "Art. 426 Abs. 1 ZGB",
+        "Art. 12 OR",
+        "Art. 13 OR",
+        "Art. 15 OR",
+        "Art. 16 OR",
+        "Art. 17 OR",
+        "Art. 18 OR",
+        "Art. 19 OR",
+        "Art. 20 OR",
+        "Art. 21 OR",
+        "Art. 22 OR",
+        "Art. 23 OR"
+      ]
+    }
+  }
+}

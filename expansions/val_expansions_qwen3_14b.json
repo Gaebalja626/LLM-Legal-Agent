@@ -1,0 +1,355 @@
+{
+  "val_001": {
+    "raw": "{\n  \"legal_areas\": [\"Strafverfahrensrecht\", \"Verfassungsrecht\", \"Menschenrechte\"],\n  \"law_codes\": [\"StPO\", \"StGB\", \"BV\"],\n  \"keywords_de\": [\"Vorverhängnis\", \"Proportionalitysprinzip\", \"Verhältnismässigkeit\", \"Beweissicherung\", \"Zeugenbeeinflussung\", \"Wiederholungstäter\", \"Anklageerhebung\", \"Ermittlungsverfahren\", \"Freiheitsentziehung\", \"Vollzugsdauer\"],\n  \"hyde\": \"Die Frage, ob ein Gericht gemäß Art. 221 Abs. 1 lit. b StPO eine Verlängerung der vorverhängnislichen Untersuchungshaft um drei Monate rechtmässig erteilen kann, hängt von der Beurteilung des konkreten Risikos der Zeugenbeeinflussung oder Beweisverfälschung sowie der Verhältnismässigkeit der Massnahme ab. Laut der Anklage wurde der Beschuldigte am 18. Oktober 2024 bis 15. Januar 2025 in Untersuchungshaft genommen, und der Staatsanwalt beantragte am 10. Dezember 2024 eine Verlängerung, da ein konkretes Risiko besteht, dass der Beschuldigte Zeugen beeinflusst oder Beweise verfälscht. Der Beschuldigte widerspricht dieser Verlängerung, da die meisten Zeugen bereits befragt wurden und die noch ausstehenden Ermittlungen technischer Natur sind (z. B. Auswertung von Mobilfunkdaten, CCTV-Bildern und Bankverläufen). Zudem hat die angeklagte Person die Anzeige zurückgenommen. Das Gericht muss prüfen, ob das Risiko der Zeugenbeeinflussung oder Beweisverfälschung konkret und unmittelbar besteht und ob die Verlängerung der Untersuchungshaft im Verhältnis zum Ermittlungsstand und den Rechten des Beschuldigten verhältnismässig ist. Gemäss Art. 221 Abs. 1 lit. b StPO ist eine Verlängerung nur zulässig, wenn ein konkretes Risiko besteht, das die Ermittlungen erheblich beeinträchtigen könnte. Die Verhältnismässigkeit ist nach Art. 10 BV zu prüfen, wobei die Dauer der Untersuchungshaft und die Schwere der Tat berücksichtigt werden müssen. In diesem Fall könnte die Verlängerung um drei Monate unverhältnismässig sein, da die Ermittlungen weitgehend abgeschlossen sind und die Risiken nicht mehr akut sind.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Strafverfahrensrecht",
+        "Verfassungsrecht",
+        "Menschenrechte"
+      ],
+      "law_codes": [
+        "StPO",
+        "StGB",
+        "BV"
+      ],
+      "keywords_de": [
+        "Vorverhängnis",
+        "Proportionalitysprinzip",
+        "Verhältnismässigkeit",
+        "Beweissicherung",
+        "Zeugenbeeinflussung",
+        "Wiederholungstäter",
+        "Anklageerhebung",
+        "Ermittlungsverfahren",
+        "Freiheitsentziehung",
+        "Vollzugsdauer"
+      ],
+      "hyde": "Die Frage, ob ein Gericht gemäß Art. 221 Abs. 1 lit. b StPO eine Verlängerung der vorverhängnislichen Untersuchungshaft um drei Monate rechtmässig erteilen kann, hängt von der Beurteilung des konkreten Risikos der Zeugenbeeinflussung oder Beweisverfälschung sowie der Verhältnismässigkeit der Massnahme ab. Laut der Anklage wurde der Beschuldigte am 18. Oktober 2024 bis 15. Januar 2025 in Untersuchungshaft genommen, und der Staatsanwalt beantragte am 10. Dezember 2024 eine Verlängerung, da ein konkretes Risiko besteht, dass der Beschuldigte Zeugen beeinflusst oder Beweise verfälscht. Der Beschuldigte widerspricht dieser Verlängerung, da die meisten Zeugen bereits befragt wurden und die noch ausstehenden Ermittlungen technischer Natur sind (z. B. Auswertung von Mobilfunkdaten, CCTV-Bildern und Bankverläufen). Zudem hat die angeklagte Person die Anzeige zurückgenommen. Das Gericht muss prüfen, ob das Risiko der Zeugenbeeinflussung oder Beweisverfälschung konkret und unmittelbar besteht und ob die Verlängerung der Untersuchungshaft im Verhältnis zum Ermittlungsstand und den Rechten des Beschuldigten verhältnismässig ist. Gemäss Art. 221 Abs. 1 lit. b StPO ist eine Verlängerung nur zulässig, wenn ein konkretes Risiko besteht, das die Ermittlungen erheblich beeinträchtigen könnte. Die Verhältnismässigkeit ist nach Art. 10 BV zu prüfen, wobei die Dauer der Untersuchungshaft und die Schwere der Tat berücksichtigt werden müssen. In diesem Fall könnte die Verlängerung um drei Monate unverhältnismässig sein, da die Ermittlungen weitgehend abgeschlossen sind und die Risiken nicht mehr akut sind."
+    }
+  },
+  "val_002": {
+    "raw": "{\n  \"legal_areas\": [\"Invaliditätsversicherung\", \"Arbeitsrecht\", \"Sozialversicherungsrecht\", \"Medizinrecht\"],\n  \"law_codes\": [\"LAI\", \"SVG\", \"StGB\", \"OR\", \"ZGB\", \"BGG\"],\n  \"keywords_de\": [\"Invaliditätsversicherung\", \"Vorsorgeleistungen\", \"Arbeitsunfähigkeit\", \"Einkommensverlust\", \"Vocational Rehabilitation\", \"Medizinische Gutachten\", \"Einschränkung der Arbeitsfähigkeit\", \"LAI Art. 17\", \"SVG Art. 12\", \"Arbeitsvertrag\", \"Gesundheitszustand\", \"Allergie\", \"Berufsgenossenschaft\", \"Einschätzung der Arbeitsfähigkeit\", \"Therapeutische Optionen\"],\n  \"hyde\": \"Die Frage, ob der Versicherte gemäß Art. 17 LAI Anspruch auf eine berufliche Reha-Massnahme und auf Invaliditätsversicherungsleistungen hat, hängt von der Beurteilung seiner Arbeitsfähigkeit ab. Obwohl der berufliche Pulmonologe am 15. April 2023 eine volle Arbeitsfähigkeit festgestellt hat, weisen die ärztlichen Notizen des Hausarztes vom 12. Februar und 3. März 2024 auf eine vollständige Arbeitsunfähigkeit im üblichen Beruf als Lagerist hin, wobei eine angepasste Tätigkeit ohne Exposition gegenüber Staub, Pollen und Schimmelpilzen möglich sei. Diese medizinischen Gutachten sind von zentraler Bedeutung, da sie die Einschränkung der Arbeitsfähigkeit und die Notwendigkeit einer Anpassung der Arbeitsbedingungen belegen. Zudem ist festzustellen, dass die therapeutischen Optionen, wie Allergenimmuntherapie, noch nicht vollständig ausgeschöpft wurden. Gemäß der Rechtsprechung des Bundesgerichts ist ein Anspruch auf Invaliditätsleistungen gegeben, wenn eine Einkommensverlust von etwa 20 % vorliegt. In diesem Fall könnte eine Reduktion der Arbeitsfähigkeit aufgrund der Allergiebedingungen und der Notwendigkeit einer speziellen Arbeitsumgebung als Grundlage für eine Leistungsberechtigung dienen. Die LAI Art. 17 sieht eine Pflicht zur Berufsförderung vor, wenn eine Arbeitsunfähigkeit besteht. Die Berücksichtigung der medizinischen Gutachten und der therapeutischen Möglichkeiten ist entscheidend für die Beurteilung der Reha-Massnahme und der Invaliditätsleistungen.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Invaliditätsversicherung",
+        "Arbeitsrecht",
+        "Sozialversicherungsrecht",
+        "Medizinrecht"
+      ],
+      "law_codes": [
+        "LAI",
+        "SVG",
+        "StGB",
+        "OR",
+        "ZGB",
+        "BGG"
+      ],
+      "keywords_de": [
+        "Invaliditätsversicherung",
+        "Vorsorgeleistungen",
+        "Arbeitsunfähigkeit",
+        "Einkommensverlust",
+        "Vocational Rehabilitation",
+        "Medizinische Gutachten",
+        "Einschränkung der Arbeitsfähigkeit",
+        "LAI Art. 17",
+        "SVG Art. 12",
+        "Arbeitsvertrag",
+        "Gesundheitszustand",
+        "Allergie",
+        "Berufsgenossenschaft",
+        "Einschätzung der Arbeitsfähigkeit",
+        "Therapeutische Optionen"
+      ],
+      "hyde": "Die Frage, ob der Versicherte gemäß Art. 17 LAI Anspruch auf eine berufliche Reha-Massnahme und auf Invaliditätsversicherungsleistungen hat, hängt von der Beurteilung seiner Arbeitsfähigkeit ab. Obwohl der berufliche Pulmonologe am 15. April 2023 eine volle Arbeitsfähigkeit festgestellt hat, weisen die ärztlichen Notizen des Hausarztes vom 12. Februar und 3. März 2024 auf eine vollständige Arbeitsunfähigkeit im üblichen Beruf als Lagerist hin, wobei eine angepasste Tätigkeit ohne Exposition gegenüber Staub, Pollen und Schimmelpilzen möglich sei. Diese medizinischen Gutachten sind von zentraler Bedeutung, da sie die Einschränkung der Arbeitsfähigkeit und die Notwendigkeit einer Anpassung der Arbeitsbedingungen belegen. Zudem ist festzustellen, dass die therapeutischen Optionen, wie Allergenimmuntherapie, noch nicht vollständig ausgeschöpft wurden. Gemäß der Rechtsprechung des Bundesgerichts ist ein Anspruch auf Invaliditätsleistungen gegeben, wenn eine Einkommensverlust von etwa 20 % vorliegt. In diesem Fall könnte eine Reduktion der Arbeitsfähigkeit aufgrund der Allergiebedingungen und der Notwendigkeit einer speziellen Arbeitsumgebung als Grundlage für eine Leistungsberechtigung dienen. Die LAI Art. 17 sieht eine Pflicht zur Berufsförderung vor, wenn eine Arbeitsunfähigkeit besteht. Die Berücksichtigung der medizinischen Gutachten und der therapeutischen Möglichkeiten ist entscheidend für die Beurteilung der Reha-Massnahme und der Invaliditätsleistungen."
+    }
+  },
+  "val_003": {
+    "raw": "{\n  \"legal_areas\": [\"Strafverfahrensrecht\", \"Strafrecht\", \"Verfassungsrecht\"],\n  \"law_codes\": [\"StPO\", \"StGB\", \"BGG\"],\n  \"keywords_de\": [\"Vorwurf der Fluchtgefahr\", \"Vorwurf der Fluchtgefahr\", \"Vorwurf der Fluchtgefahr\", \"Vorwurf der Fluchtgefahr\", \"Vorwurf der Fluchtgefahr\", \"Vorwurf der Fluchtgefahr\", \"Vorwurf der Fluchtgefahr\", \"Vorwurf der Fluchtgefahr\", \"Vorwurf der Fluchtgefahr\", \"Vorwurf der Fluchtgefahr\", \"Vorwurf der Fluchtgefahr\", \"Vorwurf der Fluchtgefahr\", \"Vorwurf der Fluchtgefahr\", \"Vorwurf der Fluchtgefahr\", \"Vorwurf der Fluchtgefahr\"],\n  \"hyde\": \"Die Frage der Rechtmäßigkeit der Verlängerung der vorprozessualen Untersuchungshaft bis zum 1. Dezember 2024 unter Berücksichtigung der Voraussetzungen des § 221 Abs. 1 StPO erfordert eine sorgfältige Prüfung der gesetzlichen Vorgaben. Nach § 221 Abs. 1 StPO ist die Untersuchungshaft nur zulässig, wenn eine hinreichende Verdachtsgrundlage besteht und eine rechtmäßige Flucht-, Zusammenwirkungs- oder Wiederholungsgefahr besteht. In diesem Fall ist zu prüfen, ob die Beweismittel, insbesondere Videoaufnahmen, Zeugenaussagen und andere Materialien, eine hinreichende Verdachtsgrundlage bilden, um die Anforderungen des § 221 Abs. 1 StPO zu erfüllen. Zudem ist zu prüfen, ob die Verlängerung der Untersuchungshaft den Grundsatz der Unschuld bis zum Beweis (Präsumtion der Unschuld) respektiert und ob der Beschuldigte angemessen Gelegenheit hatte, sich gegen die Maßnahme zu verteidigen. Die Verletzung des Rechts auf Anhörung könnte die Rechtmäßigkeit der Untersuchungshaft in Frage stellen, insbesondere wenn der Beschuldigte nicht ausreichend Gelegenheit hatte, die Beweismittel zu prüfen und seine Verteidigung zu gestalten. Die Begründung der Verlängerung muss daher klar und vollständig sein, um dem Beschuldigten die Möglichkeit zu geben, die Maßnahme effektiv anzugreifen.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Strafverfahrensrecht",
+        "Strafrecht",
+        "Verfassungsrecht"
+      ],
+      "law_codes": [
+        "StPO",
+        "StGB",
+        "BGG"
+      ],
+      "keywords_de": [
+        "Vorwurf der Fluchtgefahr",
+        "Vorwurf der Fluchtgefahr",
+        "Vorwurf der Fluchtgefahr",
+        "Vorwurf der Fluchtgefahr",
+        "Vorwurf der Fluchtgefahr",
+        "Vorwurf der Fluchtgefahr",
+        "Vorwurf der Fluchtgefahr",
+        "Vorwurf der Fluchtgefahr",
+        "Vorwurf der Fluchtgefahr",
+        "Vorwurf der Fluchtgefahr",
+        "Vorwurf der Fluchtgefahr",
+        "Vorwurf der Fluchtgefahr",
+        "Vorwurf der Fluchtgefahr",
+        "Vorwurf der Fluchtgefahr",
+        "Vorwurf der Fluchtgefahr"
+      ],
+      "hyde": "Die Frage der Rechtmäßigkeit der Verlängerung der vorprozessualen Untersuchungshaft bis zum 1. Dezember 2024 unter Berücksichtigung der Voraussetzungen des § 221 Abs. 1 StPO erfordert eine sorgfältige Prüfung der gesetzlichen Vorgaben. Nach § 221 Abs. 1 StPO ist die Untersuchungshaft nur zulässig, wenn eine hinreichende Verdachtsgrundlage besteht und eine rechtmäßige Flucht-, Zusammenwirkungs- oder Wiederholungsgefahr besteht. In diesem Fall ist zu prüfen, ob die Beweismittel, insbesondere Videoaufnahmen, Zeugenaussagen und andere Materialien, eine hinreichende Verdachtsgrundlage bilden, um die Anforderungen des § 221 Abs. 1 StPO zu erfüllen. Zudem ist zu prüfen, ob die Verlängerung der Untersuchungshaft den Grundsatz der Unschuld bis zum Beweis (Präsumtion der Unschuld) respektiert und ob der Beschuldigte angemessen Gelegenheit hatte, sich gegen die Maßnahme zu verteidigen. Die Verletzung des Rechts auf Anhörung könnte die Rechtmäßigkeit der Untersuchungshaft in Frage stellen, insbesondere wenn der Beschuldigte nicht ausreichend Gelegenheit hatte, die Beweismittel zu prüfen und seine Verteidigung zu gestalten. Die Begründung der Verlängerung muss daher klar und vollständig sein, um dem Beschuldigten die Möglichkeit zu geben, die Maßnahme effektiv anzugreifen."
+    }
+  },
+  "val_004": {
+    "raw": "{\n  \"legal_areas\": [\"Erbrecht\", \"Zivilrecht\", \"Testamentsrecht\"],\n  \"law_codes\": [\"ZGB\", \"StGB\", \"OR\"],\n  \"keywords_de\": [\"Testament\", \"Handschriftliches Testament\", \"Erbfolge\", \"Testamentsfähigkeit\", \"ZGB 577\", \"ZGB 578\", \"ZGB 579\", \"ZGB 580\", \"ZGB 581\", \"ZGB 582\", \"ZGB 583\", \"ZGB 584\", \"ZGB 585\", \"ZGB 586\", \"ZGB 587\"],\n  \"hyde\": \"Gemäß Artikel 577 ZGB ist ein handschriftliches Testament (holographisches Testament) rechtsgültig, wenn es von dem Erblasser selbst handschriftlich verfasst und unterschrieben wird. Die Frage, ob das Testament von Mr. Dalton selbst verfasst wurde, ist entscheidend. Sollte der Verdacht bestehen, dass Teile des Textes von Dritten hinzugefügt wurden, könnte dies die Gültigkeit des Testaments in Frage stellen, da die Handschrift des Erblassers als ungestörte und vollständige Erklärung vorausgesetzt wird (vgl. ZGB 578).\\n\\nDie Testamentsfähigkeit des Erblassers ist nach ZGB 579 Voraussetzung für die Gültigkeit eines Testaments. Allerdings reichen Zweifel an der Sprachkenntnis oder dem Vokabular des Erblassers allein nicht aus, um die Testamentsfähigkeit zu bestreiten. Es muss nachgewiesen werden, dass der Erblasser nicht in der Lage war, die rechtlichen Begriffe wie „bequeath“ oder „legatee“ zu verstehen oder zu verwenden, was in der Praxis schwerwiegend zu beweisen ist (ZGB 580).\\n\\nDie Erbfolge nach ZGB 581–587 regelt, dass ein Testament, das die gesetzliche Erbfolge verändert, nur gültig ist, wenn es die formalen Anforderungen erfüllt. Die Erblasserseitigen, wie die Halbgeschwister und der Cousin, können nur im Falle einer Ungültigkeit des Testaments Ansprüche geltend machen. Da die Zweifel an der Sprachkenntnis des Erblassers nicht ausreichen, um die Gültigkeit des Testaments zu bestreiten, ist es wahrscheinlich, dass das Testament als gültig anerkannt wird, es sei denn, es liegen konkrete Beweise für eine Manipulation oder eine fehlende Testamentsfähigkeit vor.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Erbrecht",
+        "Zivilrecht",
+        "Testamentsrecht"
+      ],
+      "law_codes": [
+        "ZGB",
+        "StGB",
+        "OR"
+      ],
+      "keywords_de": [
+        "Testament",
+        "Handschriftliches Testament",
+        "Erbfolge",
+        "Testamentsfähigkeit",
+        "ZGB 577",
+        "ZGB 578",
+        "ZGB 579",
+        "ZGB 580",
+        "ZGB 581",
+        "ZGB 582",
+        "ZGB 583",
+        "ZGB 584",
+        "ZGB 585",
+        "ZGB 586",
+        "ZGB 587"
+      ],
+      "hyde": "Gemäß Artikel 577 ZGB ist ein handschriftliches Testament (holographisches Testament) rechtsgültig, wenn es von dem Erblasser selbst handschriftlich verfasst und unterschrieben wird. Die Frage, ob das Testament von Mr. Dalton selbst verfasst wurde, ist entscheidend. Sollte der Verdacht bestehen, dass Teile des Textes von Dritten hinzugefügt wurden, könnte dies die Gültigkeit des Testaments in Frage stellen, da die Handschrift des Erblassers als ungestörte und vollständige Erklärung vorausgesetzt wird (vgl. ZGB 578).\n\nDie Testamentsfähigkeit des Erblassers ist nach ZGB 579 Voraussetzung für die Gültigkeit eines Testaments. Allerdings reichen Zweifel an der Sprachkenntnis oder dem Vokabular des Erblassers allein nicht aus, um die Testamentsfähigkeit zu bestreiten. Es muss nachgewiesen werden, dass der Erblasser nicht in der Lage war, die rechtlichen Begriffe wie „bequeath“ oder „legatee“ zu verstehen oder zu verwenden, was in der Praxis schwerwiegend zu beweisen ist (ZGB 580).\n\nDie Erbfolge nach ZGB 581–587 regelt, dass ein Testament, das die gesetzliche Erbfolge verändert, nur gültig ist, wenn es die formalen Anforderungen erfüllt. Die Erblasserseitigen, wie die Halbgeschwister und der Cousin, können nur im Falle einer Ungültigkeit des Testaments Ansprüche geltend machen. Da die Zweifel an der Sprachkenntnis des Erblassers nicht ausreichen, um die Gültigkeit des Testaments zu bestreiten, ist es wahrscheinlich, dass das Testament als gültig anerkannt wird, es sei denn, es liegen konkrete Beweise für eine Manipulation oder eine fehlende Testamentsfähigkeit vor."
+    }
+  },
+  "val_005": {
+    "raw": "{\n  \"legal_areas\": [\"Familienrecht\", \"Strafverfahrensrecht\", \"Kindeswohl\"],\n  \"law_codes\": [\"ZGB\", \"StPO\", \"BGG\", \"OR\", \"StGB\", \"IPRG\", \"DBG\"],\n  \"keywords_de\": [\"Kindeswohlprinzip\", \"Besuchsrecht\", \"Vaterschaftsrecht\", \"Strafverfahren\", \"Ex officio\", \"Kindeswohlbericht\", \"Besuchsüberwachung\", \"Alkoholabhängigkeit\", \"Psychiatrische Gutachten\", \"Vollzugsmaßnahmen\", \"Besuchsbeschränkung\", \"Kindesunterhalt\", \"Familienamt\", \"Besuchsrechtsgestaltung\", \"Vollzugsverbot\"],\n  \"hyde\": \"Im Rahmen der Beurteilung der Frage, ob der zivilrechtliche Richter das Besuchsrecht des Elternteils vorübergehend oder dauerhaft einschränken kann, ist das Kindeswohlprinzip (ZGB Art. 338) zentral. Das Kindeswohlprinzip verpflichtet den Richter, ex officio zu handeln und die Interessen des Kindes zu berücksichtigen. Angesichts der Vorwürfe sexuell inadäquater Berührung, der Alkoholabhängigkeit und der laufenden strafrechtlichen Ermittlungen, einschließlich einer psychiatrischen Gutachten, ist eine sorgfältige Prüfung der Fakten erforderlich. Der Richter muss die relevanten Beweise sammeln, einschließlich der Ergebnisse des psychiatrischen Gutachtens, der Berichte des Familienamts und der Aussagen der Beteiligten. Eine dauerhafte Einschränkung des Besuchsrechts kann nur auf der Grundlage einer umfassenden Beweiswürdigung erfolgen, wobei die Notwendigkeit einer Besuchsüberwachung oder einer Begleitung durch einen Dritten berücksichtigt werden muss. Die vorläufige Einschränkung des Nachtsbesuchs ist unter Berücksichtigung der laufenden Ermittlungen und der Empfehlung des Familienamts gerechtfertigt. Die definitive Einschränkung erfordert jedoch eine vollständige Aufklärung der Fakten, insbesondere der psychischen und strafrechtlichen Umstände, sowie eine Bewertung der Risiken für das Kindeswohl. Der Richter muss sicherstellen, dass alle relevanten Beweise vorliegen, bevor eine endgültige Entscheidung getroffen wird.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Familienrecht",
+        "Strafverfahrensrecht",
+        "Kindeswohl"
+      ],
+      "law_codes": [
+        "ZGB",
+        "StPO",
+        "BGG",
+        "OR",
+        "StGB",
+        "IPRG",
+        "DBG"
+      ],
+      "keywords_de": [
+        "Kindeswohlprinzip",
+        "Besuchsrecht",
+        "Vaterschaftsrecht",
+        "Strafverfahren",
+        "Ex officio",
+        "Kindeswohlbericht",
+        "Besuchsüberwachung",
+        "Alkoholabhängigkeit",
+        "Psychiatrische Gutachten",
+        "Vollzugsmaßnahmen",
+        "Besuchsbeschränkung",
+        "Kindesunterhalt",
+        "Familienamt",
+        "Besuchsrechtsgestaltung",
+        "Vollzugsverbot"
+      ],
+      "hyde": "Im Rahmen der Beurteilung der Frage, ob der zivilrechtliche Richter das Besuchsrecht des Elternteils vorübergehend oder dauerhaft einschränken kann, ist das Kindeswohlprinzip (ZGB Art. 338) zentral. Das Kindeswohlprinzip verpflichtet den Richter, ex officio zu handeln und die Interessen des Kindes zu berücksichtigen. Angesichts der Vorwürfe sexuell inadäquater Berührung, der Alkoholabhängigkeit und der laufenden strafrechtlichen Ermittlungen, einschließlich einer psychiatrischen Gutachten, ist eine sorgfältige Prüfung der Fakten erforderlich. Der Richter muss die relevanten Beweise sammeln, einschließlich der Ergebnisse des psychiatrischen Gutachtens, der Berichte des Familienamts und der Aussagen der Beteiligten. Eine dauerhafte Einschränkung des Besuchsrechts kann nur auf der Grundlage einer umfassenden Beweiswürdigung erfolgen, wobei die Notwendigkeit einer Besuchsüberwachung oder einer Begleitung durch einen Dritten berücksichtigt werden muss. Die vorläufige Einschränkung des Nachtsbesuchs ist unter Berücksichtigung der laufenden Ermittlungen und der Empfehlung des Familienamts gerechtfertigt. Die definitive Einschränkung erfordert jedoch eine vollständige Aufklärung der Fakten, insbesondere der psychischen und strafrechtlichen Umstände, sowie eine Bewertung der Risiken für das Kindeswohl. Der Richter muss sicherstellen, dass alle relevanten Beweise vorliegen, bevor eine endgültige Entscheidung getroffen wird."
+    }
+  },
+  "val_006": {
+    "raw": "{\n  \"legal_areas\": [\"Obligationenrecht\", \"Schadensersatzrecht\", \"Vertragsrecht\", \"Zivilrecht\", \"Haftungsrecht\"],\n  \"law_codes\": [\"OR\", \"ZGB\", \"StGB\", \"BGG\", \"IPRG\"],\n  \"keywords_de\": [\"Vertragsgestaltung\", \"Gewährleistungspflicht\", \"Schadensersatz\", \"Gewerbeberechtigung\", \"Objektivstandard\", \"Art. 364 Abs. 1 OR\", \"Art. 248 Abs. 1 OR\", \"Art. 41 OR\", \"Gewährungspflicht\", \"Haftung ohne Vertrag\", \"Gefährdungshaftung\", \"Gewerbeordnung\", \"Schadensersatzanspruch\", \"Gewährleistungspflichten\"],\n  \"hyde\": \"Die Haftung von G für den entstandenen Schaden hängt von der Frage ab, ob ein vertraglicher oder außervertraglicher Haftungsanspruch besteht. Da G die Aufgabe freiwillig und ohne Entgelt übernommen hat, könnte dies als ein \\\"Gefälligkeitsdienst\\\" im Sinne von Art. 248 Abs. 1 OR angesehen werden. Allerdings könnte auch eine vertragliche Pflicht entstanden sein, wenn Ms. L und Mr. M G mit der Aufgabe beauftragt haben, was eine vertragliche Leistungspflicht begründet. In diesem Fall wäre die Haftung unter Art. 364 Abs. 1 OR zu prüfen, der eine objektive Pflicht zur Sorgfalt vorsieht. Gs Verhalten, insbesondere das Fehlen der notwendigen Gewerbeberechtigung, die Verwendung von Funkenwerfenden Geräten und das Fehlen einer ordnungsgemäßen Entgasung, könnte als Verstoß gegen den objektiven Sorgfaltsstandard angesehen werden. Sollte G als Gefälligkeitsdienst betrachtet werden, könnte die Haftung unter Art. 41 OR analog angewandt werden, wobei der Sorgfaltsstandard ebenfalls relevant ist. Die Verantwortung für den Schaden könnte daher sowohl auf vertraglicher als auch auf außervertraglicher Grundlage bestehen, abhängig davon, ob ein vertraglicher Anspruch besteht oder nicht. In jedem Fall ist die Verletzung des objektiven Sorgfaltsstandards entscheidend für die Haftung.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Obligationenrecht",
+        "Schadensersatzrecht",
+        "Vertragsrecht",
+        "Zivilrecht",
+        "Haftungsrecht"
+      ],
+      "law_codes": [
+        "OR",
+        "ZGB",
+        "StGB",
+        "BGG",
+        "IPRG"
+      ],
+      "keywords_de": [
+        "Vertragsgestaltung",
+        "Gewährleistungspflicht",
+        "Schadensersatz",
+        "Gewerbeberechtigung",
+        "Objektivstandard",
+        "Art. 364 Abs. 1 OR",
+        "Art. 248 Abs. 1 OR",
+        "Art. 41 OR",
+        "Gewährungspflicht",
+        "Haftung ohne Vertrag",
+        "Gefährdungshaftung",
+        "Gewerbeordnung",
+        "Schadensersatzanspruch",
+        "Gewährleistungspflichten"
+      ],
+      "hyde": "Die Haftung von G für den entstandenen Schaden hängt von der Frage ab, ob ein vertraglicher oder außervertraglicher Haftungsanspruch besteht. Da G die Aufgabe freiwillig und ohne Entgelt übernommen hat, könnte dies als ein \"Gefälligkeitsdienst\" im Sinne von Art. 248 Abs. 1 OR angesehen werden. Allerdings könnte auch eine vertragliche Pflicht entstanden sein, wenn Ms. L und Mr. M G mit der Aufgabe beauftragt haben, was eine vertragliche Leistungspflicht begründet. In diesem Fall wäre die Haftung unter Art. 364 Abs. 1 OR zu prüfen, der eine objektive Pflicht zur Sorgfalt vorsieht. Gs Verhalten, insbesondere das Fehlen der notwendigen Gewerbeberechtigung, die Verwendung von Funkenwerfenden Geräten und das Fehlen einer ordnungsgemäßen Entgasung, könnte als Verstoß gegen den objektiven Sorgfaltsstandard angesehen werden. Sollte G als Gefälligkeitsdienst betrachtet werden, könnte die Haftung unter Art. 41 OR analog angewandt werden, wobei der Sorgfaltsstandard ebenfalls relevant ist. Die Verantwortung für den Schaden könnte daher sowohl auf vertraglicher als auch auf außervertraglicher Grundlage bestehen, abhängig davon, ob ein vertraglicher Anspruch besteht oder nicht. In jedem Fall ist die Verletzung des objektiven Sorgfaltsstandards entscheidend für die Haftung."
+    }
+  },
+  "val_007": {
+    "raw": "{\n  \"legal_areas\": [\n    \"Erbrecht\",\n    \"Sachenrecht\",\n    \"Zivilprozessrecht\",\n    \"Schuldrecht\",\n    \"Handelsgesetzbuch\",\n    \"Internationales Privatrecht\"\n  ],\n  \"law_codes\": [\n    \"ZGB\",\n    \"StGB\",\n    \"StPO\",\n    \"BGG\",\n    \"IPRG\",\n    \"OR\",\n    \"BV\"\n  ],\n  \"keywords_de\": [\n    \"Geschenksgeschenk\",\n    \"Donative Absicht\",\n    \"Übergabe\",\n    \"Annahme\",\n    \"Testamentarische Fahrlässigkeit\",\n    \"Zustimmungsfähigkeit\",\n    \"Gegenstandslosigkeit\",\n    \"Photokopie\",\n    \"Beweiswürdigkeit\",\n    \"Gutgläubigkeit\",\n    \"Schuldrechtliche Verantwortung\",\n    \"Zustimmungsfähigkeit\",\n    \"Erbfolge\",\n    \"Sachenrechtliche Übertragung\",\n    \"Handelsgesetzbuch\"\n  ],\n  \"hyde\": \"Die Frage, ob das inter vivos-Geschenk von Ms. Barnes an Mr. Collins unter New Yorker Recht gültig ist, hängt von der Erfüllung der erforderlichen Elemente ab: donative Absicht, Übergabe und Annahme. Die fehlende Originalurkunde und die fragliche Authentizität der Photokopie können die Beweiswürdigkeit des Geschenks untergraben. Zudem könnte die fehlende exklusive physische Kontrolle durch Mr. Collins die Übergabe in Frage stellen. Unter Schweizer Recht sind die Beweismittel, insbesondere die Photokopie, unter Berücksichtigung der Beweisregeln (Art. 286 ZPO) zu beurteilen. Die Aussage von Mr. Collins unter dem Dead Man’s Statute (Art. 4519 CPLR) ist in Schweizer Verfahren nicht zulässig. Sollte das Geschenk als ungültig erachtet werden, könnte Alpine Trading AG als professioneller Käufer unter Art. 934 ZGB und Art. 936 ZGB zur Rückgabe des Objekts verpflichtet sein, sofern die Gutgläubigkeit nicht nachgewiesen werden kann. Die Verantwortung des Käufers hängt von der Kenntnisnahme der Rechtsmängel ab, wobei die Verpflichtung zur Prüfung der Rechtslage unter Schweizer Recht streng ist.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Erbrecht",
+        "Sachenrecht",
+        "Zivilprozessrecht",
+        "Schuldrecht",
+        "Handelsgesetzbuch",
+        "Internationales Privatrecht"
+      ],
+      "law_codes": [
+        "ZGB",
+        "StGB",
+        "StPO",
+        "BGG",
+        "IPRG",
+        "OR",
+        "BV"
+      ],
+      "keywords_de": [
+        "Geschenksgeschenk",
+        "Donative Absicht",
+        "Übergabe",
+        "Annahme",
+        "Testamentarische Fahrlässigkeit",
+        "Zustimmungsfähigkeit",
+        "Gegenstandslosigkeit",
+        "Photokopie",
+        "Beweiswürdigkeit",
+        "Gutgläubigkeit",
+        "Schuldrechtliche Verantwortung",
+        "Zustimmungsfähigkeit",
+        "Erbfolge",
+        "Sachenrechtliche Übertragung",
+        "Handelsgesetzbuch"
+      ],
+      "hyde": "Die Frage, ob das inter vivos-Geschenk von Ms. Barnes an Mr. Collins unter New Yorker Recht gültig ist, hängt von der Erfüllung der erforderlichen Elemente ab: donative Absicht, Übergabe und Annahme. Die fehlende Originalurkunde und die fragliche Authentizität der Photokopie können die Beweiswürdigkeit des Geschenks untergraben. Zudem könnte die fehlende exklusive physische Kontrolle durch Mr. Collins die Übergabe in Frage stellen. Unter Schweizer Recht sind die Beweismittel, insbesondere die Photokopie, unter Berücksichtigung der Beweisregeln (Art. 286 ZPO) zu beurteilen. Die Aussage von Mr. Collins unter dem Dead Man’s Statute (Art. 4519 CPLR) ist in Schweizer Verfahren nicht zulässig. Sollte das Geschenk als ungültig erachtet werden, könnte Alpine Trading AG als professioneller Käufer unter Art. 934 ZGB und Art. 936 ZGB zur Rückgabe des Objekts verpflichtet sein, sofern die Gutgläubigkeit nicht nachgewiesen werden kann. Die Verantwortung des Käufers hängt von der Kenntnisnahme der Rechtsmängel ab, wobei die Verpflichtung zur Prüfung der Rechtslage unter Schweizer Recht streng ist."
+    }
+  },
+  "val_008": {
+    "raw": "{\n  \"legal_areas\": [\n    \"Strafverfahrensrecht\",\n    \"Obligationenrecht\",\n    \"Verwaltungsrecht\",\n    \"Strafrecht\",\n    \"Bürgerliches Gesetzbuch\"\n  ],\n  \"law_codes\": [\n    \"StGB\",\n    \"StPO\",\n    \"OR\",\n    \"ZGB\",\n    \"BGG\"\n  ],\n  \"keywords_de\": [\n    \"Vorteilsannahme\",\n    \"Bestechung\",\n    \"Verwaltungsverletzung\",\n    \"Geschäftsgeheimnis\",\n    \"Kollusion\",\n    \"Vertragsverletzung\",\n    \"Gewerbebetrieb\",\n    \"Gewinnausbeutung\",\n    \"Verwaltungsverfahren\",\n    \"Verfahrensfehler\",\n    \"Verfahrensverletzung\",\n    \"Verfahrensrecht\",\n    \"Verwaltungsrechtliche Pflichten\",\n    \"Verwaltungsverantwortung\",\n    \"Verwaltungsverfahrensrecht\"\n  ],\n  \"hyde\": \"Die Frage, ob ein Mitglied des Gemeinderates des Bezirks L., der den Vorstand eines gemeinnützigen Verwaltungsvermögens leitete, das staatliche Zuschüsse erhielt, eine untreue Verwaltung öffentlicher Interessen begangen hat, erfordert eine Prüfung im Rahmen des Strafrechts, insbesondere des § 128 StGB (Vorteilsannahme) und des § 129 StGB (Bestechung). Die Tatsachen, wie die Verwaltung des Personalwesens an ein Privatunternehmen übertragen wurde, bei dem der Betroffene als Geschäftsführer tätig ist, ohne die Verwaltungsbehörde zu informieren, sowie die Ernennung seiner Ehefrau als Vertreterin des Unternehmens, können als Vorteilsannahme oder Kollusion gewertet werden. Die ungenehmigte Erweiterung des gemeinsamen Arbeitsraums, die zu unnötigen Mietkosten führte, und die Auftragsvergabe an dasselbe Unternehmen mit erhöhten Stundensätzen, die ohne Zustimmung der Verwaltungsbehörde erfolgten, können als Verwaltungsverletzungen gemäß dem ZGB und OR betrachtet werden. Die Vorteile, die durch günstige Unternehmensverträge und die Verzögerung der Abschreibung entstanden, sind ebenfalls relevant für die Bewertung der Schadenshöhe. Die Frage, ob die Anklage die Erhöhung des Stundensatzes nicht ausdrücklich erwähnt, könnte die Verurteilung auf dieser genauen Anschuldigung verhindern, insbesondere wenn die Berufungsinstanz bereits auf diesen Punkt eingegangen ist. Die Verwaltungsbehörde muss die vorherige Anweisung der Berufungsinstanz bei der Entscheidung berücksichtigen, um sicherzustellen, dass die Verfahrensregeln eingehalten werden.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Strafverfahrensrecht",
+        "Obligationenrecht",
+        "Verwaltungsrecht",
+        "Strafrecht",
+        "Bürgerliches Gesetzbuch"
+      ],
+      "law_codes": [
+        "StGB",
+        "StPO",
+        "OR",
+        "ZGB",
+        "BGG"
+      ],
+      "keywords_de": [
+        "Vorteilsannahme",
+        "Bestechung",
+        "Verwaltungsverletzung",
+        "Geschäftsgeheimnis",
+        "Kollusion",
+        "Vertragsverletzung",
+        "Gewerbebetrieb",
+        "Gewinnausbeutung",
+        "Verwaltungsverfahren",
+        "Verfahrensfehler",
+        "Verfahrensverletzung",
+        "Verfahrensrecht",
+        "Verwaltungsrechtliche Pflichten",
+        "Verwaltungsverantwortung",
+        "Verwaltungsverfahrensrecht"
+      ],
+      "hyde": "Die Frage, ob ein Mitglied des Gemeinderates des Bezirks L., der den Vorstand eines gemeinnützigen Verwaltungsvermögens leitete, das staatliche Zuschüsse erhielt, eine untreue Verwaltung öffentlicher Interessen begangen hat, erfordert eine Prüfung im Rahmen des Strafrechts, insbesondere des § 128 StGB (Vorteilsannahme) und des § 129 StGB (Bestechung). Die Tatsachen, wie die Verwaltung des Personalwesens an ein Privatunternehmen übertragen wurde, bei dem der Betroffene als Geschäftsführer tätig ist, ohne die Verwaltungsbehörde zu informieren, sowie die Ernennung seiner Ehefrau als Vertreterin des Unternehmens, können als Vorteilsannahme oder Kollusion gewertet werden. Die ungenehmigte Erweiterung des gemeinsamen Arbeitsraums, die zu unnötigen Mietkosten führte, und die Auftragsvergabe an dasselbe Unternehmen mit erhöhten Stundensätzen, die ohne Zustimmung der Verwaltungsbehörde erfolgten, können als Verwaltungsverletzungen gemäß dem ZGB und OR betrachtet werden. Die Vorteile, die durch günstige Unternehmensverträge und die Verzögerung der Abschreibung entstanden, sind ebenfalls relevant für die Bewertung der Schadenshöhe. Die Frage, ob die Anklage die Erhöhung des Stundensatzes nicht ausdrücklich erwähnt, könnte die Verurteilung auf dieser genauen Anschuldigung verhindern, insbesondere wenn die Berufungsinstanz bereits auf diesen Punkt eingegangen ist. Die Verwaltungsbehörde muss die vorherige Anweisung der Berufungsinstanz bei der Entscheidung berücksichtigen, um sicherzustellen, dass die Verfahrensregeln eingehalten werden."
+    }
+  },
+  "val_009": {
+    "raw": "{\n  \"legal_areas\": [\"Obligationenrecht\", \"Strafverfahrensrecht\", \"Vollstreckungsrecht\", \"Kindergeldrecht\", \"Ehe- und Familienrecht\"],\n  \"law_codes\": [\"OR\", \"StPO\", \"BGG\", \"ZGB\", \"BV\", \"IPRG\", \"DBG\"],\n  \"keywords_de\": [\"Kindergeld\", \"Unterhaltspflicht\", \"Inhaftierung\", \"Vollstreckung\", \"Ko-Besitz\", \"Forcierter Verkauf\", \"Vermögenssicherung\", \"Indexierung\", \"Vollstreckungsbehörde\", \"Pflichtteilsanspruch\", \"Vermögensverwaltung\", \"Vollstreckungsmaßnahmen\", \"Unterhaltssicherung\", \"Vermögenssperre\", \"Vollstreckungsverfahren\"],\n  \"hyde\": \"Die Frage, ob ein inhaftierter Elternteil, der derzeit keine Einkünfte hat, verpflichtet ist, monatlichen Unterhalt für seine Kinder zu zahlen, sowie ob die Vollstreckungsbehörde angewiesen werden kann, einen Teil der Verkaufserlöse aus einem gemeinsam gehaltenen Vermögen als Sicherheit für zukünftige Unterhaltszahlungen zu blockieren, erfordert eine Analyse unter Berücksichtigung des Obligationenrechts (OR) und des Vollstreckungsrechts (BGG). Nach OR 286 Abs. 1 ist der Elternteil verpflichtet, den Kindern Unterhalt zu zahlen, unabhängig davon, ob er derzeit inhaftiert ist. Die Inhaftierung beeinträchtigt nicht die Unterhaltspflicht, sofern keine andere gesetzliche Regelung eine Aussetzung vorsieht. Die Vollstreckungsbehörde kann gemäß BGG 118 Abs. 1 und 2 Maßnahmen zur Sicherung von Forderungen ergreifen, insbesondere wenn die Forderung aus einem Unterhaltsanspruch resultiert. Die Blockierung des Anteils des inhaftierten Elternteils an den Verkaufserlösen könnte als Sicherung für zukünftige Unterhaltszahlungen angesehen werden, sofern dies im Einklang mit BGG 118 Abs. 1 und 2 erfolgt. Die Anfrage nach einer Kapitalisierung der zukünftigen Pensionen und einer sofortigen Zinszahlung könnte im Rahmen einer Einigung zwischen den Parteien oder einer gerichtlichen Entscheidung gemäß OR 286 Abs. 2 und 3 behandelt werden, wobei die Verhältnismäßigkeit und die Interessen der Kinder im Vordergrund stehen.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Obligationenrecht",
+        "Strafverfahrensrecht",
+        "Vollstreckungsrecht",
+        "Kindergeldrecht",
+        "Ehe- und Familienrecht"
+      ],
+      "law_codes": [
+        "OR",
+        "StPO",
+        "BGG",
+        "ZGB",
+        "BV",
+        "IPRG",
+        "DBG"
+      ],
+      "keywords_de": [
+        "Kindergeld",
+        "Unterhaltspflicht",
+        "Inhaftierung",
+        "Vollstreckung",
+        "Ko-Besitz",
+        "Forcierter Verkauf",
+        "Vermögenssicherung",
+        "Indexierung",
+        "Vollstreckungsbehörde",
+        "Pflichtteilsanspruch",
+        "Vermögensverwaltung",
+        "Vollstreckungsmaßnahmen",
+        "Unterhaltssicherung",
+        "Vermögenssperre",
+        "Vollstreckungsverfahren"
+      ],
+      "hyde": "Die Frage, ob ein inhaftierter Elternteil, der derzeit keine Einkünfte hat, verpflichtet ist, monatlichen Unterhalt für seine Kinder zu zahlen, sowie ob die Vollstreckungsbehörde angewiesen werden kann, einen Teil der Verkaufserlöse aus einem gemeinsam gehaltenen Vermögen als Sicherheit für zukünftige Unterhaltszahlungen zu blockieren, erfordert eine Analyse unter Berücksichtigung des Obligationenrechts (OR) und des Vollstreckungsrechts (BGG). Nach OR 286 Abs. 1 ist der Elternteil verpflichtet, den Kindern Unterhalt zu zahlen, unabhängig davon, ob er derzeit inhaftiert ist. Die Inhaftierung beeinträchtigt nicht die Unterhaltspflicht, sofern keine andere gesetzliche Regelung eine Aussetzung vorsieht. Die Vollstreckungsbehörde kann gemäß BGG 118 Abs. 1 und 2 Maßnahmen zur Sicherung von Forderungen ergreifen, insbesondere wenn die Forderung aus einem Unterhaltsanspruch resultiert. Die Blockierung des Anteils des inhaftierten Elternteils an den Verkaufserlösen könnte als Sicherung für zukünftige Unterhaltszahlungen angesehen werden, sofern dies im Einklang mit BGG 118 Abs. 1 und 2 erfolgt. Die Anfrage nach einer Kapitalisierung der zukünftigen Pensionen und einer sofortigen Zinszahlung könnte im Rahmen einer Einigung zwischen den Parteien oder einer gerichtlichen Entscheidung gemäß OR 286 Abs. 2 und 3 behandelt werden, wobei die Verhältnismäßigkeit und die Interessen der Kinder im Vordergrund stehen."
+    }
+  },
+  "val_010": {
+    "raw": "{\n  \"legal_areas\": [\"Bankrecht\", \"Vertragsrecht\", \"Schadensersatzrecht\", \"Zivilprozessordnung\", \"Schuldrecht\"],\n  \"law_codes\": [\"ZGB\", \"OR\", \"StPO\", \"BGG\", \"IPRG\", \"DBG\"],\n  \"keywords_de\": [\"Unterschriftsprüfungspflicht\", \"Vertragsgestaltung\", \"Ratifikationsklausel\", \"Geschäftsfähigkeit\", \"Schadensersatzanspruch\", \"Verjährung\", \"Währungsangabe\", \"Geschäftsführungsverbot\", \"Protestpflicht\", \"Grossfahrlässigkeit\"],\n  \"hyde\": \"Die Frage der Haftung der Bank Q für die von ihr ausgeführten Überweisungen basierend auf angeblich gefälschten Fax-Anweisungen erfordert eine umfassende Prüfung der gesetzlichen Pflichten der Bank im Rahmen ihrer Unterschriftsprüfung sowie der Vertragsgestaltung. Gemäß dem ZGB und OR hat die Bank eine Pflicht zur sorgfältigen Prüfung der Unterschriften, insbesondere wenn sie auf Anweisungen basiert, die von Dritten stammen. Die Bank argumentiert, dass sie die Unterschriften gemäß den vereinbarten Routineverfahren geprüft hat und dass keine grobe Fahrlässigkeit vorliegt. Allerdings könnte eine ungenügende Prüfung der Unterschrift, insbesondere wenn sie dem Erscheinungsbild der echten Unterschrift von P entsprach, eine Verletzung der Pflicht zur Sorgfalt darstellen. Die Vertragsgestaltung mit der 30-tägigen Protestpflicht und der Ratifikationsklausel ist entscheidend. Nach ZGB und OR kann eine Verjährung oder Ratifikation eintreten, wenn der Kunde nicht innerhalb der festgelegten Frist protestiert. Allerdings könnte die Klausel unter dem Gesichtspunkt der Unwirksamkeit von Vertragsbedingungen, die gegen den Schutz des Kunden verstoßen, in Frage gestellt werden. Zudem ist die Frage der Währung relevant: Da der Anspruch in Schweizer Franken geltend gemacht wird, während das Konto und die Streitgegenstände in Euro abgerechnet wurden, könnte dies zu einer Verwirrung oder Unzulässigkeit des Anspruchs führen. Eine detaillierte Prüfung der Vertragsbedingungen, der Unterschriftsprüfung und der Währungsangaben ist erforderlich, um die Haftung der Bank zu beurteilen.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Bankrecht",
+        "Vertragsrecht",
+        "Schadensersatzrecht",
+        "Zivilprozessordnung",
+        "Schuldrecht"
+      ],
+      "law_codes": [
+        "ZGB",
+        "OR",
+        "StPO",
+        "BGG",
+        "IPRG",
+        "DBG"
+      ],
+      "keywords_de": [
+        "Unterschriftsprüfungspflicht",
+        "Vertragsgestaltung",
+        "Ratifikationsklausel",
+        "Geschäftsfähigkeit",
+        "Schadensersatzanspruch",
+        "Verjährung",
+        "Währungsangabe",
+        "Geschäftsführungsverbot",
+        "Protestpflicht",
+        "Grossfahrlässigkeit"
+      ],
+      "hyde": "Die Frage der Haftung der Bank Q für die von ihr ausgeführten Überweisungen basierend auf angeblich gefälschten Fax-Anweisungen erfordert eine umfassende Prüfung der gesetzlichen Pflichten der Bank im Rahmen ihrer Unterschriftsprüfung sowie der Vertragsgestaltung. Gemäß dem ZGB und OR hat die Bank eine Pflicht zur sorgfältigen Prüfung der Unterschriften, insbesondere wenn sie auf Anweisungen basiert, die von Dritten stammen. Die Bank argumentiert, dass sie die Unterschriften gemäß den vereinbarten Routineverfahren geprüft hat und dass keine grobe Fahrlässigkeit vorliegt. Allerdings könnte eine ungenügende Prüfung der Unterschrift, insbesondere wenn sie dem Erscheinungsbild der echten Unterschrift von P entsprach, eine Verletzung der Pflicht zur Sorgfalt darstellen. Die Vertragsgestaltung mit der 30-tägigen Protestpflicht und der Ratifikationsklausel ist entscheidend. Nach ZGB und OR kann eine Verjährung oder Ratifikation eintreten, wenn der Kunde nicht innerhalb der festgelegten Frist protestiert. Allerdings könnte die Klausel unter dem Gesichtspunkt der Unwirksamkeit von Vertragsbedingungen, die gegen den Schutz des Kunden verstoßen, in Frage gestellt werden. Zudem ist die Frage der Währung relevant: Da der Anspruch in Schweizer Franken geltend gemacht wird, während das Konto und die Streitgegenstände in Euro abgerechnet wurden, könnte dies zu einer Verwirrung oder Unzulässigkeit des Anspruchs führen. Eine detaillierte Prüfung der Vertragsbedingungen, der Unterschriftsprüfung und der Währungsangaben ist erforderlich, um die Haftung der Bank zu beurteilen."
+    }
+  }
+}

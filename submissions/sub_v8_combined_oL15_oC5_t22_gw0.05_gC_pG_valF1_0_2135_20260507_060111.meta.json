@@ -1,0 +1,38 @@
+{
+  "submission": "sub_v8_combined_oL15_oC5_t22_gw0.05_gC_pG_valF1_0_2135_20260507_060111.csv",
+  "pipeline": "multi-view + court→law graph + court→BGE graph + Plan-G additional",
+  "config": {
+    "modes": [
+      "orig",
+      "kw",
+      "hyde",
+      "hyde_statute",
+      "sub_q3",
+      "trans_concise"
+    ],
+    "n_law_base": 15,
+    "n_court_base": 5,
+    "graph_w": 0.05,
+    "bge_graph_w": 0.05,
+    "graph_pool": 100,
+    "bge_graph_pool": 100,
+    "use_graph_c": true,
+    "use_plan_g": true,
+    "target_size": 22,
+    "K_LAW": 200,
+    "K_COURT": 200
+  },
+  "val_macro_f1": 0.21345799339525362,
+  "val_per_query_f1": {
+    "val_001": 0.19354838709677416,
+    "val_002": 0.2105263157894737,
+    "val_003": 0.02898550724637681,
+    "val_004": 0.3125,
+    "val_005": 0.3225806451612903,
+    "val_006": 0.3,
+    "val_007": 0.3414634146341463,
+    "val_008": 0.11764705882352941,
+    "val_009": 0.2222222222222222,
+    "val_010": 0.0851063829787234
+  }
+}

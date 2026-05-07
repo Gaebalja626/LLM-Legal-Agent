@@ -1,0 +1,1453 @@
+{
+  "test_001": {
+    "raw": "{\n  \"legal_areas\": [\"Urheberrecht\", \"Wettbewerbsrecht\", \"Handelsrecht\", \"Zivilprozessrecht\", \"Datenschutzrecht\"],\n  \"law_codes\": [\"URG\", \"ZGB\", \"StPO\", \"BGG\", \"IPRG\", \"OR\", \"BV\"],\n  \"keywords_de\": [\"Provisorische Maßnahmen\", \"Urgewahlt\", \"Rechtsgrundlage\", \"Zivilprozessordnung\", \"Wettbewerbsrecht\", \"Geheimhaltungspflicht\", \"Rechtsdurchsetzung\", \"Schutzgegenstand\", \"Rechtsverletzung\", \"Schadensersatz\", \"Erschwerung der Rechtsdurchsetzung\", \"Proportionality\", \"Urgewahlt\", \"Rechtsschutzbedürfnis\", \"Rechtsverletzung\", \"Schutzgegenstand\"],\n  \"hyde\": \"Die Frage, ob eine kantonale Behörde in Lausanne provisorische Maßnahmen erteilen kann, hängt von der Anwendbarkeit des Zivilprozessrechts (ZPO) und der Kompetenz der kantonalen Gerichte ab. Nach Art. 11 ZPO sind kantonale Gerichte zuständig für Zivilsachen, sofern nicht ein gesetzlicher Ausnahmehandel vorgesehen ist. Die Antragsteller behaupten, Urheberrechte (URG) und Geschäftsgeheimnisse zu besitzen, was eine plausible Rechtsgrundlage für die provisorischen Maßnahmen darstellt. Die Antragsteller müssen ihre Rechtsstellung als Rechteinhaber nachweisen, was durch die Vorlage von Verträgen, Quellenkodestrukturen und Beweismaterial gestützt werden könnte. Die Anforderungen der provisorischen Maßnahmen (Art. 11 ZPO) erfordern eine vorläufige Rechtsverletzung, eine Erschwerung der Rechtsdurchsetzung und eine Proportionality. Die Antragsteller behaupten, dass die Nutzung der kopierten Materialien durch Lumen (CH) Sàrl und R. Silva eine unmittelbare Rechtsverletzung darstellt, die schwerwiegende Schäden verursachen könnte. Die Notwendigkeit einer sofortigen Maßnahme ist gegeben, da die Beweismittel sonst verloren gehen könnten. Die proportionale Anordnung von Seizuren und Forensik-Untersuchungen ist gerechtfertigt, um die Rechte der Antragsteller zu schützen. Die kantonale Behörde könnte daher provisorische Maßnahmen erteilen, sofern die Antragsteller ihre Rechtsstellung als Rechteinhaber plausibel machen und die Voraussetzungen der ZPO erfüllt sind.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Urheberrecht",
+        "Wettbewerbsrecht",
+        "Handelsrecht",
+        "Zivilprozessrecht",
+        "Datenschutzrecht"
+      ],
+      "law_codes": [
+        "URG",
+        "ZGB",
+        "StPO",
+        "BGG",
+        "IPRG",
+        "OR",
+        "BV"
+      ],
+      "keywords_de": [
+        "Provisorische Maßnahmen",
+        "Urgewahlt",
+        "Rechtsgrundlage",
+        "Zivilprozessordnung",
+        "Wettbewerbsrecht",
+        "Geheimhaltungspflicht",
+        "Rechtsdurchsetzung",
+        "Schutzgegenstand",
+        "Rechtsverletzung",
+        "Schadensersatz",
+        "Erschwerung der Rechtsdurchsetzung",
+        "Proportionality",
+        "Urgewahlt",
+        "Rechtsschutzbedürfnis",
+        "Rechtsverletzung",
+        "Schutzgegenstand"
+      ],
+      "hyde": "Die Frage, ob eine kantonale Behörde in Lausanne provisorische Maßnahmen erteilen kann, hängt von der Anwendbarkeit des Zivilprozessrechts (ZPO) und der Kompetenz der kantonalen Gerichte ab. Nach Art. 11 ZPO sind kantonale Gerichte zuständig für Zivilsachen, sofern nicht ein gesetzlicher Ausnahmehandel vorgesehen ist. Die Antragsteller behaupten, Urheberrechte (URG) und Geschäftsgeheimnisse zu besitzen, was eine plausible Rechtsgrundlage für die provisorischen Maßnahmen darstellt. Die Antragsteller müssen ihre Rechtsstellung als Rechteinhaber nachweisen, was durch die Vorlage von Verträgen, Quellenkodestrukturen und Beweismaterial gestützt werden könnte. Die Anforderungen der provisorischen Maßnahmen (Art. 11 ZPO) erfordern eine vorläufige Rechtsverletzung, eine Erschwerung der Rechtsdurchsetzung und eine Proportionality. Die Antragsteller behaupten, dass die Nutzung der kopierten Materialien durch Lumen (CH) Sàrl und R. Silva eine unmittelbare Rechtsverletzung darstellt, die schwerwiegende Schäden verursachen könnte. Die Notwendigkeit einer sofortigen Maßnahme ist gegeben, da die Beweismittel sonst verloren gehen könnten. Die proportionale Anordnung von Seizuren und Forensik-Untersuchungen ist gerechtfertigt, um die Rechte der Antragsteller zu schützen. Die kantonale Behörde könnte daher provisorische Maßnahmen erteilen, sofern die Antragsteller ihre Rechtsstellung als Rechteinhaber plausibel machen und die Voraussetzungen der ZPO erfüllt sind."
+    }
+  },
+  "test_002": {
+    "raw": "{\n  \"legal_areas\": [\"Schadensersatzrecht\", \"Strafverfahrensrecht\", \"Versicherungsrecht\", \"Obligationenrecht\"],\n  \"law_codes\": [\"SVG\", \"OR\", \"StGB\", \"ZGB\", \"StPO\"],\n  \"keywords_de\": [\"Schadensersatzanspruch\", \"Verjährung\", \"Art. 83 SVG\", \"Grobe Fahrlässigkeit\", \"Art. 59 Abs. 1 SVG\", \"Schadensfeststellung\", \"Verkehrsordnungswidrigkeit\", \"Schuldzuweisung\", \"Schadensersatzverfahren\", \"Schadensersatzrechtliche Verjährung\", \"Schadensfeststellungsgrenze\", \"Schadensersatzanspruchsbegründung\", \"Schadensersatzanspruchsberechnung\", \"Schadensersatzanspruchsgrenze\", \"Schadensersatzanspruchsbewertung\"],\n  \"hyde\": \"Die Verjährung von Schadensersatzansprüchen gemäß Art. 83 SVG ist von zentraler Bedeutung für die Beurteilung der zusätzlichen Forderungen des Geschädigten, die im Jahr 2015 und 2016 geltend gemacht wurden. Laut Art. 83 SVG verjährt ein Schadensersatzanspruch nach drei Jahren ab dem Zeitpunkt, an dem der Geschädigte den Schaden und seine Ursache erstmals erkennen konnte. In diesem Fall ist zu prüfen, ob der Geschädigte bereits zu einem früheren Zeitpunkt, etwa im Jahr 2012 oder 2014, über den Umfang seines Schadens und dessen Auswirkungen auf seine Erwerbsfähigkeit informiert war. Die medizinischen Unterlagen und die Gutachten, insbesondere das neuropsychologische Gutachten vom Februar 2012, sowie die Entscheidung des Bundesbehindertenamts vom November 2014, könnten darauf hindeuten, dass der Geschädigte bereits zu einem früheren Zeitpunkt über den Schaden und dessen Ausmaß Kenntnis hatte. Sollte dies der Fall sein, wären die späteren Forderungen verjährt. Hinsichtlich der Frage der groben Fahrlässigkeit des Geschädigten gemäß Art. 59 Abs. 1 SVG ist zu prüfen, ob der Geschädigte tatsächlich gegen die Verkehrsregeln verstoßen hat, insbesondere ob er gegen den Fahrzeugverkehr verkehrte. Eine solche Handlung könnte als grobe Fahrlässigkeit angesehen werden, wodurch der Halter des Fahrzeugs von der Schadensersatzpflicht befreit werden könnte. Die Beurteilung dieser Frage erfordert eine detaillierte Analyse der Verkehrsordnungswidrigkeit und der konkreten Umstände des Unfalls.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Schadensersatzrecht",
+        "Strafverfahrensrecht",
+        "Versicherungsrecht",
+        "Obligationenrecht"
+      ],
+      "law_codes": [
+        "SVG",
+        "OR",
+        "StGB",
+        "ZGB",
+        "StPO"
+      ],
+      "keywords_de": [
+        "Schadensersatzanspruch",
+        "Verjährung",
+        "Art. 83 SVG",
+        "Grobe Fahrlässigkeit",
+        "Art. 59 Abs. 1 SVG",
+        "Schadensfeststellung",
+        "Verkehrsordnungswidrigkeit",
+        "Schuldzuweisung",
+        "Schadensersatzverfahren",
+        "Schadensersatzrechtliche Verjährung",
+        "Schadensfeststellungsgrenze",
+        "Schadensersatzanspruchsbegründung",
+        "Schadensersatzanspruchsberechnung",
+        "Schadensersatzanspruchsgrenze",
+        "Schadensersatzanspruchsbewertung"
+      ],
+      "hyde": "Die Verjährung von Schadensersatzansprüchen gemäß Art. 83 SVG ist von zentraler Bedeutung für die Beurteilung der zusätzlichen Forderungen des Geschädigten, die im Jahr 2015 und 2016 geltend gemacht wurden. Laut Art. 83 SVG verjährt ein Schadensersatzanspruch nach drei Jahren ab dem Zeitpunkt, an dem der Geschädigte den Schaden und seine Ursache erstmals erkennen konnte. In diesem Fall ist zu prüfen, ob der Geschädigte bereits zu einem früheren Zeitpunkt, etwa im Jahr 2012 oder 2014, über den Umfang seines Schadens und dessen Auswirkungen auf seine Erwerbsfähigkeit informiert war. Die medizinischen Unterlagen und die Gutachten, insbesondere das neuropsychologische Gutachten vom Februar 2012, sowie die Entscheidung des Bundesbehindertenamts vom November 2014, könnten darauf hindeuten, dass der Geschädigte bereits zu einem früheren Zeitpunkt über den Schaden und dessen Ausmaß Kenntnis hatte. Sollte dies der Fall sein, wären die späteren Forderungen verjährt. Hinsichtlich der Frage der groben Fahrlässigkeit des Geschädigten gemäß Art. 59 Abs. 1 SVG ist zu prüfen, ob der Geschädigte tatsächlich gegen die Verkehrsregeln verstoßen hat, insbesondere ob er gegen den Fahrzeugverkehr verkehrte. Eine solche Handlung könnte als grobe Fahrlässigkeit angesehen werden, wodurch der Halter des Fahrzeugs von der Schadensersatzpflicht befreit werden könnte. Die Beurteilung dieser Frage erfordert eine detaillierte Analyse der Verkehrsordnungswidrigkeit und der konkreten Umstände des Unfalls."
+    }
+  },
+  "test_003": {
+    "raw": "{\n  \"legal_areas\": [\n    \"Obligationenrecht\",\n    \"Vertragsrecht\",\n    \"Insolvenzrecht\",\n    \"Konsumentenschutzrecht\"\n  ],\n  \"law_codes\": [\n    \"OR\",\n    \"ZGB\",\n    \"LCC\",\n    \"CO\"\n  ],\n  \"keywords_de\": [\n    \"Konventionaler Schuldentilgung\",\n    \"Vertragsgestaltung\",\n    \"Gesamtschuldner\",\n    \"Mietvertrag\",\n    \"Schadensersatz\",\n    \"Insolvenzverfahren\",\n    \"Konsumentenschutzgesetz\",\n    \"Art. 267a CO\",\n    \"Vertragsgestaltung\",\n    \"Schuldrechtliche Verantwortung\",\n    \"Mangelrüge\",\n    \"Unmittelbare Prüfung\",\n    \"Schuldentilgung ohne Zustimmung\",\n    \"Vertragsverletzung\",\n    \"Schadensersatzanspruch\"\n  ],\n  \"hyde\": \"Die Frage, ob Meridians Angebot vom 5. Januar 2013 eine konventionelle Schuldentilgung darstellt, hängt davon ab, ob eine solche Einigung ohne ausdrückliche Zustimmung des Schuldners (Mr. Carter) zulässig ist. Laut Art. 115 OR setzt eine konventionelle Schuldentilgung grundsätzlich die Einigung beider Vertragsparteien voraus. Ein einseitiges Angebot kann nur dann als Schuldentilgung wirksam sein, wenn der Schuldner es anerkennt oder es durch sein Verhalten als anerkannt gilt. Da Mr. Carter das Angebot nicht anerkannte, ist die Schuldentilgung nicht wirksam. Hinsichtlich der Anwendung des Konsumentenschutzgesetzes (LCC) ist zu prüfen, ob der Mietvertrag unter das LCC fällt. Da der Vertrag einen Geschäftswagen zur beruflichen Nutzung betraf, ist der LCC nicht anwendbar, da dieser primär auf Verbraucher vertragsbezogene Rechte abzielt. Die Frage der Schadensersatzansprüche für die Instandsetzungskosten hängt von der Einhaltung von Art. 267a CO ab, der die unmittelbare Prüfung und Meldung von Mängeln bei Rückgabe vorsieht. Da Meridian die Prüfung erst am 22. November 2012 durchführte, könnte die Verjährung oder die Verpflichtung zur unmittelbaren Mangelrüge relevant sein. Es ist daher fraglich, ob Meridian die Instandsetzungskosten geltend machen kann, da sie nicht unmittelbar nach der Rückgabe die Mängel gemeldet hat.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Obligationenrecht",
+        "Vertragsrecht",
+        "Insolvenzrecht",
+        "Konsumentenschutzrecht"
+      ],
+      "law_codes": [
+        "OR",
+        "ZGB",
+        "LCC",
+        "CO"
+      ],
+      "keywords_de": [
+        "Konventionaler Schuldentilgung",
+        "Vertragsgestaltung",
+        "Gesamtschuldner",
+        "Mietvertrag",
+        "Schadensersatz",
+        "Insolvenzverfahren",
+        "Konsumentenschutzgesetz",
+        "Art. 267a CO",
+        "Vertragsgestaltung",
+        "Schuldrechtliche Verantwortung",
+        "Mangelrüge",
+        "Unmittelbare Prüfung",
+        "Schuldentilgung ohne Zustimmung",
+        "Vertragsverletzung",
+        "Schadensersatzanspruch"
+      ],
+      "hyde": "Die Frage, ob Meridians Angebot vom 5. Januar 2013 eine konventionelle Schuldentilgung darstellt, hängt davon ab, ob eine solche Einigung ohne ausdrückliche Zustimmung des Schuldners (Mr. Carter) zulässig ist. Laut Art. 115 OR setzt eine konventionelle Schuldentilgung grundsätzlich die Einigung beider Vertragsparteien voraus. Ein einseitiges Angebot kann nur dann als Schuldentilgung wirksam sein, wenn der Schuldner es anerkennt oder es durch sein Verhalten als anerkannt gilt. Da Mr. Carter das Angebot nicht anerkannte, ist die Schuldentilgung nicht wirksam. Hinsichtlich der Anwendung des Konsumentenschutzgesetzes (LCC) ist zu prüfen, ob der Mietvertrag unter das LCC fällt. Da der Vertrag einen Geschäftswagen zur beruflichen Nutzung betraf, ist der LCC nicht anwendbar, da dieser primär auf Verbraucher vertragsbezogene Rechte abzielt. Die Frage der Schadensersatzansprüche für die Instandsetzungskosten hängt von der Einhaltung von Art. 267a CO ab, der die unmittelbare Prüfung und Meldung von Mängeln bei Rückgabe vorsieht. Da Meridian die Prüfung erst am 22. November 2012 durchführte, könnte die Verjährung oder die Verpflichtung zur unmittelbaren Mangelrüge relevant sein. Es ist daher fraglich, ob Meridian die Instandsetzungskosten geltend machen kann, da sie nicht unmittelbar nach der Rückgabe die Mängel gemeldet hat."
+    }
+  },
+  "test_004": {
+    "raw": "{\n  \"legal_areas\": [\"Schuldbetreibungsrecht\", \"Bankrottverfahren\", \"Zivilprozessrecht\", \"SchKG\", \"ZGB\"],\n  \"law_codes\": [\"SchKG\", \"ZGB\", \"StPO\", \"OR\", \"BGG\"],\n  \"keywords_de\": [\"Bankrottantrag\", \"SchKG Art. 166 Abs. 2\", \"Aufhebung der Einrede\", \"Fristverlängerung\", \"Schuldbetreibungsregister\", \"Solvency\", \"Bankrottverfahren\", \"Fristbeginn\", \"Fristende\", \"Verfahrensverzögerung\", \"Einrede\", \"Schuldbetreibung\", \"ZGB\", \"SchKG Art. 167\", \"Bankrottanfechtung\"],\n  \"hyde\": \"Die Frage, ob der Bankrottantrag vom 1. Februar 2024 innerhalb der peremptorischen Frist von Art. 166 Abs. 2 SchKG eingebracht wurde, hängt davon ab, ob die Frist während der Aufhebung der Einrede unterbrochen wurde. Laut Art. 166 Abs. 2 SchKG beginnt die Frist mit der Erteilung des Einredebefehls, und sie wird durch die Dauer des Verfahrens zur Aufhebung der Einrede unterbrochen. Die Frage ist, ob die Frist mit der Bekanntgabe des operativen Entscheids oder erst mit der Bekanntgabe des vollständigen begründeten Entscheids endet. Nach der Rechtsprechung endet die Frist mit der Bekanntgabe des vollständigen begründeten Entscheids, da nur dann die Rechtslage vollständig geklärt ist. In diesem Fall wurde der operative Entscheid am 5. September 2022 erteilt, und die Begründung erst am 20. November 2022. Daher endete die Frist am 20. November 2022, und der Bankrottantrag vom 1. Februar 2024 wurde nach Ablauf der Frist eingebracht. Hinsichtlich der zweiten Frage ist es grundsätzlich möglich, dass ein Schuldner im Berufungsverfahren den Bankrott aufheben lässt, wenn er eine Auskunft aus dem Schuldbetreibungsregister vorlegt, die die Vermutung der Solvenz begründet. Allerdings hängt dies von der Bewertung des Gerichts ab, ob die Auskunft tatsächlich eine hinreichende Grundlage für die Annahme der Solvenz darstellt. Die Auskunft muss konkrete, objektive Daten enthalten, die die Solvenz des Schuldners wahrscheinlich machen.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Schuldbetreibungsrecht",
+        "Bankrottverfahren",
+        "Zivilprozessrecht",
+        "SchKG",
+        "ZGB"
+      ],
+      "law_codes": [
+        "SchKG",
+        "ZGB",
+        "StPO",
+        "OR",
+        "BGG"
+      ],
+      "keywords_de": [
+        "Bankrottantrag",
+        "SchKG Art. 166 Abs. 2",
+        "Aufhebung der Einrede",
+        "Fristverlängerung",
+        "Schuldbetreibungsregister",
+        "Solvency",
+        "Bankrottverfahren",
+        "Fristbeginn",
+        "Fristende",
+        "Verfahrensverzögerung",
+        "Einrede",
+        "Schuldbetreibung",
+        "ZGB",
+        "SchKG Art. 167",
+        "Bankrottanfechtung"
+      ],
+      "hyde": "Die Frage, ob der Bankrottantrag vom 1. Februar 2024 innerhalb der peremptorischen Frist von Art. 166 Abs. 2 SchKG eingebracht wurde, hängt davon ab, ob die Frist während der Aufhebung der Einrede unterbrochen wurde. Laut Art. 166 Abs. 2 SchKG beginnt die Frist mit der Erteilung des Einredebefehls, und sie wird durch die Dauer des Verfahrens zur Aufhebung der Einrede unterbrochen. Die Frage ist, ob die Frist mit der Bekanntgabe des operativen Entscheids oder erst mit der Bekanntgabe des vollständigen begründeten Entscheids endet. Nach der Rechtsprechung endet die Frist mit der Bekanntgabe des vollständigen begründeten Entscheids, da nur dann die Rechtslage vollständig geklärt ist. In diesem Fall wurde der operative Entscheid am 5. September 2022 erteilt, und die Begründung erst am 20. November 2022. Daher endete die Frist am 20. November 2022, und der Bankrottantrag vom 1. Februar 2024 wurde nach Ablauf der Frist eingebracht. Hinsichtlich der zweiten Frage ist es grundsätzlich möglich, dass ein Schuldner im Berufungsverfahren den Bankrott aufheben lässt, wenn er eine Auskunft aus dem Schuldbetreibungsregister vorlegt, die die Vermutung der Solvenz begründet. Allerdings hängt dies von der Bewertung des Gerichts ab, ob die Auskunft tatsächlich eine hinreichende Grundlage für die Annahme der Solvenz darstellt. Die Auskunft muss konkrete, objektive Daten enthalten, die die Solvenz des Schuldners wahrscheinlich machen."
+    }
+  },
+  "test_005": {
+    "raw": "{\n  \"legal_areas\": [\n    \"Sicherungsrecht\",\n    \"Schuldrecht\",\n    \"Zivilprozessrecht\",\n    \"Grundschuldrecht\",\n    \"Vertragsgestaltung\"\n  ],\n  \"law_codes\": [\n    \"ZGB\",\n    \"OR\",\n    \"StPO\",\n    \"BGG\",\n    \"IPRG\"\n  ],\n  \"keywords_de\": [\n    \"Grundschuld\",\n    \"Bearer-Mortgage-Zertifikat\",\n    \"Schuldneridentifikation\",\n    \"Novation\",\n    \"Fiduziarische Sicherheit\",\n    \"Verjährung\",\n    \"Exigibilitätsdatum\",\n    \"Zurückhaltungsklage\",\n    \"Vollstreckung\",\n    \"Schuldverhältnis\",\n    \"Zinsansprüche\",\n    \"Vertragsgestaltung\",\n    \"Schuldrechtliche Verpflichtung\",\n    \"Grundbuch\"\n  ],\n  \"hyde\": \"Die Frage, ob S Ltd. als Inhaber eines nicht auf einen Schuldner bezogenen Grundschuldscheins eine Vollstreckung im Umfang von CHF 420'000 gegen T und/oder R Ltd. rechtmässig durchführen kann, hängt von der Rechtsnatur des Scheins und der Vertragsgestaltung ab. Laut ZGB Art. 768 ist eine Grundschuld ein Sicherungsrecht, das im Grundbuch eingetragen werden muss. Ein nicht identifizierter Schuldner kann jedoch nicht als verpflichtet angesehen werden, es sei denn, die Vertragsparteien haben dies ausdrücklich vereinbart. Der Schein, der keine Schuldner bezeichnet, könnte als fiduziarische Sicherheit interpretiert werden, wodurch keine Novation des bestehenden Schuldverhältnisses erfolgt. In diesem Fall wäre die Schuldverpflichtung weiterhin auf R Ltd. und T beschränkt, und die Vollstreckung könnte nur im Umfang des bestehenden Anspruchs erfolgen. Die Exigibilität des Scheins am 1. Februar 2014 ist fraglich, da die Vertragsparteien keine klare Vereinbarung über das Exigibilitätsdatum getroffen haben. Zudem könnte T eine Zurückhaltungsklage erheben, da er nicht als Schuldner identifiziert wurde. Die Zinsansprüche sind nur im Umfang der ursprünglichen Schuld geltend zu machen. Die Vollstreckung im Umfang des Scheins von CHF 420'000 ist daher nur unter der Voraussetzung rechtmässig, dass der Schein eine Novation darstellt und T und R Ltd. als Schuldner identifiziert wurden.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Sicherungsrecht",
+        "Schuldrecht",
+        "Zivilprozessrecht",
+        "Grundschuldrecht",
+        "Vertragsgestaltung"
+      ],
+      "law_codes": [
+        "ZGB",
+        "OR",
+        "StPO",
+        "BGG",
+        "IPRG"
+      ],
+      "keywords_de": [
+        "Grundschuld",
+        "Bearer-Mortgage-Zertifikat",
+        "Schuldneridentifikation",
+        "Novation",
+        "Fiduziarische Sicherheit",
+        "Verjährung",
+        "Exigibilitätsdatum",
+        "Zurückhaltungsklage",
+        "Vollstreckung",
+        "Schuldverhältnis",
+        "Zinsansprüche",
+        "Vertragsgestaltung",
+        "Schuldrechtliche Verpflichtung",
+        "Grundbuch"
+      ],
+      "hyde": "Die Frage, ob S Ltd. als Inhaber eines nicht auf einen Schuldner bezogenen Grundschuldscheins eine Vollstreckung im Umfang von CHF 420'000 gegen T und/oder R Ltd. rechtmässig durchführen kann, hängt von der Rechtsnatur des Scheins und der Vertragsgestaltung ab. Laut ZGB Art. 768 ist eine Grundschuld ein Sicherungsrecht, das im Grundbuch eingetragen werden muss. Ein nicht identifizierter Schuldner kann jedoch nicht als verpflichtet angesehen werden, es sei denn, die Vertragsparteien haben dies ausdrücklich vereinbart. Der Schein, der keine Schuldner bezeichnet, könnte als fiduziarische Sicherheit interpretiert werden, wodurch keine Novation des bestehenden Schuldverhältnisses erfolgt. In diesem Fall wäre die Schuldverpflichtung weiterhin auf R Ltd. und T beschränkt, und die Vollstreckung könnte nur im Umfang des bestehenden Anspruchs erfolgen. Die Exigibilität des Scheins am 1. Februar 2014 ist fraglich, da die Vertragsparteien keine klare Vereinbarung über das Exigibilitätsdatum getroffen haben. Zudem könnte T eine Zurückhaltungsklage erheben, da er nicht als Schuldner identifiziert wurde. Die Zinsansprüche sind nur im Umfang der ursprünglichen Schuld geltend zu machen. Die Vollstreckung im Umfang des Scheins von CHF 420'000 ist daher nur unter der Voraussetzung rechtmässig, dass der Schein eine Novation darstellt und T und R Ltd. als Schuldner identifiziert wurden."
+    }
+  },
+  "test_006": {
+    "raw": "{\n  \"legal_areas\": [\"Produkthaftungsrecht\", \"Zivilrecht\", \"Vertragsrecht\", \"Schadensersatzrecht\"],\n  \"law_codes\": [\"PrHG\", \"ZGB\", \"OR\", \"StGB\", \"LRFP\"],\n  \"keywords_de\": [\"Produkthaftungsgesetz\", \"Mangel\", \"Schadensersatz\", \"Haftungsausschluss\", \"PrHG Art. 4\", \"PrHG Art. 5\", \"Mangelbeweis\", \"Fehlverhalten\", \"Verkehrsrecht\", \"Schadensersatzanspruch\", \"Exculpatio\", \"Technische Dokumentation\", \"Expertenmeinung\", \"Beweislast\", \"Verjährung\"],\n  \"hyde\": \"Die Frage, ob der Kläger den Mangelbeweis gemäß Art. 4 PrHG erbracht hat, hängt davon ab, ob die vorliegenden Beweismittel – insbesondere die Inspektionsfotos, der Expertenbericht und die technischen Veröffentlichungen – den Nachweis eines Mangels im Sinne des PrHG führen. Der Mangel im Sinne des PrHG setzt voraus, dass das Produkt nicht den vertraglich oder gesetzlich vorgeschriebenen Anforderungen entspricht, insbesondere wenn es nicht die erwartete Sicherheit oder Funktionalität gewährleistet. Der Expertenbericht, der ohne die tatsächlich entfernte Bremscheibe erstellt wurde, könnte als unvollständig oder ungenau angesehen werden, was die Beweislast des Klägers beeinträchtigen könnte. Zudem sind technische Veröffentlichungen, die ähnliche Spätfehler beschreiben, zwar relevant, können aber nicht allein als Beweis für einen Mangel im Sinne des PrHG dienen. Hinsichtlich der Haftungsausschlussvorschriften gemäß Art. 5 PrHG, insbesondere lit. b und e, müsste der Hersteller nachweisen, dass er keine vertragliche oder gesetzliche Verpflichtung zur Gewährleistung der Lebensdauer der Bremscheibe hatte und dass der Mangel nicht auf ein Fehlverhalten seinerseits zurückgeht. Sollte der Mangelbeweis nicht vollständig erbracht werden, könnte der Hersteller sich unter Umständen durch die Anwendung von Art. 5 PrHG von der Haftung befreien, sofern die Voraussetzungen dieser Norm erfüllt sind.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Produkthaftungsrecht",
+        "Zivilrecht",
+        "Vertragsrecht",
+        "Schadensersatzrecht"
+      ],
+      "law_codes": [
+        "PrHG",
+        "ZGB",
+        "OR",
+        "StGB",
+        "LRFP"
+      ],
+      "keywords_de": [
+        "Produkthaftungsgesetz",
+        "Mangel",
+        "Schadensersatz",
+        "Haftungsausschluss",
+        "PrHG Art. 4",
+        "PrHG Art. 5",
+        "Mangelbeweis",
+        "Fehlverhalten",
+        "Verkehrsrecht",
+        "Schadensersatzanspruch",
+        "Exculpatio",
+        "Technische Dokumentation",
+        "Expertenmeinung",
+        "Beweislast",
+        "Verjährung"
+      ],
+      "hyde": "Die Frage, ob der Kläger den Mangelbeweis gemäß Art. 4 PrHG erbracht hat, hängt davon ab, ob die vorliegenden Beweismittel – insbesondere die Inspektionsfotos, der Expertenbericht und die technischen Veröffentlichungen – den Nachweis eines Mangels im Sinne des PrHG führen. Der Mangel im Sinne des PrHG setzt voraus, dass das Produkt nicht den vertraglich oder gesetzlich vorgeschriebenen Anforderungen entspricht, insbesondere wenn es nicht die erwartete Sicherheit oder Funktionalität gewährleistet. Der Expertenbericht, der ohne die tatsächlich entfernte Bremscheibe erstellt wurde, könnte als unvollständig oder ungenau angesehen werden, was die Beweislast des Klägers beeinträchtigen könnte. Zudem sind technische Veröffentlichungen, die ähnliche Spätfehler beschreiben, zwar relevant, können aber nicht allein als Beweis für einen Mangel im Sinne des PrHG dienen. Hinsichtlich der Haftungsausschlussvorschriften gemäß Art. 5 PrHG, insbesondere lit. b und e, müsste der Hersteller nachweisen, dass er keine vertragliche oder gesetzliche Verpflichtung zur Gewährleistung der Lebensdauer der Bremscheibe hatte und dass der Mangel nicht auf ein Fehlverhalten seinerseits zurückgeht. Sollte der Mangelbeweis nicht vollständig erbracht werden, könnte der Hersteller sich unter Umständen durch die Anwendung von Art. 5 PrHG von der Haftung befreien, sofern die Voraussetzungen dieser Norm erfüllt sind."
+    }
+  },
+  "test_007": {
+    "raw": "{\n  \"legal_areas\": [\"Obligationenrecht\", \"Vertragsrecht\", \"Berufshaftung\", \"Arzt-Patientenrecht\", \"Schadensersatzrecht\"],\n  \"law_codes\": [\"OR\", \"ZGB\", \"StGB\", \"BGG\", \"IPRG\", \"DBG\"],\n  \"keywords_de\": [\"Vertragsgestaltung\", \"Auftragsgeschäft\", \"Arzt-Patientenverhältnis\", \"Pflichten des Arztes\", \"Vertragsbruch\", \"Schadensersatz\", \"Gefährdungshaftung\", \"Vertragsverhältnis\", \"Vertragsleistung\", \"Vertragsentgelt\", \"Vertragswidrigkeit\", \"Vertragsverletzung\", \"Vertragsanspruch\", \"Vertragsrücktritt\", \"Vertragsentgeltanspruch\"],\n  \"hyde\": \"Die vorliegende Fragestellung betrifft die rechtliche Einordnung der ophthalmologischen Leistungen Dr. Riveras sowie die Bewertung seiner Vertragspflichten im Rahmen des Arzt-Patientenverhältnisses. Zunächst ist zu prüfen, ob die Leistungen als Auftragsgeschäft (Mandat) oder als Werkvertrag zu qualifizieren sind. Nach Art. 101 OR ist ein Auftragsgeschäft dadurch gekennzeichnet, dass der Auftraggeber den Auftragnehmer zur Erbringung einer bestimmten Leistung verpflichtet, wobei der Auftragnehmer die Verantwortung für die ordnungsgemäße Ausführung trägt. Im Gegensatz dazu ist ein Werkvertrag nach Art. 102 OR dadurch gekennzeichnet, dass der Werkunternehmer die Verantwortung für die ordnungsgemäße Ausführung des Werkes trägt. Im vorliegenden Fall ist es wahrscheinlich, dass das Verhältnis als Auftragsgeschäft einzustufen ist, da der Arzt die Verantwortung für die ordnungsgemäße Durchführung der medizinischen Leistung trägt. Hinsichtlich der Vertragsbruchfrage ist zu prüfen, ob Dr. Rivera die Pflichten aus Art. 101 OR und Art. 112 OR verletzt hat, insbesondere durch das Fehlen von bildgebenden Verfahren und Voruntersuchungen. Eine Verletzung dieser Pflichten könnte einen Vertragsbruch darstellen und Schadensersatzansprüche der Patientin begründen. Zudem ist zu prüfen, ob Dr. Rivera Ansprüche auf Entgelt für die bereits erbrachten Leistungen geltend machen kann, wobei die Unvollständigkeit der Leistungen und das Vertrauensverlust der Patientin eine Rolle spielen könnten.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Obligationenrecht",
+        "Vertragsrecht",
+        "Berufshaftung",
+        "Arzt-Patientenrecht",
+        "Schadensersatzrecht"
+      ],
+      "law_codes": [
+        "OR",
+        "ZGB",
+        "StGB",
+        "BGG",
+        "IPRG",
+        "DBG"
+      ],
+      "keywords_de": [
+        "Vertragsgestaltung",
+        "Auftragsgeschäft",
+        "Arzt-Patientenverhältnis",
+        "Pflichten des Arztes",
+        "Vertragsbruch",
+        "Schadensersatz",
+        "Gefährdungshaftung",
+        "Vertragsverhältnis",
+        "Vertragsleistung",
+        "Vertragsentgelt",
+        "Vertragswidrigkeit",
+        "Vertragsverletzung",
+        "Vertragsanspruch",
+        "Vertragsrücktritt",
+        "Vertragsentgeltanspruch"
+      ],
+      "hyde": "Die vorliegende Fragestellung betrifft die rechtliche Einordnung der ophthalmologischen Leistungen Dr. Riveras sowie die Bewertung seiner Vertragspflichten im Rahmen des Arzt-Patientenverhältnisses. Zunächst ist zu prüfen, ob die Leistungen als Auftragsgeschäft (Mandat) oder als Werkvertrag zu qualifizieren sind. Nach Art. 101 OR ist ein Auftragsgeschäft dadurch gekennzeichnet, dass der Auftraggeber den Auftragnehmer zur Erbringung einer bestimmten Leistung verpflichtet, wobei der Auftragnehmer die Verantwortung für die ordnungsgemäße Ausführung trägt. Im Gegensatz dazu ist ein Werkvertrag nach Art. 102 OR dadurch gekennzeichnet, dass der Werkunternehmer die Verantwortung für die ordnungsgemäße Ausführung des Werkes trägt. Im vorliegenden Fall ist es wahrscheinlich, dass das Verhältnis als Auftragsgeschäft einzustufen ist, da der Arzt die Verantwortung für die ordnungsgemäße Durchführung der medizinischen Leistung trägt. Hinsichtlich der Vertragsbruchfrage ist zu prüfen, ob Dr. Rivera die Pflichten aus Art. 101 OR und Art. 112 OR verletzt hat, insbesondere durch das Fehlen von bildgebenden Verfahren und Voruntersuchungen. Eine Verletzung dieser Pflichten könnte einen Vertragsbruch darstellen und Schadensersatzansprüche der Patientin begründen. Zudem ist zu prüfen, ob Dr. Rivera Ansprüche auf Entgelt für die bereits erbrachten Leistungen geltend machen kann, wobei die Unvollständigkeit der Leistungen und das Vertrauensverlust der Patientin eine Rolle spielen könnten."
+    }
+  },
+  "test_008": {
+    "raw": "{\n  \"legal_areas\": [\"Private International Law\", \"Family Law\", \"Child Abduction Law\", \"International Jurisdiction\"],\n  \"law_codes\": [\"StGB\", \"StPO\", \"ZGB\", \"IPRG\", \"Lugano-Vertrag\", \"Brussels II bis\", \"ECHR\"],\n  \"keywords_de\": [\"Habituelle Aufenthaltsort\", \"Elternschaftsrecht\", \"Kindesentführung\", \"Jurisdiktion\", \"Lugano-Vertrag\", \"Provisorische Unterhaltsleistungen\", \"Zuständigkeit\", \"Gemeinsame Elternschaft\", \"Kindeswohl\", \"Internationales Privatrecht\", \"Brussels II bis\", \"Erschöpfung der Rechtsmittel\", \"Vorabentscheidung\"],\n  \"hyde\": \"Die Frage der Zuständigkeit der Schweizer Gerichte zur Ausstellung von vorläufigen Unterhaltsleistungen im Rahmen des internationalen Privatrechts und der Konventionen, insbesondere des Lugano-Vertrags und der Regelungen zur Kindesentführung, ist von zentraler Bedeutung. Nach dem Lugano-Vertrag (Art. 16) und der Richtlinie zur internationalen Zuständigkeit in Familienangelegenheiten (Brussels II bis) ist die Zuständigkeit für Angelegenheiten im Zusammenhang mit der Elternschaft und dem Aufenthaltsort des Kindes grundsätzlich dem Gericht zuständig, das den habitualen Aufenthaltsort des Kindes hat. In diesem Fall hat das deutsche Gericht am 21. Juni 2018 den habitualen Aufenthaltsort der Kinder im Rahmen des deutschen Verfahrens festgelegt und die gemeinsame Elternschaft anerkannt. Dies deutet darauf hin, dass die deutsche Gerichte die Zuständigkeit für die Angelegenheiten der Kinder haben. Die Schweizer Gerichte könnten daher nicht die alleinige Zuständigkeit haben, insbesondere wenn die Kinder nicht mehr im Schweizerischen Aufenthaltsort sind. Dennoch könnte die Schweizer Gerichte unter bestimmten Umständen, wie z. B. der Notwendigkeit einer vorläufigen Unterhaltsleistung, eine vorläufige Entscheidung treffen, wenn die deutsche Gerichte nicht rasch genug handeln. Allerdings ist die Zuständigkeit der deutschen Gerichte in diesem Fall klar, und die Schweizer Gerichte sollten sich auf die deutsche Jurisdiktion beschränken, es sei denn, es bestehen dringende Umstände, die eine vorläufige Entscheidung rechtfertigen.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Private International Law",
+        "Family Law",
+        "Child Abduction Law",
+        "International Jurisdiction"
+      ],
+      "law_codes": [
+        "StGB",
+        "StPO",
+        "ZGB",
+        "IPRG",
+        "Lugano-Vertrag",
+        "Brussels II bis",
+        "ECHR"
+      ],
+      "keywords_de": [
+        "Habituelle Aufenthaltsort",
+        "Elternschaftsrecht",
+        "Kindesentführung",
+        "Jurisdiktion",
+        "Lugano-Vertrag",
+        "Provisorische Unterhaltsleistungen",
+        "Zuständigkeit",
+        "Gemeinsame Elternschaft",
+        "Kindeswohl",
+        "Internationales Privatrecht",
+        "Brussels II bis",
+        "Erschöpfung der Rechtsmittel",
+        "Vorabentscheidung"
+      ],
+      "hyde": "Die Frage der Zuständigkeit der Schweizer Gerichte zur Ausstellung von vorläufigen Unterhaltsleistungen im Rahmen des internationalen Privatrechts und der Konventionen, insbesondere des Lugano-Vertrags und der Regelungen zur Kindesentführung, ist von zentraler Bedeutung. Nach dem Lugano-Vertrag (Art. 16) und der Richtlinie zur internationalen Zuständigkeit in Familienangelegenheiten (Brussels II bis) ist die Zuständigkeit für Angelegenheiten im Zusammenhang mit der Elternschaft und dem Aufenthaltsort des Kindes grundsätzlich dem Gericht zuständig, das den habitualen Aufenthaltsort des Kindes hat. In diesem Fall hat das deutsche Gericht am 21. Juni 2018 den habitualen Aufenthaltsort der Kinder im Rahmen des deutschen Verfahrens festgelegt und die gemeinsame Elternschaft anerkannt. Dies deutet darauf hin, dass die deutsche Gerichte die Zuständigkeit für die Angelegenheiten der Kinder haben. Die Schweizer Gerichte könnten daher nicht die alleinige Zuständigkeit haben, insbesondere wenn die Kinder nicht mehr im Schweizerischen Aufenthaltsort sind. Dennoch könnte die Schweizer Gerichte unter bestimmten Umständen, wie z. B. der Notwendigkeit einer vorläufigen Unterhaltsleistung, eine vorläufige Entscheidung treffen, wenn die deutsche Gerichte nicht rasch genug handeln. Allerdings ist die Zuständigkeit der deutschen Gerichte in diesem Fall klar, und die Schweizer Gerichte sollten sich auf die deutsche Jurisdiktion beschränken, es sei denn, es bestehen dringende Umstände, die eine vorläufige Entscheidung rechtfertigen."
+    }
+  },
+  "test_009": {
+    "raw": "{\n  \"legal_areas\": [\"Privatrecht\", \"Öffentliches Recht\", \"Bankrecht\", \"Internationales Privatrecht\", \"Erbrecht\", \"Strafrecht\"],\n  \"law_codes\": [\"ZGB\", \"StGB\", \"IPRG\", \"BGG\", \"OR\", \"StPO\", \"DBG\"],\n  \"keywords_de\": [\"Bigamie\", \"Apostille\", \"Erbrecht\", \"Internationales Privatrecht\", \"ZGB Art. 12\", \"IPRG Art. 1\", \"Erbschein\", \"Erbverhältnisse\", \"Öffentliche Ordnung\", \"Zustimmungspflicht\", \"Bankgeheimnis\", \"Erbverwaltung\", \"Erbrechtliche Anerkennung\", \"Fremdrechtsanwendung\", \"Erbrechtliche Verfahrensregeln\"],\n  \"hyde\": \"Die Frage, ob der ausländische Erbschein und die Ernennungsurkunde durch die kanadische Gerichtsbehörde in der Schweiz anerkannt und vollziehbar sind, hängt von der Anwendung des internationalen Privatrechts und des Bankrechts ab. Laut dem Schweizerischen Zivilgesetzbuch (ZGB) Art. 12 ist die Anerkennung ausländischer Gerichtsentscheidungen grundsätzlich zulässig, sofern sie nicht gegen die öffentliche Ordnung der Schweiz verstoßen. In diesem Fall könnte die Bigamie, die im Ausland stattfand, als Verstoß gegen die öffentliche Ordnung der Schweiz angesehen werden, da das Ehegesetz der Schweiz (Ehegesetz) die Ehe für eine Person auf einen Ehepartner beschränkt. Das internationale Privatrecht (IPRG) Art. 1 legt fest, dass die Anwendung des ausländischen Rechts erfolgt, sofern es nicht mit der Schweizerischen öffentlichen Ordnung kollidiert. Die fehlende Apostille könnte eine formelle Hürde darstellen, die jedoch nicht unbedingt die Anerkennung verhindert, sofern die formellen Anforderungen nicht als wesentlich für die Anerkennung angesehen werden. Das Bankrecht (BGG) und das Obligationenrecht (OR) regeln die Pflichten der Banken, Auskünfte zu erteilen, wobei das Bankgeheimnis (BGG Art. 1) und die Erbverwaltungsrechte (OR Art. 627) zu berücksichtigen sind. Die Anerkennung des ausländischen Erbscheins hängt letztlich von der Bewertung der konkreten Umstände ab, insbesondere der Frage, ob die Bigamie in der Schweiz als Verstoß gegen die öffentliche Ordnung gilt.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Privatrecht",
+        "Öffentliches Recht",
+        "Bankrecht",
+        "Internationales Privatrecht",
+        "Erbrecht",
+        "Strafrecht"
+      ],
+      "law_codes": [
+        "ZGB",
+        "StGB",
+        "IPRG",
+        "BGG",
+        "OR",
+        "StPO",
+        "DBG"
+      ],
+      "keywords_de": [
+        "Bigamie",
+        "Apostille",
+        "Erbrecht",
+        "Internationales Privatrecht",
+        "ZGB Art. 12",
+        "IPRG Art. 1",
+        "Erbschein",
+        "Erbverhältnisse",
+        "Öffentliche Ordnung",
+        "Zustimmungspflicht",
+        "Bankgeheimnis",
+        "Erbverwaltung",
+        "Erbrechtliche Anerkennung",
+        "Fremdrechtsanwendung",
+        "Erbrechtliche Verfahrensregeln"
+      ],
+      "hyde": "Die Frage, ob der ausländische Erbschein und die Ernennungsurkunde durch die kanadische Gerichtsbehörde in der Schweiz anerkannt und vollziehbar sind, hängt von der Anwendung des internationalen Privatrechts und des Bankrechts ab. Laut dem Schweizerischen Zivilgesetzbuch (ZGB) Art. 12 ist die Anerkennung ausländischer Gerichtsentscheidungen grundsätzlich zulässig, sofern sie nicht gegen die öffentliche Ordnung der Schweiz verstoßen. In diesem Fall könnte die Bigamie, die im Ausland stattfand, als Verstoß gegen die öffentliche Ordnung der Schweiz angesehen werden, da das Ehegesetz der Schweiz (Ehegesetz) die Ehe für eine Person auf einen Ehepartner beschränkt. Das internationale Privatrecht (IPRG) Art. 1 legt fest, dass die Anwendung des ausländischen Rechts erfolgt, sofern es nicht mit der Schweizerischen öffentlichen Ordnung kollidiert. Die fehlende Apostille könnte eine formelle Hürde darstellen, die jedoch nicht unbedingt die Anerkennung verhindert, sofern die formellen Anforderungen nicht als wesentlich für die Anerkennung angesehen werden. Das Bankrecht (BGG) und das Obligationenrecht (OR) regeln die Pflichten der Banken, Auskünfte zu erteilen, wobei das Bankgeheimnis (BGG Art. 1) und die Erbverwaltungsrechte (OR Art. 627) zu berücksichtigen sind. Die Anerkennung des ausländischen Erbscheins hängt letztlich von der Bewertung der konkreten Umstände ab, insbesondere der Frage, ob die Bigamie in der Schweiz als Verstoß gegen die öffentliche Ordnung gilt."
+    }
+  },
+  "test_010": {
+    "raw": "{\n  \"legal_areas\": [\"Strafrecht\", \"Strafverfahrensrecht\", \"Obligationenrecht\"],\n  \"law_codes\": [\"StGB\", \"StPO\", \"ZGB\", \"IPRG\", \"BGG\"],\n  \"keywords_de\": [\"Brigandage qualifié\", \"Mitverantwortung\", \"Tatverdächtiger\", \"Beweiswürdigung\", \"Art. 398 StPO\", \"dubio pro reo\", \"Gewaltanwendung\", \"Tatbeteiligung\", \"Schuldzuschreibung\", \"Beweiswürdigungspflicht\", \"Tatverdächtigerstatus\", \"Gemeinschaftsdelikt\", \"Schuldprinzip\", \"Schuldzuschreibungsgesetz\"],\n  \"hyde\": \"Die Frage, ob der Angeklagte als Mitverantwortlicher für ein qualifiziertes Raubdelikt (Brigandage qualifié) gemäß Art. 157 StGB verurteilt werden kann, hängt von der Bewertung seiner konkreten Tatbeteiligung ab. Obwohl er sich als Fahrer und unter Zwang beteiligt, sind Beweise wie biologische Spuren, Überwachungsvideo und die Identifikation durch den Nachtportier entscheidend. Diese Elemente könnten auf eine aktive Rolle als Organisator hindeuten, was eine Schuldzuschreibung als Mitverantwortlicher rechtfertigen könnte. Nach Art. 398 StPO ist es dem späteren Gericht gestattet, die Tatsachen und Beweise erneut zu prüfen, wobei das Prinzip in dubio pro reo beachtet werden muss. Dies bedeutet, dass bei Zweifeln an der Schuldzuschreibung der günstigere Auslegung zugunsten des Angeklagten zu entscheiden ist. Die Bewertung der Beweise und die Schuldzuschreibung hängen von der konkreten Tatbeteiligung und der Rolle des Angeklagten ab. Sollte das Gericht die Beweise als ausreichend für eine Schuldzuschreibung als Mitverantwortlicher für ein qualifiziertes Raubdelikt finden, könnte eine siebenjährige Strafe rechtfertigt werden. Allerdings muss das Gericht bei Zweifeln an der Schuldzuschreibung vorsichtig vorgehen und das Prinzip in dubio pro reo anwenden.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Strafrecht",
+        "Strafverfahrensrecht",
+        "Obligationenrecht"
+      ],
+      "law_codes": [
+        "StGB",
+        "StPO",
+        "ZGB",
+        "IPRG",
+        "BGG"
+      ],
+      "keywords_de": [
+        "Brigandage qualifié",
+        "Mitverantwortung",
+        "Tatverdächtiger",
+        "Beweiswürdigung",
+        "Art. 398 StPO",
+        "dubio pro reo",
+        "Gewaltanwendung",
+        "Tatbeteiligung",
+        "Schuldzuschreibung",
+        "Beweiswürdigungspflicht",
+        "Tatverdächtigerstatus",
+        "Gemeinschaftsdelikt",
+        "Schuldprinzip",
+        "Schuldzuschreibungsgesetz"
+      ],
+      "hyde": "Die Frage, ob der Angeklagte als Mitverantwortlicher für ein qualifiziertes Raubdelikt (Brigandage qualifié) gemäß Art. 157 StGB verurteilt werden kann, hängt von der Bewertung seiner konkreten Tatbeteiligung ab. Obwohl er sich als Fahrer und unter Zwang beteiligt, sind Beweise wie biologische Spuren, Überwachungsvideo und die Identifikation durch den Nachtportier entscheidend. Diese Elemente könnten auf eine aktive Rolle als Organisator hindeuten, was eine Schuldzuschreibung als Mitverantwortlicher rechtfertigen könnte. Nach Art. 398 StPO ist es dem späteren Gericht gestattet, die Tatsachen und Beweise erneut zu prüfen, wobei das Prinzip in dubio pro reo beachtet werden muss. Dies bedeutet, dass bei Zweifeln an der Schuldzuschreibung der günstigere Auslegung zugunsten des Angeklagten zu entscheiden ist. Die Bewertung der Beweise und die Schuldzuschreibung hängen von der konkreten Tatbeteiligung und der Rolle des Angeklagten ab. Sollte das Gericht die Beweise als ausreichend für eine Schuldzuschreibung als Mitverantwortlicher für ein qualifiziertes Raubdelikt finden, könnte eine siebenjährige Strafe rechtfertigt werden. Allerdings muss das Gericht bei Zweifeln an der Schuldzuschreibung vorsichtig vorgehen und das Prinzip in dubio pro reo anwenden."
+    }
+  },
+  "test_011": {
+    "raw": "{\n  \"legal_areas\": [\n    \"Zivilprozessrecht\",\n    \"Obligationenrecht\",\n    \"Internationales Privatrecht\",\n    \"Vertragsgestaltung\",\n    \"Handlungsvollmacht\"\n  ],\n  \"law_codes\": [\n    \"ZPO\",\n    \"OR\",\n    \"CO\",\n    \"LFors\",\n    \"LDIP\"\n  ],\n  \"keywords_de\": [\n    \"Forum-Selektionsklausel\",\n    \"Zuständigkeit ratione loci\",\n    \"Handlungsvollmacht\",\n    \"Unbefugte Vertretung\",\n    \"Vertragsgestaltung\",\n    \"Zustimmung zur fremden Gerichtsbarkeit\",\n    \"Zuständigkeit nach LDIP\",\n    \"Vertragsgültigkeit\",\n    \"Rechtsanwendung im internationalen Privatrecht\",\n    \"Vertragliche Zustimmung zur ausländischen Gerichtsbarkeit\"\n  ],\n  \"hyde\": \"Die Frage der Zuständigkeit der genevensischen Gerichte hängt von der Anwendung der schweizerischen Jurisdiktionssysteme (LFors, LDIP) sowie der Gültigkeit der Forum-Selektionsklausel in Artikel 12.04 des Vertrags ab. Aurora Trustees SA verfolgt zwei Ansprüche: einen persönlichen Anspruch auf Erstattung von CHF 119.450.35 und einen auf CHF 88.720, der von NOVA Tech Holdings übertragen wurde. Die Zuständigkeit der schweizerischen Gerichte ist nach LDIP Art. 10 zu prüfen, wobei die Vertragsparteien im Vertrag eine ausländische Gerichtsbarkeit (Delaware) ausdrücklich vereinbart haben. Allerdings könnte die Zuständigkeit der schweizerischen Gerichte unter LDIP Art. 10 Abs. 2 bestehen, wenn die Vertragsparteien nicht rechtmässig eine ausländische Gerichtsbarkeit vereinbart haben oder wenn die Vertragsparteien nicht rechtmässig eine ausländische Gerichtsbarkeit vereinbart haben oder wenn die Vertragsparteien nicht rechtmässig eine ausländische Gerichtsbarkeit vereinbart haben. Zudem ist zu prüfen, ob Mr. R als unautorisiertes Handlungsvollmacht (Art. 38 und 39 CO) handelte, was die Vertragsverbindlichkeit beeinflussen könnte. Die Gültigkeit der Forum-Selektionsklausel hängt von der Einwilligung der Parteien und der Einhaltung der schweizerischen Rechtsordnung ab. Sollte die Klausel ungültig sein, könnte die Zuständigkeit der schweizerischen Gerichte bestehen. Insgesamt ist die Frage der Zuständigkeit komplex und erfordert eine detaillierte Prüfung der Vertragsbedingungen, der Einwilligung der Parteien und der Anwendung der schweizerischen Jurisdiktionssysteme.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Zivilprozessrecht",
+        "Obligationenrecht",
+        "Internationales Privatrecht",
+        "Vertragsgestaltung",
+        "Handlungsvollmacht"
+      ],
+      "law_codes": [
+        "ZPO",
+        "OR",
+        "CO",
+        "LFors",
+        "LDIP"
+      ],
+      "keywords_de": [
+        "Forum-Selektionsklausel",
+        "Zuständigkeit ratione loci",
+        "Handlungsvollmacht",
+        "Unbefugte Vertretung",
+        "Vertragsgestaltung",
+        "Zustimmung zur fremden Gerichtsbarkeit",
+        "Zuständigkeit nach LDIP",
+        "Vertragsgültigkeit",
+        "Rechtsanwendung im internationalen Privatrecht",
+        "Vertragliche Zustimmung zur ausländischen Gerichtsbarkeit"
+      ],
+      "hyde": "Die Frage der Zuständigkeit der genevensischen Gerichte hängt von der Anwendung der schweizerischen Jurisdiktionssysteme (LFors, LDIP) sowie der Gültigkeit der Forum-Selektionsklausel in Artikel 12.04 des Vertrags ab. Aurora Trustees SA verfolgt zwei Ansprüche: einen persönlichen Anspruch auf Erstattung von CHF 119.450.35 und einen auf CHF 88.720, der von NOVA Tech Holdings übertragen wurde. Die Zuständigkeit der schweizerischen Gerichte ist nach LDIP Art. 10 zu prüfen, wobei die Vertragsparteien im Vertrag eine ausländische Gerichtsbarkeit (Delaware) ausdrücklich vereinbart haben. Allerdings könnte die Zuständigkeit der schweizerischen Gerichte unter LDIP Art. 10 Abs. 2 bestehen, wenn die Vertragsparteien nicht rechtmässig eine ausländische Gerichtsbarkeit vereinbart haben oder wenn die Vertragsparteien nicht rechtmässig eine ausländische Gerichtsbarkeit vereinbart haben oder wenn die Vertragsparteien nicht rechtmässig eine ausländische Gerichtsbarkeit vereinbart haben. Zudem ist zu prüfen, ob Mr. R als unautorisiertes Handlungsvollmacht (Art. 38 und 39 CO) handelte, was die Vertragsverbindlichkeit beeinflussen könnte. Die Gültigkeit der Forum-Selektionsklausel hängt von der Einwilligung der Parteien und der Einhaltung der schweizerischen Rechtsordnung ab. Sollte die Klausel ungültig sein, könnte die Zuständigkeit der schweizerischen Gerichte bestehen. Insgesamt ist die Frage der Zuständigkeit komplex und erfordert eine detaillierte Prüfung der Vertragsbedingungen, der Einwilligung der Parteien und der Anwendung der schweizerischen Jurisdiktionssysteme."
+    }
+  },
+  "test_012": {
+    "raw": "{\n  \"legal_areas\": [\"Obligationenrecht\", \"Zivilprozessrecht\", \"Verwaltungsrecht\", \"Handelsrecht\", \"Schuldrecht\"],\n  \"law_codes\": [\"OR\", \"ZGB\", \"StPO\", \"BGG\", \"IPRG\", \"DBG\"],\n  \"keywords_de\": [\"Faktoring\", \"Gemischter Vertrag\", \"Aufrechnung\", \"Verjährung\", \"Kontokorrent\", \"Schuldverhältnis\", \"Aufzeichnungspflicht\", \"Art. 400 OR\", \"Novation\", \"Vertragsgestaltung\", \"Schuldnerpflicht\", \"Verwahrpflicht\", \"Guthabenverwaltung\", \"Zinsen\", \"Zahlungspflicht\"],\n  \"hyde\": \"Die rechtliche Beziehung zwischen AlderCo-op und Dr. M ist zunächst zu prüfen, ob sie als Faktoring oder als gemischter Vertrag (Einschlag von Sammelverwahrung, Kredit und Kontokorrent) zu charakterisieren ist. Ein Faktoringvertrag unterliegt spezifischen Vorgaben, insbesondere hinsichtlich der Übertragung der Forderungen und der Verantwortung des Faktorings. Im Falle eines gemischten Vertrags hingegen sind die Rechte und Pflichten aus Sammelverwahrung (Art. 400 OR), Kreditvertrag und Kontokorrent zu trennen. Die Verjährung (Art. 106 ZGB) könnte unterschiedlich angewendet werden, je nach Vertragsform. Für die Verjährung der Forderungen ist die Verjährungsbeginn zu klären, insbesondere wenn Dr. M die Verjährung für ältere Forderungen anführt. Die Beweislast für die behaupteten USD 51.200 liegt bei AlderCo-op, insbesondere hinsichtlich der Aufzeichnungspflicht (Art. 400 OR) und der Nachweisführung der Ein- und Auszahlungen. Die Novation durch die schriftliche Vereinbarung vom 1. November 2014 könnte die Verbindlichkeit von USD 13.450 begründen, auch wenn Dr. M die Summe weiterhin bestreitet. Die Novation setzt voraus, dass die Parteien den Inhalt der Vereinbarung eindeutig und vollständig bestätigen. Soweit Dr. M die Verjährung oder die Beweisführung anficht, ist zu prüfen, ob die Voraussetzungen für eine Novation erfüllt sind und ob die Verjährung durch die Novation beeinflusst wird. Die Charakterisierung des Vertrags hat somit direkte Auswirkungen auf die Verjährung, die Beweislast und die Verbindlichkeit aus der Novation.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Obligationenrecht",
+        "Zivilprozessrecht",
+        "Verwaltungsrecht",
+        "Handelsrecht",
+        "Schuldrecht"
+      ],
+      "law_codes": [
+        "OR",
+        "ZGB",
+        "StPO",
+        "BGG",
+        "IPRG",
+        "DBG"
+      ],
+      "keywords_de": [
+        "Faktoring",
+        "Gemischter Vertrag",
+        "Aufrechnung",
+        "Verjährung",
+        "Kontokorrent",
+        "Schuldverhältnis",
+        "Aufzeichnungspflicht",
+        "Art. 400 OR",
+        "Novation",
+        "Vertragsgestaltung",
+        "Schuldnerpflicht",
+        "Verwahrpflicht",
+        "Guthabenverwaltung",
+        "Zinsen",
+        "Zahlungspflicht"
+      ],
+      "hyde": "Die rechtliche Beziehung zwischen AlderCo-op und Dr. M ist zunächst zu prüfen, ob sie als Faktoring oder als gemischter Vertrag (Einschlag von Sammelverwahrung, Kredit und Kontokorrent) zu charakterisieren ist. Ein Faktoringvertrag unterliegt spezifischen Vorgaben, insbesondere hinsichtlich der Übertragung der Forderungen und der Verantwortung des Faktorings. Im Falle eines gemischten Vertrags hingegen sind die Rechte und Pflichten aus Sammelverwahrung (Art. 400 OR), Kreditvertrag und Kontokorrent zu trennen. Die Verjährung (Art. 106 ZGB) könnte unterschiedlich angewendet werden, je nach Vertragsform. Für die Verjährung der Forderungen ist die Verjährungsbeginn zu klären, insbesondere wenn Dr. M die Verjährung für ältere Forderungen anführt. Die Beweislast für die behaupteten USD 51.200 liegt bei AlderCo-op, insbesondere hinsichtlich der Aufzeichnungspflicht (Art. 400 OR) und der Nachweisführung der Ein- und Auszahlungen. Die Novation durch die schriftliche Vereinbarung vom 1. November 2014 könnte die Verbindlichkeit von USD 13.450 begründen, auch wenn Dr. M die Summe weiterhin bestreitet. Die Novation setzt voraus, dass die Parteien den Inhalt der Vereinbarung eindeutig und vollständig bestätigen. Soweit Dr. M die Verjährung oder die Beweisführung anficht, ist zu prüfen, ob die Voraussetzungen für eine Novation erfüllt sind und ob die Verjährung durch die Novation beeinflusst wird. Die Charakterisierung des Vertrags hat somit direkte Auswirkungen auf die Verjährung, die Beweislast und die Verbindlichkeit aus der Novation."
+    }
+  },
+  "test_013": {
+    "raw": "{\n  \"legal_areas\": [\"Arbeitsrecht\", \"Tarifvertragsgesetz\", \"Zivilrecht\", \"Obligationenrecht\", \"Verwaltungsrecht\"],\n  \"law_codes\": [\"ATG\", \"OR\", \"ZGB\", \"BVG\", \"BGG\", \"IPRG\"],\n  \"keywords_de\": [\"Tarifvertragsgesetz\", \"Gewerbeordnung\", \"Kantonaler Tripartitismus\", \"Gewerbevertrag\", \"Arbeitsvertrag\", \"Mindestlohn\", \"Gewöhnlicher Lohn\", \"Zustimmungserklärung\", \"Verpflichtung zur Einhaltung\", \"Tarifvertrag\", \"Arbeitsrechtliche Pflichten\", \"Verwaltungsrechtliche Vorschriften\", \"Kollektivvertrag\", \"Zustimmung der Arbeitnehmer\", \"Gewerbevereinigung\"],\n  \"hyde\": \"Die Frage, ob eine mittelständige Zeitarbeitsfirma, die Mitglied einer regionalen Arbeitgebervereinigung ist, verpflichtet ist, die Löhne von befristet eingesetzten Produktionsarbeitskräften, die an einen Lebensmittelverpackungskunden vermittelt werden, auf den höheren lokalen „gewöhnlichen Lohn“ oder auf einen Mindestlohn über die in ihren Einsatzverträgen festgelegten Bruttostundenlöhne (z. B. CHF 17.50 oder CHF 24.00) aufzustocken, hängt von mehreren rechtlichen Aspekten ab. Zunächst ist zu prüfen, ob der Kollektivvertrag, der die Firma als Mitglied der regionalen Arbeitgebervereinigung bindet, eine Ausnahme für bestimmte Branchen (z. B. Lebensmittelverarbeitung) vorsieht, die auf den vom Kanton festgelegten „gewöhnlichen Lohn“ verweist. Laut Artikel 12 ATG kann ein Kollektivvertrag für bestimmte Branchen oder Unternehmen abweichen, wenn dies im Interesse der Wettbewerbsfähigkeit oder der Wirtschaftsordnung liegt. Zudem ist zu prüfen, ob die Firma durch ihre Mitgliedschaft in der regionalen Arbeitgebervereinigung verpflichtet ist, den Kollektivvertrag zu beachten, auch wenn die Arbeitnehmer nicht Mitglied der Vereinigung sind. Nach Artikel 14 ATG kann ein Kollektivvertrag auch für Arbeitnehmer gelten, die nicht Mitglied der Vereinigung sind, wenn sie in den Geltungsbereich des Vertrags fallen. Schließlich ist zu prüfen, ob die Firma durch die Verpflichtung aus dem ATG und der zugehörigen Verwaltungsrechtlichen Vorschriften verpflichtet ist, den Mindestlohn oder den gewöhnlichen Lohn zu beachten, auch wenn die Arbeitnehmer keine schriftliche Zustimmung zur Anwendung des Kollektivvertrags erteilt haben.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Arbeitsrecht",
+        "Tarifvertragsgesetz",
+        "Zivilrecht",
+        "Obligationenrecht",
+        "Verwaltungsrecht"
+      ],
+      "law_codes": [
+        "ATG",
+        "OR",
+        "ZGB",
+        "BVG",
+        "BGG",
+        "IPRG"
+      ],
+      "keywords_de": [
+        "Tarifvertragsgesetz",
+        "Gewerbeordnung",
+        "Kantonaler Tripartitismus",
+        "Gewerbevertrag",
+        "Arbeitsvertrag",
+        "Mindestlohn",
+        "Gewöhnlicher Lohn",
+        "Zustimmungserklärung",
+        "Verpflichtung zur Einhaltung",
+        "Tarifvertrag",
+        "Arbeitsrechtliche Pflichten",
+        "Verwaltungsrechtliche Vorschriften",
+        "Kollektivvertrag",
+        "Zustimmung der Arbeitnehmer",
+        "Gewerbevereinigung"
+      ],
+      "hyde": "Die Frage, ob eine mittelständige Zeitarbeitsfirma, die Mitglied einer regionalen Arbeitgebervereinigung ist, verpflichtet ist, die Löhne von befristet eingesetzten Produktionsarbeitskräften, die an einen Lebensmittelverpackungskunden vermittelt werden, auf den höheren lokalen „gewöhnlichen Lohn“ oder auf einen Mindestlohn über die in ihren Einsatzverträgen festgelegten Bruttostundenlöhne (z. B. CHF 17.50 oder CHF 24.00) aufzustocken, hängt von mehreren rechtlichen Aspekten ab. Zunächst ist zu prüfen, ob der Kollektivvertrag, der die Firma als Mitglied der regionalen Arbeitgebervereinigung bindet, eine Ausnahme für bestimmte Branchen (z. B. Lebensmittelverarbeitung) vorsieht, die auf den vom Kanton festgelegten „gewöhnlichen Lohn“ verweist. Laut Artikel 12 ATG kann ein Kollektivvertrag für bestimmte Branchen oder Unternehmen abweichen, wenn dies im Interesse der Wettbewerbsfähigkeit oder der Wirtschaftsordnung liegt. Zudem ist zu prüfen, ob die Firma durch ihre Mitgliedschaft in der regionalen Arbeitgebervereinigung verpflichtet ist, den Kollektivvertrag zu beachten, auch wenn die Arbeitnehmer nicht Mitglied der Vereinigung sind. Nach Artikel 14 ATG kann ein Kollektivvertrag auch für Arbeitnehmer gelten, die nicht Mitglied der Vereinigung sind, wenn sie in den Geltungsbereich des Vertrags fallen. Schließlich ist zu prüfen, ob die Firma durch die Verpflichtung aus dem ATG und der zugehörigen Verwaltungsrechtlichen Vorschriften verpflichtet ist, den Mindestlohn oder den gewöhnlichen Lohn zu beachten, auch wenn die Arbeitnehmer keine schriftliche Zustimmung zur Anwendung des Kollektivvertrags erteilt haben."
+    }
+  },
+  "test_014": {
+    "raw": "{\n  \"legal_areas\": [\"Unfallversicherungsgesetz (UVG)\", \"Arbeitsunfallversicherung (ATSG)\", \"Medizinrecht\", \"Verwaltungsrecht\"],\n  \"law_codes\": [\"UVG\", \"ATSG\", \"ZGB\", \"StPO\", \"OR\", \"IPRG\"],\n  \"keywords_de\": [\"Unfallversicherung\", \"Arbeitsunfall\", \"ATSG\", \"UVG\", \"Schadensersatz\", \"Degeneration\", \"Tendinopathie\", \"Vertrauensschutz\", \"Widersprüchliche Aussage\", \"Verwaltungsverfahren\", \"Medizinische Gutachten\", \"Schadensersatzpflicht\", \"Verhältnismässigkeit\", \"Verwaltungsrechtliche Prüfung\", \"Gutachtenverfahren\"],\n  \"hyde\": \"Die Frage, ob der Schulterschaden von L. vom 3. März 2023 als „Unfall“ im Sinne von Art. 4 ATSG oder subsidiär als „Verletzung, die einem Unfall gleichzusetzen ist“ im Sinne von Art. 6 Abs. 2 UVG gilt, hängt von der Beurteilung der Umstände des Geschehens ab. L. gab zunächst an, dass der Schaden während eines Freizeitbadminton-Spiels ohne besondere Ereignisse entstanden sei. Erst nachdem R. AG die Deckung verweigerte, behauptete er, er sei gestolpert und auf die Schulter gefallen. Diese widersprüchlichen Aussagen sind entscheidend, da die Versicherungspflicht im UVG von der Einordnung als Unfall abhängt. Laut Art. 4 ATSG ist ein Unfall ein plötzlich und unerwartet eintretendes Ereignis, das nicht durch die eigene Schuld oder das eigene Handeln verursacht wird. Die medizinischen Befunde, insbesondere die MRT und das Gutachten von Dr. S., deuten auf eine degenerative Tendinopathie hin, was die Frage aufwirft, ob der Schaden durch eine degenerative Erkrankung oder durch den angeblichen Sturz verursacht wurde. Nach Art. 6 Abs. 2 UVG kann eine Verletzung, die einem Unfall gleichzusetzen ist, auch bei degenerativen Erkrankungen in Betracht gezogen werden, wenn der Schaden durch ein plötzliches Ereignis ausgelöst wurde. Die Verwaltungsbehörde muss prüfen, ob die widersprüchlichen Aussagen von L. und die medizinischen Gutachten eine Verletzung im Sinne von Art. 6 Abs. 2 UVG rechtfertigen. Die Verhältnismäßigkeit der Versicherungspflicht und die Vertrauensschutzprinzipien sind ebenfalls zu berücksichtigen.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Unfallversicherungsgesetz (UVG)",
+        "Arbeitsunfallversicherung (ATSG)",
+        "Medizinrecht",
+        "Verwaltungsrecht"
+      ],
+      "law_codes": [
+        "UVG",
+        "ATSG",
+        "ZGB",
+        "StPO",
+        "OR",
+        "IPRG"
+      ],
+      "keywords_de": [
+        "Unfallversicherung",
+        "Arbeitsunfall",
+        "ATSG",
+        "UVG",
+        "Schadensersatz",
+        "Degeneration",
+        "Tendinopathie",
+        "Vertrauensschutz",
+        "Widersprüchliche Aussage",
+        "Verwaltungsverfahren",
+        "Medizinische Gutachten",
+        "Schadensersatzpflicht",
+        "Verhältnismässigkeit",
+        "Verwaltungsrechtliche Prüfung",
+        "Gutachtenverfahren"
+      ],
+      "hyde": "Die Frage, ob der Schulterschaden von L. vom 3. März 2023 als „Unfall“ im Sinne von Art. 4 ATSG oder subsidiär als „Verletzung, die einem Unfall gleichzusetzen ist“ im Sinne von Art. 6 Abs. 2 UVG gilt, hängt von der Beurteilung der Umstände des Geschehens ab. L. gab zunächst an, dass der Schaden während eines Freizeitbadminton-Spiels ohne besondere Ereignisse entstanden sei. Erst nachdem R. AG die Deckung verweigerte, behauptete er, er sei gestolpert und auf die Schulter gefallen. Diese widersprüchlichen Aussagen sind entscheidend, da die Versicherungspflicht im UVG von der Einordnung als Unfall abhängt. Laut Art. 4 ATSG ist ein Unfall ein plötzlich und unerwartet eintretendes Ereignis, das nicht durch die eigene Schuld oder das eigene Handeln verursacht wird. Die medizinischen Befunde, insbesondere die MRT und das Gutachten von Dr. S., deuten auf eine degenerative Tendinopathie hin, was die Frage aufwirft, ob der Schaden durch eine degenerative Erkrankung oder durch den angeblichen Sturz verursacht wurde. Nach Art. 6 Abs. 2 UVG kann eine Verletzung, die einem Unfall gleichzusetzen ist, auch bei degenerativen Erkrankungen in Betracht gezogen werden, wenn der Schaden durch ein plötzliches Ereignis ausgelöst wurde. Die Verwaltungsbehörde muss prüfen, ob die widersprüchlichen Aussagen von L. und die medizinischen Gutachten eine Verletzung im Sinne von Art. 6 Abs. 2 UVG rechtfertigen. Die Verhältnismäßigkeit der Versicherungspflicht und die Vertrauensschutzprinzipien sind ebenfalls zu berücksichtigen."
+    }
+  },
+  "test_015": {
+    "raw": "{\n  \"legal_areas\": [\"Obligationenrecht\", \"Ehe- und Familienrecht\", \"Zivilprozessrecht\", \"Vermögensrecht\"],\n  \"law_codes\": [\"OR\", \"ZGB\", \"StPO\", \"BGG\", \"IPRG\"],\n  \"keywords_de\": [\"Vermögensgesellschaft\", \"Vollmacht\", \"Fiduciäre Verwaltung\", \"Gütertrennung\", \"Ehevertrag\", \"Rückgewährleistung\", \"Pflicht zur Aufzeichnung\", \"Vermögensabgrenzung\", \"Ehegattenunterhalt\", \"Zugewinnausgleich\", \"Verjährung\", \"Geldleistung\", \"Vertrauensverhältnis\", \"Gutachten\", \"Verjährungsbeginn\"],\n  \"hyde\": \"Die vorliegende Fragestellung erfordert eine umfassende Analyse im Rahmen des Obligationenrechts (OR) und des Zivilgesetzbuches (ZGB), insbesondere unter Berücksichtigung der Regelungen zur Vermögensgesellschaft und zur fiduciären Verwaltung. Die Ehe wurde unter einer Gütertrennung abgeschlossen, was bedeutet, dass die Vermögensabgrenzung grundsätzlich klar ist. Dennoch könnte die Frau eine Vermögensgesellschaft oder eine Vollmacht für den Ehemann geltend machen, falls sie den Geldbetrag unter dem Vertrauen, dass er ihn für sie verwaltet, übergeben hat. Nach OR 626 Abs. 1 ist eine Vermögensgesellschaft angenommen, wenn ein Ehegatte ein Vermögen für den anderen verwaltet. In diesem Fall könnte die Frau eine Rückgewährleistung (OR 626 Abs. 2) beanspruchen, sofern der Ehemann den Betrag nicht für gemeinsame Haushaltsbedürfnisse verwendet hat. Die Pflicht zur Aufzeichnung (OR 626 Abs. 3) könnte gegen den Ehemann sprechen, da er keine detaillierten Aufzeichnungen über die Verwendung des Geldes gemacht hat. Hinsichtlich des Ehegattenunterhalts (ZGB Art. 158) könnte die Frau Anspruch auf einen Unterhalt haben, wenn sie nach der Eheschließung ihre berufliche Tätigkeit aufgab und sich auf den Ehemann verließ. Der Anspruch auf einen Unterhalt hängt jedoch von der Dauer der Ehe und der finanziellen Situation der Parteien ab. Die Verjährung (OR 113) könnte ebenfalls eine Rolle spielen, insbesondere wenn die Forderung nach CHF 160'000 bereits seit mehreren Jahren geltend gemacht wird. Eine Gutachtenstelle könnte helfen, die Verwendung des Geldes zu klären. Insgesamt hängt die Entscheidung von der Beurteilung des Vertrauensverhältnisses und der Verwaltungspflicht des Ehemannes ab.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Obligationenrecht",
+        "Ehe- und Familienrecht",
+        "Zivilprozessrecht",
+        "Vermögensrecht"
+      ],
+      "law_codes": [
+        "OR",
+        "ZGB",
+        "StPO",
+        "BGG",
+        "IPRG"
+      ],
+      "keywords_de": [
+        "Vermögensgesellschaft",
+        "Vollmacht",
+        "Fiduciäre Verwaltung",
+        "Gütertrennung",
+        "Ehevertrag",
+        "Rückgewährleistung",
+        "Pflicht zur Aufzeichnung",
+        "Vermögensabgrenzung",
+        "Ehegattenunterhalt",
+        "Zugewinnausgleich",
+        "Verjährung",
+        "Geldleistung",
+        "Vertrauensverhältnis",
+        "Gutachten",
+        "Verjährungsbeginn"
+      ],
+      "hyde": "Die vorliegende Fragestellung erfordert eine umfassende Analyse im Rahmen des Obligationenrechts (OR) und des Zivilgesetzbuches (ZGB), insbesondere unter Berücksichtigung der Regelungen zur Vermögensgesellschaft und zur fiduciären Verwaltung. Die Ehe wurde unter einer Gütertrennung abgeschlossen, was bedeutet, dass die Vermögensabgrenzung grundsätzlich klar ist. Dennoch könnte die Frau eine Vermögensgesellschaft oder eine Vollmacht für den Ehemann geltend machen, falls sie den Geldbetrag unter dem Vertrauen, dass er ihn für sie verwaltet, übergeben hat. Nach OR 626 Abs. 1 ist eine Vermögensgesellschaft angenommen, wenn ein Ehegatte ein Vermögen für den anderen verwaltet. In diesem Fall könnte die Frau eine Rückgewährleistung (OR 626 Abs. 2) beanspruchen, sofern der Ehemann den Betrag nicht für gemeinsame Haushaltsbedürfnisse verwendet hat. Die Pflicht zur Aufzeichnung (OR 626 Abs. 3) könnte gegen den Ehemann sprechen, da er keine detaillierten Aufzeichnungen über die Verwendung des Geldes gemacht hat. Hinsichtlich des Ehegattenunterhalts (ZGB Art. 158) könnte die Frau Anspruch auf einen Unterhalt haben, wenn sie nach der Eheschließung ihre berufliche Tätigkeit aufgab und sich auf den Ehemann verließ. Der Anspruch auf einen Unterhalt hängt jedoch von der Dauer der Ehe und der finanziellen Situation der Parteien ab. Die Verjährung (OR 113) könnte ebenfalls eine Rolle spielen, insbesondere wenn die Forderung nach CHF 160'000 bereits seit mehreren Jahren geltend gemacht wird. Eine Gutachtenstelle könnte helfen, die Verwendung des Geldes zu klären. Insgesamt hängt die Entscheidung von der Beurteilung des Vertrauensverhältnisses und der Verwaltungspflicht des Ehemannes ab."
+    }
+  },
+  "test_016": {
+    "raw": "{\n  \"legal_areas\": [\"Ehe- und Familienrecht\", \"Erwerbsersatzrecht\", \"Einkommensrecht\", \"Verfahrensrecht im Familienrecht\"],\n  \"law_codes\": [\"ZGB\", \"BGG\", \"StPO\", \"OR\", \"IPRG\", \"DBG\"],\n  \"keywords_de\": [\"Unterhaltspflicht\", \"Selbständiger Erwerb\", \"Nettogewinn\", \"Nichtverfügbarer Aufwand\", \"Einkommensberechnung\", \"Schutzmassnahmen\", \"Unterhaltsgestellung\", \"Ehevertrag\", \"Einkommensersatz\", \"Verfahren zur Unterhaltsgestellung\"],\n  \"hyde\": \"Im Rahmen der Unterhaltsgestellung für einen selbständigen Erwerbstätigen wie Alex ist die Frage entscheidend, ob der Unterhalt auf der Grundlage des durchschnittlichen Nettogewinns der letzten drei bis vier Jahre oder auf dem Gewinn des letzten Jahres, abzüglich persönlicher Abhebungen, berechnet werden soll. Laut dem Schweizerischen Zivilgesetzbuch (ZGB) und den Bestimmungen des Bundesgesetzes über die Gerichtsbarkeit (BGG) ist der Unterhalt auf der Grundlage des tatsächlichen Einkommens zu berechnen, wobei die nichtverfügbaren Aufwendungen, wie Hypothekenraten, Steuern und obligatorische Versicherungen, berücksichtigt werden müssen. Die Frage, ob die Kosten für eine zweite Ferienimmobilie als nichtverfügbare Aufwendungen gelten, hängt von der konkreten Verwendung und der Notwendigkeit dieser Ausgaben ab. Zudem ist zu prüfen, ob Morgan ein hypothetisches Einkommen für den Zeitraum nach 30. April 2015 im Rahmen der Unterhaltsgestellung berücksichtigt werden muss, was unter Berücksichtigung des Art. 128 ZGB und der Praxis der Schweizer Gerichte erfolgt. Die Verfahrensregeln gemäß StPO und BGG sind dabei zu beachten, um eine faire und gerechte Unterhaltsgestellung sicherzustellen.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Ehe- und Familienrecht",
+        "Erwerbsersatzrecht",
+        "Einkommensrecht",
+        "Verfahrensrecht im Familienrecht"
+      ],
+      "law_codes": [
+        "ZGB",
+        "BGG",
+        "StPO",
+        "OR",
+        "IPRG",
+        "DBG"
+      ],
+      "keywords_de": [
+        "Unterhaltspflicht",
+        "Selbständiger Erwerb",
+        "Nettogewinn",
+        "Nichtverfügbarer Aufwand",
+        "Einkommensberechnung",
+        "Schutzmassnahmen",
+        "Unterhaltsgestellung",
+        "Ehevertrag",
+        "Einkommensersatz",
+        "Verfahren zur Unterhaltsgestellung"
+      ],
+      "hyde": "Im Rahmen der Unterhaltsgestellung für einen selbständigen Erwerbstätigen wie Alex ist die Frage entscheidend, ob der Unterhalt auf der Grundlage des durchschnittlichen Nettogewinns der letzten drei bis vier Jahre oder auf dem Gewinn des letzten Jahres, abzüglich persönlicher Abhebungen, berechnet werden soll. Laut dem Schweizerischen Zivilgesetzbuch (ZGB) und den Bestimmungen des Bundesgesetzes über die Gerichtsbarkeit (BGG) ist der Unterhalt auf der Grundlage des tatsächlichen Einkommens zu berechnen, wobei die nichtverfügbaren Aufwendungen, wie Hypothekenraten, Steuern und obligatorische Versicherungen, berücksichtigt werden müssen. Die Frage, ob die Kosten für eine zweite Ferienimmobilie als nichtverfügbare Aufwendungen gelten, hängt von der konkreten Verwendung und der Notwendigkeit dieser Ausgaben ab. Zudem ist zu prüfen, ob Morgan ein hypothetisches Einkommen für den Zeitraum nach 30. April 2015 im Rahmen der Unterhaltsgestellung berücksichtigt werden muss, was unter Berücksichtigung des Art. 128 ZGB und der Praxis der Schweizer Gerichte erfolgt. Die Verfahrensregeln gemäß StPO und BGG sind dabei zu beachten, um eine faire und gerechte Unterhaltsgestellung sicherzustellen."
+    }
+  },
+  "test_017": {
+    "raw": "{\n  \"legal_areas\": [\"Mietrecht\", \"Prozessrecht\", \"Zivilprozessordnung\", \"Obligationenrecht\"],\n  \"law_codes\": [\"ZPO\", \"OR\", \"MietV\", \"StGB\", \"BGG\", \"IPRG\"],\n  \"keywords_de\": [\"Formularkündigung\", \"Mietvertrag\", \"Mietzinsrückstände\", \"Kündigungsfrist\", \"Zustellung\", \"Rücknahme der Zustellung\", \"Kündigungswirksamkeit\", \"Eilverfahren\", \"cas clairs\", \"Neuheit\", \"Nachweis\", \"Verjährung\", \"Zustimmung\", \"Prozesskosten\", \"Rechtsmittel\"],\n  \"hyde\": \"Die Frage der Rechtmäßigkeit der Formularkündigung und des Eilverfahrens zur Zwangsräumung hängt von der ordnungsgemäßen Zustellung der Kündigung und der Einhaltung der Kündigungsfrist ab. Laut Art. 325 ZPO ist die Zustellung durch den Postdienst wirksam, sofern sie im Rahmen der gesetzlichen Vorschriften erfolgt. Da die registrierten Briefe nicht abgeholt wurden und nach Ablauf der Postbehörde zurückerstattet wurden, ist die Zustellung fraglich. Die Formularkündigung vom 10. Oktober 2021 ist daher möglicherweise unwirksam, da die Zustellung nicht nachweisbar erfolgt ist. Zudem ist zu prüfen, ob die Kündigungsfrist von 30 Tagen gemäß MietV eingehalten wurde. Hinsichtlich der Eilverfahrensfrage ist zu beachten, dass das „cas clairs“-Verfahren nur unter bestimmten Voraussetzungen zulässig ist, insbesondere wenn die Mietzinsrückstände offensichtlich sind. Die Einlegung der Bankauszüge im Berufungsverfahren stellt eine Nova dar, die unter Umständen zulässig ist, wenn sie für die Rechtslage entscheidend ist. Sollten die Bankauszüge den Nachweis erbringen, dass die Mieter nur CHF 3,200 schulden, könnte dies zur Aufhebung der Zwangsräumung führen. Die Zulässigkeit der Nova hängt jedoch von der Verjährung und der Vertrauensschutzpflicht des Vermieters ab. Insgesamt ist die Rechtmäßigkeit der Kündigung und des Eilverfahrens fraglich, und die Einlegung der Bankauszüge könnte zu einer Aufhebung der Zwangsräumung führen.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Mietrecht",
+        "Prozessrecht",
+        "Zivilprozessordnung",
+        "Obligationenrecht"
+      ],
+      "law_codes": [
+        "ZPO",
+        "OR",
+        "MietV",
+        "StGB",
+        "BGG",
+        "IPRG"
+      ],
+      "keywords_de": [
+        "Formularkündigung",
+        "Mietvertrag",
+        "Mietzinsrückstände",
+        "Kündigungsfrist",
+        "Zustellung",
+        "Rücknahme der Zustellung",
+        "Kündigungswirksamkeit",
+        "Eilverfahren",
+        "cas clairs",
+        "Neuheit",
+        "Nachweis",
+        "Verjährung",
+        "Zustimmung",
+        "Prozesskosten",
+        "Rechtsmittel"
+      ],
+      "hyde": "Die Frage der Rechtmäßigkeit der Formularkündigung und des Eilverfahrens zur Zwangsräumung hängt von der ordnungsgemäßen Zustellung der Kündigung und der Einhaltung der Kündigungsfrist ab. Laut Art. 325 ZPO ist die Zustellung durch den Postdienst wirksam, sofern sie im Rahmen der gesetzlichen Vorschriften erfolgt. Da die registrierten Briefe nicht abgeholt wurden und nach Ablauf der Postbehörde zurückerstattet wurden, ist die Zustellung fraglich. Die Formularkündigung vom 10. Oktober 2021 ist daher möglicherweise unwirksam, da die Zustellung nicht nachweisbar erfolgt ist. Zudem ist zu prüfen, ob die Kündigungsfrist von 30 Tagen gemäß MietV eingehalten wurde. Hinsichtlich der Eilverfahrensfrage ist zu beachten, dass das „cas clairs“-Verfahren nur unter bestimmten Voraussetzungen zulässig ist, insbesondere wenn die Mietzinsrückstände offensichtlich sind. Die Einlegung der Bankauszüge im Berufungsverfahren stellt eine Nova dar, die unter Umständen zulässig ist, wenn sie für die Rechtslage entscheidend ist. Sollten die Bankauszüge den Nachweis erbringen, dass die Mieter nur CHF 3,200 schulden, könnte dies zur Aufhebung der Zwangsräumung führen. Die Zulässigkeit der Nova hängt jedoch von der Verjährung und der Vertrauensschutzpflicht des Vermieters ab. Insgesamt ist die Rechtmäßigkeit der Kündigung und des Eilverfahrens fraglich, und die Einlegung der Bankauszüge könnte zu einer Aufhebung der Zwangsräumung führen."
+    }
+  },
+  "test_018": {
+    "raw": "{\n  \"legal_areas\": [\"Strafverfahrensrecht\", \"Internationales Strafrecht\", \"Verwaltungsrecht\", \"Zivilprozessrecht\", \"Datenschutzrecht\"],\n  \"law_codes\": [\"StPO\", \"StGB\", \"BGG\", \"ZGB\", \"IPRG\", \"BV\", \"DBG\"],\n  \"keywords_de\": [\"Ersuchen um internationale Gerichtshilfe\", \"Ersuchen nach StGB\", \"Ersuchen nach BGG\", \"Ersuchen nach StPO\", \"Ersuchen nach ZGB\", \"Vernehmungspflicht\", \"Vernehmungspflicht für Dritte\", \"Vertraulichkeit\", \"Geschäftsgeheimnis\", \"Recht auf Anhörung\", \"Recht auf Widerspruch\", \"Recht auf Berufung\", \"Recht auf Rechtsmittel\", \"Recht auf Verfahrensverzögerung\", \"Recht auf Verfahrensverfügung\"],\n  \"hyde\": \"Die Frage, ob ein Ersuchen um internationale Gerichtshilfe, das zur Vernehmung eines Dritten führt, als Ersuchen zur Beweiserhebung gemäß Art. 14 StPO behandelt werden muss, hängt von der Auslegung des BGG und der StPO ab. Nach Art. 14 StPO ist eine Beweiserhebung durch einen Richter oder eine andere zuständige Stelle möglich, wobei der Betroffene das Recht auf Anhörung und Widerspruch hat. Das Fehlen von Angaben zu Rechtsmitteln und Fristen im Ersuchen könnte gemäß Art. 14 StPO und Art. 10 BGG die Verletzung des Rechts auf Anhörung und Widerspruch darstellen. Zudem könnte das Fehlen einer Einladung zur Darlegung von Geschäftsgeheimnisrechten gemäß Art. 10 BGG und Art. 14 StPO eine Verletzung des Rechts auf Berufung und Widerspruch darstellen. Die Verpflichtung zur Vernehmung eines Dritten, der nicht Partei im Verfahren ist, könnte unter Berücksichtigung von Art. 10 BGG und Art. 14 StPO nur unter Einhaltung der Verfahrensregeln erfolgen. Die Verletzung des Rechts auf Anhörung und Widerspruch könnte gemäß Art. 14 StPO und Art. 10 BGG die Zulässigkeit eines späten Widerspruchs auf Grundlage des Schutzes der Gutgläubigkeit rechtfertigen. Die Verpflichtung zur Vernehmung eines Dritten könnte daher nur unter Einhaltung der Verfahrensregeln und der Rechte des Betroffenen erfolgen.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Strafverfahrensrecht",
+        "Internationales Strafrecht",
+        "Verwaltungsrecht",
+        "Zivilprozessrecht",
+        "Datenschutzrecht"
+      ],
+      "law_codes": [
+        "StPO",
+        "StGB",
+        "BGG",
+        "ZGB",
+        "IPRG",
+        "BV",
+        "DBG"
+      ],
+      "keywords_de": [
+        "Ersuchen um internationale Gerichtshilfe",
+        "Ersuchen nach StGB",
+        "Ersuchen nach BGG",
+        "Ersuchen nach StPO",
+        "Ersuchen nach ZGB",
+        "Vernehmungspflicht",
+        "Vernehmungspflicht für Dritte",
+        "Vertraulichkeit",
+        "Geschäftsgeheimnis",
+        "Recht auf Anhörung",
+        "Recht auf Widerspruch",
+        "Recht auf Berufung",
+        "Recht auf Rechtsmittel",
+        "Recht auf Verfahrensverzögerung",
+        "Recht auf Verfahrensverfügung"
+      ],
+      "hyde": "Die Frage, ob ein Ersuchen um internationale Gerichtshilfe, das zur Vernehmung eines Dritten führt, als Ersuchen zur Beweiserhebung gemäß Art. 14 StPO behandelt werden muss, hängt von der Auslegung des BGG und der StPO ab. Nach Art. 14 StPO ist eine Beweiserhebung durch einen Richter oder eine andere zuständige Stelle möglich, wobei der Betroffene das Recht auf Anhörung und Widerspruch hat. Das Fehlen von Angaben zu Rechtsmitteln und Fristen im Ersuchen könnte gemäß Art. 14 StPO und Art. 10 BGG die Verletzung des Rechts auf Anhörung und Widerspruch darstellen. Zudem könnte das Fehlen einer Einladung zur Darlegung von Geschäftsgeheimnisrechten gemäß Art. 10 BGG und Art. 14 StPO eine Verletzung des Rechts auf Berufung und Widerspruch darstellen. Die Verpflichtung zur Vernehmung eines Dritten, der nicht Partei im Verfahren ist, könnte unter Berücksichtigung von Art. 10 BGG und Art. 14 StPO nur unter Einhaltung der Verfahrensregeln erfolgen. Die Verletzung des Rechts auf Anhörung und Widerspruch könnte gemäß Art. 14 StPO und Art. 10 BGG die Zulässigkeit eines späten Widerspruchs auf Grundlage des Schutzes der Gutgläubigkeit rechtfertigen. Die Verpflichtung zur Vernehmung eines Dritten könnte daher nur unter Einhaltung der Verfahrensregeln und der Rechte des Betroffenen erfolgen."
+    }
+  },
+  "test_019": {
+    "raw": "{\n  \"legal_areas\": [\"Familienrecht\", \"Internationaler Privatrecht\", \"Strafverfahrensrecht\", \"Zivilprozessrecht\"],\n  \"law_codes\": [\"ZGB\", \"StPO\", \"IPRG\", \"BGG\", \"OR\", \"StGB\"],\n  \"keywords_de\": [\"Provisionelle Unterhaltshilfe\", \"Ehe fürsorgliche Pflicht\", \"Anerkennung ausländischer Entscheidungen\", \"Öffentliche Ordnung\", \"Zuständigkeit\", \"Ehevertrag\", \"Fremdrechtliche Ehescheidung\", \"Prozessrecht\", \"Zustimmung\", \"Vollmacht\"],\n  \"hyde\": \"Die Frage, ob eine Schweizer Gerichtsbehörde provisionelle Unterhaltshilfe gewähren und aufrechterhalten darf, während die Ehescheidung der gleichen Eheleute im gemeinsamen Heimatstaat anhängig ist, hängt von der Anwendung des internationalen Privatrechts und des Zivilprozessrechts ab. Laut Artikel 148 ZGB ist die Ehe fürsorgliche Pflicht, und die Schweiz kann in solchen Fällen vorläufige Maßnahmen verhängen, um die Rechte der betroffenen Partei zu schützen. Die Anerkennung einer ausländischen Ehescheidung, die ohne persönliche Anwesenheit der Parteien erlassen wurde, unterliegt der Prüfung, ob sie der öffentlichen Ordnung der Schweiz zuwiderläuft. Laut Artikel 118 IPRG ist eine ausländische Entscheidung nur anerkannt, wenn sie nicht gegen die öffentliche Ordnung verstoßen würde. In diesem Fall ist es entscheidend, ob die Ehescheidung im Marokko rechtskräftig und formell korrekt erlassen wurde, insbesondere wenn der Beklagte durch einen Rechtsanwalt vertreten wurde. Die Schweizer Gerichte können die Anerkennung ablehnen, wenn sie den Grundsätzen des internationalen Privatrechts und der öffentlichen Ordnung widersprechen. Die Frage der Zuständigkeit und der Anerkennung der ausländischen Ehescheidung hängt auch von der Anwendung des BGG und der Prozessordnung ab, insbesondere in Bezug auf die Zustimmung und die Vollmacht der Parteien.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Familienrecht",
+        "Internationaler Privatrecht",
+        "Strafverfahrensrecht",
+        "Zivilprozessrecht"
+      ],
+      "law_codes": [
+        "ZGB",
+        "StPO",
+        "IPRG",
+        "BGG",
+        "OR",
+        "StGB"
+      ],
+      "keywords_de": [
+        "Provisionelle Unterhaltshilfe",
+        "Ehe fürsorgliche Pflicht",
+        "Anerkennung ausländischer Entscheidungen",
+        "Öffentliche Ordnung",
+        "Zuständigkeit",
+        "Ehevertrag",
+        "Fremdrechtliche Ehescheidung",
+        "Prozessrecht",
+        "Zustimmung",
+        "Vollmacht"
+      ],
+      "hyde": "Die Frage, ob eine Schweizer Gerichtsbehörde provisionelle Unterhaltshilfe gewähren und aufrechterhalten darf, während die Ehescheidung der gleichen Eheleute im gemeinsamen Heimatstaat anhängig ist, hängt von der Anwendung des internationalen Privatrechts und des Zivilprozessrechts ab. Laut Artikel 148 ZGB ist die Ehe fürsorgliche Pflicht, und die Schweiz kann in solchen Fällen vorläufige Maßnahmen verhängen, um die Rechte der betroffenen Partei zu schützen. Die Anerkennung einer ausländischen Ehescheidung, die ohne persönliche Anwesenheit der Parteien erlassen wurde, unterliegt der Prüfung, ob sie der öffentlichen Ordnung der Schweiz zuwiderläuft. Laut Artikel 118 IPRG ist eine ausländische Entscheidung nur anerkannt, wenn sie nicht gegen die öffentliche Ordnung verstoßen würde. In diesem Fall ist es entscheidend, ob die Ehescheidung im Marokko rechtskräftig und formell korrekt erlassen wurde, insbesondere wenn der Beklagte durch einen Rechtsanwalt vertreten wurde. Die Schweizer Gerichte können die Anerkennung ablehnen, wenn sie den Grundsätzen des internationalen Privatrechts und der öffentlichen Ordnung widersprechen. Die Frage der Zuständigkeit und der Anerkennung der ausländischen Ehescheidung hängt auch von der Anwendung des BGG und der Prozessordnung ab, insbesondere in Bezug auf die Zustimmung und die Vollmacht der Parteien."
+    }
+  },
+  "test_020": {
+    "raw": "{\n  \"legal_areas\": [\"Obligationenrecht\", \"Baurecht\", \"Zivilprozessrecht\", \"Sicherungsrecht\"],\n  \"law_codes\": [\"OR\", \"ZGB\", \"StPO\", \"BGG\", \"IPRG\"],\n  \"keywords_de\": [\"Bauvertrag\", \"Vollmachtsvertrag\", \"Mängelanspruch\", \"Fristverzug\", \"Gewährleistungsfrist\", \"Vollmachtsvertrag\", \"Vollmacht\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\"],\n  \"hyde\": \"Im vorliegenden Fall handelt es sich um einen Bauvertrag zwischen dem Grundstückseigentümer und dem Auftragnehmer HarborBuild Ltd. gemäß den Bestimmungen des Obligationenrechts (OR). Der Vertrag enthält eine festgelegte Summe von USD 245.000, eine Frist für die Fertigstellung bis 30. Juni 2018 sowie eine Regelung zur Verzugsentschädigung in Höhe von 1 % pro Arbeitstag. Der Auftragnehmer hat die Arbeiten durchgeführt, jedoch wurden während des Bauprozesses Änderungen durch den Eigentümer verlangt, was zu zusätzlichen Kosten führte. Der Projektmanager hat gewisse Kosten in Frage gestellt und Abzüge vorgenommen, während Subunternehmer später Arbeiten erneut ausführen mussten. Der Auftragnehmer hat eine vorläufige Eintragung eines gesetzlichen Baugrundschulds für den noch ausstehenden Betrag beantragt und später eine definitive Eintragung angestrebt. Der Eigentümer bestreitet die Höhe des Anspruchs, beruft sich auf Verzögerungen, vermutete Mängel und übermäßige Kosten für die Zusatzarbeiten und verlangt eine Sachverständigengutachten zur Klärung der Rechnung. Gemäß OR 122a Abs. 1 ist eine gesetzliche Baugrundschuld für den Anspruch auf die Leistung des Auftragnehmers eintragungsfähig, sofern die Voraussetzungen für die Eintragung erfüllt sind. Die Eintragung kann jedoch unter Umständen ausgeschlossen sein, wenn der Anspruch aufgrund von Mängeln oder Verzugsansprüchen des Auftraggebers in Frage gestellt wird. Ob eine Sachverständigengutachten erforderlich ist, hängt davon ab, ob die Streitigkeiten über die Rechnung und die Qualität der Leistungen eine objektive Klärung durch einen Sachverständigen erfordern. Dies könnte gemäß ZGB 116 Abs. 1 und 2 erforderlich sein, wenn die Streitigkeiten nicht durch die Parteien selbst beigelegt werden können.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Obligationenrecht",
+        "Baurecht",
+        "Zivilprozessrecht",
+        "Sicherungsrecht"
+      ],
+      "law_codes": [
+        "OR",
+        "ZGB",
+        "StPO",
+        "BGG",
+        "IPRG"
+      ],
+      "keywords_de": [
+        "Bauvertrag",
+        "Vollmachtsvertrag",
+        "Mängelanspruch",
+        "Fristverzug",
+        "Gewährleistungsfrist",
+        "Vollmachtsvertrag",
+        "Vollmacht",
+        "Vollmachtsvertrag",
+        "Vollmachtsvertrag",
+        "Vollmachtsvertrag",
+        "Vollmachtsvertrag",
+        "Vollmachtsvertrag",
+        "Vollmachtsvertrag",
+        "Vollmachtsvertrag",
+        "Vollmachtsvertrag"
+      ],
+      "hyde": "Im vorliegenden Fall handelt es sich um einen Bauvertrag zwischen dem Grundstückseigentümer und dem Auftragnehmer HarborBuild Ltd. gemäß den Bestimmungen des Obligationenrechts (OR). Der Vertrag enthält eine festgelegte Summe von USD 245.000, eine Frist für die Fertigstellung bis 30. Juni 2018 sowie eine Regelung zur Verzugsentschädigung in Höhe von 1 % pro Arbeitstag. Der Auftragnehmer hat die Arbeiten durchgeführt, jedoch wurden während des Bauprozesses Änderungen durch den Eigentümer verlangt, was zu zusätzlichen Kosten führte. Der Projektmanager hat gewisse Kosten in Frage gestellt und Abzüge vorgenommen, während Subunternehmer später Arbeiten erneut ausführen mussten. Der Auftragnehmer hat eine vorläufige Eintragung eines gesetzlichen Baugrundschulds für den noch ausstehenden Betrag beantragt und später eine definitive Eintragung angestrebt. Der Eigentümer bestreitet die Höhe des Anspruchs, beruft sich auf Verzögerungen, vermutete Mängel und übermäßige Kosten für die Zusatzarbeiten und verlangt eine Sachverständigengutachten zur Klärung der Rechnung. Gemäß OR 122a Abs. 1 ist eine gesetzliche Baugrundschuld für den Anspruch auf die Leistung des Auftragnehmers eintragungsfähig, sofern die Voraussetzungen für die Eintragung erfüllt sind. Die Eintragung kann jedoch unter Umständen ausgeschlossen sein, wenn der Anspruch aufgrund von Mängeln oder Verzugsansprüchen des Auftraggebers in Frage gestellt wird. Ob eine Sachverständigengutachten erforderlich ist, hängt davon ab, ob die Streitigkeiten über die Rechnung und die Qualität der Leistungen eine objektive Klärung durch einen Sachverständigen erfordern. Dies könnte gemäß ZGB 116 Abs. 1 und 2 erforderlich sein, wenn die Streitigkeiten nicht durch die Parteien selbst beigelegt werden können."
+    }
+  },
+  "test_021": {
+    "raw": "{\n  \"legal_areas\": [\"Obligationenrecht\", \"Handelsrecht\", \"Verkehrsrecht\", \"Vermittlerrecht\"],\n  \"law_codes\": [\"OR\", \"ZGB\", \"StGB\", \"BGG\", \"IPRG\"],\n  \"keywords_de\": [\"Vermittlerpflicht\", \"Submandat\", \"Auftraggeberverantwortung\", \"Geschäftsführerhaftung\", \"Verkehrsordnung\", \"Güterverkehr\", \"Schadensersatz\", \"Vertragsgestaltung\", \"Zustimmungspflicht\", \"Verkehrsrechtliche Verantwortung\", \"Geschäftsführer\", \"Subvermittler\", \"Gütertransport\", \"Verkehrsrechtliche Pflichten\", \"Verkehrsordnung Art. 398 Abs. 3 OR\", \"Verkehrsordnung Art. 399 Abs. 2 OR\"],\n  \"hyde\": \"Die Frage, ob Nordic Logistics SA als Vertragsvermittler für Alpine Trade GmbH haftet, hängt von der Vertragsgestaltung und der Anwendung des Obligationenrechts (OR) ab. Laut den Angaben handelt es sich um einen Auftrag, bei dem Nordic Logistics SA als Verkehrsvermittler tätig ist und die Verantwortung für den Transport übernimmt. Die Verantwortung für die Handlungen des Subvermittlers (Marina Cargo S.A.) hängt von der Frage ab, ob der Submandat eine direkte oder indirekte Verantwortung des Auftraggebers (Alpine Trade) darstellt. Laut Art. 398 Abs. 3 OR ist der Auftraggeber für die Handlungen des Submandat verantwortlich, wenn er den Submandat ohne Zustimmung des Auftraggebers eingesetzt hat. In diesem Fall ist es jedoch nicht klar, ob Alpine Trade die Verwendung des Subvermittlers genehmigt hat. Zudem ist zu prüfen, ob Nordic Logistics SA den Subvermittler ordnungsgemäß ausgewählt und angewiesen hat, was unter Art. 399 Abs. 2 OR relevant ist. Wenn Nordic Logistics SA den Subvermittler ordnungsgemäß ausgewählt und angewiesen hat, könnte die Haftung begrenzt sein. Allerdings könnte die Verantwortung des Auftraggebers (Alpine Trade) für den Schaden entstehen, wenn der Subvermittler nicht ordnungsgemäß angewiesen wurde. Die Verantwortung des Verkehrsvermittlers hängt also von der Vertragsgestaltung und der Einhaltung der Pflichten aus dem Obligationenrecht ab.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Obligationenrecht",
+        "Handelsrecht",
+        "Verkehrsrecht",
+        "Vermittlerrecht"
+      ],
+      "law_codes": [
+        "OR",
+        "ZGB",
+        "StGB",
+        "BGG",
+        "IPRG"
+      ],
+      "keywords_de": [
+        "Vermittlerpflicht",
+        "Submandat",
+        "Auftraggeberverantwortung",
+        "Geschäftsführerhaftung",
+        "Verkehrsordnung",
+        "Güterverkehr",
+        "Schadensersatz",
+        "Vertragsgestaltung",
+        "Zustimmungspflicht",
+        "Verkehrsrechtliche Verantwortung",
+        "Geschäftsführer",
+        "Subvermittler",
+        "Gütertransport",
+        "Verkehrsrechtliche Pflichten",
+        "Verkehrsordnung Art. 398 Abs. 3 OR",
+        "Verkehrsordnung Art. 399 Abs. 2 OR"
+      ],
+      "hyde": "Die Frage, ob Nordic Logistics SA als Vertragsvermittler für Alpine Trade GmbH haftet, hängt von der Vertragsgestaltung und der Anwendung des Obligationenrechts (OR) ab. Laut den Angaben handelt es sich um einen Auftrag, bei dem Nordic Logistics SA als Verkehrsvermittler tätig ist und die Verantwortung für den Transport übernimmt. Die Verantwortung für die Handlungen des Subvermittlers (Marina Cargo S.A.) hängt von der Frage ab, ob der Submandat eine direkte oder indirekte Verantwortung des Auftraggebers (Alpine Trade) darstellt. Laut Art. 398 Abs. 3 OR ist der Auftraggeber für die Handlungen des Submandat verantwortlich, wenn er den Submandat ohne Zustimmung des Auftraggebers eingesetzt hat. In diesem Fall ist es jedoch nicht klar, ob Alpine Trade die Verwendung des Subvermittlers genehmigt hat. Zudem ist zu prüfen, ob Nordic Logistics SA den Subvermittler ordnungsgemäß ausgewählt und angewiesen hat, was unter Art. 399 Abs. 2 OR relevant ist. Wenn Nordic Logistics SA den Subvermittler ordnungsgemäß ausgewählt und angewiesen hat, könnte die Haftung begrenzt sein. Allerdings könnte die Verantwortung des Auftraggebers (Alpine Trade) für den Schaden entstehen, wenn der Subvermittler nicht ordnungsgemäß angewiesen wurde. Die Verantwortung des Verkehrsvermittlers hängt also von der Vertragsgestaltung und der Einhaltung der Pflichten aus dem Obligationenrecht ab."
+    }
+  },
+  "test_022": {
+    "raw": "{\n  \"legal_areas\": [\n    \"Familienrecht\",\n    \"Internationaler Privatrecht\",\n    \"Kindeswohlrecht\",\n    \"Strafrecht (Kindesentführung)\",\n    \"Verfahrensrecht\"\n  ],\n  \"law_codes\": [\n    \"IPRG\",\n    \"StGB\",\n    \"ZGB\",\n    \"BGG\",\n    \"Hague Convention on the Civil Aspects of International Child Abduction (1980)\"\n  ],\n  \"keywords_de\": [\n    \"Kindeswohl\",\n    \"Vormundschaft\",\n    \"Besuchsrecht\",\n    \"Provisorische Maßnahmen\",\n    \"Habituelle Aufenthaltsstätte\",\n    \"IPRG Art. 10\",\n    \"IPRG Art. 46\",\n    \"Verfahrensrechtliche Zuständigkeit\",\n    \"Kindesentführung\",\n    \"Schutzmaßnahmen im Eheverhältnis\",\n    \"Prinzip der perpetuatio fori\",\n    \"Hague-Abkommen 1980\",\n    \"Zuständigkeit des Lausanner Gerichts\",\n    \"Anerkennung ausländischer Entscheidungen\",\n    \"Zustimmung der Eltern\"\n  ],\n  \"hyde\": \"Die Frage, ob die Schweizer Gerichte Schutzmaßnahmen für das Eheverhältnis und insbesondere für die Kinder (Vormundschaft, Besuchsrecht, vorläufige Maßnahmen) verhängen können, obwohl ein Scheidungsverfahren im Ausland anhängig ist, hängt von der Anwendung des internationalen Privatrechts (IPRG) und der Bewertung der gerichtlichen Zuständigkeit ab. Laut Art. 10 IPRG können Schweizer Gerichte vorläufige Maßnahmen verhängen, wenn die Voraussetzungen für die Zuständigkeit vorliegen, unabhängig davon, ob ein ausländisches Verfahren anhängig ist. In diesem Fall hat die Mutter am 3. November 2011 in Lausanne eine Beschwerde für Schutzmaßnahmen im Eheverhältnis und für die Kinder eingelegt, wobei die Kinder zu diesem Zeitpunkt ihre gewöhnliche Aufenthaltsstätte in Lausanne hatten. Dies könnte die Zuständigkeit des Lausanner Gerichts gemäß dem Prinzip der perpetuatio fori stützen, das in der Schweiz und im Rahmen des 1996er Haager Übereinkommens anerkannt wird. Zudem könnte Art. 46 IPRG relevant sein, wenn die Anerkennung der ausländischen Scheidungsentscheidung nicht a priori ausgeschlossen ist. Die fehlerhafte Zustellung im Ausland und die spätere Kindesentführung könnten die Notwendigkeit von vorläufigen Maßnahmen unterstreichen, um das Wohl der Kinder zu schützen. Das Gericht müsste daher prüfen, ob die Voraussetzungen für die Anwendung von Art. 10 IPRG erfüllt sind und ob die gewöhnliche Aufenthaltsstätte der Kinder die Zuständigkeit des Lausanner Gerichts rechtfertigt.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Familienrecht",
+        "Internationaler Privatrecht",
+        "Kindeswohlrecht",
+        "Strafrecht (Kindesentführung)",
+        "Verfahrensrecht"
+      ],
+      "law_codes": [
+        "IPRG",
+        "StGB",
+        "ZGB",
+        "BGG",
+        "Hague Convention on the Civil Aspects of International Child Abduction (1980)"
+      ],
+      "keywords_de": [
+        "Kindeswohl",
+        "Vormundschaft",
+        "Besuchsrecht",
+        "Provisorische Maßnahmen",
+        "Habituelle Aufenthaltsstätte",
+        "IPRG Art. 10",
+        "IPRG Art. 46",
+        "Verfahrensrechtliche Zuständigkeit",
+        "Kindesentführung",
+        "Schutzmaßnahmen im Eheverhältnis",
+        "Prinzip der perpetuatio fori",
+        "Hague-Abkommen 1980",
+        "Zuständigkeit des Lausanner Gerichts",
+        "Anerkennung ausländischer Entscheidungen",
+        "Zustimmung der Eltern"
+      ],
+      "hyde": "Die Frage, ob die Schweizer Gerichte Schutzmaßnahmen für das Eheverhältnis und insbesondere für die Kinder (Vormundschaft, Besuchsrecht, vorläufige Maßnahmen) verhängen können, obwohl ein Scheidungsverfahren im Ausland anhängig ist, hängt von der Anwendung des internationalen Privatrechts (IPRG) und der Bewertung der gerichtlichen Zuständigkeit ab. Laut Art. 10 IPRG können Schweizer Gerichte vorläufige Maßnahmen verhängen, wenn die Voraussetzungen für die Zuständigkeit vorliegen, unabhängig davon, ob ein ausländisches Verfahren anhängig ist. In diesem Fall hat die Mutter am 3. November 2011 in Lausanne eine Beschwerde für Schutzmaßnahmen im Eheverhältnis und für die Kinder eingelegt, wobei die Kinder zu diesem Zeitpunkt ihre gewöhnliche Aufenthaltsstätte in Lausanne hatten. Dies könnte die Zuständigkeit des Lausanner Gerichts gemäß dem Prinzip der perpetuatio fori stützen, das in der Schweiz und im Rahmen des 1996er Haager Übereinkommens anerkannt wird. Zudem könnte Art. 46 IPRG relevant sein, wenn die Anerkennung der ausländischen Scheidungsentscheidung nicht a priori ausgeschlossen ist. Die fehlerhafte Zustellung im Ausland und die spätere Kindesentführung könnten die Notwendigkeit von vorläufigen Maßnahmen unterstreichen, um das Wohl der Kinder zu schützen. Das Gericht müsste daher prüfen, ob die Voraussetzungen für die Anwendung von Art. 10 IPRG erfüllt sind und ob die gewöhnliche Aufenthaltsstätte der Kinder die Zuständigkeit des Lausanner Gerichts rechtfertigt."
+    }
+  },
+  "test_023": {
+    "raw": "{\n  \"legal_areas\": [\"Obligationenrecht\", \"Strafverfahrensrecht\", \"AHV-Recht\", \"Gesellschaftsrecht\", \"Zivilprozessrecht\"],\n  \"law_codes\": [\"OR\", \"AHVG\", \"StPO\", \"ZGB\", \"BGG\", \"IPRG\"],\n  \"keywords_de\": [\"Gesellschafterhaftung\", \"AHV-Beiträge\", \"Verwaltungsverfahren\", \"Gesellschaftsorgan\", \"Verwaltungsakt\", \"Verfahrensfehler\", \"Differenzierte Solidarität\", \"Haftungsbeschränkung\", \"Verwaltungsrechtliche Zuständigkeit\", \"Gesellschaftsregister\", \"Gesellschaftsvertrag\", \"Verwaltungsentscheid\", \"Verfahrensrecht\", \"Verwaltungsgerichtsbarkeit\", \"Verwaltungsaktformalitäten\"],\n  \"hyde\": \"Die Frage der Haftung von L. als ehemaligem Verwaltungsorgan der Helios Logistics SA für den nicht gezahlten AHV-Beitrag im Jahr 2006–2007 erfordert eine umfassende Prüfung unter Berücksichtigung des AHVG, insbesondere Art. 52 Abs. 1, sowie der gesellschaftsrechtlichen und verwaltungsrechtlichen Vorgaben. L. argumentiert, dass die Verwaltungsakten der AHV-Kantonalen nicht ordnungsgemäß an die Gesellschaft abgesandt wurden, da er zu diesem Zeitpunkt nicht mehr Verwaltungsorgan war. Dies könnte die formelle Rechtmäßigkeit der Verwaltungsakten in Frage stellen, wobei die Verwaltungsrechtliche Zuständigkeit des AHV-Kantonalen und die Formvorschriften des Art. 52 Abs. 1 AHVG zu prüfen sind. Zudem beruft sich L. auf die Theorie der differenzierten Solidarität, wonach die Haftung des Verwaltungsorgans begrenzt sein könnte, wenn es nicht für die Verwaltung der Löhne und Beiträge zuständig war. Die Verletzung des Verfahrensrechts, insbesondere der Rechte auf Anhörung und Beweisaufnahme, könnte ebenfalls eine Verfahrensfehler darstellen, die die Verwaltungsentscheidung in Frage stellen. Die Prüfung der Haftung erfordert eine Analyse der gesellschaftsrechtlichen Pflichten des Verwaltungsorgans, der Verwaltungsaktenformalitäten sowie der Verfahrensrechte im Rahmen des ZGB und der BGG. Die Verwaltungsgerichtsbarkeit wird entscheiden, ob die Verwaltungsentscheidung rechtmäßig und ob L. unter den gegebenen Umständen haftbar ist.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Obligationenrecht",
+        "Strafverfahrensrecht",
+        "AHV-Recht",
+        "Gesellschaftsrecht",
+        "Zivilprozessrecht"
+      ],
+      "law_codes": [
+        "OR",
+        "AHVG",
+        "StPO",
+        "ZGB",
+        "BGG",
+        "IPRG"
+      ],
+      "keywords_de": [
+        "Gesellschafterhaftung",
+        "AHV-Beiträge",
+        "Verwaltungsverfahren",
+        "Gesellschaftsorgan",
+        "Verwaltungsakt",
+        "Verfahrensfehler",
+        "Differenzierte Solidarität",
+        "Haftungsbeschränkung",
+        "Verwaltungsrechtliche Zuständigkeit",
+        "Gesellschaftsregister",
+        "Gesellschaftsvertrag",
+        "Verwaltungsentscheid",
+        "Verfahrensrecht",
+        "Verwaltungsgerichtsbarkeit",
+        "Verwaltungsaktformalitäten"
+      ],
+      "hyde": "Die Frage der Haftung von L. als ehemaligem Verwaltungsorgan der Helios Logistics SA für den nicht gezahlten AHV-Beitrag im Jahr 2006–2007 erfordert eine umfassende Prüfung unter Berücksichtigung des AHVG, insbesondere Art. 52 Abs. 1, sowie der gesellschaftsrechtlichen und verwaltungsrechtlichen Vorgaben. L. argumentiert, dass die Verwaltungsakten der AHV-Kantonalen nicht ordnungsgemäß an die Gesellschaft abgesandt wurden, da er zu diesem Zeitpunkt nicht mehr Verwaltungsorgan war. Dies könnte die formelle Rechtmäßigkeit der Verwaltungsakten in Frage stellen, wobei die Verwaltungsrechtliche Zuständigkeit des AHV-Kantonalen und die Formvorschriften des Art. 52 Abs. 1 AHVG zu prüfen sind. Zudem beruft sich L. auf die Theorie der differenzierten Solidarität, wonach die Haftung des Verwaltungsorgans begrenzt sein könnte, wenn es nicht für die Verwaltung der Löhne und Beiträge zuständig war. Die Verletzung des Verfahrensrechts, insbesondere der Rechte auf Anhörung und Beweisaufnahme, könnte ebenfalls eine Verfahrensfehler darstellen, die die Verwaltungsentscheidung in Frage stellen. Die Prüfung der Haftung erfordert eine Analyse der gesellschaftsrechtlichen Pflichten des Verwaltungsorgans, der Verwaltungsaktenformalitäten sowie der Verfahrensrechte im Rahmen des ZGB und der BGG. Die Verwaltungsgerichtsbarkeit wird entscheiden, ob die Verwaltungsentscheidung rechtmäßig und ob L. unter den gegebenen Umständen haftbar ist."
+    }
+  },
+  "test_024": {
+    "raw": "{\n  \"legal_areas\": [\"Ehe- und Familienrecht\", \"Verfahrensrecht\", \"Obligationenrecht\", \"Strafverfahrensrecht\"],\n  \"law_codes\": [\"ZGB\", \"StPO\", \"OR\", \"StGB\", \"BGG\", \"IPRG\", \"DBG\"],\n  \"keywords_de\": [\"Ehevertrag\", \"Unterhaltspflicht\", \"Einkommensfeststellung\", \"Beweislast\", \"Beweiserhebung\", \"Verfahrensrechtliche Pflichten\", \"Widerspruch\", \"Berufsunfähigkeit\", \"Eigentumsaufteilung\", \"Verfahrensverzögerung\", \"Zivilprozessordnung\", \"Beweiswürdigung\", \"Verfahrensrechtliche Anforderungen\", \"Verfahrensrechtliche Verpflichtung\", \"Verfahrensrechtliche Prüfung\"],\n  \"hyde\": \"Im Rahmen des Ehe- und Familienrechts gemäß ZGB und der Verfahrensordnung (StPO) ist bei Streitigkeiten über das Einkommen eines Ehegatten und die Berufsunfähigkeit eine gründliche Beweiserhebung erforderlich. Die Frage, ob der Richter im Zivilverfahren den Beweisstandard der überzeugenden Sicherheit anwenden muss, ist entscheidend. Nach StPO § 128 ist der Richter verpflichtet, alle objektiv klärbaren Tatsachen durch Beweiserhebung zu ermitteln, insbesondere wenn die Parteien über das Einkommen und die Berufsunfähigkeit streiten. Im Gegensatz zu Notfallsituationen, bei denen ein niedrigerer Beweisstandard angewendet werden kann, ist im ordentlichen Verfahren eine umfassende Beweiserhebung erforderlich, einschließlich Zeugenvernehmung und medizinischer Gutachten. Zudem ist die Frage, ob ein Richter im Berufungsverfahren eine Verzögerung der Eigentumsaufteilung anordnen kann, wenn dies im ersten Verfahren nicht beantragt wurde, relevant. Nach StPO § 132 ist der Richter berechtigt, alle Verfahrensfragen zu prüfen, auch wenn sie nicht im ersten Verfahren behandelt wurden, sofern sie für die Rechtsprechung entscheidend sind. Es ist daher zu prüfen, ob die Verzögerung der Eigentumsaufteilung im Interesse einer vollständigen Rechtsprechung liegt.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Ehe- und Familienrecht",
+        "Verfahrensrecht",
+        "Obligationenrecht",
+        "Strafverfahrensrecht"
+      ],
+      "law_codes": [
+        "ZGB",
+        "StPO",
+        "OR",
+        "StGB",
+        "BGG",
+        "IPRG",
+        "DBG"
+      ],
+      "keywords_de": [
+        "Ehevertrag",
+        "Unterhaltspflicht",
+        "Einkommensfeststellung",
+        "Beweislast",
+        "Beweiserhebung",
+        "Verfahrensrechtliche Pflichten",
+        "Widerspruch",
+        "Berufsunfähigkeit",
+        "Eigentumsaufteilung",
+        "Verfahrensverzögerung",
+        "Zivilprozessordnung",
+        "Beweiswürdigung",
+        "Verfahrensrechtliche Anforderungen",
+        "Verfahrensrechtliche Verpflichtung",
+        "Verfahrensrechtliche Prüfung"
+      ],
+      "hyde": "Im Rahmen des Ehe- und Familienrechts gemäß ZGB und der Verfahrensordnung (StPO) ist bei Streitigkeiten über das Einkommen eines Ehegatten und die Berufsunfähigkeit eine gründliche Beweiserhebung erforderlich. Die Frage, ob der Richter im Zivilverfahren den Beweisstandard der überzeugenden Sicherheit anwenden muss, ist entscheidend. Nach StPO § 128 ist der Richter verpflichtet, alle objektiv klärbaren Tatsachen durch Beweiserhebung zu ermitteln, insbesondere wenn die Parteien über das Einkommen und die Berufsunfähigkeit streiten. Im Gegensatz zu Notfallsituationen, bei denen ein niedrigerer Beweisstandard angewendet werden kann, ist im ordentlichen Verfahren eine umfassende Beweiserhebung erforderlich, einschließlich Zeugenvernehmung und medizinischer Gutachten. Zudem ist die Frage, ob ein Richter im Berufungsverfahren eine Verzögerung der Eigentumsaufteilung anordnen kann, wenn dies im ersten Verfahren nicht beantragt wurde, relevant. Nach StPO § 132 ist der Richter berechtigt, alle Verfahrensfragen zu prüfen, auch wenn sie nicht im ersten Verfahren behandelt wurden, sofern sie für die Rechtsprechung entscheidend sind. Es ist daher zu prüfen, ob die Verzögerung der Eigentumsaufteilung im Interesse einer vollständigen Rechtsprechung liegt."
+    }
+  },
+  "test_025": {
+    "raw": "{\n  \"legal_areas\": [\"Ehe- und Familienrecht\", \"Zivilprozessrecht\", \"Internationales Privatrecht\", \"Eigentumsrecht\", \"Versicherungsrecht\"],\n  \"law_codes\": [\"ZGB\", \"StPO\", \"IPRG\", \"OR\", \"BGG\", \"DBG\"],\n  \"keywords_de\": [\"Ehegattenwohl\", \"Gütergemeinschaft\", \"Auflösung der Ehe\", \"Auslandsimmobilie\", \"Eigentumsverhältnisse\", \"Versicherungsschadensersatz\", \"Gütertrennung\", \"Erschließungsgutachten\", \"Beweislast\", \"Gütergemeinschaftsvermögen\", \"Zusammenhang mit der Ehe\", \"Verhältnis der Ehegatten\", \"Zusammenhang mit der Ehe\", \"Gütergemeinschaftsrecht\", \"Verhältnis der Ehegatten\"],\n  \"hyde\": \"Die Frage, ob ein Schweizer Ehescheidungsgericht im Rahmen der Auflösung der Gütergemeinschaft eine im Ausland gelegene Immobilie, die von den Ehegatten gemeinsam besitzt, verpflichtet, zu verkaufen oder anderweitig zuzuordnen, hängt von der Anwendung des internationalen Privatrechts ab. Laut Art. 12 IIPRG ist die materielle Rechtsordnung für die Auflösung der Gütergemeinschaft das Schweizer ZGB. Jedoch kann das Gericht nicht direkt eine Auslandsimmobilie verpflichten, da dies eine Frage der Eigentumsverhältnisse ist, die im Ausland geregelt wird. Die Aufteilung der Immobilie müsste daher im Ausland erfolgen, bevor sie in die Auflösung der Gütergemeinschaft einbezogen werden kann. Hinsichtlich der Versicherungssumme von CHF 95'000 gilt gemäß Art. 17 ZGB, dass Vermögen, das während der Ehe erworben wird, als gemeinsames Vermögen gilt, es sei denn, es wird nachgewiesen, dass es aus einer anderen Quelle stammt. Da keine Beweise vorlagen, wurde die Summe als gemeinsames Vermögen angenommen. Was den Wagen betrifft, der 2009 erworben wurde, fehlte es an Beweisen, um zu belegen, dass er Teil der Gütergemeinschaft war. Das Gericht hat daher die Klage abgewiesen, da die Beweislast nicht erfüllt wurde. Die Anwendung der Beweislastregeln gemäß Art. 28 StPO und Art. 17 ZGB ist entscheidend, um die Zuordnung von Vermögen zu klären.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Ehe- und Familienrecht",
+        "Zivilprozessrecht",
+        "Internationales Privatrecht",
+        "Eigentumsrecht",
+        "Versicherungsrecht"
+      ],
+      "law_codes": [
+        "ZGB",
+        "StPO",
+        "IPRG",
+        "OR",
+        "BGG",
+        "DBG"
+      ],
+      "keywords_de": [
+        "Ehegattenwohl",
+        "Gütergemeinschaft",
+        "Auflösung der Ehe",
+        "Auslandsimmobilie",
+        "Eigentumsverhältnisse",
+        "Versicherungsschadensersatz",
+        "Gütertrennung",
+        "Erschließungsgutachten",
+        "Beweislast",
+        "Gütergemeinschaftsvermögen",
+        "Zusammenhang mit der Ehe",
+        "Verhältnis der Ehegatten",
+        "Zusammenhang mit der Ehe",
+        "Gütergemeinschaftsrecht",
+        "Verhältnis der Ehegatten"
+      ],
+      "hyde": "Die Frage, ob ein Schweizer Ehescheidungsgericht im Rahmen der Auflösung der Gütergemeinschaft eine im Ausland gelegene Immobilie, die von den Ehegatten gemeinsam besitzt, verpflichtet, zu verkaufen oder anderweitig zuzuordnen, hängt von der Anwendung des internationalen Privatrechts ab. Laut Art. 12 IIPRG ist die materielle Rechtsordnung für die Auflösung der Gütergemeinschaft das Schweizer ZGB. Jedoch kann das Gericht nicht direkt eine Auslandsimmobilie verpflichten, da dies eine Frage der Eigentumsverhältnisse ist, die im Ausland geregelt wird. Die Aufteilung der Immobilie müsste daher im Ausland erfolgen, bevor sie in die Auflösung der Gütergemeinschaft einbezogen werden kann. Hinsichtlich der Versicherungssumme von CHF 95'000 gilt gemäß Art. 17 ZGB, dass Vermögen, das während der Ehe erworben wird, als gemeinsames Vermögen gilt, es sei denn, es wird nachgewiesen, dass es aus einer anderen Quelle stammt. Da keine Beweise vorlagen, wurde die Summe als gemeinsames Vermögen angenommen. Was den Wagen betrifft, der 2009 erworben wurde, fehlte es an Beweisen, um zu belegen, dass er Teil der Gütergemeinschaft war. Das Gericht hat daher die Klage abgewiesen, da die Beweislast nicht erfüllt wurde. Die Anwendung der Beweislastregeln gemäß Art. 28 StPO und Art. 17 ZGB ist entscheidend, um die Zuordnung von Vermögen zu klären."
+    }
+  },
+  "test_026": {
+    "raw": "{\n  \"legal_areas\": [\"Familienrecht\", \"Ehe- und Scheidungsrecht\", \"Obligationenrecht\", \"Eigentumsrecht\", \"Kindergeldrecht\"],\n  \"law_codes\": [\"ZGB\", \"OR\", \"StGB\", \"BGG\", \"IPRG\", \"DBG\"],\n  \"keywords_de\": [\"Ehegattenvermögen\", \"Scheidung\", \"Kindesunterhalt\", \"Eigentumsrecht\", \"Mietvertrag\", \"Gemeinschaftsvermögen\", \"Nachscheidungsmaintenance\", \"Außergewöhnliche Aufwendungen\", \"Elternschaftsrecht\", \"Unterhaltsanspruch\", \"Vermögensaufteilung\", \"Mietentgelt\", \"Verwaltungsrecht\", \"Vermögensverwaltung\", \"Gemeinschaftsvermögen\"],\n  \"hyde\": \"Im Rahmen des Schweizerischen Zivilgesetzbuches (ZGB) und des Obligationenrechts (OR) ist die Frage der Vermögensverteilung nach der Scheidung von Jordan und Priya Malik zu prüfen. Da keine Ehevertrag existiert, gilt das gesetzliche Ehegattenvermögen (ZGB Art. 156 ff.). Das gemeinsam erworbenen Vermögen, wie das Bungalow, unterliegt der Aufteilung, wobei die Ehegatten jeweils einen Anteil von 50 % besitzen. Die Mieteinnahmen, die Jordan während der Nutzung des Bungalows erzielt hat, sind als Ertrag des gemeinsamen Vermögens zu betrachten. Laut ZGB Art. 158 ist der Ertrag des gemeinsamen Vermögens zwischen den Ehegatten zu teilen. Priya könnte daher Anspruch auf die Hälfte der Mieteinnahmen haben, sofern Jordan nicht bereits die gesamte Miete für die Aufrechterhaltung des Vermögens verwendet hat.\\n\\nNach der Scheidung kann Priya unter bestimmten Voraussetzungen einen Nachscheidungsmaintenance (ZGB Art. 161) beanspruchen, sofern sie sich in einer finanziellen Notlage befindet und Jordan über ausreichende Mittel verfügt. Der Anspruch auf Nachscheidungsmaintenance hängt von der finanziellen Situation beider Ehegatten ab.\\n\\nDer Kindesunterhalt (ZGB Art. 162) ist in der Regel auf der Grundlage des Einkommens und der Verpflichtungen des Elternteils zu berechnen. Priya könnte eine Anpassung des Kindesunterhalts verlangen, wenn sich die Lebensumstände geändert haben. Für außergewöhnliche Aufwendungen, wie Psychotherapie oder orthodontische Behandlungen, kann der Elternteil, der den Unterhalt zahlt, verpflichtet sein, entsprechende Beiträge zu leisten, sofern die Kosten als notwendig und angemessen erachtet werden (ZGB Art. 163).\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Familienrecht",
+        "Ehe- und Scheidungsrecht",
+        "Obligationenrecht",
+        "Eigentumsrecht",
+        "Kindergeldrecht"
+      ],
+      "law_codes": [
+        "ZGB",
+        "OR",
+        "StGB",
+        "BGG",
+        "IPRG",
+        "DBG"
+      ],
+      "keywords_de": [
+        "Ehegattenvermögen",
+        "Scheidung",
+        "Kindesunterhalt",
+        "Eigentumsrecht",
+        "Mietvertrag",
+        "Gemeinschaftsvermögen",
+        "Nachscheidungsmaintenance",
+        "Außergewöhnliche Aufwendungen",
+        "Elternschaftsrecht",
+        "Unterhaltsanspruch",
+        "Vermögensaufteilung",
+        "Mietentgelt",
+        "Verwaltungsrecht",
+        "Vermögensverwaltung",
+        "Gemeinschaftsvermögen"
+      ],
+      "hyde": "Im Rahmen des Schweizerischen Zivilgesetzbuches (ZGB) und des Obligationenrechts (OR) ist die Frage der Vermögensverteilung nach der Scheidung von Jordan und Priya Malik zu prüfen. Da keine Ehevertrag existiert, gilt das gesetzliche Ehegattenvermögen (ZGB Art. 156 ff.). Das gemeinsam erworbenen Vermögen, wie das Bungalow, unterliegt der Aufteilung, wobei die Ehegatten jeweils einen Anteil von 50 % besitzen. Die Mieteinnahmen, die Jordan während der Nutzung des Bungalows erzielt hat, sind als Ertrag des gemeinsamen Vermögens zu betrachten. Laut ZGB Art. 158 ist der Ertrag des gemeinsamen Vermögens zwischen den Ehegatten zu teilen. Priya könnte daher Anspruch auf die Hälfte der Mieteinnahmen haben, sofern Jordan nicht bereits die gesamte Miete für die Aufrechterhaltung des Vermögens verwendet hat.\n\nNach der Scheidung kann Priya unter bestimmten Voraussetzungen einen Nachscheidungsmaintenance (ZGB Art. 161) beanspruchen, sofern sie sich in einer finanziellen Notlage befindet und Jordan über ausreichende Mittel verfügt. Der Anspruch auf Nachscheidungsmaintenance hängt von der finanziellen Situation beider Ehegatten ab.\n\nDer Kindesunterhalt (ZGB Art. 162) ist in der Regel auf der Grundlage des Einkommens und der Verpflichtungen des Elternteils zu berechnen. Priya könnte eine Anpassung des Kindesunterhalts verlangen, wenn sich die Lebensumstände geändert haben. Für außergewöhnliche Aufwendungen, wie Psychotherapie oder orthodontische Behandlungen, kann der Elternteil, der den Unterhalt zahlt, verpflichtet sein, entsprechende Beiträge zu leisten, sofern die Kosten als notwendig und angemessen erachtet werden (ZGB Art. 163)."
+    }
+  },
+  "test_027": {
+    "raw": "{\n  \"legal_areas\": [\"Kindeswohl\", \"Sorgerecht\", \"Strafverfahrensrecht\", \"Familienrecht\", \"Kindesmisshandlung\"],\n  \"law_codes\": [\"ZGB\", \"StGB\", \"StPO\", \"BGG\", \"IPRG\", \"DBG\"],\n  \"keywords_de\": [\"Kindeswohlprinzip\", \"Sorgerechtsverfahren\", \"Provisionelle Unterbringung\", \"Kindesmisshandlung\", \"Loyalitätskonflikt\", \"Kindesinterview\", \"Schutz vor Misshandlung\", \"Betreuungsrecht\", \"Familienbeurteilung\", \"Kindeswohlverfahren\", \"Vollzugsrecht\", \"Kindeswohlverfahrensrecht\", \"Kindeswohlverfahrensgesetz\", \"Kindeswohlverfahrensrichtlinien\"],\n  \"hyde\": \"Im vorliegenden Fall handelt es sich um ein Kindeswohlverfahren gemäß dem ZGB und BGG, bei dem die Frage der vorläufigen Unterbringung der Kinder im Vordergrund steht. Die vorläufige Maßnahme, die alleinige Sorge dem Vater zu übertragen und eine Betreuung für die Bildung sowie überwachte Kontakte einzurichten, wurde auf Grundlage eines professionellen Familienbeurteilungsberichts und der Verdachtsmomente von Kindesmisshandlung durch das Kindeswohlverfahrensrecht gerechtfertigt. Die Verpflichtung, den jüngeren Kindesgenossen von einer bestimmten Person zu trennen, ergibt sich aus dem Schutz vor weiterer Gefährdung gemäß StGB. Die Mutter beantragt eine Beschleunigung der Überprüfung der vorläufigen Maßnahmen, insbesondere eine erneute direkte Befragung der Kinder. Allerdings ist zu berücksichtigen, dass eine erneute direkte Befragung bei jungen Kindern einen Loyalitätskonflikt erzeugen könnte, insbesondere wenn sie bereits von professionellen Gutachtern befragt wurden. Das Kindeswohlprinzip, das im ZGB und BGG verankert ist, erlaubt es dem Überprüfungsorgan, die vorläufige Maßnahme beizubehalten, wenn sie als im Einklang mit dem Kindeswohl und den gesetzlichen Kriterien steht. Die vorliegenden Gutachten und die Risiken einer erneuten Befragung rechtfertigen es, die vorläufige Unterbringung des Kindes beim Vater zu bestätigen, da dies den bestmöglichen Schutz für die Kinder gewährleistet.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Kindeswohl",
+        "Sorgerecht",
+        "Strafverfahrensrecht",
+        "Familienrecht",
+        "Kindesmisshandlung"
+      ],
+      "law_codes": [
+        "ZGB",
+        "StGB",
+        "StPO",
+        "BGG",
+        "IPRG",
+        "DBG"
+      ],
+      "keywords_de": [
+        "Kindeswohlprinzip",
+        "Sorgerechtsverfahren",
+        "Provisionelle Unterbringung",
+        "Kindesmisshandlung",
+        "Loyalitätskonflikt",
+        "Kindesinterview",
+        "Schutz vor Misshandlung",
+        "Betreuungsrecht",
+        "Familienbeurteilung",
+        "Kindeswohlverfahren",
+        "Vollzugsrecht",
+        "Kindeswohlverfahrensrecht",
+        "Kindeswohlverfahrensgesetz",
+        "Kindeswohlverfahrensrichtlinien"
+      ],
+      "hyde": "Im vorliegenden Fall handelt es sich um ein Kindeswohlverfahren gemäß dem ZGB und BGG, bei dem die Frage der vorläufigen Unterbringung der Kinder im Vordergrund steht. Die vorläufige Maßnahme, die alleinige Sorge dem Vater zu übertragen und eine Betreuung für die Bildung sowie überwachte Kontakte einzurichten, wurde auf Grundlage eines professionellen Familienbeurteilungsberichts und der Verdachtsmomente von Kindesmisshandlung durch das Kindeswohlverfahrensrecht gerechtfertigt. Die Verpflichtung, den jüngeren Kindesgenossen von einer bestimmten Person zu trennen, ergibt sich aus dem Schutz vor weiterer Gefährdung gemäß StGB. Die Mutter beantragt eine Beschleunigung der Überprüfung der vorläufigen Maßnahmen, insbesondere eine erneute direkte Befragung der Kinder. Allerdings ist zu berücksichtigen, dass eine erneute direkte Befragung bei jungen Kindern einen Loyalitätskonflikt erzeugen könnte, insbesondere wenn sie bereits von professionellen Gutachtern befragt wurden. Das Kindeswohlprinzip, das im ZGB und BGG verankert ist, erlaubt es dem Überprüfungsorgan, die vorläufige Maßnahme beizubehalten, wenn sie als im Einklang mit dem Kindeswohl und den gesetzlichen Kriterien steht. Die vorliegenden Gutachten und die Risiken einer erneuten Befragung rechtfertigen es, die vorläufige Unterbringung des Kindes beim Vater zu bestätigen, da dies den bestmöglichen Schutz für die Kinder gewährleistet."
+    }
+  },
+  "test_028": {
+    "raw": "{\n  \"legal_areas\": [\"Obligationenrecht\", \"Schadensrecht\", \"Baurecht\", \"Verkehrsrecht\", \"Zivilrecht\"],\n  \"law_codes\": [\"OR\", \"ZGB\", \"BGG\", \"IPRG\", \"StGB\", \"BV\"],\n  \"keywords_de\": [\"Konstruktionsmangel\", \"Wartungspflicht\", \"Schadensersatz\", \"Verkehrspflicht\", \"Gefährdungshaftung\", \"Schutzpflicht\", \"Glasverglasung\", \"Sicherheitsglas\", \"Bauvorschriften\", \"Schadensursache\", \"Schadensverursacher\", \"Schadensersatzanspruch\", \"Verkehrsgefährdung\", \"Mangelhaftigkeit\"],\n  \"hyde\": \"Die Frage der Haftung des Eigentümers des Gebäudes im Rahmen von Art. 58 Abs. 1 OR hängt von der Beurteilung eines Konstruktionsmangels oder einer ungenügenden Wartung ab, der zu den Verletzungen der Besucherin geführt hat. Der Einsatz von Floatglas an einer stark genutzten Eingangstür, insbesondere in Verbindung mit einer technischen Anpassung des Türschlieβers, könnte als Mangel im Sinne von Art. 58 Abs. 1 OR angesehen werden, wenn dies gegen geltende Bauvorschriften oder Sicherheitsstandards verstoβt. Die Tatsache, dass das Glas nach vier Jahren als defekt identifiziert wurde, deutet auf eine unzureichende Wartung hin, was die Pflicht zur Sicherstellung der Sicherheit der Nutzer des Gebäudes untergräbt. Zwar könnte die Nutzungskraft der Besucherin, die den Türflügel mit dem Fuβ befestigt hat, als unvorhersehbare äußere Einwirkung angesehen werden, doch dies ändert nichts an der Pflicht des Eigentümers, eine sicherheitstechnisch angemessene Konstruktion zu gewährleisten. Die Verwendung von Floatglas an einer Eingangstür, die nachts nur durch Schlüssel oder Tastatur zugänglich ist, und die Tatsache, dass der Türschlieβer vor etwa 14 Tagen angepasst wurde, könnten als Indizien für eine ungenügende Wartung und Mangelhaftigkeit der Konstruktion dienen. Die Haftung des Eigentümers könnte daher unter Berücksichtigung von Art. 58 Abs. 1 OR und Art. 11 ZGB bestehen, sofern der Mangel nicht durch eine unvorhersehbare äußere Einwirkung oder eine unzumutbare Verantwortung der Besucherin ausgeschlossen werden kann.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Obligationenrecht",
+        "Schadensrecht",
+        "Baurecht",
+        "Verkehrsrecht",
+        "Zivilrecht"
+      ],
+      "law_codes": [
+        "OR",
+        "ZGB",
+        "BGG",
+        "IPRG",
+        "StGB",
+        "BV"
+      ],
+      "keywords_de": [
+        "Konstruktionsmangel",
+        "Wartungspflicht",
+        "Schadensersatz",
+        "Verkehrspflicht",
+        "Gefährdungshaftung",
+        "Schutzpflicht",
+        "Glasverglasung",
+        "Sicherheitsglas",
+        "Bauvorschriften",
+        "Schadensursache",
+        "Schadensverursacher",
+        "Schadensersatzanspruch",
+        "Verkehrsgefährdung",
+        "Mangelhaftigkeit"
+      ],
+      "hyde": "Die Frage der Haftung des Eigentümers des Gebäudes im Rahmen von Art. 58 Abs. 1 OR hängt von der Beurteilung eines Konstruktionsmangels oder einer ungenügenden Wartung ab, der zu den Verletzungen der Besucherin geführt hat. Der Einsatz von Floatglas an einer stark genutzten Eingangstür, insbesondere in Verbindung mit einer technischen Anpassung des Türschlieβers, könnte als Mangel im Sinne von Art. 58 Abs. 1 OR angesehen werden, wenn dies gegen geltende Bauvorschriften oder Sicherheitsstandards verstoβt. Die Tatsache, dass das Glas nach vier Jahren als defekt identifiziert wurde, deutet auf eine unzureichende Wartung hin, was die Pflicht zur Sicherstellung der Sicherheit der Nutzer des Gebäudes untergräbt. Zwar könnte die Nutzungskraft der Besucherin, die den Türflügel mit dem Fuβ befestigt hat, als unvorhersehbare äußere Einwirkung angesehen werden, doch dies ändert nichts an der Pflicht des Eigentümers, eine sicherheitstechnisch angemessene Konstruktion zu gewährleisten. Die Verwendung von Floatglas an einer Eingangstür, die nachts nur durch Schlüssel oder Tastatur zugänglich ist, und die Tatsache, dass der Türschlieβer vor etwa 14 Tagen angepasst wurde, könnten als Indizien für eine ungenügende Wartung und Mangelhaftigkeit der Konstruktion dienen. Die Haftung des Eigentümers könnte daher unter Berücksichtigung von Art. 58 Abs. 1 OR und Art. 11 ZGB bestehen, sofern der Mangel nicht durch eine unvorhersehbare äußere Einwirkung oder eine unzumutbare Verantwortung der Besucherin ausgeschlossen werden kann."
+    }
+  },
+  "test_029": {
+    "raw": "{\n  \"legal_areas\": [\"Erwachsenenschutzrecht\", \"Verwaltungsrecht\", \"Strafverfahrensrecht\", \"Psychiatrierecht\", \"Sozialrecht\"],\n  \"law_codes\": [\"BGG\", \"StPO\", \"OR\", \"ZGB\", \"IPRG\", \"BV\"],\n  \"keywords_de\": [\"Erwachsenenschutz\", \"Vollmacht\", \"Vorsorgevollmacht\", \"Psychiatrische Gutachten\", \"Verwaltungsbeschwerde\", \"Beschränkte Geschäftsfähigkeit\", \"Verwaltungsakt\", \"Wohlfahrtsverfahren\", \"Gutachtenpflicht\", \"Recht auf Anwesenheit\", \"Verwaltungsgerichtsbarkeit\", \"Schutzbedürftigkeit\", \"Geldverwaltung\", \"Recht auf Selbstbestimmung\", \"Verwaltungsbeschwerdegegenstand\"],\n  \"hyde\": \"Die vorliegende Fragestellung betrifft die Rechtmäßigkeit des Eröffnungsbeschlusses eines Wohlfahrtsverfahrens sowie die Rechtfertigung einer vorläufigen Vormundschaft im Rahmen des Erwachsenenschutzrechts (BGG). Im Hinblick auf die erste Frage ist zu prüfen, ob die Eröffnung des Wohlfahrtsverfahrens und die Anordnung eines psychiatrischen Gutachtens einen Rechtsverstoß darstellen, der eine unverzügliche Verwaltungsbeschwerde rechtfertigt. Nach BGG Art. 11 Abs. 1 ist ein Wohlfahrtsverfahren nur unter bestimmten Voraussetzungen zulässig, insbesondere wenn die Schutzbedürftigkeit des Betroffenen besteht. Die Anordnung eines psychiatrischen Gutachtens gemäß BGG Art. 13 Abs. 1 ist nur zulässig, wenn ein begründeter Verdacht auf psychische Störungen besteht, der die Schutzbedürftigkeit bestätigt. Die Beschwerde ist nur zulässig, wenn der Betroffene ein unmittelbares Rechtsschutzbedürfnis hat, das durch die Anordnung des Gutachtens entstanden ist. Im Hinblick auf die zweite Frage ist zu prüfen, ob die vorläufige Vormundschaft gemäß BGG Art. 17 Abs. 1 rechtmäßig, notwendig und verhältnismäßig ist. Dabei sind die medizinischen Umstände (sehr begrenzte Mobilität, schwerwiegende körperliche Einschränkungen, mangelnde Kommunikationsfähigkeit) sowie die finanziellen und administrativen Umstände (mehrere Bankkonten, offene Rechnungen in Höhe von ca. 16.200 CHF, praktische Unfähigkeit, mündliche oder persönliche Formalitäten zu erledigen) zu berücksichtigen. Die Vormundschaft muss im Einklang mit dem Prinzip der Selbstbestimmung und der Verhältnismäßigkeit erfolgen, wobei die Schutzbedürftigkeit des Betroffenen und die Notwendigkeit der Vormundschaft für die Vertretung und Geldverwaltung entscheidend sind.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Erwachsenenschutzrecht",
+        "Verwaltungsrecht",
+        "Strafverfahrensrecht",
+        "Psychiatrierecht",
+        "Sozialrecht"
+      ],
+      "law_codes": [
+        "BGG",
+        "StPO",
+        "OR",
+        "ZGB",
+        "IPRG",
+        "BV"
+      ],
+      "keywords_de": [
+        "Erwachsenenschutz",
+        "Vollmacht",
+        "Vorsorgevollmacht",
+        "Psychiatrische Gutachten",
+        "Verwaltungsbeschwerde",
+        "Beschränkte Geschäftsfähigkeit",
+        "Verwaltungsakt",
+        "Wohlfahrtsverfahren",
+        "Gutachtenpflicht",
+        "Recht auf Anwesenheit",
+        "Verwaltungsgerichtsbarkeit",
+        "Schutzbedürftigkeit",
+        "Geldverwaltung",
+        "Recht auf Selbstbestimmung",
+        "Verwaltungsbeschwerdegegenstand"
+      ],
+      "hyde": "Die vorliegende Fragestellung betrifft die Rechtmäßigkeit des Eröffnungsbeschlusses eines Wohlfahrtsverfahrens sowie die Rechtfertigung einer vorläufigen Vormundschaft im Rahmen des Erwachsenenschutzrechts (BGG). Im Hinblick auf die erste Frage ist zu prüfen, ob die Eröffnung des Wohlfahrtsverfahrens und die Anordnung eines psychiatrischen Gutachtens einen Rechtsverstoß darstellen, der eine unverzügliche Verwaltungsbeschwerde rechtfertigt. Nach BGG Art. 11 Abs. 1 ist ein Wohlfahrtsverfahren nur unter bestimmten Voraussetzungen zulässig, insbesondere wenn die Schutzbedürftigkeit des Betroffenen besteht. Die Anordnung eines psychiatrischen Gutachtens gemäß BGG Art. 13 Abs. 1 ist nur zulässig, wenn ein begründeter Verdacht auf psychische Störungen besteht, der die Schutzbedürftigkeit bestätigt. Die Beschwerde ist nur zulässig, wenn der Betroffene ein unmittelbares Rechtsschutzbedürfnis hat, das durch die Anordnung des Gutachtens entstanden ist. Im Hinblick auf die zweite Frage ist zu prüfen, ob die vorläufige Vormundschaft gemäß BGG Art. 17 Abs. 1 rechtmäßig, notwendig und verhältnismäßig ist. Dabei sind die medizinischen Umstände (sehr begrenzte Mobilität, schwerwiegende körperliche Einschränkungen, mangelnde Kommunikationsfähigkeit) sowie die finanziellen und administrativen Umstände (mehrere Bankkonten, offene Rechnungen in Höhe von ca. 16.200 CHF, praktische Unfähigkeit, mündliche oder persönliche Formalitäten zu erledigen) zu berücksichtigen. Die Vormundschaft muss im Einklang mit dem Prinzip der Selbstbestimmung und der Verhältnismäßigkeit erfolgen, wobei die Schutzbedürftigkeit des Betroffenen und die Notwendigkeit der Vormundschaft für die Vertretung und Geldverwaltung entscheidend sind."
+    }
+  },
+  "test_030": {
+    "raw": "{\n  \"legal_areas\": [\"Ehe- und Familienrecht\", \"Verwaltungsrecht\", \"Obligationenrecht\", \"Strafverfahrensrecht\"],\n  \"law_codes\": [\"ZGB\", \"StGB\", \"StPO\", \"OR\", \"BGG\", \"IPRG\", \"DBG\"],\n  \"keywords_de\": [\"Ehegattenunterhalt\", \"Notionaler Einkommenstabelle\", \"Unterhaltsberechnung\", \"Vermögensaufteilung\", \"Schutzmassnahmen im Eheverhältnis\", \"Räumliche Aufteilung\", \"Vermögensverhältnisse\", \"Einkommensverhältnisse\", \"Vorsorge für nicht gemeinsame Kinder\", \"Räumliche Verhältnisse\", \"Einkommensverhältnisse\", \"Vermögensverhältnisse\", \"Vermögensverhältnisse\", \"Vermögensverhältnisse\", \"Vermögensverhältnisse\"],\n  \"hyde\": \"Im Rahmen der vorläufigen Schutzmassnahmen im Eheverhältnis ist die Frage zu beantworten, ob ein Gericht es rechtmässig ist, einem Ehegatten ein hypothetisches Einkommen effektiv ab dem ursprünglichen Auszugstermin zuzurechnen, oder ob eine Anpassungsphase erforderlich ist, bevor solche hypothetischen Einkünfte berücksichtigt werden. Laut Artikel 144 ZGB ist der Ehegattenunterhalt grundsätzlich auf die Bedürfnisse des Ehegatten und die Vermögensverhältnisse beider Parteien abzustimmen. Die Frage der hypothetischen Einkommenszuordnung hängt von der Bewertung der tatsächlichen Umstände ab, insbesondere der Alters, Bildung, Fähigkeiten, Gesundheit, der Existenz von nicht gemeinsamen Kindern, der tatsächlichen Wohnsituation und der Mietlasten. Artikel 145 ZGB legt fest, dass der Unterhalt auf die Bedürfnisse des Ehegatten und die Vermögensverhältnisse beider Parteien abgestimmt werden muss. Die Frage der Aufteilung des gesetzlichen Lebensunterhalts und des Überschusses zwischen den Ehegatten hängt von der Bewertung der tatsächlichen Umstände ab, insbesondere der Alters, Bildung, Fähigkeiten, Gesundheit, der Existenz von nicht gemeinsamen Kindern, der tatsächlichen Wohnsituation und der Mietlasten. Die Berücksichtigung der hypothetischen Einkommenszuordnung ist nur dann gerechtfertigt, wenn die Parteien unter Berücksichtigung der tatsächlichen Umstände in der Lage sind, eine solche Zuordnung zu treffen. In diesem Fall ist es erforderlich, eine Anpassungsphase zu berücksichtigen, bevor solche hypothetischen Einkünfte berücksichtigt werden, da die Parteien unter Berücksichtigung der tatsächlichen Umstände in der Lage sind, eine solche Zuordnung zu treffen.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Ehe- und Familienrecht",
+        "Verwaltungsrecht",
+        "Obligationenrecht",
+        "Strafverfahrensrecht"
+      ],
+      "law_codes": [
+        "ZGB",
+        "StGB",
+        "StPO",
+        "OR",
+        "BGG",
+        "IPRG",
+        "DBG"
+      ],
+      "keywords_de": [
+        "Ehegattenunterhalt",
+        "Notionaler Einkommenstabelle",
+        "Unterhaltsberechnung",
+        "Vermögensaufteilung",
+        "Schutzmassnahmen im Eheverhältnis",
+        "Räumliche Aufteilung",
+        "Vermögensverhältnisse",
+        "Einkommensverhältnisse",
+        "Vorsorge für nicht gemeinsame Kinder",
+        "Räumliche Verhältnisse",
+        "Einkommensverhältnisse",
+        "Vermögensverhältnisse",
+        "Vermögensverhältnisse",
+        "Vermögensverhältnisse",
+        "Vermögensverhältnisse"
+      ],
+      "hyde": "Im Rahmen der vorläufigen Schutzmassnahmen im Eheverhältnis ist die Frage zu beantworten, ob ein Gericht es rechtmässig ist, einem Ehegatten ein hypothetisches Einkommen effektiv ab dem ursprünglichen Auszugstermin zuzurechnen, oder ob eine Anpassungsphase erforderlich ist, bevor solche hypothetischen Einkünfte berücksichtigt werden. Laut Artikel 144 ZGB ist der Ehegattenunterhalt grundsätzlich auf die Bedürfnisse des Ehegatten und die Vermögensverhältnisse beider Parteien abzustimmen. Die Frage der hypothetischen Einkommenszuordnung hängt von der Bewertung der tatsächlichen Umstände ab, insbesondere der Alters, Bildung, Fähigkeiten, Gesundheit, der Existenz von nicht gemeinsamen Kindern, der tatsächlichen Wohnsituation und der Mietlasten. Artikel 145 ZGB legt fest, dass der Unterhalt auf die Bedürfnisse des Ehegatten und die Vermögensverhältnisse beider Parteien abgestimmt werden muss. Die Frage der Aufteilung des gesetzlichen Lebensunterhalts und des Überschusses zwischen den Ehegatten hängt von der Bewertung der tatsächlichen Umstände ab, insbesondere der Alters, Bildung, Fähigkeiten, Gesundheit, der Existenz von nicht gemeinsamen Kindern, der tatsächlichen Wohnsituation und der Mietlasten. Die Berücksichtigung der hypothetischen Einkommenszuordnung ist nur dann gerechtfertigt, wenn die Parteien unter Berücksichtigung der tatsächlichen Umstände in der Lage sind, eine solche Zuordnung zu treffen. In diesem Fall ist es erforderlich, eine Anpassungsphase zu berücksichtigen, bevor solche hypothetischen Einkünfte berücksichtigt werden, da die Parteien unter Berücksichtigung der tatsächlichen Umstände in der Lage sind, eine solche Zuordnung zu treffen."
+    }
+  },
+  "test_031": {
+    "raw": "{\n  \"legal_areas\": [\"Ehe- und Familienrecht\", \"Erwerbsersatzrecht\", \"Zivile Rechte der Ehe\"],\n  \"law_codes\": [\"ZGB\", \"CC\", \"BGG\", \"IPRG\"],\n  \"keywords_de\": [\"Ehegattenunterhalt\", \"Art. 125 ZGB\", \"Unterhaltsberechnung\", \"Lebensstandard\", \"Mindestunterhalt\", \"Einkommensverhältnisse\", \"Trennungsdauer\", \"Krankheit\", \"Verpflichtung zur Versorgung\", \"Vermögensverhältnisse\", \"Einkommenskapazität\", \"Notwendige Ausgaben\", \"Vollzeitbeschäftigung\", \"Krankenversicherung\", \"Sozialhilfe\"],\n  \"hyde\": \"Die Frage, ob D.L. Anspruch auf Ehegattenunterhalt gemäß Art. 125 ZGB hat, hängt von der Bewertung der gesamten Lebensumstände ab. Die Ehe der Parteien dauerte über 20 Jahre, was gemäß Art. 125 Abs. 1 ZGB eine relevante Grundlage für eine Unterhaltsverpflichtung darstellt. D.L. leidet unter chronischen gesundheitlichen Problemen, die ihre Erwerbsfähigkeit eingeschränkt haben, und hat ein deutlich geringeres Einkommen als C.L., der in Vollzeit beschäftigt ist und über höhere Einnahmen sowie ein erhebliches Vermögen verfügt. Nach Art. 125 Abs. 2 ZGB ist der Unterhalt so zu bemessen, dass D.L. einen angemessenen Lebensstandard erhält, wobei die Einkommensverhältnisse und die Notwendigkeit der Versorgung berücksichtigt werden müssen. Die Frage der Berechnungsmethode – Minimumsunterhalt oder Erhaltung des Lebensstandards während der Trennung – hängt von der individuellen Situation ab. In diesem Fall, wo D.L. aufgrund ihrer gesundheitlichen Einschränkungen und geringen Einkommenskapazität nicht in der Lage ist, einen vergleichbaren Lebensstandard wie während der Ehe zu erlangen, könnte der Ansatz des Minimumsunterhalts mit Verteilung des Überschusses angemessen sein. Berücksichtigt man C.L.'s monatliche Nettoeinnahmen von CHF 6,200 sowie seine unvermeidbaren Ausgaben von CHF 3,600, könnte ein monatlicher Unterhalt von etwa CHF 2,000 angemessen sein, um D.L. einen angemessenen Lebensstandard zu sichern, ohne C.L. in eine unzumutbare finanzielle Belastung zu bringen.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Ehe- und Familienrecht",
+        "Erwerbsersatzrecht",
+        "Zivile Rechte der Ehe"
+      ],
+      "law_codes": [
+        "ZGB",
+        "CC",
+        "BGG",
+        "IPRG"
+      ],
+      "keywords_de": [
+        "Ehegattenunterhalt",
+        "Art. 125 ZGB",
+        "Unterhaltsberechnung",
+        "Lebensstandard",
+        "Mindestunterhalt",
+        "Einkommensverhältnisse",
+        "Trennungsdauer",
+        "Krankheit",
+        "Verpflichtung zur Versorgung",
+        "Vermögensverhältnisse",
+        "Einkommenskapazität",
+        "Notwendige Ausgaben",
+        "Vollzeitbeschäftigung",
+        "Krankenversicherung",
+        "Sozialhilfe"
+      ],
+      "hyde": "Die Frage, ob D.L. Anspruch auf Ehegattenunterhalt gemäß Art. 125 ZGB hat, hängt von der Bewertung der gesamten Lebensumstände ab. Die Ehe der Parteien dauerte über 20 Jahre, was gemäß Art. 125 Abs. 1 ZGB eine relevante Grundlage für eine Unterhaltsverpflichtung darstellt. D.L. leidet unter chronischen gesundheitlichen Problemen, die ihre Erwerbsfähigkeit eingeschränkt haben, und hat ein deutlich geringeres Einkommen als C.L., der in Vollzeit beschäftigt ist und über höhere Einnahmen sowie ein erhebliches Vermögen verfügt. Nach Art. 125 Abs. 2 ZGB ist der Unterhalt so zu bemessen, dass D.L. einen angemessenen Lebensstandard erhält, wobei die Einkommensverhältnisse und die Notwendigkeit der Versorgung berücksichtigt werden müssen. Die Frage der Berechnungsmethode – Minimumsunterhalt oder Erhaltung des Lebensstandards während der Trennung – hängt von der individuellen Situation ab. In diesem Fall, wo D.L. aufgrund ihrer gesundheitlichen Einschränkungen und geringen Einkommenskapazität nicht in der Lage ist, einen vergleichbaren Lebensstandard wie während der Ehe zu erlangen, könnte der Ansatz des Minimumsunterhalts mit Verteilung des Überschusses angemessen sein. Berücksichtigt man C.L.'s monatliche Nettoeinnahmen von CHF 6,200 sowie seine unvermeidbaren Ausgaben von CHF 3,600, könnte ein monatlicher Unterhalt von etwa CHF 2,000 angemessen sein, um D.L. einen angemessenen Lebensstandard zu sichern, ohne C.L. in eine unzumutbare finanzielle Belastung zu bringen."
+    }
+  },
+  "test_032": {
+    "raw": "{\n  \"legal_areas\": [\"Strafverfahrensrecht\", \"Strafrecht\", \"Asylrecht\", \"Zwangsmaßnahmenrecht\"],\n  \"law_codes\": [\"StPO\", \"StGB\", \"AsylG\", \"ZGB\", \"BGG\"],\n  \"keywords_de\": [\"Vorläufige Untersuchungshaft\", \"Fluchtgefahr\", \"Wiederholungsgefahr\", \"Ersatzmaßnahmen\", \"Identitätsdokumente\", \"Asylstatus\", \"Langzeitaufenthaltsbewilligung\", \"Strafverfolgung\", \"Verfahrensrecht\", \"Zwangsmaßnahmen\", \"Verhältnismäßigkeit\", \"Untersuchungshaftentscheid\", \"Rechtsgrundlage\", \"Verfassungsrechtliche Grundrechte\"],\n  \"hyde\": \"Die Frage der Rechtfertigung der vorläufigen Untersuchungshaft im Fall von Ms. A. Reed unterliegt der Prüfung der Fluchtgefahr gemäß Art. 114 StPO. Die Anklage erhebt den Verdacht, dass Ms. Reed Identitäten anderer Personen angenommen und beträchtliche Summen durch betrügerische Bestellungen erlangt hat, was den Tatbestand des Betrugs (Art. 152 StGB) und möglicherweise auch des Identitätsdiebstahls (Art. 153 StGB) erfüllen könnte. Die Staatsanwaltschaft begründet die Untersuchungshaft mit der Fluchtgefahr, da Ms. Reeds Partner im Ausland lebt und dieses Land keine Auslieferung seiner Staatsbürger vornimmt. Allerdings bestreitet Ms. Reed die Fluchtgefahr und verweist auf tief verwurzelte lokale Beziehungen, eine Mutter, die in der Schweiz lebt, sowie die Pflege einer kranken Erwachsenen. Sie schlägt Ersatzmaßnahmen wie die Herausgabe ihrer Identitätsdokumente, die Übergabe ihres Passes an die Behörden, tägliche Berichte bei der Polizei und ambulante Behandlung in einer öffentlichen Suchtambulanz vor. Die Verhältnismäßigkeit der Untersuchungshaft muss unter Berücksichtigung dieser Ersatzmaßnahmen geprüft werden. Nach Art. 114 Abs. 1 StPO ist die Untersuchungshaft nur zulässig, wenn die Fluchtgefahr oder Wiederholungsgefahr besteht und keine weniger drastischen Maßnahmen ausreichen. Die Prüfung der Verhältnismäßigkeit erfordert eine umfassende Bewertung der konkreten Umstände, einschließlich der Schwere der Tat, der Fluchtgefahr und der Ersatzmaßnahmen. Die Entscheidung über die Aufrechterhaltung der Untersuchungshaft hängt daher von einer sorgfältigen Abwägung dieser Faktoren ab.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Strafverfahrensrecht",
+        "Strafrecht",
+        "Asylrecht",
+        "Zwangsmaßnahmenrecht"
+      ],
+      "law_codes": [
+        "StPO",
+        "StGB",
+        "AsylG",
+        "ZGB",
+        "BGG"
+      ],
+      "keywords_de": [
+        "Vorläufige Untersuchungshaft",
+        "Fluchtgefahr",
+        "Wiederholungsgefahr",
+        "Ersatzmaßnahmen",
+        "Identitätsdokumente",
+        "Asylstatus",
+        "Langzeitaufenthaltsbewilligung",
+        "Strafverfolgung",
+        "Verfahrensrecht",
+        "Zwangsmaßnahmen",
+        "Verhältnismäßigkeit",
+        "Untersuchungshaftentscheid",
+        "Rechtsgrundlage",
+        "Verfassungsrechtliche Grundrechte"
+      ],
+      "hyde": "Die Frage der Rechtfertigung der vorläufigen Untersuchungshaft im Fall von Ms. A. Reed unterliegt der Prüfung der Fluchtgefahr gemäß Art. 114 StPO. Die Anklage erhebt den Verdacht, dass Ms. Reed Identitäten anderer Personen angenommen und beträchtliche Summen durch betrügerische Bestellungen erlangt hat, was den Tatbestand des Betrugs (Art. 152 StGB) und möglicherweise auch des Identitätsdiebstahls (Art. 153 StGB) erfüllen könnte. Die Staatsanwaltschaft begründet die Untersuchungshaft mit der Fluchtgefahr, da Ms. Reeds Partner im Ausland lebt und dieses Land keine Auslieferung seiner Staatsbürger vornimmt. Allerdings bestreitet Ms. Reed die Fluchtgefahr und verweist auf tief verwurzelte lokale Beziehungen, eine Mutter, die in der Schweiz lebt, sowie die Pflege einer kranken Erwachsenen. Sie schlägt Ersatzmaßnahmen wie die Herausgabe ihrer Identitätsdokumente, die Übergabe ihres Passes an die Behörden, tägliche Berichte bei der Polizei und ambulante Behandlung in einer öffentlichen Suchtambulanz vor. Die Verhältnismäßigkeit der Untersuchungshaft muss unter Berücksichtigung dieser Ersatzmaßnahmen geprüft werden. Nach Art. 114 Abs. 1 StPO ist die Untersuchungshaft nur zulässig, wenn die Fluchtgefahr oder Wiederholungsgefahr besteht und keine weniger drastischen Maßnahmen ausreichen. Die Prüfung der Verhältnismäßigkeit erfordert eine umfassende Bewertung der konkreten Umstände, einschließlich der Schwere der Tat, der Fluchtgefahr und der Ersatzmaßnahmen. Die Entscheidung über die Aufrechterhaltung der Untersuchungshaft hängt daher von einer sorgfältigen Abwägung dieser Faktoren ab."
+    }
+  },
+  "test_033": {
+    "raw": "{\n  \"legal_areas\": [\"UVG-Recht\", \"Arbeitsrecht\", \"Sozialversicherungsrecht\", \"Schadensrecht\"],\n  \"law_codes\": [\"UVG\", \"StPO\", \"OR\", \"ZGB\", \"StGB\", \"BGG\", \"IPRG\", \"DBG\"],\n  \"keywords_de\": [\"Berufskrankheit\", \"Vorsorgeuntersuchung\", \"UVG\", \"Schadensersatz\", \"Arbeitsunfallversicherung\", \"Vergünstigung\", \"Vorvertragliche Pflichten\", \"Expertenuntersuchung\", \"Gesundheitsgefährdung\", \"Berufskrankheitenverordnung\", \"Vergütungspflicht\", \"Verwaltungsverfahren\", \"Verwaltungsrecht\", \"Verwaltungsgerichtsbarkeit\", \"Verwaltungsakte\"],\n  \"hyde\": \"Die Frage, ob die Erkrankung Granulomatosis mit Polyangiitis sowie eine Verschlechterung der vorbestehenden Asthmaerkrankung als Berufskrankheit oder als Berufsauslöser einer bestehenden Vorerkrankung im Sinne des UVG gelten, hängt von der Beurteilung der kausalischen Verbindung zwischen der beruflichen Tätigkeit und der Erkrankung ab. Nach § 1 UVG ist eine Berufskrankheit eine Erkrankung, die durch die berufliche Tätigkeit verursacht oder begünstigt wird. Die Voraussetzungen für eine Berufskrankheit sind in der Berufskrankheitenverordnung (BKV) konkretisiert. Die Erkrankung Granulomatosis mit Polyangiitis ist eine seltene Autoimmunerkrankung, die in der Regel nicht als typische Berufskrankheit gelten kann, es sei denn, es liegen konkrete Belege für eine kausale Verbindung zur beruflichen Tätigkeit vor. Die Frage der Verschlechterung der Asthmaerkrankung hängt von der Beurteilung ab, ob die berufliche Tätigkeit eine Verschlechterung der Vorerkrankung begünstigt hat. Nach § 13 UVG kann eine Verschlechterung einer Vorerkrankung als Berufsauslöser gelten, wenn sie durch die berufliche Tätigkeit begünstigt wird. Die Verpflichtung der Versicherung, eine multidisziplinäre Expertenuntersuchung zu beauftragen, ergibt sich aus § 12 UVG, der vorsieht, dass bei Zweifeln an der Berufskrankheitszugehörigkeit eine fachliche Prüfung durchgeführt werden muss. Die Versicherung Omega Insurance hat zwar eine erste Prüfung durchgeführt, doch bei Zweifeln an der kausalen Verbindung zwischen der Erkrankung und der beruflichen Tätigkeit wäre eine umfassende Expertenuntersuchung erforderlich gewesen, um die Voraussetzungen für eine Berufskrankheit oder einen Berufsauslöser zu klären.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "UVG-Recht",
+        "Arbeitsrecht",
+        "Sozialversicherungsrecht",
+        "Schadensrecht"
+      ],
+      "law_codes": [
+        "UVG",
+        "StPO",
+        "OR",
+        "ZGB",
+        "StGB",
+        "BGG",
+        "IPRG",
+        "DBG"
+      ],
+      "keywords_de": [
+        "Berufskrankheit",
+        "Vorsorgeuntersuchung",
+        "UVG",
+        "Schadensersatz",
+        "Arbeitsunfallversicherung",
+        "Vergünstigung",
+        "Vorvertragliche Pflichten",
+        "Expertenuntersuchung",
+        "Gesundheitsgefährdung",
+        "Berufskrankheitenverordnung",
+        "Vergütungspflicht",
+        "Verwaltungsverfahren",
+        "Verwaltungsrecht",
+        "Verwaltungsgerichtsbarkeit",
+        "Verwaltungsakte"
+      ],
+      "hyde": "Die Frage, ob die Erkrankung Granulomatosis mit Polyangiitis sowie eine Verschlechterung der vorbestehenden Asthmaerkrankung als Berufskrankheit oder als Berufsauslöser einer bestehenden Vorerkrankung im Sinne des UVG gelten, hängt von der Beurteilung der kausalischen Verbindung zwischen der beruflichen Tätigkeit und der Erkrankung ab. Nach § 1 UVG ist eine Berufskrankheit eine Erkrankung, die durch die berufliche Tätigkeit verursacht oder begünstigt wird. Die Voraussetzungen für eine Berufskrankheit sind in der Berufskrankheitenverordnung (BKV) konkretisiert. Die Erkrankung Granulomatosis mit Polyangiitis ist eine seltene Autoimmunerkrankung, die in der Regel nicht als typische Berufskrankheit gelten kann, es sei denn, es liegen konkrete Belege für eine kausale Verbindung zur beruflichen Tätigkeit vor. Die Frage der Verschlechterung der Asthmaerkrankung hängt von der Beurteilung ab, ob die berufliche Tätigkeit eine Verschlechterung der Vorerkrankung begünstigt hat. Nach § 13 UVG kann eine Verschlechterung einer Vorerkrankung als Berufsauslöser gelten, wenn sie durch die berufliche Tätigkeit begünstigt wird. Die Verpflichtung der Versicherung, eine multidisziplinäre Expertenuntersuchung zu beauftragen, ergibt sich aus § 12 UVG, der vorsieht, dass bei Zweifeln an der Berufskrankheitszugehörigkeit eine fachliche Prüfung durchgeführt werden muss. Die Versicherung Omega Insurance hat zwar eine erste Prüfung durchgeführt, doch bei Zweifeln an der kausalen Verbindung zwischen der Erkrankung und der beruflichen Tätigkeit wäre eine umfassende Expertenuntersuchung erforderlich gewesen, um die Voraussetzungen für eine Berufskrankheit oder einen Berufsauslöser zu klären."
+    }
+  },
+  "test_034": {
+    "raw": "{\n  \"legal_areas\": [\"Zivilrecht\", \"Sachenrecht\", \"ZGB-Recht\", \"Vertragsrecht\"],\n  \"law_codes\": [\"ZGB\", \"OR\", \"StGB\", \"BGG\"],\n  \"keywords_de\": [\"Handwerker- und Auftragnehmerpfandrecht\", \"Art. 839 ZGB\", \"Zulassung der Pfandrechte\", \"Vertragsdauer\", \"Leistungsverzicht\", \"Zulassungsfrist\", \"Pfandrechtsgeltung\", \"Vollendung der Leistung\", \"Zulassungsgesuch\", \"ZGB-Zulassungsvoraussetzungen\"],\n  \"hyde\": \"Gemäß Art. 839 ZGB ist die Zulassung eines Handwerker- und Auftragnehmerpfandrechts nur möglich, wenn die Leistung des Auftragnehmers vollständig erbracht und der Auftraggeber den Leistungsverzicht erklärt hat. In diesem Fall wurde die Leistung bis spätestens Mitte 2020 vollendet, wodurch der Leistungsverzicht als vollständig erbracht gilt. Die Zulassungsfrist von vier Monaten gemäß Art. 839 ZGB beginnt mit der vollständigen Erbringung der Leistung und dem Leistungsverzicht. Das Zulassungsgesuch wurde am 21. September 2022 gestellt, was deutlich nach dem Ablauf der Frist liegt, da die Leistung bereits 2020 vollendet wurde. Somit ist die Zulassung des Pfandrechts nicht mehr möglich. Die Frist ist daher verpasst, und der Anspruch auf Zulassung des Pfandrechts entfällt. Es ist daher nicht möglich, den Anspruch auf CHF 62,310.50 durch eine Zulassung gemäß Art. 839 ZGB durchzusetzen.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Zivilrecht",
+        "Sachenrecht",
+        "ZGB-Recht",
+        "Vertragsrecht"
+      ],
+      "law_codes": [
+        "ZGB",
+        "OR",
+        "StGB",
+        "BGG"
+      ],
+      "keywords_de": [
+        "Handwerker- und Auftragnehmerpfandrecht",
+        "Art. 839 ZGB",
+        "Zulassung der Pfandrechte",
+        "Vertragsdauer",
+        "Leistungsverzicht",
+        "Zulassungsfrist",
+        "Pfandrechtsgeltung",
+        "Vollendung der Leistung",
+        "Zulassungsgesuch",
+        "ZGB-Zulassungsvoraussetzungen"
+      ],
+      "hyde": "Gemäß Art. 839 ZGB ist die Zulassung eines Handwerker- und Auftragnehmerpfandrechts nur möglich, wenn die Leistung des Auftragnehmers vollständig erbracht und der Auftraggeber den Leistungsverzicht erklärt hat. In diesem Fall wurde die Leistung bis spätestens Mitte 2020 vollendet, wodurch der Leistungsverzicht als vollständig erbracht gilt. Die Zulassungsfrist von vier Monaten gemäß Art. 839 ZGB beginnt mit der vollständigen Erbringung der Leistung und dem Leistungsverzicht. Das Zulassungsgesuch wurde am 21. September 2022 gestellt, was deutlich nach dem Ablauf der Frist liegt, da die Leistung bereits 2020 vollendet wurde. Somit ist die Zulassung des Pfandrechts nicht mehr möglich. Die Frist ist daher verpasst, und der Anspruch auf Zulassung des Pfandrechts entfällt. Es ist daher nicht möglich, den Anspruch auf CHF 62,310.50 durch eine Zulassung gemäß Art. 839 ZGB durchzusetzen."
+    }
+  },
+  "test_035": {
+    "raw": "{\n  \"legal_areas\": [\"Zivilprozessrecht\", \"Erbrecht\", \"Internationales Privatrecht\", \"Provisionelle Sicherungsmaßnahmen\"],\n  \"law_codes\": [\"ZPO\", \"IPRG\", \"ZGB\", \"OR\"],\n  \"keywords_de\": [\"Erbschaftsverzicht\", \"Provisionelle Sicherungsmaßnahmen\", \"Wirkung der Verfahrensfortsetzung im Ausland\", \"Zulässigkeit der Verfahrensfortsetzung\", \"Art. 263 ZPO\", \"Art. 89 IPRG\", \"Erbschaftsrechte\", \"Erbschaftsverzichtserklärung\", \"Erbschaftsverzicht durch Vorsorgevollmacht\", \"Erbschaftsverzichtsrecht\", \"Erbschaftsverzichtsverfahren\", \"Erbschaftsverzichtsrechtliche Wirkung\", \"Erbschaftsverzichtsrechtliche Voraussetzungen\", \"Erbschaftsverzichtsrechtliche Auswirkungen\"],\n  \"hyde\": \"Die Frage, ob ein bereits im Ausland angestrengtes Verfahren, das denselben Streitgegenstand wie die provisionellen Sicherungsmaßnahmen in der Schweiz betrifft, als die erforderliche 'Verfahrensfortsetzung auf den Grund' gemäß Art. 263 ZPO und Art. 89 IPRG angesehen werden kann, erfordert eine sorgfältige Auslegung der gesetzlichen Voraussetzungen. Laut Art. 263 ZPO ist die Wirkung der provisionellen Sicherungsmaßnahmen abhängig von der Einleitung eines Verfahrens auf den Grund innerhalb der gesetzten Frist. Das Verfahren im Ausland, das vor der Erlassung der Sicherungsmaßnahmen begonnen wurde und denselben Streitgegenstand behandelt, könnte grundsätzlich als solche Verfahrensfortsetzung gelten, sofern es die erforderliche Rechtsdurchsetzung im Schweizerischen Recht ermöglicht. Allerdings ist zu prüfen, ob das ausländische Verfahren die Voraussetzungen für eine rechtsverbindliche Wirkung in der Schweiz erfüllt, insbesondere hinsichtlich der Anwendbarkeit des internationalen Privatrechts und der Anerkennung des ausländischen Verfahrens. Die Verfahrensfortsetzung im Ausland könnte daher unter bestimmten Voraussetzungen als die erforderliche Verfahrensfortsetzung auf den Grund gelten, wodurch die Sicherungsmaßnahmen weiterhin wirksam bleiben.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Zivilprozessrecht",
+        "Erbrecht",
+        "Internationales Privatrecht",
+        "Provisionelle Sicherungsmaßnahmen"
+      ],
+      "law_codes": [
+        "ZPO",
+        "IPRG",
+        "ZGB",
+        "OR"
+      ],
+      "keywords_de": [
+        "Erbschaftsverzicht",
+        "Provisionelle Sicherungsmaßnahmen",
+        "Wirkung der Verfahrensfortsetzung im Ausland",
+        "Zulässigkeit der Verfahrensfortsetzung",
+        "Art. 263 ZPO",
+        "Art. 89 IPRG",
+        "Erbschaftsrechte",
+        "Erbschaftsverzichtserklärung",
+        "Erbschaftsverzicht durch Vorsorgevollmacht",
+        "Erbschaftsverzichtsrecht",
+        "Erbschaftsverzichtsverfahren",
+        "Erbschaftsverzichtsrechtliche Wirkung",
+        "Erbschaftsverzichtsrechtliche Voraussetzungen",
+        "Erbschaftsverzichtsrechtliche Auswirkungen"
+      ],
+      "hyde": "Die Frage, ob ein bereits im Ausland angestrengtes Verfahren, das denselben Streitgegenstand wie die provisionellen Sicherungsmaßnahmen in der Schweiz betrifft, als die erforderliche 'Verfahrensfortsetzung auf den Grund' gemäß Art. 263 ZPO und Art. 89 IPRG angesehen werden kann, erfordert eine sorgfältige Auslegung der gesetzlichen Voraussetzungen. Laut Art. 263 ZPO ist die Wirkung der provisionellen Sicherungsmaßnahmen abhängig von der Einleitung eines Verfahrens auf den Grund innerhalb der gesetzten Frist. Das Verfahren im Ausland, das vor der Erlassung der Sicherungsmaßnahmen begonnen wurde und denselben Streitgegenstand behandelt, könnte grundsätzlich als solche Verfahrensfortsetzung gelten, sofern es die erforderliche Rechtsdurchsetzung im Schweizerischen Recht ermöglicht. Allerdings ist zu prüfen, ob das ausländische Verfahren die Voraussetzungen für eine rechtsverbindliche Wirkung in der Schweiz erfüllt, insbesondere hinsichtlich der Anwendbarkeit des internationalen Privatrechts und der Anerkennung des ausländischen Verfahrens. Die Verfahrensfortsetzung im Ausland könnte daher unter bestimmten Voraussetzungen als die erforderliche Verfahrensfortsetzung auf den Grund gelten, wodurch die Sicherungsmaßnahmen weiterhin wirksam bleiben."
+    }
+  },
+  "test_036": {
+    "raw": "{\n  \"legal_areas\": [\"Strafverfahrensrecht\", \"Jugendstrafrecht\", \"Verfassungsrecht\"],\n  \"law_codes\": [\"StPO\", \"StGB\", \"BV\", \"BGG\"],\n  \"keywords_de\": [\"DNA-Profil\", \"Vernehmungspflicht\", \"Proportionalitysprinzip\", \"Verfahrensrecht\", \"Jugendstrafverfahren\", \"Beweiswürdigung\", \"Verhältnismässigkeit\", \"Art. 255 Abs. 1 StPO\", \"Art. 197 Abs. 1 StPO\", \"Art. 101 Abs. 1 StPO\", \"Beweisverwertung\", \"Verfahrensrechtliche Rechte\", \"Beweisführung\", \"Verfahrensordnung\"],\n  \"hyde\": \"Die Frage, ob der Jugendrichter zur Ausstellung eines DNA-Profil aus dem Speichel des Beschuldigten berechtigt war, hängt von der Einhaltung der gesetzlichen Vorgaben und der Verhältnismäßigkeit sowie dem Verfahrensrecht ab. Laut Art. 255 Abs. 1 StPO ist die Erstellung eines DNA-Profil zulässig, wenn dies zur Aufklärung des Verfahrens erforderlich ist. Allerdings muss der Richter sicherstellen, dass die Maßnahme verhältnismäßig ist und die Rechte des Beschuldigten nicht verletzt werden. In diesem Fall ist es fraglich, ob die Ähnlichkeit der Tatmuster ausreicht, um eine DNA-Prüfung zu rechtfertigen, insbesondere wenn keine biologischen Spuren am Tatort oder bei der Beschwerdeführerin gefunden wurden. Zudem könnte die Nichtbenachrichtigung der Verteidigung über den zweiten Vorfall gegen das Verfahrensrecht verstoßen, insbesondere Art. 101 Abs. 1 StPO, das den Beschuldigten auf das Verfahrensaktenzugang verpflichtet. Die Verhältnismäßigkeit der Maßnahme unter Art. 197 Abs. 1 StPO ist ebenfalls zu prüfen, da eine DNA-Prüfung ohne konkrete Beweisverwertungsperspektive möglicherweise unverhältnismäßig ist. Die Verteidigung könnte daher argumentieren, dass die Anordnung des Richters gegen die Verfahrensordnung und das Verhältnismäßigkeitsprinzip verstoßen hat.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Strafverfahrensrecht",
+        "Jugendstrafrecht",
+        "Verfassungsrecht"
+      ],
+      "law_codes": [
+        "StPO",
+        "StGB",
+        "BV",
+        "BGG"
+      ],
+      "keywords_de": [
+        "DNA-Profil",
+        "Vernehmungspflicht",
+        "Proportionalitysprinzip",
+        "Verfahrensrecht",
+        "Jugendstrafverfahren",
+        "Beweiswürdigung",
+        "Verhältnismässigkeit",
+        "Art. 255 Abs. 1 StPO",
+        "Art. 197 Abs. 1 StPO",
+        "Art. 101 Abs. 1 StPO",
+        "Beweisverwertung",
+        "Verfahrensrechtliche Rechte",
+        "Beweisführung",
+        "Verfahrensordnung"
+      ],
+      "hyde": "Die Frage, ob der Jugendrichter zur Ausstellung eines DNA-Profil aus dem Speichel des Beschuldigten berechtigt war, hängt von der Einhaltung der gesetzlichen Vorgaben und der Verhältnismäßigkeit sowie dem Verfahrensrecht ab. Laut Art. 255 Abs. 1 StPO ist die Erstellung eines DNA-Profil zulässig, wenn dies zur Aufklärung des Verfahrens erforderlich ist. Allerdings muss der Richter sicherstellen, dass die Maßnahme verhältnismäßig ist und die Rechte des Beschuldigten nicht verletzt werden. In diesem Fall ist es fraglich, ob die Ähnlichkeit der Tatmuster ausreicht, um eine DNA-Prüfung zu rechtfertigen, insbesondere wenn keine biologischen Spuren am Tatort oder bei der Beschwerdeführerin gefunden wurden. Zudem könnte die Nichtbenachrichtigung der Verteidigung über den zweiten Vorfall gegen das Verfahrensrecht verstoßen, insbesondere Art. 101 Abs. 1 StPO, das den Beschuldigten auf das Verfahrensaktenzugang verpflichtet. Die Verhältnismäßigkeit der Maßnahme unter Art. 197 Abs. 1 StPO ist ebenfalls zu prüfen, da eine DNA-Prüfung ohne konkrete Beweisverwertungsperspektive möglicherweise unverhältnismäßig ist. Die Verteidigung könnte daher argumentieren, dass die Anordnung des Richters gegen die Verfahrensordnung und das Verhältnismäßigkeitsprinzip verstoßen hat."
+    }
+  },
+  "test_037": {
+    "raw": "{\n  \"legal_areas\": [\n    \"Markenrecht\",\n    \"Unfaire Wettbewerbsrecht\",\n    \"Domainrecht\",\n    \"Zivilprozessrecht\"\n  ],\n  \"law_codes\": [\n    \"LPM\",\n    \"UWG\",\n    \"ZGB\",\n    \"StPO\"\n  ],\n  \"keywords_de\": [\n    \"Markenrechtsverletzung\",\n    \"Unfaire Konkurrenz\",\n    \"Domainnamen\",\n    \"Markenzeichen\",\n    \"Warenzeichen\",\n    \"Markenschutzgesetz\",\n    \"Unfair Competition Act\",\n    \"Markenrechtsverletzung\",\n    \"Wettbewerbsverletzung\",\n    \"Markenrechtsstreit\",\n    \"Markenrechtsprechung\",\n    \"Markenrechtsverfahren\",\n    \"Markenrechtsantrag\",\n    \"Markenrechtsverletzung\",\n    \"Markenrechtsverfahren\"\n  ],\n  \"hyde\": \"Die Frage, ob die Registrierung und Nutzung der Domainnamen durch RIVERVEND AG eine rechtfertigte Markenrechtsverletzung oder eine unfaire Wettbewerbsverletzung im Sinne des UWG darstellt, hängt von der Bewertung der Ähnlichkeit der Zeichen sowie der Verwechslungsgefahr ab. MOUNTAIN BIKES Sàrl hat seit 2003 eine internationale Marke mit dem Element BIKES-ONLINE.COM und einem Logo registriert, wodurch es einen klaren Markenrechtsanspruch erlangt hat. Die von RIVERVEND AG registrierten Domainnamen, wie www.bikesonline.ch und www.bikes-online.ch, sind äußerst ähnlich und könnten zu Verwechslungsgefahr führen, insbesondere wenn sie im Schweizer Markt genutzt werden. Das LPM sieht in Artikel 10 eine Verletzung, wenn ein Dritter ein Zeichen verwendet, das dem geschützten Zeichen so ähnlich ist, dass eine Verwechslung mit dem geschützten Zeichen besteht. Zudem könnte die Nutzung der Domainnamen als unfaire Konkurrenz im Sinne des UWG unter Artikel 4 gesehen werden, da sie den Markeninhaber in seiner Marktposition beeinträchtigt. RIVERVEND AGs Argument, dass Teile der Zeichen nicht unterscheidbar seien, ist fraglich, da die Gesamtheit der Zeichen und ihre Verwendung im Markt eine Verwechslungsgefahr ergeben. Ein Unterlassungsanspruch und ggf. der Transfer der Domainnamen zugunsten von MOUNTAIN BIKES Sàrl wäre daher rechtfertigt, sofern die Verwechslungsgefahr und die Verletzung des Markenrechts nachgewiesen werden können.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Markenrecht",
+        "Unfaire Wettbewerbsrecht",
+        "Domainrecht",
+        "Zivilprozessrecht"
+      ],
+      "law_codes": [
+        "LPM",
+        "UWG",
+        "ZGB",
+        "StPO"
+      ],
+      "keywords_de": [
+        "Markenrechtsverletzung",
+        "Unfaire Konkurrenz",
+        "Domainnamen",
+        "Markenzeichen",
+        "Warenzeichen",
+        "Markenschutzgesetz",
+        "Unfair Competition Act",
+        "Markenrechtsverletzung",
+        "Wettbewerbsverletzung",
+        "Markenrechtsstreit",
+        "Markenrechtsprechung",
+        "Markenrechtsverfahren",
+        "Markenrechtsantrag",
+        "Markenrechtsverletzung",
+        "Markenrechtsverfahren"
+      ],
+      "hyde": "Die Frage, ob die Registrierung und Nutzung der Domainnamen durch RIVERVEND AG eine rechtfertigte Markenrechtsverletzung oder eine unfaire Wettbewerbsverletzung im Sinne des UWG darstellt, hängt von der Bewertung der Ähnlichkeit der Zeichen sowie der Verwechslungsgefahr ab. MOUNTAIN BIKES Sàrl hat seit 2003 eine internationale Marke mit dem Element BIKES-ONLINE.COM und einem Logo registriert, wodurch es einen klaren Markenrechtsanspruch erlangt hat. Die von RIVERVEND AG registrierten Domainnamen, wie www.bikesonline.ch und www.bikes-online.ch, sind äußerst ähnlich und könnten zu Verwechslungsgefahr führen, insbesondere wenn sie im Schweizer Markt genutzt werden. Das LPM sieht in Artikel 10 eine Verletzung, wenn ein Dritter ein Zeichen verwendet, das dem geschützten Zeichen so ähnlich ist, dass eine Verwechslung mit dem geschützten Zeichen besteht. Zudem könnte die Nutzung der Domainnamen als unfaire Konkurrenz im Sinne des UWG unter Artikel 4 gesehen werden, da sie den Markeninhaber in seiner Marktposition beeinträchtigt. RIVERVEND AGs Argument, dass Teile der Zeichen nicht unterscheidbar seien, ist fraglich, da die Gesamtheit der Zeichen und ihre Verwendung im Markt eine Verwechslungsgefahr ergeben. Ein Unterlassungsanspruch und ggf. der Transfer der Domainnamen zugunsten von MOUNTAIN BIKES Sàrl wäre daher rechtfertigt, sofern die Verwechslungsgefahr und die Verletzung des Markenrechts nachgewiesen werden können."
+    }
+  },
+  "test_038": {
+    "raw": "{\n  \"legal_areas\": [\"Obligationenrecht\", \"Schadensersatzrecht\", \"Strafrecht\", \"Arbeitsrecht\", \"Zivilprozessrecht\"],\n  \"law_codes\": [\"OR\", \"StGB\", \"ZGB\", \"BGG\", \"IPRG\"],\n  \"keywords_de\": [\"Schadensersatz\", \"Schuldrechtliche Verantwortung\", \"Kausalität\", \"Schuldhaftigkeit\", \"Moralische Schäden\", \"Vertragsgestaltungsverbot\", \"Arbeitsverhältnis\", \"Verletzung der Pflichten\", \"Schadensersatzanspruch\", \"Verhältnismässigkeit\", \"Beweislast\", \"Schadensersatznachweis\", \"Verletzung der Persönlichkeitsrechte\", \"Verletzung der Rechte aus dem Arbeitsvertrag\", \"Schadensersatz für Nichterwerbseinkünfte\"],\n  \"hyde\": \"Im vorliegenden Fall ist zu prüfen, ob die ehemalige Partnerin schuldrechtlich für den Schaden haftet, der durch ihre vermeintliche rechtswidrige Handlung verursacht wurde. Nach dem Obligationenrecht (OR) ist eine Schadensersatzpflicht grundsätzlich dann gegeben, wenn eine schuldrechtliche Verantwortung besteht und eine Kausalität zwischen der Handlung und dem Schaden besteht. Die Verletzung der Persönlichkeitsrechte durch die ehemalige Partnerin, insbesondere durch die wiederholte Verletzung, Beleidigung und Belästigung, könnte eine Grundlage für einen Schadensersatzanspruch bilden, insbesondere im Hinblick auf moralische Schäden. Die Kausalität zwischen den Handlungen der ehemaligen Partnerin und dem Verlust der Arbeitsfähigkeit des Klägers ist jedoch fraglich, da der Verlust der Arbeitsfähigkeit erst nach mehreren Monaten auftrat und der Kläger während des Auslandsaufenthalts nicht arbeitsfähig war. Zudem ist die Verletzung der Pflichten im Arbeitsverhältnis zu prüfen, da der Kläger aufgrund der Verletzung seiner Arbeitspflichten entlassen wurde. Die Beweislast für den Schadensersatzanspruch liegt beim Kläger, der die Kausalität zwischen den Handlungen der ehemaligen Partnerin und dem Schaden nachweisen muss. Ein angemessener Betrag für moralische Schäden hängt von der Schwere der Verletzung und der Dauer der Belästigung ab, wobei der Betrag von CHF 18.000 als angemessen erscheint, sofern die Verletzung der Persönlichkeitsrechte nachgewiesen werden kann.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Obligationenrecht",
+        "Schadensersatzrecht",
+        "Strafrecht",
+        "Arbeitsrecht",
+        "Zivilprozessrecht"
+      ],
+      "law_codes": [
+        "OR",
+        "StGB",
+        "ZGB",
+        "BGG",
+        "IPRG"
+      ],
+      "keywords_de": [
+        "Schadensersatz",
+        "Schuldrechtliche Verantwortung",
+        "Kausalität",
+        "Schuldhaftigkeit",
+        "Moralische Schäden",
+        "Vertragsgestaltungsverbot",
+        "Arbeitsverhältnis",
+        "Verletzung der Pflichten",
+        "Schadensersatzanspruch",
+        "Verhältnismässigkeit",
+        "Beweislast",
+        "Schadensersatznachweis",
+        "Verletzung der Persönlichkeitsrechte",
+        "Verletzung der Rechte aus dem Arbeitsvertrag",
+        "Schadensersatz für Nichterwerbseinkünfte"
+      ],
+      "hyde": "Im vorliegenden Fall ist zu prüfen, ob die ehemalige Partnerin schuldrechtlich für den Schaden haftet, der durch ihre vermeintliche rechtswidrige Handlung verursacht wurde. Nach dem Obligationenrecht (OR) ist eine Schadensersatzpflicht grundsätzlich dann gegeben, wenn eine schuldrechtliche Verantwortung besteht und eine Kausalität zwischen der Handlung und dem Schaden besteht. Die Verletzung der Persönlichkeitsrechte durch die ehemalige Partnerin, insbesondere durch die wiederholte Verletzung, Beleidigung und Belästigung, könnte eine Grundlage für einen Schadensersatzanspruch bilden, insbesondere im Hinblick auf moralische Schäden. Die Kausalität zwischen den Handlungen der ehemaligen Partnerin und dem Verlust der Arbeitsfähigkeit des Klägers ist jedoch fraglich, da der Verlust der Arbeitsfähigkeit erst nach mehreren Monaten auftrat und der Kläger während des Auslandsaufenthalts nicht arbeitsfähig war. Zudem ist die Verletzung der Pflichten im Arbeitsverhältnis zu prüfen, da der Kläger aufgrund der Verletzung seiner Arbeitspflichten entlassen wurde. Die Beweislast für den Schadensersatzanspruch liegt beim Kläger, der die Kausalität zwischen den Handlungen der ehemaligen Partnerin und dem Schaden nachweisen muss. Ein angemessener Betrag für moralische Schäden hängt von der Schwere der Verletzung und der Dauer der Belästigung ab, wobei der Betrag von CHF 18.000 als angemessen erscheint, sofern die Verletzung der Persönlichkeitsrechte nachgewiesen werden kann."
+    }
+  },
+  "test_039": {
+    "raw": "{\n  \"legal_areas\": [\"Obligationenrecht\", \"Zivilprozessrecht\", \"Handelsrecht\", \"Vertragsrecht\", \"Gesellschaftsrecht\"],\n  \"law_codes\": [\"OR\", \"ZGB\", \"ZPO\", \"HandG\", \"StGB\"],\n  \"keywords_de\": [\"Gesellschaft ohne Gesellschaftsvertrag\", \"Gewerbebetrieb\", \"Vertragsgestaltung\", \"Gemeinschaftsgeschäft\", \"Gemeinschaftsvermögen\", \"Gewinn- und Verlustteilung\", \"Beweislast\", \"Täuschung\", \"Fehler\", \"Geschäftsfähigkeit\", \"Vertragsgestaltung\", \"Gemeinschaftsrechnung\", \"Gemeinschaftsvertrag\", \"Gemeinschaftsverhältnis\", \"Gemeinschaftsvermögen\"],\n  \"hyde\": \"Die rechtliche Beurteilung der Beziehung zwischen C und D erfordert eine Analyse unter dem Gesichtspunkt des Gesellschaftsrechts und des Obligationenrechts. Da C und D keine schriftliche Vereinbarung abgeschlossen haben, ist die Frage, ob ein Gesellschaftsvertrag ohne Gesellschaftsvertrag (Gesellschaft ohne Gesellschaftsvertrag) besteht, von zentraler Bedeutung. Nach Art. 621 OR kann eine Gesellschaft ohne Gesellschaftsvertrag entstehen, wenn die Parteien gemeinsam ein Geschäft betreiben und ein gemeinsames Vermögen bilden. In diesem Fall haben C und D zwar separate Buchhaltung geführt, aber sie haben sich im Juni 2011 auf eine gleichmäßige Aufteilung von Einnahmen und Ausgaben für bestimmte gemeinsame Verträge verständigt. Dies könnte als Indiz für ein gemeinsames Geschäft und somit für eine Gesellschaft ohne Gesellschaftsvertrag gelten. Die Frage der Gewinn- und Verlustteilung ist nach Art. 622 OR zu beurteilen. Für die Ermittlung der Gebühren und Kosten für die Jahre 2011–2013 ist eine detaillierte Prüfung der gemeinsamen Rechnungen und Zahlungen erforderlich, da die Parteien separate Bücher führten, aber regelmäßig Rechnungen und Zahlungen austauschten. Die Beweislast für die behaupteten Beträge liegt grundsätzlich bei der Partei, die die Forderung geltend macht (Art. 122 ZPO). C muss die Annahme einer Täuschung oder eines materiellen Fehlers, die zur Aufhebung der Vereinbarung führen könnte, beweisen, was nach Art. 11 OR und Art. 122 ZPO eine hohe Beweislast darstellt. Die Beurteilung der Rechtslage erfordert eine sorgfältige Prüfung der Beweismittel und der Vertragsgestaltung.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Obligationenrecht",
+        "Zivilprozessrecht",
+        "Handelsrecht",
+        "Vertragsrecht",
+        "Gesellschaftsrecht"
+      ],
+      "law_codes": [
+        "OR",
+        "ZGB",
+        "ZPO",
+        "HandG",
+        "StGB"
+      ],
+      "keywords_de": [
+        "Gesellschaft ohne Gesellschaftsvertrag",
+        "Gewerbebetrieb",
+        "Vertragsgestaltung",
+        "Gemeinschaftsgeschäft",
+        "Gemeinschaftsvermögen",
+        "Gewinn- und Verlustteilung",
+        "Beweislast",
+        "Täuschung",
+        "Fehler",
+        "Geschäftsfähigkeit",
+        "Vertragsgestaltung",
+        "Gemeinschaftsrechnung",
+        "Gemeinschaftsvertrag",
+        "Gemeinschaftsverhältnis",
+        "Gemeinschaftsvermögen"
+      ],
+      "hyde": "Die rechtliche Beurteilung der Beziehung zwischen C und D erfordert eine Analyse unter dem Gesichtspunkt des Gesellschaftsrechts und des Obligationenrechts. Da C und D keine schriftliche Vereinbarung abgeschlossen haben, ist die Frage, ob ein Gesellschaftsvertrag ohne Gesellschaftsvertrag (Gesellschaft ohne Gesellschaftsvertrag) besteht, von zentraler Bedeutung. Nach Art. 621 OR kann eine Gesellschaft ohne Gesellschaftsvertrag entstehen, wenn die Parteien gemeinsam ein Geschäft betreiben und ein gemeinsames Vermögen bilden. In diesem Fall haben C und D zwar separate Buchhaltung geführt, aber sie haben sich im Juni 2011 auf eine gleichmäßige Aufteilung von Einnahmen und Ausgaben für bestimmte gemeinsame Verträge verständigt. Dies könnte als Indiz für ein gemeinsames Geschäft und somit für eine Gesellschaft ohne Gesellschaftsvertrag gelten. Die Frage der Gewinn- und Verlustteilung ist nach Art. 622 OR zu beurteilen. Für die Ermittlung der Gebühren und Kosten für die Jahre 2011–2013 ist eine detaillierte Prüfung der gemeinsamen Rechnungen und Zahlungen erforderlich, da die Parteien separate Bücher führten, aber regelmäßig Rechnungen und Zahlungen austauschten. Die Beweislast für die behaupteten Beträge liegt grundsätzlich bei der Partei, die die Forderung geltend macht (Art. 122 ZPO). C muss die Annahme einer Täuschung oder eines materiellen Fehlers, die zur Aufhebung der Vereinbarung führen könnte, beweisen, was nach Art. 11 OR und Art. 122 ZPO eine hohe Beweislast darstellt. Die Beurteilung der Rechtslage erfordert eine sorgfältige Prüfung der Beweismittel und der Vertragsgestaltung."
+    }
+  },
+  "test_040": {
+    "raw": "{\n  \"legal_areas\": [\"Ehe- und Familienrecht\", \"Obligationenrecht\", \"Strafverfahrensrecht\", \"Zivilprozessrecht\"],\n  \"law_codes\": [\"ZGB\", \"OR\", \"StPO\", \"BGG\", \"IPRG\"],\n  \"keywords_de\": [\"Ehevertrag\", \"Trennung der Güter\", \"Erbschaftsverzicht\", \"Scheinehe\", \"Wohnsitzrecht\", \"Wartungspflicht\", \"Schutzmassnahmen für die Ehe\", \"Gemeinschaft des Lebens\", \"Geldleistungen\", \"Missbrauch der Rechte\", \"Art. 176 ZGB\", \"Art. 188 ZGB\", \"Art. 190 ZGB\", \"Art. 191 ZGB\", \"Art. 192 ZGB\"],\n  \"hyde\": \"Die Frage, ob der Ehemann Anspruch auf Wartung hat, hängt von der Bewertung der Ehe als echte Ehe oder als Scheinehe ab. Laut Art. 176 ZGB ist die Wartungspflicht grundsätzlich auf die Ehegatten ausgerichtet, wobei die Verhältnisse der Ehegatten und insbesondere die Dauer der Ehe sowie die Dauer und Art der gemeinsamen Lebensgemeinschaft zu berücksichtigen sind. In diesem Fall ist die Ehe nicht durch eine gemeinsame Lebensgemeinschaft oder finanzielle Verbindungen geprägt, sondern vielmehr durch eine vorvertragliche Regelung zur Trennung der Güter und zum Erbschaftsverzicht. Die Ehe wurde vermutlich nur zum Zweck der Wohnsitzregelung geschlossen, was auf eine Scheinehe hindeutet. Nach Art. 188 ZGB ist eine Ehe nicht gültig, wenn sie nicht mit der Absicht geschlossen wurde, eine Ehe zu begründen. Die Verpflichtung zur Wartung entfällt daher, wenn die Ehe als Scheinehe gilt. Zudem könnte der Ehemann den Anspruch auf Wartung als Missbrauch der Rechte gemäß Art. 190 ZGB verweigert werden, da die Ehe nicht im echten Sinne existiert. Sollte die Ehe als echte Ehe anerkannt werden, könnte die Wartungspflicht unter Berücksichtigung der Verhältnisse der Ehegatten gemäß Art. 176 ZGB und der Schutzmassnahmen für die Ehe gemäß Art. 191 ZGB bestehen. Die Bewertung der Schutzmassnahmen hängt jedoch von der Dauer der Ehe und der tatsächlichen Lebensgemeinschaft ab, die hier nicht vorliegen.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Ehe- und Familienrecht",
+        "Obligationenrecht",
+        "Strafverfahrensrecht",
+        "Zivilprozessrecht"
+      ],
+      "law_codes": [
+        "ZGB",
+        "OR",
+        "StPO",
+        "BGG",
+        "IPRG"
+      ],
+      "keywords_de": [
+        "Ehevertrag",
+        "Trennung der Güter",
+        "Erbschaftsverzicht",
+        "Scheinehe",
+        "Wohnsitzrecht",
+        "Wartungspflicht",
+        "Schutzmassnahmen für die Ehe",
+        "Gemeinschaft des Lebens",
+        "Geldleistungen",
+        "Missbrauch der Rechte",
+        "Art. 176 ZGB",
+        "Art. 188 ZGB",
+        "Art. 190 ZGB",
+        "Art. 191 ZGB",
+        "Art. 192 ZGB"
+      ],
+      "hyde": "Die Frage, ob der Ehemann Anspruch auf Wartung hat, hängt von der Bewertung der Ehe als echte Ehe oder als Scheinehe ab. Laut Art. 176 ZGB ist die Wartungspflicht grundsätzlich auf die Ehegatten ausgerichtet, wobei die Verhältnisse der Ehegatten und insbesondere die Dauer der Ehe sowie die Dauer und Art der gemeinsamen Lebensgemeinschaft zu berücksichtigen sind. In diesem Fall ist die Ehe nicht durch eine gemeinsame Lebensgemeinschaft oder finanzielle Verbindungen geprägt, sondern vielmehr durch eine vorvertragliche Regelung zur Trennung der Güter und zum Erbschaftsverzicht. Die Ehe wurde vermutlich nur zum Zweck der Wohnsitzregelung geschlossen, was auf eine Scheinehe hindeutet. Nach Art. 188 ZGB ist eine Ehe nicht gültig, wenn sie nicht mit der Absicht geschlossen wurde, eine Ehe zu begründen. Die Verpflichtung zur Wartung entfällt daher, wenn die Ehe als Scheinehe gilt. Zudem könnte der Ehemann den Anspruch auf Wartung als Missbrauch der Rechte gemäß Art. 190 ZGB verweigert werden, da die Ehe nicht im echten Sinne existiert. Sollte die Ehe als echte Ehe anerkannt werden, könnte die Wartungspflicht unter Berücksichtigung der Verhältnisse der Ehegatten gemäß Art. 176 ZGB und der Schutzmassnahmen für die Ehe gemäß Art. 191 ZGB bestehen. Die Bewertung der Schutzmassnahmen hängt jedoch von der Dauer der Ehe und der tatsächlichen Lebensgemeinschaft ab, die hier nicht vorliegen."
+    }
+  }
+}

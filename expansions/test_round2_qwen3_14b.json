@@ -1,0 +1,991 @@
+{
+  "test_001": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZPO\", \"UWG\", \"SchKG\"],\n  \"additional_keywords_de\": [\"Vorsorgliche Massnahmen\", \"Urheberrechtsschutz\", \"Verletzung von Geheimhaltungspflichten\", \"Zivilrechtliche Durchsetzung\", \"Prozessvoraussetzungen\", \"Rechtsschutzinteresse\", \"Drohende Rechtsverletzung\", \"Unfair Competition\", \"Besitzansprüche\", \"Forensische Prüfung\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse zeigen, dass relevante Aspekte des Zivilprozesses, insbesondere zur Durchsetzung von Urheberrechten und Wettbewerbsrecht, nicht vollständig abgedeckt wurden. Es fehlen spezifische Begriffe wie „Vorsorgliche Massnahmen“ und „Urheberrechtsschutz“, die für die Bewertung von vorläufigen Schutzmaßnahmen entscheidend sind. Zudem könnten weitere Gesetze wie das Wettbewerbsgesetz (UWG) und die Zivilprozessordnung (ZPO) hilfreich sein, um die Prozessvoraussetzungen und die Rechtmäßigkeit der vorläufigen Maßnahmen besser zu bewerten. Ein Fokus auf die Durchsetzung von Geheimhaltungspflichten und die Frage der drohenden Rechtsverletzung wäre ebenfalls nötig, um die Notwendigkeit der vorläufigen Schutzmaßnahmen zu stärken.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZPO",
+        "UWG",
+        "SchKG"
+      ],
+      "additional_keywords_de": [
+        "Vorsorgliche Massnahmen",
+        "Urheberrechtsschutz",
+        "Verletzung von Geheimhaltungspflichten",
+        "Zivilrechtliche Durchsetzung",
+        "Prozessvoraussetzungen",
+        "Rechtsschutzinteresse",
+        "Drohende Rechtsverletzung",
+        "Unfair Competition",
+        "Besitzansprüche",
+        "Forensische Prüfung"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse zeigen, dass relevante Aspekte des Zivilprozesses, insbesondere zur Durchsetzung von Urheberrechten und Wettbewerbsrecht, nicht vollständig abgedeckt wurden. Es fehlen spezifische Begriffe wie „Vorsorgliche Massnahmen“ und „Urheberrechtsschutz“, die für die Bewertung von vorläufigen Schutzmaßnahmen entscheidend sind. Zudem könnten weitere Gesetze wie das Wettbewerbsgesetz (UWG) und die Zivilprozessordnung (ZPO) hilfreich sein, um die Prozessvoraussetzungen und die Rechtmäßigkeit der vorläufigen Maßnahmen besser zu bewerten. Ein Fokus auf die Durchsetzung von Geheimhaltungspflichten und die Frage der drohenden Rechtsverletzung wäre ebenfalls nötig, um die Notwendigkeit der vorläufigen Schutzmaßnahmen zu stärken."
+    }
+  },
+  "test_002": {
+    "raw": "{\n  \"additional_law_codes\": [\"AHVG\", \"VRV\", \"UVG\"],\n  \"additional_keywords_de\": [\"Schadensersatzverjährung\", \"Kenntnisnahmezeitpunkt\", \"Schadensfeststellungsgrenze\", \"Grobverschulden\", \"Unfallfolgenbewertung\", \"Schadensersatzanspruchsgestaltungsrecht\", \"Schadensersatzanspruchsgrenze\", \"Schadensersatzanspruchsbewertung\", \"Schadensersatzanspruchsgestaltung\", \"Schadensersatzanspruchsgestaltungsrechtliche Verjährung\", \"Schadensersatzanspruchsgestaltungsrechtliche Bewertung\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse zeigen, dass relevante Schweizer Gesetze wie AHVG, VRV und UVG nicht vollständig berücksichtigt wurden, obwohl sie für die Bewertung der Verjährung und Schadensersatzansprüche entscheidend sind. Zudem fehlen spezifische deutsche Begriffe wie „Kenntnisnahmezeitpunkt“ und „Schadensfeststellungsgrenze“, die für die präzise Interpretation von Art. 83 SVG und Art. 59 Abs. 1 SVG notwendig sind. Die Verbindung zwischen Schadensfeststellung und Verjährungsbeginn sowie die Rolle von Gutachten und staatlichen Entscheiden wie dem der Landesbehörde für Behinderung müssen weiterhin thematisiert werden. Eine Ergänzung der Suchbegriffe könnte helfen, fehlende Aspekte der Schadensersatzanspruchsgestaltung und -bewertung besser abzudecken.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "AHVG",
+        "VRV",
+        "UVG"
+      ],
+      "additional_keywords_de": [
+        "Schadensersatzverjährung",
+        "Kenntnisnahmezeitpunkt",
+        "Schadensfeststellungsgrenze",
+        "Grobverschulden",
+        "Unfallfolgenbewertung",
+        "Schadensersatzanspruchsgestaltungsrecht",
+        "Schadensersatzanspruchsgrenze",
+        "Schadensersatzanspruchsbewertung",
+        "Schadensersatzanspruchsgestaltung",
+        "Schadensersatzanspruchsgestaltungsrechtliche Verjährung",
+        "Schadensersatzanspruchsgestaltungsrechtliche Bewertung"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse zeigen, dass relevante Schweizer Gesetze wie AHVG, VRV und UVG nicht vollständig berücksichtigt wurden, obwohl sie für die Bewertung der Verjährung und Schadensersatzansprüche entscheidend sind. Zudem fehlen spezifische deutsche Begriffe wie „Kenntnisnahmezeitpunkt“ und „Schadensfeststellungsgrenze“, die für die präzise Interpretation von Art. 83 SVG und Art. 59 Abs. 1 SVG notwendig sind. Die Verbindung zwischen Schadensfeststellung und Verjährungsbeginn sowie die Rolle von Gutachten und staatlichen Entscheiden wie dem der Landesbehörde für Behinderung müssen weiterhin thematisiert werden. Eine Ergänzung der Suchbegriffe könnte helfen, fehlende Aspekte der Schadensersatzanspruchsgestaltung und -bewertung besser abzudecken."
+    }
+  },
+  "test_003": {
+    "raw": "{\n  \"additional_law_codes\": [\"CO\", \"OR\", \"ZGB\", \"LCC\", \"SchKG\", \"BGG\", \"ZPO\", \"ZGB\"],\n  \"additional_keywords_de\": [\"konventionelle Schuldentilgung ohne Einwilligung\", \"Mangelrügefrist\", \"Wirtschaftsgut-Mietvertrag\", \"Vermieterpflicht zur Mangelprüfung\", \"Verjährungsbefreiung durch Angebot\", \"Vertragsgestaltung für Geschäftsgegenstände\", \"Schuldentilgung gemäß Art. 115 CO\", \"Mietvertragsgestaltung für Unternehmen\", \"Unmittelbare Mangelmeldungspflicht\", \"Schuldnerverantwortung bei Geschäftsverträgen\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse zeigen, dass relevante Aspekte der konventionellen Schuldentilgung (Art. 115 CO), insbesondere bezüglich der Bedingungen für eine wirksame Einigung ohne Einwilligung des Schuldners, nicht vollständig abgedeckt wurden. Zudem fehlen spezifische Begriffe zur Unterscheidung zwischen Mietverträgen für Privatpersonen und Geschäftsgegenstände, was für die Anwendbarkeit des Konsumentenschutzgesetzes entscheidend ist. Des Weiteren könnten präzisere Begriffe zur Mangelrügefrist und zur Pflicht des Vermieters, Mängel sofort zu prüfen, hilfreich sein, um die Argumentation von Meridian besser zu unterstützen. Schließlich könnte die Verjährungsbefreiung durch ein Angebot (Art. 135 OR) und die Rolle der Vertragsgestaltung für Geschäftsgegenstände weitere Abdeckung benötigen.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "CO",
+        "OR",
+        "ZGB",
+        "LCC",
+        "SchKG",
+        "BGG",
+        "ZPO",
+        "ZGB"
+      ],
+      "additional_keywords_de": [
+        "konventionelle Schuldentilgung ohne Einwilligung",
+        "Mangelrügefrist",
+        "Wirtschaftsgut-Mietvertrag",
+        "Vermieterpflicht zur Mangelprüfung",
+        "Verjährungsbefreiung durch Angebot",
+        "Vertragsgestaltung für Geschäftsgegenstände",
+        "Schuldentilgung gemäß Art. 115 CO",
+        "Mietvertragsgestaltung für Unternehmen",
+        "Unmittelbare Mangelmeldungspflicht",
+        "Schuldnerverantwortung bei Geschäftsverträgen"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse zeigen, dass relevante Aspekte der konventionellen Schuldentilgung (Art. 115 CO), insbesondere bezüglich der Bedingungen für eine wirksame Einigung ohne Einwilligung des Schuldners, nicht vollständig abgedeckt wurden. Zudem fehlen spezifische Begriffe zur Unterscheidung zwischen Mietverträgen für Privatpersonen und Geschäftsgegenstände, was für die Anwendbarkeit des Konsumentenschutzgesetzes entscheidend ist. Des Weiteren könnten präzisere Begriffe zur Mangelrügefrist und zur Pflicht des Vermieters, Mängel sofort zu prüfen, hilfreich sein, um die Argumentation von Meridian besser zu unterstützen. Schließlich könnte die Verjährungsbefreiung durch ein Angebot (Art. 135 OR) und die Rolle der Vertragsgestaltung für Geschäftsgegenstände weitere Abdeckung benötigen."
+    }
+  },
+  "test_004": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZPO\", \"BV\", \"BVG\"],\n  \"additional_keywords_de\": [\"Friststillstand\", \"Beschlusszustellung\", \"Konkursantrag\", \"Rechtsvorschlag\", \"Anfechtungsklage\", \"Verjährungsfrist\", \"Betreibungsaufhebung\", \"Gerichtsentscheid\", \"Zustellungsfrist\", \"Verfahrensfortschritt\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Runde hat möglicherweise relevante Aspekte der Fristberechnung und -stillstandsregelungen im Zusammenhang mit der Aufhebung der Einrede und der Zustellung von Entscheiden nicht vollständig berücksichtigt. Insbesondere könnte die Frage, ob der Friststillstand während der Aufhebung der Einrede bereits mit der Zustellung des operativen Entscheids endet oder erst mit der Benachrichtigung der vollständigen Begründung, weiterhin unklar bleiben. Zudem könnte der Einfluss der Verjährungsvorschriften im Zusammenhang mit der Bankrottanfechtung und der Rolle des Schuldbetreibungsregisters für die Solvenzaussage noch genauer untersucht werden. Es wäre sinnvoll, auch Regelungen zum Friststillstand im Zivilprozessrecht (ZPO) und zur Verjährung (ZGB) einzubeziehen, um alle potenziellen rechtlichen Aspekte abzudecken.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZPO",
+        "BV",
+        "BVG"
+      ],
+      "additional_keywords_de": [
+        "Friststillstand",
+        "Beschlusszustellung",
+        "Konkursantrag",
+        "Rechtsvorschlag",
+        "Anfechtungsklage",
+        "Verjährungsfrist",
+        "Betreibungsaufhebung",
+        "Gerichtsentscheid",
+        "Zustellungsfrist",
+        "Verfahrensfortschritt"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Runde hat möglicherweise relevante Aspekte der Fristberechnung und -stillstandsregelungen im Zusammenhang mit der Aufhebung der Einrede und der Zustellung von Entscheiden nicht vollständig berücksichtigt. Insbesondere könnte die Frage, ob der Friststillstand während der Aufhebung der Einrede bereits mit der Zustellung des operativen Entscheids endet oder erst mit der Benachrichtigung der vollständigen Begründung, weiterhin unklar bleiben. Zudem könnte der Einfluss der Verjährungsvorschriften im Zusammenhang mit der Bankrottanfechtung und der Rolle des Schuldbetreibungsregisters für die Solvenzaussage noch genauer untersucht werden. Es wäre sinnvoll, auch Regelungen zum Friststillstand im Zivilprozessrecht (ZPO) und zur Verjährung (ZGB) einzubeziehen, um alle potenziellen rechtlichen Aspekte abzudecken."
+    }
+  },
+  "test_005": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZPO\", \"SchKG\", \"BGG\"],\n  \"additional_keywords_de\": [\"Pfandrecht\", \"Schuldbrief-Novation\", \"Grundpfandverschreibung\", \"Rechtsöffnung\", \"Betreibung\", \"Schuldnerstatus\", \"Haftungszusage\", \"Sicherungsübereignung\", \"Zinsverzugsrecht\", \"Verjährungsbeginn\", \"Gegenstandsbezogenheit\", \"Eigentumsübertragung\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse konzentrieren sich primär auf die Regelungen des ZGB und SchKG bezüglich Schuldbriefen und Grundpfanden. Allerdings fehlen relevante Bestimmungen aus dem ZPO, insbesondere zu Rechtsöffnungen und Betreibungen, sowie aus dem BGG, das für die Beschwerdehandlung entscheidend sein könnte. Zudem könnten spezifische Begriffe wie \\\"Pfandrecht\\\", \\\"Schuldbrief-Novation\\\" und \\\"Sicherungsübereignung\\\" helfen, die rechtliche Funktion des Schuldbriefs und dessen Auswirkungen auf die Schuldverhältnisse präziser zu erfassen. Es wäre auch wichtig, die Rolle der \\\"Grundpfandverschreibung\\\" und deren Beziehung zum Schuldbrief zu untersuchen, um zu klären, ob eine Novation stattgefunden hat oder ob lediglich eine fiduziare Sicherung besteht. Des Weiteren sollten Aspekte wie \\\"Rechtsöffnung\\\", \\\"Betreibung\\\" und \\\"Schuldnerstatus\\\" genauer betrachtet werden, um die Validität der Exigibilität und die Geltendmachung der Forderung zu beurteilen.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZPO",
+        "SchKG",
+        "BGG"
+      ],
+      "additional_keywords_de": [
+        "Pfandrecht",
+        "Schuldbrief-Novation",
+        "Grundpfandverschreibung",
+        "Rechtsöffnung",
+        "Betreibung",
+        "Schuldnerstatus",
+        "Haftungszusage",
+        "Sicherungsübereignung",
+        "Zinsverzugsrecht",
+        "Verjährungsbeginn",
+        "Gegenstandsbezogenheit",
+        "Eigentumsübertragung"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse konzentrieren sich primär auf die Regelungen des ZGB und SchKG bezüglich Schuldbriefen und Grundpfanden. Allerdings fehlen relevante Bestimmungen aus dem ZPO, insbesondere zu Rechtsöffnungen und Betreibungen, sowie aus dem BGG, das für die Beschwerdehandlung entscheidend sein könnte. Zudem könnten spezifische Begriffe wie \"Pfandrecht\", \"Schuldbrief-Novation\" und \"Sicherungsübereignung\" helfen, die rechtliche Funktion des Schuldbriefs und dessen Auswirkungen auf die Schuldverhältnisse präziser zu erfassen. Es wäre auch wichtig, die Rolle der \"Grundpfandverschreibung\" und deren Beziehung zum Schuldbrief zu untersuchen, um zu klären, ob eine Novation stattgefunden hat oder ob lediglich eine fiduziare Sicherung besteht. Des Weiteren sollten Aspekte wie \"Rechtsöffnung\", \"Betreibung\" und \"Schuldnerstatus\" genauer betrachtet werden, um die Validität der Exigibilität und die Geltendmachung der Forderung zu beurteilen."
+    }
+  },
+  "test_006": {
+    "raw": "{\n  \"additional_law_codes\": [\"PrSG\", \"MaschV\", \"ATSG\"],\n  \"additional_keywords_de\": [\"Sicherheitsanforderungen\", \"Normkonformität\", \"Gewährleistungsausschluss\", \"Mangelbeweislast\", \"Expertenmeinungserfordernis\", \"Verjährungsbeginn\", \"Schadensursachennachweis\", \"Verkehrsüblichkeit\", \"Technische Dokumentationserfordernis\", \"Gebrauchstauglichkeit\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse konzentrieren sich primär auf das PrHG und verwandte Gesetze wie das ZGB und das OR. Allerdings fehlen relevante Aspekte der Produktkonformität mit technischen Normen, die im PrSG geregelt sind, sowie die Rolle der Sicherheitsanforderungen und der Verkehrsüblichkeit bei der Bewertung von Mängeln. Zudem könnte der Nachweis der Normkonformität und die Bedeutung von technischen Dokumentationen für die Haftungsbegründung oder -ausschluss entscheidend sein. Des Weiteren ist der Umgang mit Expertenmeinungen und deren Erfordernis für den Mangelbeweis nicht vollständig abgedeckt. Schließlich könnte die Verjährungshinweisung im OR (Art. 60 OR) für die Bewertung der Zeitbarkeit des Anspruchs relevant sein, weshalb dieser Aspekt ergänzend berücksichtigt werden sollte.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "PrSG",
+        "MaschV",
+        "ATSG"
+      ],
+      "additional_keywords_de": [
+        "Sicherheitsanforderungen",
+        "Normkonformität",
+        "Gewährleistungsausschluss",
+        "Mangelbeweislast",
+        "Expertenmeinungserfordernis",
+        "Verjährungsbeginn",
+        "Schadensursachennachweis",
+        "Verkehrsüblichkeit",
+        "Technische Dokumentationserfordernis",
+        "Gebrauchstauglichkeit"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse konzentrieren sich primär auf das PrHG und verwandte Gesetze wie das ZGB und das OR. Allerdings fehlen relevante Aspekte der Produktkonformität mit technischen Normen, die im PrSG geregelt sind, sowie die Rolle der Sicherheitsanforderungen und der Verkehrsüblichkeit bei der Bewertung von Mängeln. Zudem könnte der Nachweis der Normkonformität und die Bedeutung von technischen Dokumentationen für die Haftungsbegründung oder -ausschluss entscheidend sein. Des Weiteren ist der Umgang mit Expertenmeinungen und deren Erfordernis für den Mangelbeweis nicht vollständig abgedeckt. Schließlich könnte die Verjährungshinweisung im OR (Art. 60 OR) für die Bewertung der Zeitbarkeit des Anspruchs relevant sein, weshalb dieser Aspekt ergänzend berücksichtigt werden sollte."
+    }
+  },
+  "test_007": {
+    "raw": "{\n  \"additional_law_codes\": [\"MedBG\", \"IVG\", \"UVG\", \"KVG\"],\n  \"additional_keywords_de\": [\"Mandatsverhältnis\", \"Sorgfaltspflichtverletzung\", \"Vertragsmangel\", \"Leistungsrücktritt\", \"Haftung für unvollständige Leistung\", \"Reparaturpflicht\", \"Kostenrückerstattung\", \"Unvollendete Leistung\", \"Vertragswidrigkeit im Mandatsverhältnis\", \"Vertragsanspruch auf Rückzahlung\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse konzentrieren sich hauptsächlich auf das Obligationenrecht (OR), das Zivilgesetzbuch (ZGB) und das Medizinische Berufsrecht (MedBG). Jedoch fehlen spezifische Regelungen aus dem Krankenversicherungsgesetz (KVG) und dem Invaliditätsgesetz (IVG), welche für die Bewertung von Kostenansprüchen und Leistungsverpflichtungen im medizinischen Kontext relevant sein könnten. Zudem könnte das Unfallversicherungsgesetz (UVG) für Aspekte der Pflicht zur zweckmäßigen Behandlung von Bedeutung sein. Im Hinblick auf das Mandatsverhältnis zwischen Arzt und Patient wäre es wichtig, weitere Stellen im OR zu berücksichtigen, die explizit auf die Haftung bei Verletzung der Sorgfaltspflichten im Mandatsverhältnis eingehen. Des Weiteren könnten Begriffe wie „Mandatsverhältnis“, „Sorgfaltspflichtverletzung“ und „Kostenrückerstattung“ helfen, fehlende Aspekte der Vertragsverletzung und der Haftung für unvollständige Leistungen besser abzudecken.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "MedBG",
+        "IVG",
+        "UVG",
+        "KVG"
+      ],
+      "additional_keywords_de": [
+        "Mandatsverhältnis",
+        "Sorgfaltspflichtverletzung",
+        "Vertragsmangel",
+        "Leistungsrücktritt",
+        "Haftung für unvollständige Leistung",
+        "Reparaturpflicht",
+        "Kostenrückerstattung",
+        "Unvollendete Leistung",
+        "Vertragswidrigkeit im Mandatsverhältnis",
+        "Vertragsanspruch auf Rückzahlung"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse konzentrieren sich hauptsächlich auf das Obligationenrecht (OR), das Zivilgesetzbuch (ZGB) und das Medizinische Berufsrecht (MedBG). Jedoch fehlen spezifische Regelungen aus dem Krankenversicherungsgesetz (KVG) und dem Invaliditätsgesetz (IVG), welche für die Bewertung von Kostenansprüchen und Leistungsverpflichtungen im medizinischen Kontext relevant sein könnten. Zudem könnte das Unfallversicherungsgesetz (UVG) für Aspekte der Pflicht zur zweckmäßigen Behandlung von Bedeutung sein. Im Hinblick auf das Mandatsverhältnis zwischen Arzt und Patient wäre es wichtig, weitere Stellen im OR zu berücksichtigen, die explizit auf die Haftung bei Verletzung der Sorgfaltspflichten im Mandatsverhältnis eingehen. Des Weiteren könnten Begriffe wie „Mandatsverhältnis“, „Sorgfaltspflichtverletzung“ und „Kostenrückerstattung“ helfen, fehlende Aspekte der Vertragsverletzung und der Haftung für unvollständige Leistungen besser abzudecken."
+    }
+  },
+  "test_008": {
+    "raw": "{\n  \"additional_law_codes\": [\"Haager Kindesschutzübereinkommen\", \"Geneva Convention\", \"UN Convention on the Rights of the Child\"],\n  \"additional_keywords_de\": [\"Kindesentführung gemäß Haager Übereinkommen\", \"Vorrang des gewöhnlichen Aufenthaltsorts\", \"Interimsmaßnahmen im Kinderschutz\", \"Exterritorialität der Jurisdiktion\", \"Anwendung des IPRG im internationalen Verhältnis\", \"Schutz des Kindeswohls im internationalen Recht\", \"Zuständigkeit bei internationaler Kinderausreise\"],\n  \"refined_hyde\": \"Die Schweizer Gerichte sind im Rahmen des Internationalen Privatrechts (IPRG) für bestimmte Angelegenheiten im internationalen Verhältnis zuständig, wobei völkerrechtliche Verträge wie das Lugano-Übereinkommen und das Haager Kindesschutzübereinkommen Vorrang genießen. Im vorliegenden Fall könnte die Zuständigkeit der Schweizer Gerichte für die Provisionsmaßnahmen relevant sein, insbesondere wenn der gewöhnliche Aufenthaltsort des Kindes in der Schweiz liegt oder wenn das Kindeswohl bedroht ist. Allerdings könnte die deutsche Gerichtsbarkeit aufgrund der vorherigen Festlegung des gewöhnlichen Aufenthaltsorts und der gemeinsamen Elternschaftsregelung im deutschen Recht priorisiert werden. Es wäre daher entscheidend, ob die Schweizer Gerichte im Rahmen des IPRG oder des Haager Übereinkommens kompetent sind, um die vorläufigen Maßnahmen zu verfügen, ohne die deutsche Jurisdiktion zu überspringen.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "Haager Kindesschutzübereinkommen",
+        "Geneva Convention",
+        "UN Convention on the Rights of the Child"
+      ],
+      "additional_keywords_de": [
+        "Kindesentführung gemäß Haager Übereinkommen",
+        "Vorrang des gewöhnlichen Aufenthaltsorts",
+        "Interimsmaßnahmen im Kinderschutz",
+        "Exterritorialität der Jurisdiktion",
+        "Anwendung des IPRG im internationalen Verhältnis",
+        "Schutz des Kindeswohls im internationalen Recht",
+        "Zuständigkeit bei internationaler Kinderausreise"
+      ],
+      "refined_hyde": "Die Schweizer Gerichte sind im Rahmen des Internationalen Privatrechts (IPRG) für bestimmte Angelegenheiten im internationalen Verhältnis zuständig, wobei völkerrechtliche Verträge wie das Lugano-Übereinkommen und das Haager Kindesschutzübereinkommen Vorrang genießen. Im vorliegenden Fall könnte die Zuständigkeit der Schweizer Gerichte für die Provisionsmaßnahmen relevant sein, insbesondere wenn der gewöhnliche Aufenthaltsort des Kindes in der Schweiz liegt oder wenn das Kindeswohl bedroht ist. Allerdings könnte die deutsche Gerichtsbarkeit aufgrund der vorherigen Festlegung des gewöhnlichen Aufenthaltsorts und der gemeinsamen Elternschaftsregelung im deutschen Recht priorisiert werden. Es wäre daher entscheidend, ob die Schweizer Gerichte im Rahmen des IPRG oder des Haager Übereinkommens kompetent sind, um die vorläufigen Maßnahmen zu verfügen, ohne die deutsche Jurisdiktion zu überspringen."
+    }
+  },
+  "test_009": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZGB\", \"IPRG\", \"BGG\", \"OR\", \"ArG\", \"StGB\", \"StPO\", \"DBG\"],\n  \"additional_keywords_de\": [\"Anerkennung ausländischer Entscheidungen\", \"Ordre public\", \"Zuständigkeit ausländischer Gerichte\", \"Apostille-Vorschrift\", \"Bigamieverbot\", \"Erbverwaltung im Ausland\", \"Anfechtung von Ehen\", \"Heimatrecht\", \"Wohnsitzrecht\", \"Zustimmungspflicht bei Erbverhältnissen\", \"Vollstreckung ausländischer Urteile\", \"Schutz des Bankgeheimnisses\"],\n  \"refined_hyde\": \"Die Anerkennung ausländischer Entscheidungen unterliegt strengen Kriterien gemäß dem Internationalen Privatrecht (IPRG), insbesondere wenn diese mit der schweizerischen öffentlichen Ordnung (Ordre public) kollidieren könnten. Das Bigamieverbot im Schweizerischen Zivilgesetzbuch (ZGB) könnte eine Hürde darstellen, da die zweite Ehe des Verstorbenen möglicherweise nicht rechtskräftig ist. Zudem spielt die fehlende Apostille eine Rolle, da sie die Anerkennung ausländischer Dokumente oft voraussetzt. Relevant sind auch die Regeln zur Erbverwaltung (BGG) sowie die Bankgeheimnisvorschriften (OR). Es bleibt abzuwägen, ob die Anerkennung der kanadischen Entscheidung im Interesse der Rechtssicherheit oder im Schutz der schweizerischen öffentlichen Ordnung liegt. Dabei müssen auch die Zuständigkeitsregeln des IPRG und die Anforderungen an die Anerkennung ausländischer Urteile berücksichtigt werden.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZGB",
+        "IPRG",
+        "BGG",
+        "OR",
+        "ArG",
+        "StGB",
+        "StPO",
+        "DBG"
+      ],
+      "additional_keywords_de": [
+        "Anerkennung ausländischer Entscheidungen",
+        "Ordre public",
+        "Zuständigkeit ausländischer Gerichte",
+        "Apostille-Vorschrift",
+        "Bigamieverbot",
+        "Erbverwaltung im Ausland",
+        "Anfechtung von Ehen",
+        "Heimatrecht",
+        "Wohnsitzrecht",
+        "Zustimmungspflicht bei Erbverhältnissen",
+        "Vollstreckung ausländischer Urteile",
+        "Schutz des Bankgeheimnisses"
+      ],
+      "refined_hyde": "Die Anerkennung ausländischer Entscheidungen unterliegt strengen Kriterien gemäß dem Internationalen Privatrecht (IPRG), insbesondere wenn diese mit der schweizerischen öffentlichen Ordnung (Ordre public) kollidieren könnten. Das Bigamieverbot im Schweizerischen Zivilgesetzbuch (ZGB) könnte eine Hürde darstellen, da die zweite Ehe des Verstorbenen möglicherweise nicht rechtskräftig ist. Zudem spielt die fehlende Apostille eine Rolle, da sie die Anerkennung ausländischer Dokumente oft voraussetzt. Relevant sind auch die Regeln zur Erbverwaltung (BGG) sowie die Bankgeheimnisvorschriften (OR). Es bleibt abzuwägen, ob die Anerkennung der kanadischen Entscheidung im Interesse der Rechtssicherheit oder im Schutz der schweizerischen öffentlichen Ordnung liegt. Dabei müssen auch die Zuständigkeitsregeln des IPRG und die Anforderungen an die Anerkennung ausländischer Urteile berücksichtigt werden."
+    }
+  },
+  "test_010": {
+    "raw": "{\n  \"additional_law_codes\": [\"StGB\", \"StPO\", \"ZGB\", \"IPRG\", \"BGG\", \"SVG\", \"DBG\", \"IRSG\"],\n  \"additional_keywords_de\": [\"Qualifizierter Raub\", \"Tatbeteiligung bei Gewaltverbrechen\", \"Schuldzuschreibung bei Mitverantwortung\", \"Beweisverwertung bei Zweifeln\", \"Verurteilung unter Unschuldsvermutung\", \"Gewalteinsetzung im Diebstahl\", \"Schuldverhältnis bei gemeinschaftlicher Tat\", \"Rechtsverletzung bei Beweisaufnahme\", \"Schuldzuschreibungsgesetz\", \"Unschuldsvermutung im Prozess\", \"Wiederbewertung der Tatsachen\", \"Schuldverhältnis bei Erpressung\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse zeigen, dass wichtige Aspekte der qualifizierten Tatbestandsmerkmale im Zusammenhang mit Gewaltanwendung beim Raub (Art. 140 StGB) nicht vollständig abgedeckt wurden. Zudem fehlen spezifische Begriffe zur Bewertung der Schuldzuschreibung bei Mitverantwortung und zur Wiederbewertung der Tatsachen gemäß Art. 398 StPO. Es könnte hilfreich sein, weitere Schlüsselbegriffe wie „qualifizierter Raub“, „Schuldverhältnis bei gemeinschaftlicher Tat“ und „Beweisverwertung bei Zweifeln“ hinzuzufügen, um sicherzustellen, dass relevante Rechtsgrundsätze wie „in dubio pro reo“ und die Schuldzuschreibung bei Mitverantwortung besser abgebildet werden. Darüber hinaus könnten zusätzliche Gesetzesstellen wie SVG und DBG nützlich sein, um die Beweisverwertung und Schuldzuschreibung genauer zu untersuchen.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "StGB",
+        "StPO",
+        "ZGB",
+        "IPRG",
+        "BGG",
+        "SVG",
+        "DBG",
+        "IRSG"
+      ],
+      "additional_keywords_de": [
+        "Qualifizierter Raub",
+        "Tatbeteiligung bei Gewaltverbrechen",
+        "Schuldzuschreibung bei Mitverantwortung",
+        "Beweisverwertung bei Zweifeln",
+        "Verurteilung unter Unschuldsvermutung",
+        "Gewalteinsetzung im Diebstahl",
+        "Schuldverhältnis bei gemeinschaftlicher Tat",
+        "Rechtsverletzung bei Beweisaufnahme",
+        "Schuldzuschreibungsgesetz",
+        "Unschuldsvermutung im Prozess",
+        "Wiederbewertung der Tatsachen",
+        "Schuldverhältnis bei Erpressung"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse zeigen, dass wichtige Aspekte der qualifizierten Tatbestandsmerkmale im Zusammenhang mit Gewaltanwendung beim Raub (Art. 140 StGB) nicht vollständig abgedeckt wurden. Zudem fehlen spezifische Begriffe zur Bewertung der Schuldzuschreibung bei Mitverantwortung und zur Wiederbewertung der Tatsachen gemäß Art. 398 StPO. Es könnte hilfreich sein, weitere Schlüsselbegriffe wie „qualifizierter Raub“, „Schuldverhältnis bei gemeinschaftlicher Tat“ und „Beweisverwertung bei Zweifeln“ hinzuzufügen, um sicherzustellen, dass relevante Rechtsgrundsätze wie „in dubio pro reo“ und die Schuldzuschreibung bei Mitverantwortung besser abgebildet werden. Darüber hinaus könnten zusätzliche Gesetzesstellen wie SVG und DBG nützlich sein, um die Beweisverwertung und Schuldzuschreibung genauer zu untersuchen."
+    }
+  },
+  "test_011": {
+    "raw": "{\n  \"additional_law_codes\": [\"IPRG\", \"BGG\", \"FiFV\", \"KRV\", \"MStG\", \"FIFG\", \"ZISG\"],\n  \"additional_keywords_de\": [\"Gerichtsstandsvereinbarung\", \"Anfechtung einer unwirksamen Vertretung\", \"Rechtsanwendung im internationalen Verhältnis\", \"Zuständigkeit der schweizerischen Gerichte\", \"Anerkennung ausländischer Entscheidungen\", \"Wohnsitzkriterium\", \"Sitzkriterium\", \"Vertragliche Zustimmung zur ausländischen Gerichtsbarkeit\", \"Schweizerisches Recht im internationalen Privatrecht\", \"Vertragsgestaltung im internationalen Kontext\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse legen den Schwerpunkt auf die allgemeinen Regelungen zur Zuständigkeit und zum anzuwendenden Recht im internationalen Privatrecht (LDIP) sowie auf die Vertragsgestaltung. Allerdings fehlen spezifische Regelungen zur Bewertung von Forum-Selektionsklauseln, insbesondere hinsichtlich ihrer Wirksamkeit im Hinblick auf die Schweizer Gerichte, sowie zur Anfechtung von unwirksamer Vertretung gemäß Art. 38 und 39 CO. Zudem könnten relevante Aspekte der Anerkennung ausländischer Entscheidungen und der Anwendung des internationalen Privatrechts (IPRG) besser berücksichtigt werden. Des Weiteren könnte die Rolle des Wohnsitz- und Sitzkriteriums im Rahmen der Zuständigkeit der schweizerischen Gerichte genauer untersucht werden, um sicherzustellen, dass alle rechtlichen Grundlagen für die Kompetenz der Genevaise Gerichte vollständig abgedeckt sind.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "IPRG",
+        "BGG",
+        "FiFV",
+        "KRV",
+        "MStG",
+        "FIFG",
+        "ZISG"
+      ],
+      "additional_keywords_de": [
+        "Gerichtsstandsvereinbarung",
+        "Anfechtung einer unwirksamen Vertretung",
+        "Rechtsanwendung im internationalen Verhältnis",
+        "Zuständigkeit der schweizerischen Gerichte",
+        "Anerkennung ausländischer Entscheidungen",
+        "Wohnsitzkriterium",
+        "Sitzkriterium",
+        "Vertragliche Zustimmung zur ausländischen Gerichtsbarkeit",
+        "Schweizerisches Recht im internationalen Privatrecht",
+        "Vertragsgestaltung im internationalen Kontext"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse legen den Schwerpunkt auf die allgemeinen Regelungen zur Zuständigkeit und zum anzuwendenden Recht im internationalen Privatrecht (LDIP) sowie auf die Vertragsgestaltung. Allerdings fehlen spezifische Regelungen zur Bewertung von Forum-Selektionsklauseln, insbesondere hinsichtlich ihrer Wirksamkeit im Hinblick auf die Schweizer Gerichte, sowie zur Anfechtung von unwirksamer Vertretung gemäß Art. 38 und 39 CO. Zudem könnten relevante Aspekte der Anerkennung ausländischer Entscheidungen und der Anwendung des internationalen Privatrechts (IPRG) besser berücksichtigt werden. Des Weiteren könnte die Rolle des Wohnsitz- und Sitzkriteriums im Rahmen der Zuständigkeit der schweizerischen Gerichte genauer untersucht werden, um sicherzustellen, dass alle rechtlichen Grundlagen für die Kompetenz der Genevaise Gerichte vollständig abgedeckt sind."
+    }
+  },
+  "test_012": {
+    "raw": "{\n  \"additional_law_codes\": [\"OBlG\", \"ZPO\", \"BVG\", \"VVG\"],\n  \"additional_keywords_de\": [\"Factoringvertrag\", \"Kontokorrentvertrag\", \"Rechnungslegungspflicht\", \"Auskunftspflicht\", \"Verjährungsbeginn\", \"Schuldentilgung\", \"Vertragsgestaltung\", \"Schuldentilgung\", \"Verjährungsunterbrechung\", \"Schuldentilgung\", \"Vertragsgestaltung\", \"Schuldentilgung\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse konzentrieren sich stark auf die Verrechnung, Verjährung und Schuldbeziehungen gemäß dem Obligationenrecht (OR). Allerdings fehlen spezifische Regelungen zum Factoringvertrag, die in der Praxis oft mit einem Kontokorrentvertrag verbunden sind. Es könnte hilfreich sein, den OBlG (Ordnung über das Buchführungsgewerbe) einzubeziehen, um die Anforderungen an die Buchführung und Rechnungslegung zu klären. Zudem könnten Regelungen zur Verjährungsunterbrechung und zur Novation genauer betrachtet werden, da die Parteien unterschiedliche Auffassungen haben. Die ZPO (Zivilprozessordnung) könnte relevante Aspekte zur Beweislast und zur Verfahrensfrage beitragen. Schließlich wäre es wichtig, die Rolle der BVG (Berufliche Vorsorgegesetz) und VVG (Versicherungswesen-Gesetz) zu untersuchen, falls Versicherungs- oder Altersvorsorgeaspekte im Hintergrund liegen.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "OBlG",
+        "ZPO",
+        "BVG",
+        "VVG"
+      ],
+      "additional_keywords_de": [
+        "Factoringvertrag",
+        "Kontokorrentvertrag",
+        "Rechnungslegungspflicht",
+        "Auskunftspflicht",
+        "Verjährungsbeginn",
+        "Schuldentilgung",
+        "Vertragsgestaltung",
+        "Schuldentilgung",
+        "Verjährungsunterbrechung",
+        "Schuldentilgung",
+        "Vertragsgestaltung",
+        "Schuldentilgung"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse konzentrieren sich stark auf die Verrechnung, Verjährung und Schuldbeziehungen gemäß dem Obligationenrecht (OR). Allerdings fehlen spezifische Regelungen zum Factoringvertrag, die in der Praxis oft mit einem Kontokorrentvertrag verbunden sind. Es könnte hilfreich sein, den OBlG (Ordnung über das Buchführungsgewerbe) einzubeziehen, um die Anforderungen an die Buchführung und Rechnungslegung zu klären. Zudem könnten Regelungen zur Verjährungsunterbrechung und zur Novation genauer betrachtet werden, da die Parteien unterschiedliche Auffassungen haben. Die ZPO (Zivilprozessordnung) könnte relevante Aspekte zur Beweislast und zur Verfahrensfrage beitragen. Schließlich wäre es wichtig, die Rolle der BVG (Berufliche Vorsorgegesetz) und VVG (Versicherungswesen-Gesetz) zu untersuchen, falls Versicherungs- oder Altersvorsorgeaspekte im Hintergrund liegen."
+    }
+  },
+  "test_013": {
+    "raw": "{\n  \"additional_law_codes\": [\"SBBG\", \"AHVG\", \"BPV\", \"AVIG\", \"LDist\"],\n  \"additional_keywords_de\": [\"Allgemeinverbindlicherklärung\", \"Gesamtarbeitsvertrag\", \"Tripartite Kommission\", \"Lohnzulagen\", \"Massgebender Lohn\", \"Wochenendarbeit\", \"Überstundenregelung\", \"Verpflichtung zum Lohnausgleich\", \"Zwangsvollziehung\", \"Lohnminimumsregelung\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse zeigen, dass der Fokus primär auf Gesamtarbeitsverträgen (GAV), Mindestlohnvorschriften und tripartiten Regelungen gerichtet war. Jedoch fehlen spezifische Gesetze, die sich direkt mit der Frage der Lohnanpassung an den \\\"gewöhnlichen Lohn\\\" oder der Anwendung von GAV-Ausschlüssen in bestimmten Branchen befassen. Insbesondere könnten Gesetze wie das Tarifvertragsgesetz (TVG) oder die Regelungen zur Allgemeinverbindlicherklärung (AVEG) relevanter sein. Zudem könnte der Begriff \\\"massgebender Lohn\\\" in Verbindung mit der AHVG-Rechtsprechung weitere Aspekte der Lohnfestsetzung beleuchten. Es wäre auch wichtig, die Rolle der tripartiten Kommissionen und ihrer Auswirkungen auf die Lohnpolitik in der Branche zu berücksichtigen, da dies im Kontext der GAV-Ausschlüsse von Bedeutung ist.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "SBBG",
+        "AHVG",
+        "BPV",
+        "AVIG",
+        "LDist"
+      ],
+      "additional_keywords_de": [
+        "Allgemeinverbindlicherklärung",
+        "Gesamtarbeitsvertrag",
+        "Tripartite Kommission",
+        "Lohnzulagen",
+        "Massgebender Lohn",
+        "Wochenendarbeit",
+        "Überstundenregelung",
+        "Verpflichtung zum Lohnausgleich",
+        "Zwangsvollziehung",
+        "Lohnminimumsregelung"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse zeigen, dass der Fokus primär auf Gesamtarbeitsverträgen (GAV), Mindestlohnvorschriften und tripartiten Regelungen gerichtet war. Jedoch fehlen spezifische Gesetze, die sich direkt mit der Frage der Lohnanpassung an den \"gewöhnlichen Lohn\" oder der Anwendung von GAV-Ausschlüssen in bestimmten Branchen befassen. Insbesondere könnten Gesetze wie das Tarifvertragsgesetz (TVG) oder die Regelungen zur Allgemeinverbindlicherklärung (AVEG) relevanter sein. Zudem könnte der Begriff \"massgebender Lohn\" in Verbindung mit der AHVG-Rechtsprechung weitere Aspekte der Lohnfestsetzung beleuchten. Es wäre auch wichtig, die Rolle der tripartiten Kommissionen und ihrer Auswirkungen auf die Lohnpolitik in der Branche zu berücksichtigen, da dies im Kontext der GAV-Ausschlüsse von Bedeutung ist."
+    }
+  },
+  "test_014": {
+    "raw": "{\n  \"additional_law_codes\": [\"UVV\", \"VBPV-EDA\", \"KVV\", \"IVG\"],\n  \"additional_keywords_de\": [\"Unfallähnliche Körperschädigung\", \"Degenerationsprozess\", \"Widersprüchliche Unfallbeschreibung\", \"Nachträgliche Unfallmeldung\", \"Schulterverletzung\", \"Röntgenbild\", \"Medizinische Nachweislast\", \"Berufsgenossenschaft\", \"Erschütterung\", \"Mikrotrauma\", \"Chronische Schädigung\", \"Unfallursachenfeststellung\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Runde hat zwar relevante Gesetze wie das UVG und ATSG abgedeckt, doch fehlen spezifische Regelungen wie das UVV (Unfallversicherungsvorschriften) und VBPV-EDA (Versicherungsgesetz für Berufsgenossenschaften), die für die Bewertung von Unfallähnlichkeiten entscheidend sind. Zudem fehlen Begriffe wie „Unfallähnliche Körperschädigung“ und „Nachträgliche Unfallmeldung“, die für die Analyse widersprüchlicher Angaben und der Nachweislast entscheidend sind. Es wäre wichtig, auch die Rolle von Medizinischen Gutachten und chronischen Degenerationsprozessen genauer zu berücksichtigen, da diese für die Differenzierung zwischen Unfall und natürlicher Erkrankung entscheidend sind.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "UVV",
+        "VBPV-EDA",
+        "KVV",
+        "IVG"
+      ],
+      "additional_keywords_de": [
+        "Unfallähnliche Körperschädigung",
+        "Degenerationsprozess",
+        "Widersprüchliche Unfallbeschreibung",
+        "Nachträgliche Unfallmeldung",
+        "Schulterverletzung",
+        "Röntgenbild",
+        "Medizinische Nachweislast",
+        "Berufsgenossenschaft",
+        "Erschütterung",
+        "Mikrotrauma",
+        "Chronische Schädigung",
+        "Unfallursachenfeststellung"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Runde hat zwar relevante Gesetze wie das UVG und ATSG abgedeckt, doch fehlen spezifische Regelungen wie das UVV (Unfallversicherungsvorschriften) und VBPV-EDA (Versicherungsgesetz für Berufsgenossenschaften), die für die Bewertung von Unfallähnlichkeiten entscheidend sind. Zudem fehlen Begriffe wie „Unfallähnliche Körperschädigung“ und „Nachträgliche Unfallmeldung“, die für die Analyse widersprüchlicher Angaben und der Nachweislast entscheidend sind. Es wäre wichtig, auch die Rolle von Medizinischen Gutachten und chronischen Degenerationsprozessen genauer zu berücksichtigen, da diese für die Differenzierung zwischen Unfall und natürlicher Erkrankung entscheidend sind."
+    }
+  },
+  "test_015": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZPO\", \"FZV\", \"FZG\", \"BVG\"],\n  \"additional_keywords_de\": [\"Vermögensrückgabe\", \"Haftungsgemeinschaft\", \"Berufung auf Gütertrennung\", \"Verjährungsfrist\", \"Unterhaltsanspruch nach Alter\", \"Vollmachtsverhältnis\", \"Kapitalleistung\", \"Errungenschaftsbeteiligung\", \"Vorsorgeeinrichtung\", \"Austrittsleistung\", \"Freizügigkeitsleistung\", \"Selbständige Erwerbstätigkeit\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse legen den Schwerpunkt auf das ZGB, insbesondere auf die Regelungen zur Gütertrennung und zur Rückgewährleistung von Vermögenswerten. Allerdings fehlen relevante Aspekte wie die Haftungsgemeinschaft, die Rolle von Vollmachten und das Verhältnis zwischen Fiduciärverwaltung und Partnerschaft. Zudem könnten Regelungen aus dem ZPO (Zivilprozessordnung) und speziell die FZG (Finanzierungsgesetz) sowie FZV (Finanzverordnung) für die Bewertung von Austrittsleistungen und Freizügigkeitsleistungen von Bedeutung sein. Es wäre wichtig, auch die Verjährungsfristen und die Haftungsgemeinschaft im Kontext der Vermögensverwaltung zu prüfen, da diese entscheidend für die Restitution und die Verantwortlichkeit des Ehemanns sind. Des Weiteren könnte das BVG (Berufliche Vorsorgegesetz) relevant sein, insbesondere wenn die Einnahmen aus der Vorsorge in die Vermögensberechnung einfließen.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZPO",
+        "FZV",
+        "FZG",
+        "BVG"
+      ],
+      "additional_keywords_de": [
+        "Vermögensrückgabe",
+        "Haftungsgemeinschaft",
+        "Berufung auf Gütertrennung",
+        "Verjährungsfrist",
+        "Unterhaltsanspruch nach Alter",
+        "Vollmachtsverhältnis",
+        "Kapitalleistung",
+        "Errungenschaftsbeteiligung",
+        "Vorsorgeeinrichtung",
+        "Austrittsleistung",
+        "Freizügigkeitsleistung",
+        "Selbständige Erwerbstätigkeit"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse legen den Schwerpunkt auf das ZGB, insbesondere auf die Regelungen zur Gütertrennung und zur Rückgewährleistung von Vermögenswerten. Allerdings fehlen relevante Aspekte wie die Haftungsgemeinschaft, die Rolle von Vollmachten und das Verhältnis zwischen Fiduciärverwaltung und Partnerschaft. Zudem könnten Regelungen aus dem ZPO (Zivilprozessordnung) und speziell die FZG (Finanzierungsgesetz) sowie FZV (Finanzverordnung) für die Bewertung von Austrittsleistungen und Freizügigkeitsleistungen von Bedeutung sein. Es wäre wichtig, auch die Verjährungsfristen und die Haftungsgemeinschaft im Kontext der Vermögensverwaltung zu prüfen, da diese entscheidend für die Restitution und die Verantwortlichkeit des Ehemanns sind. Des Weiteren könnte das BVG (Berufliche Vorsorgegesetz) relevant sein, insbesondere wenn die Einnahmen aus der Vorsorge in die Vermögensberechnung einfließen."
+    }
+  },
+  "test_016": {
+    "raw": "{\n  \"additional_law_codes\": [\"AVIV\", \"ELG\", \"AHVG\", \"StHG\"],\n  \"additional_keywords_de\": [\"Bruttoerwerbseinkommen\", \"Gewinnungskosten\", \"Hypothekarzinsen\", \"Liegenschaftsunterhalt\", \"Nebeneinkünfte\", \"Selbständiger Unterhalt\", \"Vermögensanpassung\", \"Eigenversorgungskapazität\", \"Leistungsfähigkeit\", \"Altersvorsorge\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse decken zwar grundlegende Aspekte des Ehegattenunterhalts und der Einkommensberechnung ab, doch fehlen spezifische Regelungen zur Differenzierung zwischen Brutto- und Nettoerträgen sowie zur Anrechnung von Gewinnungskosten und Hypothekarzinsen. Insbesondere fehlen klare Kriterien zur Bewertung von Vermögensanpassungen und zur Einordnung von Nebeneinkünften im Zusammenhang mit selbständiger Erwerbstätigkeit. Zudem könnten präzisere Begriffe wie 'Eigenversorgungskapazität' und 'Leistungsfähigkeit' helfen, die rechtliche Bewertung der Zumutbarkeit von Unterhalt zu konkretisieren. Es wäre auch wichtig, die Rolle von Altersvorsorge und Vermögensposition bei der Ermittlung des Unterhaltsbeitrags genauer zu berücksichtigen.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "AVIV",
+        "ELG",
+        "AHVG",
+        "StHG"
+      ],
+      "additional_keywords_de": [
+        "Bruttoerwerbseinkommen",
+        "Gewinnungskosten",
+        "Hypothekarzinsen",
+        "Liegenschaftsunterhalt",
+        "Nebeneinkünfte",
+        "Selbständiger Unterhalt",
+        "Vermögensanpassung",
+        "Eigenversorgungskapazität",
+        "Leistungsfähigkeit",
+        "Altersvorsorge"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse decken zwar grundlegende Aspekte des Ehegattenunterhalts und der Einkommensberechnung ab, doch fehlen spezifische Regelungen zur Differenzierung zwischen Brutto- und Nettoerträgen sowie zur Anrechnung von Gewinnungskosten und Hypothekarzinsen. Insbesondere fehlen klare Kriterien zur Bewertung von Vermögensanpassungen und zur Einordnung von Nebeneinkünften im Zusammenhang mit selbständiger Erwerbstätigkeit. Zudem könnten präzisere Begriffe wie 'Eigenversorgungskapazität' und 'Leistungsfähigkeit' helfen, die rechtliche Bewertung der Zumutbarkeit von Unterhalt zu konkretisieren. Es wäre auch wichtig, die Rolle von Altersvorsorge und Vermögensposition bei der Ermittlung des Unterhaltsbeitrags genauer zu berücksichtigen."
+    }
+  },
+  "test_017": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZGB\", \"BV\", \"VMWG\", \"BGG\"],\n  \"additional_keywords_de\": [\"Nova-Einreichung\", \"Anfechtung der Kündigung\", \"Sachverhaltsfeststellung\", \"Rechtsverletzung\", \"Erstreckung des Mietverhältnisses\", \"Zustellungsurkunde\", \"Verjährungsbeginn\", \"Schlichtungsbehörde\", \"Zustimmung zur Vertretung\", \"Verhältnismäßigkeit\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Runde hat zwar relevante Bestimmungen aus dem Obligationenrecht (OR) sowie dem Zivilgesetzbuch (ZGB) abgedeckt, doch fehlen spezifische Regelungen zur Nova-Einreichung im Rahmen von Berufungsverfahren, insbesondere bezüglich der Admissibilität neuer Beweise. Zudem könnten Aspekte der Verhältnismäßigkeit (BV) und der Rechtsverletzung im Sinne von Art. 95 BGG weiter untersucht werden. Die Einbringung von Bankbelegen erstmalig auf Berufung könnte unter das Novitätsprinzip fallen, was in der aktuellen Retrieval-Auswahl nicht vollständig abgebildet ist. Des Weiteren sind Regelungen zur Erstreckung des Mietverhältnisses (Art. 266l Abs. 2 OR) und zur Anfechtung der Kündigung durch die Schlichtungsbehörde (Art. 273 OR) relevant, aber möglicherweise nicht vollständig abgedeckt. Eine Ergänzung um diese Themenbereiche würde die Bewertung der Validität der Kündigung und der Admissibilität der Bankbelege präziser gestalten.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZGB",
+        "BV",
+        "VMWG",
+        "BGG"
+      ],
+      "additional_keywords_de": [
+        "Nova-Einreichung",
+        "Anfechtung der Kündigung",
+        "Sachverhaltsfeststellung",
+        "Rechtsverletzung",
+        "Erstreckung des Mietverhältnisses",
+        "Zustellungsurkunde",
+        "Verjährungsbeginn",
+        "Schlichtungsbehörde",
+        "Zustimmung zur Vertretung",
+        "Verhältnismäßigkeit"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Runde hat zwar relevante Bestimmungen aus dem Obligationenrecht (OR) sowie dem Zivilgesetzbuch (ZGB) abgedeckt, doch fehlen spezifische Regelungen zur Nova-Einreichung im Rahmen von Berufungsverfahren, insbesondere bezüglich der Admissibilität neuer Beweise. Zudem könnten Aspekte der Verhältnismäßigkeit (BV) und der Rechtsverletzung im Sinne von Art. 95 BGG weiter untersucht werden. Die Einbringung von Bankbelegen erstmalig auf Berufung könnte unter das Novitätsprinzip fallen, was in der aktuellen Retrieval-Auswahl nicht vollständig abgebildet ist. Des Weiteren sind Regelungen zur Erstreckung des Mietverhältnisses (Art. 266l Abs. 2 OR) und zur Anfechtung der Kündigung durch die Schlichtungsbehörde (Art. 273 OR) relevant, aber möglicherweise nicht vollständig abgedeckt. Eine Ergänzung um diese Themenbereiche würde die Bewertung der Validität der Kündigung und der Admissibilität der Bankbelege präziser gestalten."
+    }
+  },
+  "test_018": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZPO\", \"IPRG\", \"BVG\"],\n  \"additional_keywords_de\": [\n    \"Recht auf Verfahrensverzögerung\",\n    \"Recht auf Verfahrensverfügung\",\n    \"Recht auf Widerlegung\",\n    \"Recht auf Anfechtung\",\n    \"Recht auf Berichtigung\",\n    \"Recht auf Nachvollziehbarkeit\",\n    \"Recht auf Verfahrensbeschwerde\",\n    \"Recht auf Verfahrensberichtigung\"\n  ],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Runde hat zwar relevante Aspekte wie das Recht auf rechtliches Gehör (Art. 29 Abs. 2 BV) und die Verfahrensrechte im Strafverfahren (StPO) abgedeckt, doch fehlen spezifische Regelungen zum Umgang mit internationalen Rechtshilfeersuchen, insbesondere hinsichtlich der Verfahrensrechte von Nichtparteien. Zudem wurden keine Regelungen zur Anfechtung von Gerichtsentscheiden ohne Angabe von Fristen oder Rechtsmitteln berücksichtigt. Des Weiteren fehlen Schlüsselbegriffe wie „Anfechtung ohne Fristangabe“ oder „Verfahrensberichtigung“. Die Hinzufügung von weiteren Gesetzescodes wie ZPO (Zivilprozessordnung) und BVG (Bundesgesetz über die Gerichte) könnte helfen, die fehlende Abdeckung von zivilrechtlichen Aspekten zu schließen. Es wäre auch sinnvoll, weitere Begriffe wie „Widerlegung von Beweismitteln“ oder „Verfahrensverfügung“ einzubeziehen, um die Rechte der Betroffenen in diesem Kontext besser abzubilden.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZPO",
+        "IPRG",
+        "BVG"
+      ],
+      "additional_keywords_de": [
+        "Recht auf Verfahrensverzögerung",
+        "Recht auf Verfahrensverfügung",
+        "Recht auf Widerlegung",
+        "Recht auf Anfechtung",
+        "Recht auf Berichtigung",
+        "Recht auf Nachvollziehbarkeit",
+        "Recht auf Verfahrensbeschwerde",
+        "Recht auf Verfahrensberichtigung"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Runde hat zwar relevante Aspekte wie das Recht auf rechtliches Gehör (Art. 29 Abs. 2 BV) und die Verfahrensrechte im Strafverfahren (StPO) abgedeckt, doch fehlen spezifische Regelungen zum Umgang mit internationalen Rechtshilfeersuchen, insbesondere hinsichtlich der Verfahrensrechte von Nichtparteien. Zudem wurden keine Regelungen zur Anfechtung von Gerichtsentscheiden ohne Angabe von Fristen oder Rechtsmitteln berücksichtigt. Des Weiteren fehlen Schlüsselbegriffe wie „Anfechtung ohne Fristangabe“ oder „Verfahrensberichtigung“. Die Hinzufügung von weiteren Gesetzescodes wie ZPO (Zivilprozessordnung) und BVG (Bundesgesetz über die Gerichte) könnte helfen, die fehlende Abdeckung von zivilrechtlichen Aspekten zu schließen. Es wäre auch sinnvoll, weitere Begriffe wie „Widerlegung von Beweismitteln“ oder „Verfahrensverfügung“ einzubeziehen, um die Rechte der Betroffenen in diesem Kontext besser abzubilden."
+    }
+  },
+  "test_019": {
+    "raw": "{\n  \"additional_law_codes\": [\"IPR\", \"ZGB\", \"BVG\", \"FZG\"],\n  \"additional_keywords_de\": [\n    \"Vorsorgliche Massnahmen\",\n    \"Scheidungsfolgen\",\n    \"Internationale Zuständigkeit\",\n    \"Ausgleich von Vorsorgeansprüchen\",\n    \"Verfassungsmässige Rechte\",\n    \"Recht auf Unterhalt\",\n    \"Berufliche Vorsorge\",\n    \"Ehegattengüterregelung\"\n  ],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse decken zwar grundlegende Aspekte der Anerkennung ausländischer Entscheidungen sowie der Vorsorgemaßnahmen ab, doch fehlen spezifische Regelungen bezüglich der internationalen Zuständigkeit und der Auswirkungen von Scheidungsfolgen auf die berufliche Vorsorge. Insbesondere könnten relevante Bestimmungen zum Ausgleich von Vorsorgeansprüchen und zur Verfassungsmäßigkeit von Eheschutzmaßnahmen fehlen. Zudem könnte die Rolle der Ehegattengüterregelung im Kontext der Anerkennung ausländischer Entscheidungen besser berücksichtigt werden. Es ist wichtig, auch die Bedingungen für die Erteilung von vorsorglichen Maßnahmen im Rahmen internationaler Verfahren zu prüfen, um sicherzustellen, dass alle rechtlichen Aspekte der Fallkonstellation abgedeckt werden.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "IPR",
+        "ZGB",
+        "BVG",
+        "FZG"
+      ],
+      "additional_keywords_de": [
+        "Vorsorgliche Massnahmen",
+        "Scheidungsfolgen",
+        "Internationale Zuständigkeit",
+        "Ausgleich von Vorsorgeansprüchen",
+        "Verfassungsmässige Rechte",
+        "Recht auf Unterhalt",
+        "Berufliche Vorsorge",
+        "Ehegattengüterregelung"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse decken zwar grundlegende Aspekte der Anerkennung ausländischer Entscheidungen sowie der Vorsorgemaßnahmen ab, doch fehlen spezifische Regelungen bezüglich der internationalen Zuständigkeit und der Auswirkungen von Scheidungsfolgen auf die berufliche Vorsorge. Insbesondere könnten relevante Bestimmungen zum Ausgleich von Vorsorgeansprüchen und zur Verfassungsmäßigkeit von Eheschutzmaßnahmen fehlen. Zudem könnte die Rolle der Ehegattengüterregelung im Kontext der Anerkennung ausländischer Entscheidungen besser berücksichtigt werden. Es ist wichtig, auch die Bedingungen für die Erteilung von vorsorglichen Maßnahmen im Rahmen internationaler Verfahren zu prüfen, um sicherzustellen, dass alle rechtlichen Aspekte der Fallkonstellation abgedeckt werden."
+    }
+  },
+  "test_020": {
+    "raw": "{\n  \"additional_law_codes\": [\"SIA\", \"OBlG\", \"ZPO\", \"BVG\"],\n  \"additional_keywords_de\": [\"Werkvertrag\", \"Vertragsmängel\", \"Vollmachtsvertrag\", \"Vollmacht\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"Vollmachtsvertrag\", \"",
+    "parsed": null
+  },
+  "test_021": {
+    "raw": "{\n  \"additional_law_codes\": [\"CO\", \"ZPO\", \"VStrR\", \"VVG\", \"ZG\", \"BGG\", \"IPRG\", \"OR\"],\n  \"additional_keywords_de\": [\"Submandatarhaftung\", \"Mandatsrechtliche Verantwortung\", \"Geschäftsvorhaben\", \"Unbefugte Vertretung\", \"Haftung bei Schadensersatzansprüchen\", \"Geschäftsführerpflichten\", \"Geschäftsherrverantwortung\", \"Geschäftsvollmacht\", \"Geschäftsausführung\", \"Geschäftsbefugnis\", \"Geschäftsnutzung\", \"Geschäftserfolg\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse zeigen, dass zwar relevante Bestimmungen aus dem Obligationenrecht (OR), Zivilgesetzbuch (ZGB) und anderen Gesetzen berücksichtigt wurden, aber einige Schlüsselbereiche fehlen. Insbesondere könnten weitere Regelungen aus dem Handelsgesetzbuch (HGB) und spezifischere Begriffe wie „Submandatarhaftung“ oder „Mandatsrechtliche Verantwortung“ hilfreich gewesen sein. Zudem könnte der Begriff „Geschäftsvollmacht“ für die Analyse der rechtlichen Beziehung zwischen den Parteien relevant sein. Es wäre auch wichtig, die Rolle des Geschäftsherrn und die konkreten Pflichten des Geschäftsführers genauer zu untersuchen, da diese Aspekte für die Bewertung der Haftung entscheidend sind. Ein weiterer Aspekt besteht darin, ob die Verantwortung des Submandaten auf den Auftraggeber übertragen wurde, was in der aktuellen Retrieval nicht vollständig abgedeckt wird.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "CO",
+        "ZPO",
+        "VStrR",
+        "VVG",
+        "ZG",
+        "BGG",
+        "IPRG",
+        "OR"
+      ],
+      "additional_keywords_de": [
+        "Submandatarhaftung",
+        "Mandatsrechtliche Verantwortung",
+        "Geschäftsvorhaben",
+        "Unbefugte Vertretung",
+        "Haftung bei Schadensersatzansprüchen",
+        "Geschäftsführerpflichten",
+        "Geschäftsherrverantwortung",
+        "Geschäftsvollmacht",
+        "Geschäftsausführung",
+        "Geschäftsbefugnis",
+        "Geschäftsnutzung",
+        "Geschäftserfolg"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse zeigen, dass zwar relevante Bestimmungen aus dem Obligationenrecht (OR), Zivilgesetzbuch (ZGB) und anderen Gesetzen berücksichtigt wurden, aber einige Schlüsselbereiche fehlen. Insbesondere könnten weitere Regelungen aus dem Handelsgesetzbuch (HGB) und spezifischere Begriffe wie „Submandatarhaftung“ oder „Mandatsrechtliche Verantwortung“ hilfreich gewesen sein. Zudem könnte der Begriff „Geschäftsvollmacht“ für die Analyse der rechtlichen Beziehung zwischen den Parteien relevant sein. Es wäre auch wichtig, die Rolle des Geschäftsherrn und die konkreten Pflichten des Geschäftsführers genauer zu untersuchen, da diese Aspekte für die Bewertung der Haftung entscheidend sind. Ein weiterer Aspekt besteht darin, ob die Verantwortung des Submandaten auf den Auftraggeber übertragen wurde, was in der aktuellen Retrieval nicht vollständig abgedeckt wird."
+    }
+  },
+  "test_022": {
+    "raw": "{\n  \"additional_law_codes\": [\"HKÜ\", \"ZGB\", \"BV\"],\n  \"additional_keywords_de\": [\"Habituelle Aufenthaltsstätte des Kindes\", \"Sorgerecht\", \"Internationales Privatrecht\", \"Recht am gewöhnlichen Aufenthalt\", \"Anerkennung ausländischer Entscheidungen\", \"Vollstreckung ausländischer Entscheidungen\", \"Kindeswohlprinzip\", \"Kinderbelange\", \"Zuständigkeit bei internationalen Streitigkeiten\", \"Verfassungsrechtliche Grundrechte\", \"Vorsorgemaßnahmen\", \"Eheverhältnis\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse decken zwar relevante Aspekte des IPRG ab, wie z.B. die Zuständigkeit der schweizerischen Gerichte (Art. 10, 46 IPRG) und die Anerkennung ausländischer Entscheidungen (Art. 25 IPRG). Allerdings fehlen spezifische Bezugnahmen auf das Haager Übereinkommen über die internationale Zuständigkeit für Ehesachen (HKÜ) und das Schweizer Zivilgesetzbuch (ZGB), die für die Bewertung der elterlichen Rechte und Pflichten sowie die Bestimmung der Zuständigkeit entscheidend sein könnten. Zudem könnte das Verfassungsrecht (BV) relevant sein, insbesondere hinsichtlich der Grundrechte, die bei Schutzmaßnahmen für das Kind berücksichtigt werden müssen. Der Begriff \\\"Habituelle Aufenthaltsstätte\\\" des Kindes, der im IPRG und HKÜ zentral ist, wurde nicht vollständig abgedeckt. Des Weiteren wäre es wichtig, den Zusammenhang zwischen dem Prinzip der perpetuatio fori und dem 1996-Haager Übereinkommen zu klären, da dies für die Frage der Jurisdiktion entscheidend ist. Die Ergänzung der Suchbegriffe um Begriffe wie \\\"Sorgerecht\\\", \\\"Kindeswohlprinzip\\\" und \\\"internationales Privatrecht\\\" könnte helfen, weitere relevante Paragraphen und Entscheidungen zu identifizieren.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "HKÜ",
+        "ZGB",
+        "BV"
+      ],
+      "additional_keywords_de": [
+        "Habituelle Aufenthaltsstätte des Kindes",
+        "Sorgerecht",
+        "Internationales Privatrecht",
+        "Recht am gewöhnlichen Aufenthalt",
+        "Anerkennung ausländischer Entscheidungen",
+        "Vollstreckung ausländischer Entscheidungen",
+        "Kindeswohlprinzip",
+        "Kinderbelange",
+        "Zuständigkeit bei internationalen Streitigkeiten",
+        "Verfassungsrechtliche Grundrechte",
+        "Vorsorgemaßnahmen",
+        "Eheverhältnis"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse decken zwar relevante Aspekte des IPRG ab, wie z.B. die Zuständigkeit der schweizerischen Gerichte (Art. 10, 46 IPRG) und die Anerkennung ausländischer Entscheidungen (Art. 25 IPRG). Allerdings fehlen spezifische Bezugnahmen auf das Haager Übereinkommen über die internationale Zuständigkeit für Ehesachen (HKÜ) und das Schweizer Zivilgesetzbuch (ZGB), die für die Bewertung der elterlichen Rechte und Pflichten sowie die Bestimmung der Zuständigkeit entscheidend sein könnten. Zudem könnte das Verfassungsrecht (BV) relevant sein, insbesondere hinsichtlich der Grundrechte, die bei Schutzmaßnahmen für das Kind berücksichtigt werden müssen. Der Begriff \"Habituelle Aufenthaltsstätte\" des Kindes, der im IPRG und HKÜ zentral ist, wurde nicht vollständig abgedeckt. Des Weiteren wäre es wichtig, den Zusammenhang zwischen dem Prinzip der perpetuatio fori und dem 1996-Haager Übereinkommen zu klären, da dies für die Frage der Jurisdiktion entscheidend ist. Die Ergänzung der Suchbegriffe um Begriffe wie \"Sorgerecht\", \"Kindeswohlprinzip\" und \"internationales Privatrecht\" könnte helfen, weitere relevante Paragraphen und Entscheidungen zu identifizieren."
+    }
+  },
+  "test_023": {
+    "raw": "{\n  \"additional_law_codes\": [\"ATSG\", \"AHVV\", \"RAG\", \"BVG\", \"EOG\", \"MVG\", \"KVV\", \"FamZG\"],\n  \"additional_keywords_de\": [\"Organhaftung\", \"AHV-Versicherungspflicht\", \"Unternehmensliquidation\", \"Verwaltungsaktformalitäten\", \"Gesellschafterverantwortung\", \"Verwaltungsverfahrensfehler\", \"Recht auf Anhörung\", \"Verwaltungsbeschwerde\", \"Gesellschaftsliquidation\", \"Verwaltungsrechtliche Verjährung\", \"Gesellschaftsorganschaft\", \"Verwaltungsentscheidungsergänzung\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse konzentrieren sich stark auf die AHVG-Bestimmungen zur Arbeitgeberhaftung und die Verwaltungsverfahrensregelungen. Allerdings fehlen relevante Regelungen zur Organhaftung im Zusammenhang mit der Liquidation einer Gesellschaft sowie zur Haftung ehemaliger Organe. Insbesondere könnten die ATSG und AHVV für die Bewertung der subsidiären Haftung von Bedeutung sein. Zudem könnte die Verwaltungsverfahrensrechtliche Prüfung der Formalien der Benachrichtigung (z.B. Verwaltungsaktformalitäten) und die Frage der Verjährung (z.B. Art. 16 AHVG) weiterführend sein. Es wäre auch wichtig, die Rolle der Verwaltungsbeschwerde und die Rechte des Betroffenen im Verwaltungsverfahren (z.B. Recht auf Anhörung) genauer zu prüfen, um die Argumentation des Klägers vollumfänglich einzuschätzen.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ATSG",
+        "AHVV",
+        "RAG",
+        "BVG",
+        "EOG",
+        "MVG",
+        "KVV",
+        "FamZG"
+      ],
+      "additional_keywords_de": [
+        "Organhaftung",
+        "AHV-Versicherungspflicht",
+        "Unternehmensliquidation",
+        "Verwaltungsaktformalitäten",
+        "Gesellschafterverantwortung",
+        "Verwaltungsverfahrensfehler",
+        "Recht auf Anhörung",
+        "Verwaltungsbeschwerde",
+        "Gesellschaftsliquidation",
+        "Verwaltungsrechtliche Verjährung",
+        "Gesellschaftsorganschaft",
+        "Verwaltungsentscheidungsergänzung"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse konzentrieren sich stark auf die AHVG-Bestimmungen zur Arbeitgeberhaftung und die Verwaltungsverfahrensregelungen. Allerdings fehlen relevante Regelungen zur Organhaftung im Zusammenhang mit der Liquidation einer Gesellschaft sowie zur Haftung ehemaliger Organe. Insbesondere könnten die ATSG und AHVV für die Bewertung der subsidiären Haftung von Bedeutung sein. Zudem könnte die Verwaltungsverfahrensrechtliche Prüfung der Formalien der Benachrichtigung (z.B. Verwaltungsaktformalitäten) und die Frage der Verjährung (z.B. Art. 16 AHVG) weiterführend sein. Es wäre auch wichtig, die Rolle der Verwaltungsbeschwerde und die Rechte des Betroffenen im Verwaltungsverfahren (z.B. Recht auf Anhörung) genauer zu prüfen, um die Argumentation des Klägers vollumfänglich einzuschätzen."
+    }
+  },
+  "test_024": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZPO\", \"AVIG\", \"AVIV\", \"UVV\"],\n  \"additional_keywords_de\": [\"Beweislastregelung\", \"Untersuchungsgrundsatz\", \"Arbeitsunfähigkeit\", \"Scheidungsfolgen\", \"Eigentumsauseinandersetzung\", \"Prozessführungspflicht\", \"Verfahrensrechtliche Untersuchungspflicht\", \"Gutachtenanordnung\"],\n  \"refined_hyde\": \"Im Schweizer Zivilprozessrecht ist der Untersuchungsgrundsatz (Art. 61 lit. c ATSG) sowie die Beweislastregelung (Art. 8 ZGB) entscheidend für die Bewertung von Streitpunkten wie Einkommensangaben und medizinischer Berufsunfähigkeit. Bei Streitigkeiten über das Einkommen oder die Arbeitsfähigkeit eines Ehegatten muss der Richter im Rahmen seiner Verfahrensrechtspflichten (Art. 150 ff. ZPO) gegebenenfalls Beweismittel anordnen, insbesondere wenn objektiv klärbare Tatsachen vorliegen. Zudem ist die Frage, ob ein Verzögerungsantrag bezüglich der Eigentumsaufteilung zulässig ist, eng mit der Prozessführungspflicht (Art. 55 ZPO) verbunden. In solchen Fällen könnte eine Verpflichtung zum Erheben von Beweisen (Art. 153 ZPO) oder zur Einholung von Gutachten (Art. 152 ZPO) entstehen, um die tatsächliche Situation vollständig zu klären. Die Verfahrensrechtlichen Anforderungen, insbesondere im Zusammenhang mit der Schadensersatzpflicht und der Verfahrensverzögerung, könnten im ersten Instanzverfahren nicht vollständig berücksichtigt worden sein.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZPO",
+        "AVIG",
+        "AVIV",
+        "UVV"
+      ],
+      "additional_keywords_de": [
+        "Beweislastregelung",
+        "Untersuchungsgrundsatz",
+        "Arbeitsunfähigkeit",
+        "Scheidungsfolgen",
+        "Eigentumsauseinandersetzung",
+        "Prozessführungspflicht",
+        "Verfahrensrechtliche Untersuchungspflicht",
+        "Gutachtenanordnung"
+      ],
+      "refined_hyde": "Im Schweizer Zivilprozessrecht ist der Untersuchungsgrundsatz (Art. 61 lit. c ATSG) sowie die Beweislastregelung (Art. 8 ZGB) entscheidend für die Bewertung von Streitpunkten wie Einkommensangaben und medizinischer Berufsunfähigkeit. Bei Streitigkeiten über das Einkommen oder die Arbeitsfähigkeit eines Ehegatten muss der Richter im Rahmen seiner Verfahrensrechtspflichten (Art. 150 ff. ZPO) gegebenenfalls Beweismittel anordnen, insbesondere wenn objektiv klärbare Tatsachen vorliegen. Zudem ist die Frage, ob ein Verzögerungsantrag bezüglich der Eigentumsaufteilung zulässig ist, eng mit der Prozessführungspflicht (Art. 55 ZPO) verbunden. In solchen Fällen könnte eine Verpflichtung zum Erheben von Beweisen (Art. 153 ZPO) oder zur Einholung von Gutachten (Art. 152 ZPO) entstehen, um die tatsächliche Situation vollständig zu klären. Die Verfahrensrechtlichen Anforderungen, insbesondere im Zusammenhang mit der Schadensersatzpflicht und der Verfahrensverzögerung, könnten im ersten Instanzverfahren nicht vollständig berücksichtigt worden sein."
+    }
+  },
+  "test_025": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZGB\", \"IPRG\", \"BGG\", \"OR\", \"StPO\", \"DBG\", \"ZVG\", \"ZVFG\"],\n  \"additional_keywords_de\": [\"Ausländisches Immobilienrecht\", \"Scheidungsfolgen\", \"Erschließungsgutachten\", \"Güterrechtliche Auseinandersetzung\", \"Schuldenteilung\", \"Eigengut vs. Errungenschaft\", \"Miteigentum im Ausland\", \"Private internationale Rechtsanwendung\", \"Beweislast beim Versicherungsschaden\", \"Vermögenszuordnung im Ehevertrag\"],\n  \"refined_hyde\": \"Die Schweizer Scheidungsgerichte können bei der Aufteilung des ehelichen Vermögens auch ausländische Immobilien betrachten, jedoch hängt dies von der Anwendbarkeit des privaten internationalen Rechts ab. Im Hinblick auf die Frage der Verpflichtung zur Verkaufsauflage oder Teilung von ausländischen Immobilien fehlen möglicherweise relevante Rechtsprechungsstellen, die explizit die Grenzen der gerichtlichen Befugnis behandeln. Zudem könnte die Beweislastregelung für Versicherungsschäden und bewegliche Güter während der Ehe weiter vertieft werden, insbesondere in Bezug auf die Annahme von ehelichem Vermögen bei fehlender Dokumentation. Das ZVG und ZVFG könnten zusätzliche Klarheit bieten, insbesondere in Bezug auf die Anwendung von internationalen Konfliktregeln.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZGB",
+        "IPRG",
+        "BGG",
+        "OR",
+        "StPO",
+        "DBG",
+        "ZVG",
+        "ZVFG"
+      ],
+      "additional_keywords_de": [
+        "Ausländisches Immobilienrecht",
+        "Scheidungsfolgen",
+        "Erschließungsgutachten",
+        "Güterrechtliche Auseinandersetzung",
+        "Schuldenteilung",
+        "Eigengut vs. Errungenschaft",
+        "Miteigentum im Ausland",
+        "Private internationale Rechtsanwendung",
+        "Beweislast beim Versicherungsschaden",
+        "Vermögenszuordnung im Ehevertrag"
+      ],
+      "refined_hyde": "Die Schweizer Scheidungsgerichte können bei der Aufteilung des ehelichen Vermögens auch ausländische Immobilien betrachten, jedoch hängt dies von der Anwendbarkeit des privaten internationalen Rechts ab. Im Hinblick auf die Frage der Verpflichtung zur Verkaufsauflage oder Teilung von ausländischen Immobilien fehlen möglicherweise relevante Rechtsprechungsstellen, die explizit die Grenzen der gerichtlichen Befugnis behandeln. Zudem könnte die Beweislastregelung für Versicherungsschäden und bewegliche Güter während der Ehe weiter vertieft werden, insbesondere in Bezug auf die Annahme von ehelichem Vermögen bei fehlender Dokumentation. Das ZVG und ZVFG könnten zusätzliche Klarheit bieten, insbesondere in Bezug auf die Anwendung von internationalen Konfliktregeln."
+    }
+  },
+  "test_026": {
+    "raw": "{\n  \"additional_law_codes\": [\"FZG\", \"ZPO\", \"BVG\"],\n  \"additional_keywords_de\": [\"Nachehelicher Unterhalt\", \"Kindergeld\", \"Eigengut\", \"Errungenschaft\", \"Gütertrennung\", \"Vermögensauflösung\", \"Freizügigkeitsguthaben\", \"Vorbezug\", \"Güterrecht\", \"Ehewohnung\", \"Erziehungsaufgaben\", \"Kostenübernahme\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse konzentrieren sich stark auf die Regelungen des ZGB bezüglich des Güterrechts, des Nachehelichen Unterhalts und der Vermögensauflösung. Allerdings fehlen spezifische Regelungen zur Elternschaftsrecht, insbesondere zur Verantwortung der Eltern für außergewöhnliche Kosten wie Psychotherapie oder orthodontische Behandlungen. Des Weiteren könnten relevante Bestimmungen des Familienrechts (FZG) und des Bundesversorgungsgesetzes (BVG) zur Klärung von Pflichten und Rechten im Zusammenhang mit Kindergeld und Freizügigkeitsguthaben fehlen. Eine Erweiterung um Begriffe wie „Nachehelicher Unterhalt“, „Eigengut“ und „Errungenschaft“ könnte helfen, die rechtlichen Aspekte der Vermögensverteilung und der Pflichten der Eltern genauer abzudecken.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "FZG",
+        "ZPO",
+        "BVG"
+      ],
+      "additional_keywords_de": [
+        "Nachehelicher Unterhalt",
+        "Kindergeld",
+        "Eigengut",
+        "Errungenschaft",
+        "Gütertrennung",
+        "Vermögensauflösung",
+        "Freizügigkeitsguthaben",
+        "Vorbezug",
+        "Güterrecht",
+        "Ehewohnung",
+        "Erziehungsaufgaben",
+        "Kostenübernahme"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse konzentrieren sich stark auf die Regelungen des ZGB bezüglich des Güterrechts, des Nachehelichen Unterhalts und der Vermögensauflösung. Allerdings fehlen spezifische Regelungen zur Elternschaftsrecht, insbesondere zur Verantwortung der Eltern für außergewöhnliche Kosten wie Psychotherapie oder orthodontische Behandlungen. Des Weiteren könnten relevante Bestimmungen des Familienrechts (FZG) und des Bundesversorgungsgesetzes (BVG) zur Klärung von Pflichten und Rechten im Zusammenhang mit Kindergeld und Freizügigkeitsguthaben fehlen. Eine Erweiterung um Begriffe wie „Nachehelicher Unterhalt“, „Eigengut“ und „Errungenschaft“ könnte helfen, die rechtlichen Aspekte der Vermögensverteilung und der Pflichten der Eltern genauer abzudecken."
+    }
+  },
+  "test_027": {
+    "raw": "{\n  \"additional_law_codes\": [\"Kinderrechtsverordnung\", \"Kindeswohlverordnung\", \"BVG\", \"EVP\", \"ZPO\", \"BVG\", \"BGB\", \"ZGB-Spezial\"],\n  \"additional_keywords_de\": [\"Kindeswohlmaxime\", \"Elternrechte\", \"Kindeswohlverfahrensgesetz\", \"Kindeswohlverordnung\", \"Kindeswohlverfahrensregelungen\", \"Kindeswohlverfahrensrechtliche Prüfung\", \"Kindeswohlverfahrensentscheid\", \"Kindeswohlverfahrensrichtlinien\", \"Kindeswohlverfahrensberichte\", \"Kindeswohlverfahrensverfahren\", \"Kindeswohlverfahrensrechtliche Bewertung\", \"Kindeswohlverfahrensrechtliche Kriterien\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Runde hat zwar relevante Gesetze wie das ZGB, StGB und BGG abgedeckt, doch fehlen spezifische Regelungen, die sich direkt auf das Kindeswohlverfahren beziehen, insbesondere die Kinderrechtsverordnung und Kindeswohlverordnung, welche die konkreten Prozeduren und Kriterien für die Bewertung des Kindeswohls definieren. Zudem könnten ergänzende Gesetze wie das Bundesgesetz über die Vollzugsverbesserung (BVG) und das Eidgenössische Versicherungsgesetz (EVP) relevant sein, da sie Aspekte der Kinderschutzmaßnahmen und Sozialversicherung behandeln. Der Fokus auf das Kindeswohlverfahrensgesetz und -verordnung wäre entscheidend, um die rechtliche Grundlage für die Verweigerung eines weiteren Kindesinterviews und die Aufrechterhaltung der vorläufigen Unterbringung zu klären. Eine weitere Berücksichtigung von ZPO-Bestimmungen könnte helfen, die Prozessrechtlichen Aspekte der beschleunigten Überprüfung zu analysieren.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "Kinderrechtsverordnung",
+        "Kindeswohlverordnung",
+        "BVG",
+        "EVP",
+        "ZPO",
+        "BVG",
+        "BGB",
+        "ZGB-Spezial"
+      ],
+      "additional_keywords_de": [
+        "Kindeswohlmaxime",
+        "Elternrechte",
+        "Kindeswohlverfahrensgesetz",
+        "Kindeswohlverordnung",
+        "Kindeswohlverfahrensregelungen",
+        "Kindeswohlverfahrensrechtliche Prüfung",
+        "Kindeswohlverfahrensentscheid",
+        "Kindeswohlverfahrensrichtlinien",
+        "Kindeswohlverfahrensberichte",
+        "Kindeswohlverfahrensverfahren",
+        "Kindeswohlverfahrensrechtliche Bewertung",
+        "Kindeswohlverfahrensrechtliche Kriterien"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Runde hat zwar relevante Gesetze wie das ZGB, StGB und BGG abgedeckt, doch fehlen spezifische Regelungen, die sich direkt auf das Kindeswohlverfahren beziehen, insbesondere die Kinderrechtsverordnung und Kindeswohlverordnung, welche die konkreten Prozeduren und Kriterien für die Bewertung des Kindeswohls definieren. Zudem könnten ergänzende Gesetze wie das Bundesgesetz über die Vollzugsverbesserung (BVG) und das Eidgenössische Versicherungsgesetz (EVP) relevant sein, da sie Aspekte der Kinderschutzmaßnahmen und Sozialversicherung behandeln. Der Fokus auf das Kindeswohlverfahrensgesetz und -verordnung wäre entscheidend, um die rechtliche Grundlage für die Verweigerung eines weiteren Kindesinterviews und die Aufrechterhaltung der vorläufigen Unterbringung zu klären. Eine weitere Berücksichtigung von ZPO-Bestimmungen könnte helfen, die Prozessrechtlichen Aspekte der beschleunigten Überprüfung zu analysieren."
+    }
+  },
+  "test_028": {
+    "raw": "{\n  \"additional_law_codes\": [\"SVG\", \"ATSG\", \"UVG\", \"IVG\", \"URG\", \"BVG\"],\n  \"additional_keywords_de\": [\"Sicherheitsstandards\", \"Gebrauchstauglichkeit\", \"Baustoffnormen\", \"Fehlerquelle\", \"Kausalzusammenhang\", \"Nutzungszweck\", \"Schadensursachenanalyse\", \"Gefährdungsschutz\", \"Wartungspflichtverletzung\", \"Konstruktionssicherheit\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse konzentrieren sich stark auf die Haftung des Eigentümers gemäß Art. 58 Abs. 1 OR, doch fehlen spezifische Bezugnahmen zu den Anforderungen an die Sicherheit von Bauteilen wie Glaspaneele, insbesondere im Hinblick auf die Verwendung von Sicherheitsglas. Es könnte hilfreich sein, gesetzliche Regelungen zur Mindestanforderungen an Gebäudeelemente, wie etwa im Rahmen der Schweizerischen Normen (SN) oder der Bauvorschriften, einzubeziehen. Zudem könnten relevante Entscheidungen zu Schadensfällen an vergleichbaren Türkonstruktionen mit ähnlichen Materialien und Nutzungszwecken ergänzend berücksichtigt werden. Eine Analyse der Kausalität zwischen der Verwendung von Float-Glas, der Alterung des Systems und der fehlenden Wartung wäre entscheidend, um die Haftung des Eigentümers zu beurteilen.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "SVG",
+        "ATSG",
+        "UVG",
+        "IVG",
+        "URG",
+        "BVG"
+      ],
+      "additional_keywords_de": [
+        "Sicherheitsstandards",
+        "Gebrauchstauglichkeit",
+        "Baustoffnormen",
+        "Fehlerquelle",
+        "Kausalzusammenhang",
+        "Nutzungszweck",
+        "Schadensursachenanalyse",
+        "Gefährdungsschutz",
+        "Wartungspflichtverletzung",
+        "Konstruktionssicherheit"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse konzentrieren sich stark auf die Haftung des Eigentümers gemäß Art. 58 Abs. 1 OR, doch fehlen spezifische Bezugnahmen zu den Anforderungen an die Sicherheit von Bauteilen wie Glaspaneele, insbesondere im Hinblick auf die Verwendung von Sicherheitsglas. Es könnte hilfreich sein, gesetzliche Regelungen zur Mindestanforderungen an Gebäudeelemente, wie etwa im Rahmen der Schweizerischen Normen (SN) oder der Bauvorschriften, einzubeziehen. Zudem könnten relevante Entscheidungen zu Schadensfällen an vergleichbaren Türkonstruktionen mit ähnlichen Materialien und Nutzungszwecken ergänzend berücksichtigt werden. Eine Analyse der Kausalität zwischen der Verwendung von Float-Glas, der Alterung des Systems und der fehlenden Wartung wäre entscheidend, um die Haftung des Eigentümers zu beurteilen."
+    }
+  },
+  "test_029": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZVG\", \"BVG\", \"ATSG\", \"IVV\"],\n  \"additional_keywords_de\": [\"Eingeschränkte Geschäftsfähigkeit\", \"Fürsorgerecht\", \"Unterbringung in Einrichtung\", \"Geistige Behinderung\", \"Unfähigkeit zur Selbstverwaltung\", \"Beschränkte Willensbildung\", \"Notwendigkeit der Betreuung\", \"Verwaltungsaktanfechtung\", \"Selbstbestimmungsrecht\", \"Betreuungsrecht\", \"Begutachtungspflicht\", \"Betreuungsgrad\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse legen den Fokus auf psychische Störungen und die Pflicht zur Begutachtung gemäß ZGB, jedoch fehlen relevante Regelungen zum Thema eingeschränkter Geschäftsfähigkeit und zur Bewertung der Notwendigkeit einer Betreuung. Insbesondere fehlen Referenzen zu den Vorschriften über die fürsorgliche Unterbringung, die Rolle der Aufsichtsbehörden und die Anforderungen an die Proportionality der Betreuung. Zudem könnten Aspekte der Selbstbestimmung und der Verwaltungsaktanfechtung im Kontext der finanziellen Situation und der praktischen Unfähigkeit zur Teilnahme an Verfahren besser berücksichtigt werden. Es wäre sinnvoll, weitere Vorschriften wie ZVG und ATSG einzubeziehen, um die gesamte rechtliche Grundlage der Betreuung und der Anfechtung von Verwaltungsakten vollständig abzudecken.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZVG",
+        "BVG",
+        "ATSG",
+        "IVV"
+      ],
+      "additional_keywords_de": [
+        "Eingeschränkte Geschäftsfähigkeit",
+        "Fürsorgerecht",
+        "Unterbringung in Einrichtung",
+        "Geistige Behinderung",
+        "Unfähigkeit zur Selbstverwaltung",
+        "Beschränkte Willensbildung",
+        "Notwendigkeit der Betreuung",
+        "Verwaltungsaktanfechtung",
+        "Selbstbestimmungsrecht",
+        "Betreuungsrecht",
+        "Begutachtungspflicht",
+        "Betreuungsgrad"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse legen den Fokus auf psychische Störungen und die Pflicht zur Begutachtung gemäß ZGB, jedoch fehlen relevante Regelungen zum Thema eingeschränkter Geschäftsfähigkeit und zur Bewertung der Notwendigkeit einer Betreuung. Insbesondere fehlen Referenzen zu den Vorschriften über die fürsorgliche Unterbringung, die Rolle der Aufsichtsbehörden und die Anforderungen an die Proportionality der Betreuung. Zudem könnten Aspekte der Selbstbestimmung und der Verwaltungsaktanfechtung im Kontext der finanziellen Situation und der praktischen Unfähigkeit zur Teilnahme an Verfahren besser berücksichtigt werden. Es wäre sinnvoll, weitere Vorschriften wie ZVG und ATSG einzubeziehen, um die gesamte rechtliche Grundlage der Betreuung und der Anfechtung von Verwaltungsakten vollständig abzudecken."
+    }
+  },
+  "test_030": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZGB\", \"BGG\", \"OR\", \"IPRG\", \"ELG\", \"ATSG\", \"ZPO\", \"ZGB\"],\n  \"additional_keywords_de\": [\n    \"Vorsorgeunterhalt\",\n    \"Nachehelicher Unterhalt\",\n    \"Leistungsvermögen\",\n    \"Eigenversorgungskapazität\",\n    \"Kindergeld\",\n    \"Haushaltsaufteilung\",\n    \"Vermögensausgleich\",\n    \"Rentenansprüche\",\n    \"Kinderbetreuungspflicht\",\n    \"Unterhaltsberechnungsmethode\"\n  ],\n  \"refined_hyde\": \"Die gerichtliche Bewertung von notionalen Einkommenszuordnungen im Rahmen von Ehegattenunterhalt ist eng an die individuellen Lebensumstände gebunden. Insbesondere bei der Rückdatierung von Einkommensannahmen muss das Gericht prüfen, ob eine rasche Wiederaufnahme der Erwerbstätigkeit unter Berücksichtigung der gesundheitlichen, familiären und bildungsmäßigen Gegebenheiten realistisch war. Zudem spielt die Aufteilung der Wohnkosten und die tatsächliche Nutzung des gemeinsamen Haushalts eine entscheidende Rolle. Es ist wichtig, sowohl die gesetzlichen Vorgaben als auch die konkreten Umstände der Parteien zu berücksichtigen, um eine faire und gerechte Verteilung des Statutenminimums und eventuell vorhandener Überschüsse sicherzustellen.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZGB",
+        "BGG",
+        "OR",
+        "IPRG",
+        "ELG",
+        "ATSG",
+        "ZPO",
+        "ZGB"
+      ],
+      "additional_keywords_de": [
+        "Vorsorgeunterhalt",
+        "Nachehelicher Unterhalt",
+        "Leistungsvermögen",
+        "Eigenversorgungskapazität",
+        "Kindergeld",
+        "Haushaltsaufteilung",
+        "Vermögensausgleich",
+        "Rentenansprüche",
+        "Kinderbetreuungspflicht",
+        "Unterhaltsberechnungsmethode"
+      ],
+      "refined_hyde": "Die gerichtliche Bewertung von notionalen Einkommenszuordnungen im Rahmen von Ehegattenunterhalt ist eng an die individuellen Lebensumstände gebunden. Insbesondere bei der Rückdatierung von Einkommensannahmen muss das Gericht prüfen, ob eine rasche Wiederaufnahme der Erwerbstätigkeit unter Berücksichtigung der gesundheitlichen, familiären und bildungsmäßigen Gegebenheiten realistisch war. Zudem spielt die Aufteilung der Wohnkosten und die tatsächliche Nutzung des gemeinsamen Haushalts eine entscheidende Rolle. Es ist wichtig, sowohl die gesetzlichen Vorgaben als auch die konkreten Umstände der Parteien zu berücksichtigen, um eine faire und gerechte Verteilung des Statutenminimums und eventuell vorhandener Überschüsse sicherzustellen."
+    }
+  },
+  "test_031": {
+    "raw": "{\n  \"additional_law_codes\": [\"AHV\", \"IV\", \"ELG\", \"DBG\"],\n  \"additional_keywords_de\": [\"Nachehelicher Unterhalt\", \"Dauer der Trennung\", \"Einkommensunterschied\", \"Altersvorsorge\", \"Unterhaltsgestaltung\", \"Einkommensverteilung\", \"Haushaltsaufwand\", \"Kinderrente\", \"Scheidungskosten\", \"Einkommenssteuer\", \"Vermögensausgleich\", \"Berufliche Unfähigkeit\"],\n  \"refined_hyde\": \"Die Recherche könnte weitere Aspekte der Einkommensverhältnisse und der Altersvorsorge berücksichtigen, insbesondere in Bezug auf die AHV (Alters- und Hinterbliebenenversicherung) und IV (Invalidenversicherung), da diese für die Bewertung des nachehelichen Unterhalts von zentraler Bedeutung sind. Zudem sollten relevante Regelungen zur Einkommenssteuer (DBG) und zur Kinderrente (ELG) stärker in den Fokus rücken. Die Dauer der Trennung und die damit verbundenen Veränderungen im Einkommensverhältnis sowie die Rolle der Berufsunfähigkeit als Faktor für die Unterhaltsgestaltung könnten weiter vertieft werden. Es ist auch wichtig, die Auswirkungen der Altersvorsorge auf die Unterhaltspflicht zu prüfen, da dies laut Art. 125 ZGB ein entscheidender Parameter ist.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "AHV",
+        "IV",
+        "ELG",
+        "DBG"
+      ],
+      "additional_keywords_de": [
+        "Nachehelicher Unterhalt",
+        "Dauer der Trennung",
+        "Einkommensunterschied",
+        "Altersvorsorge",
+        "Unterhaltsgestaltung",
+        "Einkommensverteilung",
+        "Haushaltsaufwand",
+        "Kinderrente",
+        "Scheidungskosten",
+        "Einkommenssteuer",
+        "Vermögensausgleich",
+        "Berufliche Unfähigkeit"
+      ],
+      "refined_hyde": "Die Recherche könnte weitere Aspekte der Einkommensverhältnisse und der Altersvorsorge berücksichtigen, insbesondere in Bezug auf die AHV (Alters- und Hinterbliebenenversicherung) und IV (Invalidenversicherung), da diese für die Bewertung des nachehelichen Unterhalts von zentraler Bedeutung sind. Zudem sollten relevante Regelungen zur Einkommenssteuer (DBG) und zur Kinderrente (ELG) stärker in den Fokus rücken. Die Dauer der Trennung und die damit verbundenen Veränderungen im Einkommensverhältnis sowie die Rolle der Berufsunfähigkeit als Faktor für die Unterhaltsgestaltung könnten weiter vertieft werden. Es ist auch wichtig, die Auswirkungen der Altersvorsorge auf die Unterhaltspflicht zu prüfen, da dies laut Art. 125 ZGB ein entscheidender Parameter ist."
+    }
+  },
+  "test_032": {
+    "raw": "{\n  \"additional_law_codes\": [\"MStV\", \"VPA\", \"AIG\", \"ZG\"],\n  \"additional_keywords_de\": [\"Freiheitsentzug\", \"Alternativmassnahmen\", \"Verhältnismäßigkeitsprüfung\", \"Grundrechtsschutz\", \"Haftgründe\", \"Sicherungshaft\", \"Verfahrensdauer\", \"Drohungsbefestigung\", \"Verfassungsrechtliche Prüfung\", \"Fluchtgefahrbelegung\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse konzentrieren sich primär auf die Bestimmungen der Strafprozessordnung (StPO) und des Strafgesetzbuches (StGB), sowie auf verfassungsrechtliche Aspekte. Allerdings fehlen relevante Vorschriften aus dem Migrationsgesetz (MStV) und der Verordnung über die polizeiliche Aufgaben (VPA), die für die Bewertung von Fluchtgefahr und Identitätsdokumenten besonders relevant sind. Zudem könnten Vorschriften aus dem Asylgesetz (AsylG) und dem Zivilgesetzbuch (ZGB) ergänzend hilfreich sein, insbesondere bei der Abwägung von Alternativmassnahmen. Eine stärkere Berücksichtigung von Verfassungsrechtlichen Grundrechten und der Verhältnismäßigkeitsprüfung wäre für eine umfassende Bewertung der Notwendigkeit und Proportionaltät der Untersuchungshaft entscheidend.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "MStV",
+        "VPA",
+        "AIG",
+        "ZG"
+      ],
+      "additional_keywords_de": [
+        "Freiheitsentzug",
+        "Alternativmassnahmen",
+        "Verhältnismäßigkeitsprüfung",
+        "Grundrechtsschutz",
+        "Haftgründe",
+        "Sicherungshaft",
+        "Verfahrensdauer",
+        "Drohungsbefestigung",
+        "Verfassungsrechtliche Prüfung",
+        "Fluchtgefahrbelegung"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse konzentrieren sich primär auf die Bestimmungen der Strafprozessordnung (StPO) und des Strafgesetzbuches (StGB), sowie auf verfassungsrechtliche Aspekte. Allerdings fehlen relevante Vorschriften aus dem Migrationsgesetz (MStV) und der Verordnung über die polizeiliche Aufgaben (VPA), die für die Bewertung von Fluchtgefahr und Identitätsdokumenten besonders relevant sind. Zudem könnten Vorschriften aus dem Asylgesetz (AsylG) und dem Zivilgesetzbuch (ZGB) ergänzend hilfreich sein, insbesondere bei der Abwägung von Alternativmassnahmen. Eine stärkere Berücksichtigung von Verfassungsrechtlichen Grundrechten und der Verhältnismäßigkeitsprüfung wäre für eine umfassende Bewertung der Notwendigkeit und Proportionaltät der Untersuchungshaft entscheidend."
+    }
+  },
+  "test_033": {
+    "raw": "{\n  \"additional_law_codes\": [\"UVV\", \"ATSG\", \"StSV\"],\n  \"additional_keywords_de\": [\"Berufskrankheitenverordnung\", \"Schädigende Stoffe\", \"Arbeitsbedingte Erkrankungen\", \"Expertenuntersuchungspflicht\", \"Unfallversicherungsgesetz\", \"Invaliditätsgrad\", \"Eingliederungsmassnahmen\", \"Rückfallbehandlung\", \"Spätfolgen\", \"Gesundheitsgefährdung durch Chemikalien\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse konzentrieren sich primär auf die Definition von Berufskrankheiten gemäß dem UVG und ATSG, jedoch fehlen spezifische Regelungen zur Bewertung von chemischen Expositionen und deren Zusammenhang mit Erkrankungen wie Granulomatose mit Polyangitis. Es könnte hilfreich sein, die UVV (Berufskrankheitenverordnung) genauer zu prüfen, da sie eine Liste schädigender Stoffe und arbeitsbedingter Erkrankungen enthält. Zudem könnten relevante Bestimmungen aus dem StSV (Strahlenschutzgesetz) hinzugefügt werden, falls chemische Expositionen mit Strahlung verbunden sind. Eine Expertenuntersuchung gemäß den Vorgaben des UVG wäre erforderlich, um den direkten Zusammenhang zwischen der beruflichen Tätigkeit und der Erkrankung festzustellen. Die Frage, ob Omega Insurance ihre Untersuchungspflichten vollständig erfüllt hat, könnte auch durch eine Analyse der ATSG-Bestimmungen zur Verwaltungsrevision und Beweisaufnahme beantwortet werden.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "UVV",
+        "ATSG",
+        "StSV"
+      ],
+      "additional_keywords_de": [
+        "Berufskrankheitenverordnung",
+        "Schädigende Stoffe",
+        "Arbeitsbedingte Erkrankungen",
+        "Expertenuntersuchungspflicht",
+        "Unfallversicherungsgesetz",
+        "Invaliditätsgrad",
+        "Eingliederungsmassnahmen",
+        "Rückfallbehandlung",
+        "Spätfolgen",
+        "Gesundheitsgefährdung durch Chemikalien"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse konzentrieren sich primär auf die Definition von Berufskrankheiten gemäß dem UVG und ATSG, jedoch fehlen spezifische Regelungen zur Bewertung von chemischen Expositionen und deren Zusammenhang mit Erkrankungen wie Granulomatose mit Polyangitis. Es könnte hilfreich sein, die UVV (Berufskrankheitenverordnung) genauer zu prüfen, da sie eine Liste schädigender Stoffe und arbeitsbedingter Erkrankungen enthält. Zudem könnten relevante Bestimmungen aus dem StSV (Strahlenschutzgesetz) hinzugefügt werden, falls chemische Expositionen mit Strahlung verbunden sind. Eine Expertenuntersuchung gemäß den Vorgaben des UVG wäre erforderlich, um den direkten Zusammenhang zwischen der beruflichen Tätigkeit und der Erkrankung festzustellen. Die Frage, ob Omega Insurance ihre Untersuchungspflichten vollständig erfüllt hat, könnte auch durch eine Analyse der ATSG-Bestimmungen zur Verwaltungsrevision und Beweisaufnahme beantwortet werden."
+    }
+  },
+  "test_034": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZPO\", \"SchKG\", \"GBV\"],\n  \"additional_keywords_de\": [\"Vollendung der Leistung\", \"Fristbeginn Pfandrecht\", \"Eintragungstermin\", \"Leistungsabschluss\", \"Rechtsgrundausweis\", \"Zulassungsgesuch\", \"Verjährung Pfandrecht\", \"Dauer der Vertragsbindung\", \"Nachträgliche Leistungen\", \"Zulassungsfristen ZGB\"],\n  \"refined_hyde\": \"Die Frage betrifft die Eintragung eines gesetzlichen Grundpfandrechts gemäß Art. 839 ZGB, insbesondere den Beginn der Frist für die Eintragung. Die Recherche zeigt, dass die Frist ab der Vollendung der Arbeit läuft, doch die Definition von „Vollendung“ bleibt oft unklar. Relevant könnten auch Regelungen zur Verjährung, zur Nachträglichkeit von Leistungen sowie zur Eintragung von Forderungen aus mehreren Verträgen sein. Zudem könnte die Rolle des Rechtsgrundausweises (Art. 76 ZGB) und die Bedeutung von Nachträglichen Leistungen (z.B. 2019–2020) für die Fristberechnung fehlen. Eine präzisere Berücksichtigung von Begriffen wie „Leistungsabschluss“, „Fristbeginn“ und „Verjährung“ wäre hilfreich, um die Relevanz der Eintragung am 21. September 2022 zu klären.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZPO",
+        "SchKG",
+        "GBV"
+      ],
+      "additional_keywords_de": [
+        "Vollendung der Leistung",
+        "Fristbeginn Pfandrecht",
+        "Eintragungstermin",
+        "Leistungsabschluss",
+        "Rechtsgrundausweis",
+        "Zulassungsgesuch",
+        "Verjährung Pfandrecht",
+        "Dauer der Vertragsbindung",
+        "Nachträgliche Leistungen",
+        "Zulassungsfristen ZGB"
+      ],
+      "refined_hyde": "Die Frage betrifft die Eintragung eines gesetzlichen Grundpfandrechts gemäß Art. 839 ZGB, insbesondere den Beginn der Frist für die Eintragung. Die Recherche zeigt, dass die Frist ab der Vollendung der Arbeit läuft, doch die Definition von „Vollendung“ bleibt oft unklar. Relevant könnten auch Regelungen zur Verjährung, zur Nachträglichkeit von Leistungen sowie zur Eintragung von Forderungen aus mehreren Verträgen sein. Zudem könnte die Rolle des Rechtsgrundausweises (Art. 76 ZGB) und die Bedeutung von Nachträglichen Leistungen (z.B. 2019–2020) für die Fristberechnung fehlen. Eine präzisere Berücksichtigung von Begriffen wie „Leistungsabschluss“, „Fristbeginn“ und „Verjährung“ wäre hilfreich, um die Relevanz der Eintragung am 21. September 2022 zu klären."
+    }
+  },
+  "test_035": {
+    "raw": "{\n  \"additional_law_codes\": [\"SchKG\", \"AIG\", \"StPO\", \"BGG\"],\n  \"additional_keywords_de\": [\n    \"Anerkennung ausländischer Entscheidungen\",\n    \"Verfahrensfortschritt im Ausland\",\n    \"Rechtswirkung ausländischer Urteile\",\n    \"Verjährung im internationalen Kontext\",\n    \"Zuständigkeit für Nachlassangelegenheiten\",\n    \"Vollstreckung ausländischer Entscheidungen\"\n  ],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Runde hat zwar relevante Gesetze wie das ZPO und IPRG berücksichtigt, doch fehlen spezifische Regelungen zum Thema Anerkennung und Wirkung ausländischer Entscheidungen, insbesondere im Zusammenhang mit Erbschaftsverzicht und Nachlassverfahren. Relevant könnten hier auch Regelungen des SchKG und AIG sein, die sich mit der Anerkennung ausländischer Entscheide und deren rechtliche Auswirkungen befassen. Zudem fehlen Begriffe, die explizit die Verbindung zwischen ausländischen Verfahrensfortschritten und der Erfüllung von Voraussetzungen im Schweizer Recht thematisieren. Es wäre wichtig, den Begriff 'Verfahrensfortschritt im Ausland' einzubeziehen, um sicherzustellen, dass die bereits laufenden Auslandsverfahren als 'Handlung auf den Meriten' im Sinne von Art. 263 ZPO betrachtet werden können.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "SchKG",
+        "AIG",
+        "StPO",
+        "BGG"
+      ],
+      "additional_keywords_de": [
+        "Anerkennung ausländischer Entscheidungen",
+        "Verfahrensfortschritt im Ausland",
+        "Rechtswirkung ausländischer Urteile",
+        "Verjährung im internationalen Kontext",
+        "Zuständigkeit für Nachlassangelegenheiten",
+        "Vollstreckung ausländischer Entscheidungen"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Runde hat zwar relevante Gesetze wie das ZPO und IPRG berücksichtigt, doch fehlen spezifische Regelungen zum Thema Anerkennung und Wirkung ausländischer Entscheidungen, insbesondere im Zusammenhang mit Erbschaftsverzicht und Nachlassverfahren. Relevant könnten hier auch Regelungen des SchKG und AIG sein, die sich mit der Anerkennung ausländischer Entscheide und deren rechtliche Auswirkungen befassen. Zudem fehlen Begriffe, die explizit die Verbindung zwischen ausländischen Verfahrensfortschritten und der Erfüllung von Voraussetzungen im Schweizer Recht thematisieren. Es wäre wichtig, den Begriff 'Verfahrensfortschritt im Ausland' einzubeziehen, um sicherzustellen, dass die bereits laufenden Auslandsverfahren als 'Handlung auf den Meriten' im Sinne von Art. 263 ZPO betrachtet werden können."
+    }
+  },
+  "test_036": {
+    "raw": "{\n  \"additional_law_codes\": [\"DNA-Profil-Gesetz\", \"JStG\", \"MStP\"],\n  \"additional_keywords_de\": [\"Zwangsmassnahmen\", \"Tatverdacht\", \"Beweisverwertung\", \"Grundrechte\", \"Informationssystem\", \"Y-DNA-Profil\", \"Einschränkung von Grundrechten\", \"Beweisführung im Jugendstrafverfahren\", \"Verhältnismässigkeit der Maßnahmen\", \"Recht auf informationelle Selbstbestimmung\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse decken zwar relevante Aspekte wie die Anforderungen an DNA-Profilierungen gemäß Art. 255 StPO sowie die Prinzipien der Verhältnismäßigkeit und des Rechts auf persönliche Freiheit ab. Allerdings fehlen spezifische Regelungen zum Umgang mit DNA-Profilen im Zusammenhang mit Jugendstrafverfahren, insbesondere im Hinblick auf die Anwendung des Jugendstrafverfahrensgesetzes (JStG) und seiner Auswirkungen auf die Rechte des Beschuldigten. Zudem könnten weitere Erwägungen bezüglich der Verhältnismäßigkeit der Maßnahmen, insbesondere bei jungen Beschuldigten, sowie die Rolle des Informationssystems für DNA-Profile (Art. 10 DNA-Profil-Gesetz) relevant sein. Es wäre auch sinnvoll, die Frage zu prüfen, ob die Verletzung des Rechts auf informationelle Selbstbestimmung (Art. 13 Abs. 2 BV) und des Rechts auf Vernehmung (Art. 101 Abs. 1 StPO) in diesem Kontext berücksichtigt wurde.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "DNA-Profil-Gesetz",
+        "JStG",
+        "MStP"
+      ],
+      "additional_keywords_de": [
+        "Zwangsmassnahmen",
+        "Tatverdacht",
+        "Beweisverwertung",
+        "Grundrechte",
+        "Informationssystem",
+        "Y-DNA-Profil",
+        "Einschränkung von Grundrechten",
+        "Beweisführung im Jugendstrafverfahren",
+        "Verhältnismässigkeit der Maßnahmen",
+        "Recht auf informationelle Selbstbestimmung"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse decken zwar relevante Aspekte wie die Anforderungen an DNA-Profilierungen gemäß Art. 255 StPO sowie die Prinzipien der Verhältnismäßigkeit und des Rechts auf persönliche Freiheit ab. Allerdings fehlen spezifische Regelungen zum Umgang mit DNA-Profilen im Zusammenhang mit Jugendstrafverfahren, insbesondere im Hinblick auf die Anwendung des Jugendstrafverfahrensgesetzes (JStG) und seiner Auswirkungen auf die Rechte des Beschuldigten. Zudem könnten weitere Erwägungen bezüglich der Verhältnismäßigkeit der Maßnahmen, insbesondere bei jungen Beschuldigten, sowie die Rolle des Informationssystems für DNA-Profile (Art. 10 DNA-Profil-Gesetz) relevant sein. Es wäre auch sinnvoll, die Frage zu prüfen, ob die Verletzung des Rechts auf informationelle Selbstbestimmung (Art. 13 Abs. 2 BV) und des Rechts auf Vernehmung (Art. 101 Abs. 1 StPO) in diesem Kontext berücksichtigt wurde."
+    }
+  },
+  "test_037": {
+    "raw": "{\n  \"additional_law_codes\": [\"MSchG\", \"IPRG\", \"VID\"],\n  \"additional_keywords_de\": [\"Markenverwechslung\", \"Domain-Zuteilung\", \"Herkunftsangaben\", \"Verwechslungsgefahr\", \"Schutzgebietsmarken\", \"Wettbewerbsrecht\", \"Markenrechtsstreitigkeiten\", \"Internet-Domain-Rechte\", \"Markenrechtsverletzung durch Domainnamen\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Runde hat möglicherweise relevante Aspekte des Markenrechts und des Domainnamen-Schutzes in der Schweiz übersehen. Insbesondere könnten die Regelungen zum Schutz von Marken durch Domainnamen (Art. 55–56 VID) sowie zur Verwechslungsgefahr (Art. 47 MSchG) von Bedeutung sein. Zudem könnte der Schutz von Herkunftsangaben (Art. 47 MSchG) und die Rolle des IPRG bei der Bewertung von Markenrechtsverletzungen weiter untersucht werden. Die fehlenden Schlüsselbegriffe wie „Verwechslungsgefahr“ und „Domain-Zuteilung“ könnten helfen, präzisere Ergebnisse zu erzielen. Eine stärkere Berücksichtigung der spezifischen Regelungen im Zusammenhang mit Domainnamen und Markenrechtsverletzungen wäre hilfreich, um die rechtliche Position von MOUNTAIN BIKES besser zu bewerten.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "MSchG",
+        "IPRG",
+        "VID"
+      ],
+      "additional_keywords_de": [
+        "Markenverwechslung",
+        "Domain-Zuteilung",
+        "Herkunftsangaben",
+        "Verwechslungsgefahr",
+        "Schutzgebietsmarken",
+        "Wettbewerbsrecht",
+        "Markenrechtsstreitigkeiten",
+        "Internet-Domain-Rechte",
+        "Markenrechtsverletzung durch Domainnamen"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Runde hat möglicherweise relevante Aspekte des Markenrechts und des Domainnamen-Schutzes in der Schweiz übersehen. Insbesondere könnten die Regelungen zum Schutz von Marken durch Domainnamen (Art. 55–56 VID) sowie zur Verwechslungsgefahr (Art. 47 MSchG) von Bedeutung sein. Zudem könnte der Schutz von Herkunftsangaben (Art. 47 MSchG) und die Rolle des IPRG bei der Bewertung von Markenrechtsverletzungen weiter untersucht werden. Die fehlenden Schlüsselbegriffe wie „Verwechslungsgefahr“ und „Domain-Zuteilung“ könnten helfen, präzisere Ergebnisse zu erzielen. Eine stärkere Berücksichtigung der spezifischen Regelungen im Zusammenhang mit Domainnamen und Markenrechtsverletzungen wäre hilfreich, um die rechtliche Position von MOUNTAIN BIKES besser zu bewerten."
+    }
+  },
+  "test_038": {
+    "raw": "{\n  \"additional_law_codes\": [\"BVG\", \"AHV\", \"UVG\", \"SVG\", \"ATSG\", \"UWG\", \"DesG\", \"BVG\"],\n  \"additional_keywords_de\": [\"Arbeitsunfähigkeit\", \"Schadensnachweis\", \"Genugtuung\", \"Ersatzpflicht\", \"Kausalitätsnachweis\", \"Unverschuldetes Schadensereignis\", \"Rechtsverletzung\", \"Schadensersatz für Arbeitslosigkeit\", \"Schadensersatz für psychische Belastung\", \"Schadensersatz für berufliche Beeinträchtigung\", \"Schadensersatz für familiäre Beeinträchtigung\", \"Schadensersatz für internationale Reisekosten\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse konzentrieren sich hauptsächlich auf die Obligationenrecht (OR) und die zivilrechtlichen Grundlagen für Schadensersatzansprüche. Es fehlen jedoch spezifische Regelungen, die sich auf die Beweislast für psychische Schäden, die Bewertung von Arbeitsunfähigkeit im Zusammenhang mit psychischen Belastungen sowie die Anwendung von Sozialversicherungsrecht (z.B. AHV, SVG) beziehen. Zudem könnten relevante Vorschriften aus dem UVG (Unfair Competition Act) und des BVG (Betriebsverfassungsgesetz) für die Bewertung von familiären Beeinträchtigungen und der Schadensersatz für berufliche Beeinträchtigung von Bedeutung sein. Eine Ergänzung um diese Themenbereiche könnte helfen, die Kausalität zwischen der rechtswidrigen Handlung und dem Schaden genauer zu bewerten sowie die Höhe des Schadensersatzes für moralische Schäden besser einzuschätzen.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "BVG",
+        "AHV",
+        "UVG",
+        "SVG",
+        "ATSG",
+        "UWG",
+        "DesG",
+        "BVG"
+      ],
+      "additional_keywords_de": [
+        "Arbeitsunfähigkeit",
+        "Schadensnachweis",
+        "Genugtuung",
+        "Ersatzpflicht",
+        "Kausalitätsnachweis",
+        "Unverschuldetes Schadensereignis",
+        "Rechtsverletzung",
+        "Schadensersatz für Arbeitslosigkeit",
+        "Schadensersatz für psychische Belastung",
+        "Schadensersatz für berufliche Beeinträchtigung",
+        "Schadensersatz für familiäre Beeinträchtigung",
+        "Schadensersatz für internationale Reisekosten"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse konzentrieren sich hauptsächlich auf die Obligationenrecht (OR) und die zivilrechtlichen Grundlagen für Schadensersatzansprüche. Es fehlen jedoch spezifische Regelungen, die sich auf die Beweislast für psychische Schäden, die Bewertung von Arbeitsunfähigkeit im Zusammenhang mit psychischen Belastungen sowie die Anwendung von Sozialversicherungsrecht (z.B. AHV, SVG) beziehen. Zudem könnten relevante Vorschriften aus dem UVG (Unfair Competition Act) und des BVG (Betriebsverfassungsgesetz) für die Bewertung von familiären Beeinträchtigungen und der Schadensersatz für berufliche Beeinträchtigung von Bedeutung sein. Eine Ergänzung um diese Themenbereiche könnte helfen, die Kausalität zwischen der rechtswidrigen Handlung und dem Schaden genauer zu bewerten sowie die Höhe des Schadensersatzes für moralische Schäden besser einzuschätzen."
+    }
+  },
+  "test_039": {
+    "raw": "{\n  \"additional_law_codes\": [\"ZVG\", \"ZGB\", \"OR\", \"ZPO\", \"HandG\", \"StGB\", \"AVIG\", \"DBG\"],\n  \"additional_keywords_de\": [\"Einfache Gesellschaft\", \"Geschäftsführung ohne Auftrag\", \"Gewinnabführung\", \"Gesellschaftsansprüche\", \"Gesellschaftsvertrag\", \"Gewinnverteilung\", \"Leistungsaustausch\", \"Verdeckte Gewinnausschüttung\", \"Beweislastumkehr\", \"Unbilligkeit der Vereinbarung\", \"Mangelnde Geschäftsgrundlage\", \"Schadensersatzanspruch\"],\n  \"refined_hyde\": \"Die rechtliche Charakterisierung der Beziehung zwischen C und D könnte auf eine einfache Gesellschaft (Gesellschaft ohne Gesellschaftsvertrag) hindeuten, da keine schriftliche Vereinbarung besteht und die Parteien ihre Aktivitäten getrennt buchen. Relevant sind daher Artikel 530 OR und 543 OR, die die Definition einer Gesellschaft und die Haftung der Gesellschafter regeln. Da die Parteien jedoch keine formelle Gesellschaft gebildet haben, könnte auch eine Mandats- oder Subunternehmerschaft in Betracht kommen. Die Beweislast für die Vertragsansprüche liegt gemäß Art. 8 ZGB beim Anspruchsberufler. Allerdings könnte eine Unbilligkeit der Vereinbarung oder ein Mangel der Geschäftsgrundlage (Art. 18 Abs. 1 OR) die Gültigkeit der Vereinbarung beeinträchtigen. Weitere Aspekte wie verdeckte Gewinnausschüttungen (Art. 419 OR) oder Schadensersatzansprüche (Art. 28a Abs. 3 ZGB) könnten ebenfalls relevant sein, insbesondere wenn eine unangemessene Gewinnverteilung oder irrtümliche Annahmen vorliegen.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "ZVG",
+        "ZGB",
+        "OR",
+        "ZPO",
+        "HandG",
+        "StGB",
+        "AVIG",
+        "DBG"
+      ],
+      "additional_keywords_de": [
+        "Einfache Gesellschaft",
+        "Geschäftsführung ohne Auftrag",
+        "Gewinnabführung",
+        "Gesellschaftsansprüche",
+        "Gesellschaftsvertrag",
+        "Gewinnverteilung",
+        "Leistungsaustausch",
+        "Verdeckte Gewinnausschüttung",
+        "Beweislastumkehr",
+        "Unbilligkeit der Vereinbarung",
+        "Mangelnde Geschäftsgrundlage",
+        "Schadensersatzanspruch"
+      ],
+      "refined_hyde": "Die rechtliche Charakterisierung der Beziehung zwischen C und D könnte auf eine einfache Gesellschaft (Gesellschaft ohne Gesellschaftsvertrag) hindeuten, da keine schriftliche Vereinbarung besteht und die Parteien ihre Aktivitäten getrennt buchen. Relevant sind daher Artikel 530 OR und 543 OR, die die Definition einer Gesellschaft und die Haftung der Gesellschafter regeln. Da die Parteien jedoch keine formelle Gesellschaft gebildet haben, könnte auch eine Mandats- oder Subunternehmerschaft in Betracht kommen. Die Beweislast für die Vertragsansprüche liegt gemäß Art. 8 ZGB beim Anspruchsberufler. Allerdings könnte eine Unbilligkeit der Vereinbarung oder ein Mangel der Geschäftsgrundlage (Art. 18 Abs. 1 OR) die Gültigkeit der Vereinbarung beeinträchtigen. Weitere Aspekte wie verdeckte Gewinnausschüttungen (Art. 419 OR) oder Schadensersatzansprüche (Art. 28a Abs. 3 ZGB) könnten ebenfalls relevant sein, insbesondere wenn eine unangemessene Gewinnverteilung oder irrtümliche Annahmen vorliegen."
+    }
+  },
+  "test_040": {
+    "raw": "{\n  \"additional_law_codes\": [\"AuG\", \"ZPO\", \"BVG\"],\n  \"additional_keywords_de\": [\"Fremdenrecht\", \"Aufenthaltsbewilligung\", \"Ehe ohne Gemeinschaft\", \"Unterhaltspflicht nach Scheidung\", \"Rechtsmissbrauchsgesetz\", \"Verhältnismässigkeit\", \"Vermögenssicherung\", \"Ehevertragsgestaltung\", \"Lebensgemeinschaftsanspruch\", \"Nacheheliche Pflichten\"],\n  \"refined_hyde\": \"Die aktuelle Retrieval-Ergebnisse konzentrieren sich hauptsächlich auf die Regelungen des ZGB bezüglich der Ehe, des Unterhalts und der Schutzmassnahmen sowie auf das ZPO und BGG. Allerdings fehlen relevante Aspekte des Fremdenrechts (AuG), insbesondere die Regelungen zur Aufenthaltsbewilligung und deren Verbindung mit Eheverträgen, welche für die Prüfung eines eventuellen Rechtsmissbrauchs entscheidend sein könnten. Zudem könnte das BVG (Berufsverbotsgesetz) relevant sein, falls der Ehemann wegen seiner Arbeitsunfähigkeit Ansprüche geltend macht. Des Weiteren fehlen spezifische Begriffe wie „Fremdenrecht“, „Aufenthaltsbewilligung“ und „Ehe ohne Gemeinschaft“, die für die Bewertung der Ehe als reiner Mittel zum Wohnsitzrecht entscheidend sind. Es wäre auch wichtig, die Anwendung des Rechtsmissbrauchsgesetzes (Art. 2 Abs. 2 ZGB) und die Prüfung der Verhältnismäßigkeit der Unterhaltspflichten zu berücksichtigen, da dies für die Frage der Rechtsmissbrauchsgestaltung entscheidend ist.\"\n}",
+    "parsed": {
+      "additional_law_codes": [
+        "AuG",
+        "ZPO",
+        "BVG"
+      ],
+      "additional_keywords_de": [
+        "Fremdenrecht",
+        "Aufenthaltsbewilligung",
+        "Ehe ohne Gemeinschaft",
+        "Unterhaltspflicht nach Scheidung",
+        "Rechtsmissbrauchsgesetz",
+        "Verhältnismässigkeit",
+        "Vermögenssicherung",
+        "Ehevertragsgestaltung",
+        "Lebensgemeinschaftsanspruch",
+        "Nacheheliche Pflichten"
+      ],
+      "refined_hyde": "Die aktuelle Retrieval-Ergebnisse konzentrieren sich hauptsächlich auf die Regelungen des ZGB bezüglich der Ehe, des Unterhalts und der Schutzmassnahmen sowie auf das ZPO und BGG. Allerdings fehlen relevante Aspekte des Fremdenrechts (AuG), insbesondere die Regelungen zur Aufenthaltsbewilligung und deren Verbindung mit Eheverträgen, welche für die Prüfung eines eventuellen Rechtsmissbrauchs entscheidend sein könnten. Zudem könnte das BVG (Berufsverbotsgesetz) relevant sein, falls der Ehemann wegen seiner Arbeitsunfähigkeit Ansprüche geltend macht. Des Weiteren fehlen spezifische Begriffe wie „Fremdenrecht“, „Aufenthaltsbewilligung“ und „Ehe ohne Gemeinschaft“, die für die Bewertung der Ehe als reiner Mittel zum Wohnsitzrecht entscheidend sind. Es wäre auch wichtig, die Anwendung des Rechtsmissbrauchsgesetzes (Art. 2 Abs. 2 ZGB) und die Prüfung der Verhältnismäßigkeit der Unterhaltspflichten zu berücksichtigen, da dies für die Frage der Rechtsmissbrauchsgestaltung entscheidend ist."
+    }
+  }
+}

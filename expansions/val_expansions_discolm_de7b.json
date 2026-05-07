@@ -1,0 +1,311 @@
+{
+  "val_001": {
+    "raw": "{\n  \"legal_areas\": [\"Strafprozessrecht\"],\n  \"law_codes\": [\"StPO\"],\n  \"keywords_de\": [\n    \"Art. 221 Abs. 1 lit. b StPO\",\n    \"Risk of collusion\",\n    \"Principle of proportionality\",\n    \"Maximum period of detention\",\n    \"15 January 2025\",\n    \"18 October 2024\",\n    \"10 December 2024\",\n    \"Concrete risk that the detainee would influence witnesses or tamper with evidence\",\n    \"Risk of reoffending\",\n    \"Witnesses already interviewed\",\n    \"Investigative steps pending (phone data extraction, CCTV image analysis, and bank record checks)\",\n    \"Release would not jeopardize inquiry\",\n    \"Alleged victim has withdrawn the complaint\"\n  ],\n  \"hyde\": \"Die Frage ist, ob ein Gericht eine dreimonatige Verlängerung der Untersuchungshaft unter Art. 221 Abs. 1 lit. b StPO (Verdacht auf Kollusion) im Einklang mit dem Grundsatz der Verhältnismäßigkeit anordnen kann, wenn der Beschuldigte, der nach einer nächtlichen Auseinandersetzung und Diebstahl eines Kurierbeutels mit einer Summe von etwa 5600 Euro festgenommen wurde, am 18. Oktober 2024 aufgrund einer Anordnung vom 18. Oktober 2024 für einen Höchstzeitraum bis zum 15. Januar 2025 in Haft genommen wurde, die Staatsanwältin eine Verlängerung am 10. Dezember 2024 hauptsächlich mit einem konkreten Risiko begründete, dass der Beschuldigte Einfluss auf Zeugen nehmen oder Beweise manipulieren könnte und ein Risiko des Wiederverstoßes besteht, während der Beschuldigte die Verlängerung aufgrund der Tatsache oppositionell angreift, dass die meisten Zeugen bereits befragt wurden, die noch ausstehenden Untersuchungsschritte weitgehend technischer Natur seien (Handy-Datenextraktion, CCTV-Bildanalyse und Bankkontenprüfungen), seine Freilassung daher die Untersuchung nicht gefährden würde und der mutmaßliche Geschädigte die Anzeige zurückgezogen habe – d.h. rechtfertigen die geltend gemachten konkreten Risiken einer Kollusion und die Erwägungen der Verhältnismäßigkeit eine dreimonatige Verlängerung der Untersuchungshaft in diesen Umständen?\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Strafprozessrecht"
+      ],
+      "law_codes": [
+        "StPO"
+      ],
+      "keywords_de": [
+        "Art. 221 Abs. 1 lit. b StPO",
+        "Risk of collusion",
+        "Principle of proportionality",
+        "Maximum period of detention",
+        "15 January 2025",
+        "18 October 2024",
+        "10 December 2024",
+        "Concrete risk that the detainee would influence witnesses or tamper with evidence",
+        "Risk of reoffending",
+        "Witnesses already interviewed",
+        "Investigative steps pending (phone data extraction, CCTV image analysis, and bank record checks)",
+        "Release would not jeopardize inquiry",
+        "Alleged victim has withdrawn the complaint"
+      ],
+      "hyde": "Die Frage ist, ob ein Gericht eine dreimonatige Verlängerung der Untersuchungshaft unter Art. 221 Abs. 1 lit. b StPO (Verdacht auf Kollusion) im Einklang mit dem Grundsatz der Verhältnismäßigkeit anordnen kann, wenn der Beschuldigte, der nach einer nächtlichen Auseinandersetzung und Diebstahl eines Kurierbeutels mit einer Summe von etwa 5600 Euro festgenommen wurde, am 18. Oktober 2024 aufgrund einer Anordnung vom 18. Oktober 2024 für einen Höchstzeitraum bis zum 15. Januar 2025 in Haft genommen wurde, die Staatsanwältin eine Verlängerung am 10. Dezember 2024 hauptsächlich mit einem konkreten Risiko begründete, dass der Beschuldigte Einfluss auf Zeugen nehmen oder Beweise manipulieren könnte und ein Risiko des Wiederverstoßes besteht, während der Beschuldigte die Verlängerung aufgrund der Tatsache oppositionell angreift, dass die meisten Zeugen bereits befragt wurden, die noch ausstehenden Untersuchungsschritte weitgehend technischer Natur seien (Handy-Datenextraktion, CCTV-Bildanalyse und Bankkontenprüfungen), seine Freilassung daher die Untersuchung nicht gefährden würde und der mutmaßliche Geschädigte die Anzeige zurückgezogen habe – d.h. rechtfertigen die geltend gemachten konkreten Risiken einer Kollusion und die Erwägungen der Verhältnismäßigkeit eine dreimonatige Verlängerung der Untersuchungshaft in diesen Umständen?"
+    }
+  },
+  "val_002": {
+    "raw": "{\n  \"legal_areas\": [\"Sozialversicherungsrecht\", \"Invalidenversicherung\", \"Recht der beruflichen Vorsorge\"],\n  \"law_codes\": [\"LAI\", \"IVG\", \"BVG\"],\n  \"keywords_de\": [\n    \"Sozialversicherungsanspruch\",\n    \"Invalidenversicherung\",\n    \"berufliche Rehabilitation\",\n    \"Ermittlung der Erwerbsunfähigkeit\",\n    \"Entscheidungspraxis zur Erwerbsunfähigkeit\",\n    \"relevante medizinische Unterlagen\",\n    \"Allergie\",\n    \"Asthma\",\n    \"Immuntherapie\",\n    \"Desensibilisierung\",\n    \"Arbeitsunfähigkeit\",\n    \"Arbeitsplatzanpassung\",\n    \"Dauer der Arbeitsunfähigkeit\",\n    \"Wiedereingliederung\",\n    \"Teilinvalidität\",\n    \"Vollinvalidität\",\n    \"Einkommensverlust\",\n    \"Einkommensersatz\"\n  ],\n  \"hyde\": \"Die Frage nach dem Anspruch auf eine berufliche Rehabilitation und die Gewährung von Leistungen der Invalidenversicherung ist komplex und hängt von verschiedenen Faktoren ab. Die Bewertung der Arbeitsunfähigkeit und die Festlegung des Grades der Invalidität sind zentrale Aspekte, die durch medizinische Gutachten und Unterlagen gestützt werden müssen. In diesem Fall liegen konfliktbeladene medizinische Meinungen vor, die eine vollständige Arbeitsunfähigkeit aufgrund einer chronischen allergischen Erkrankung attestieren, während ein Bericht des Lungenfacharztes eine weitgehende Arbeitsfähigkeit bescheinigt. Dies wirft Fragen bezüglich der Entscheidungspraxis zur Erwerbsunfähigkeit auf. Es ist zu prüfen, ob alle therapeutischen Optionen ausgeschöpft wurden, bevor eine Entscheidung über den Anspruch auf berufliche Rehabilitation und Erwerbsersatzleistungen getroffen wird. Die Rechtsprechung hat einen Präzedenzfall geschaffen, wonach eine Reduktion der Erwerbsfähigkeit um mindestens 20% als anzunehmen gilt, wenn keine spezifischen medizinischen Gründe für eine höhere oder niedrigere Bewertung vorliegen. Unter Berücksichtigung dieser rechtlichen Grundlagen und unter Einbeziehung aller relevanten medizinischen Unterlagen ist zu prüfen, ob eine berufliche Rehabilitation und die Gewährung von Erwerbsersatzleistungen gerechtfertigt sind.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Sozialversicherungsrecht",
+        "Invalidenversicherung",
+        "Recht der beruflichen Vorsorge"
+      ],
+      "law_codes": [
+        "LAI",
+        "IVG",
+        "BVG"
+      ],
+      "keywords_de": [
+        "Sozialversicherungsanspruch",
+        "Invalidenversicherung",
+        "berufliche Rehabilitation",
+        "Ermittlung der Erwerbsunfähigkeit",
+        "Entscheidungspraxis zur Erwerbsunfähigkeit",
+        "relevante medizinische Unterlagen",
+        "Allergie",
+        "Asthma",
+        "Immuntherapie",
+        "Desensibilisierung",
+        "Arbeitsunfähigkeit",
+        "Arbeitsplatzanpassung",
+        "Dauer der Arbeitsunfähigkeit",
+        "Wiedereingliederung",
+        "Teilinvalidität",
+        "Vollinvalidität",
+        "Einkommensverlust",
+        "Einkommensersatz"
+      ],
+      "hyde": "Die Frage nach dem Anspruch auf eine berufliche Rehabilitation und die Gewährung von Leistungen der Invalidenversicherung ist komplex und hängt von verschiedenen Faktoren ab. Die Bewertung der Arbeitsunfähigkeit und die Festlegung des Grades der Invalidität sind zentrale Aspekte, die durch medizinische Gutachten und Unterlagen gestützt werden müssen. In diesem Fall liegen konfliktbeladene medizinische Meinungen vor, die eine vollständige Arbeitsunfähigkeit aufgrund einer chronischen allergischen Erkrankung attestieren, während ein Bericht des Lungenfacharztes eine weitgehende Arbeitsfähigkeit bescheinigt. Dies wirft Fragen bezüglich der Entscheidungspraxis zur Erwerbsunfähigkeit auf. Es ist zu prüfen, ob alle therapeutischen Optionen ausgeschöpft wurden, bevor eine Entscheidung über den Anspruch auf berufliche Rehabilitation und Erwerbsersatzleistungen getroffen wird. Die Rechtsprechung hat einen Präzedenzfall geschaffen, wonach eine Reduktion der Erwerbsfähigkeit um mindestens 20% als anzunehmen gilt, wenn keine spezifischen medizinischen Gründe für eine höhere oder niedrigere Bewertung vorliegen. Unter Berücksichtigung dieser rechtlichen Grundlagen und unter Einbeziehung aller relevanten medizinischen Unterlagen ist zu prüfen, ob eine berufliche Rehabilitation und die Gewährung von Erwerbsersatzleistungen gerechtfertigt sind."
+    }
+  },
+  "val_003": {
+    "raw": "{\n  \"legal_areas\": [\"Strafrecht\", \"Grundrechte\", \"Haftrecht\"],\n  \"law_codes\": [\"StPO\", \"BV\", \"ZGB\"],\n  \"keywords_de\": [\n    \"Strafverfahren\",\n    \"Grundrechteverletzung\",\n    \"Haftprüfung\",\n    \"Fluchtgefahr\",\n    \"Kollusionsgefahr\",\n    \"Rechtsmittelverwertung\",\n    \"Verhältnismäßigkeit\",\n    \"Durchsuchung\",\n    \"Diebstahl\",\n    \"Waffenrecht\",\n    \"Zeugenvernehmung\",\n    \"Schussabgabe\",\n    \"Freiheitsberaubung\",\n    \"Gewährleistung der Verteidigung\",\n    \"Recht auf Anhörung\",\n    \"Strafprozessordnung\",\n    \"Staatsanwaltschaft\",\n    \"Untersuchungshaft\",\n    \"Verlängerung\",\n    \"Dauer der Untersuchungshaft\"\n  ],\n  \"hyde\": \"Die Verlängerung der Untersuchungshaft für A. Rivera bis zum 1. Dezember 2024 war unter Berücksichtigung der Bedingungen des § 221 Abs. 1 StPO (genügend Verdacht und legitime Flucht-, Kollusions- oder Wiederholungsgefahr) rechtlich gerechtfertigt. Es wurde argumentiert, dass die Ausdehnung notwendig sei, um eine mögliche Flucht oder Kollusion zu verhindern. Die Rechtsprechung hat wiederholt betont, dass die Untersuchungshaft ein letztes Mittel sein sollte, das nur dann angewendet werden darf, wenn andere weniger einschneidende Maßnahmen nicht ausreichen. In diesem Fall wurden jedoch genügend Gründe dargelegt, warum eine solche Maßnahme erforderlich ist. Die Einhaltung des Grundsatzes 'nulla poena sine via regia' (keine Strafe ohne ordnungsgemäße Verfahrensordnung) wurde gewahrt, da A. Rivera ausreichend über seine Rechte informiert und ihm die Möglichkeit gegeben wurde, sich gegen die Anschuldigungen zu verteidigen. Die Entscheidung, die Untersuchungshaft zu verlängern, basierte auf einer umfassenden Bewertung aller Umstände des Falles, einschließlich der Schwere der vorgeworfenen Verbrechen und der Wahrscheinlichkeit, dass er weiterhin fliehen oder kollaborieren könnte. Daher war die Verlängerung der Untersuchungshaft bis zum 1. Dezember 2024 im Einklang mit den gesetzlichen Bestimmungen und stellte keine unverhältnismäßige Belastung für A. Rivera dar.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Strafrecht",
+        "Grundrechte",
+        "Haftrecht"
+      ],
+      "law_codes": [
+        "StPO",
+        "BV",
+        "ZGB"
+      ],
+      "keywords_de": [
+        "Strafverfahren",
+        "Grundrechteverletzung",
+        "Haftprüfung",
+        "Fluchtgefahr",
+        "Kollusionsgefahr",
+        "Rechtsmittelverwertung",
+        "Verhältnismäßigkeit",
+        "Durchsuchung",
+        "Diebstahl",
+        "Waffenrecht",
+        "Zeugenvernehmung",
+        "Schussabgabe",
+        "Freiheitsberaubung",
+        "Gewährleistung der Verteidigung",
+        "Recht auf Anhörung",
+        "Strafprozessordnung",
+        "Staatsanwaltschaft",
+        "Untersuchungshaft",
+        "Verlängerung",
+        "Dauer der Untersuchungshaft"
+      ],
+      "hyde": "Die Verlängerung der Untersuchungshaft für A. Rivera bis zum 1. Dezember 2024 war unter Berücksichtigung der Bedingungen des § 221 Abs. 1 StPO (genügend Verdacht und legitime Flucht-, Kollusions- oder Wiederholungsgefahr) rechtlich gerechtfertigt. Es wurde argumentiert, dass die Ausdehnung notwendig sei, um eine mögliche Flucht oder Kollusion zu verhindern. Die Rechtsprechung hat wiederholt betont, dass die Untersuchungshaft ein letztes Mittel sein sollte, das nur dann angewendet werden darf, wenn andere weniger einschneidende Maßnahmen nicht ausreichen. In diesem Fall wurden jedoch genügend Gründe dargelegt, warum eine solche Maßnahme erforderlich ist. Die Einhaltung des Grundsatzes 'nulla poena sine via regia' (keine Strafe ohne ordnungsgemäße Verfahrensordnung) wurde gewahrt, da A. Rivera ausreichend über seine Rechte informiert und ihm die Möglichkeit gegeben wurde, sich gegen die Anschuldigungen zu verteidigen. Die Entscheidung, die Untersuchungshaft zu verlängern, basierte auf einer umfassenden Bewertung aller Umstände des Falles, einschließlich der Schwere der vorgeworfenen Verbrechen und der Wahrscheinlichkeit, dass er weiterhin fliehen oder kollaborieren könnte. Daher war die Verlängerung der Untersuchungshaft bis zum 1. Dezember 2024 im Einklang mit den gesetzlichen Bestimmungen und stellte keine unverhältnismäßige Belastung für A. Rivera dar."
+    }
+  },
+  "val_004": {
+    "raw": "{\n  \"legal_areas\": [\"Erbrecht\"],\n  \"law_codes\": [\"EGBGB\", \"ZGB\"],\n  \"keywords_de\": [\n    \"holographisches_testament\",\n    \"testamentarische_verfügung\",\n    \"bequeath\",\n    \"legatee\",\n    \"civil_code\",\n    \"formelle_anforderungen\",\n    \"verdacht_manipulation\",\n    \"testamentarische_kapazität\",\n    \"zweifel_an_verständnis\",\n    \"annulierung_oder_reinterpretation\"\n  ],\n  \"hyde\": \"Dieser Fall wirft mehrere juristische Fragen auf im Bereich des Erbrechts. Es geht um die Gültigkeit eines handschriftlichen Testaments, das am 10. Oktober 1997 erstellt wurde und in dem der Erblasser seine gesamte Hinterbliebenen zu gleichen Teilen unter den überlebenden Partnern und den Kindern aufteilt. Die Frage ist, ob dieses Testament den formellen Anforderungen genügt, die im Bürgerlichen Gesetzbuch festgelegt sind. Es gibt den Verdacht, dass Teile des Textes möglicherweise von einer dritten Partei hinzugefügt wurden. Darüber hinaus wird die testamentarische Kapazität des Erblassers zur Zeit der Erstellung des Testaments angezweifelt, da er bei der Erstellung des Testaments bereits über 70 Jahre alt war und es heißt, dass er nicht ausreichend Deutsch sprach, um juristische Begriffe wie bequeath oder legatee korrekt verwenden zu können. Es stellt sich auch die Frage, ob allein der Verdacht auf mangelnde Sprachkenntnisse ausreicht, um das Testament anzufechten oder die testamentarischen Verfügungen zugunsten von Verwandten, die im Testament nicht genannt sind, neu zu interpretieren.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Erbrecht"
+      ],
+      "law_codes": [
+        "EGBGB",
+        "ZGB"
+      ],
+      "keywords_de": [
+        "holographisches_testament",
+        "testamentarische_verfügung",
+        "bequeath",
+        "legatee",
+        "civil_code",
+        "formelle_anforderungen",
+        "verdacht_manipulation",
+        "testamentarische_kapazität",
+        "zweifel_an_verständnis",
+        "annulierung_oder_reinterpretation"
+      ],
+      "hyde": "Dieser Fall wirft mehrere juristische Fragen auf im Bereich des Erbrechts. Es geht um die Gültigkeit eines handschriftlichen Testaments, das am 10. Oktober 1997 erstellt wurde und in dem der Erblasser seine gesamte Hinterbliebenen zu gleichen Teilen unter den überlebenden Partnern und den Kindern aufteilt. Die Frage ist, ob dieses Testament den formellen Anforderungen genügt, die im Bürgerlichen Gesetzbuch festgelegt sind. Es gibt den Verdacht, dass Teile des Textes möglicherweise von einer dritten Partei hinzugefügt wurden. Darüber hinaus wird die testamentarische Kapazität des Erblassers zur Zeit der Erstellung des Testaments angezweifelt, da er bei der Erstellung des Testaments bereits über 70 Jahre alt war und es heißt, dass er nicht ausreichend Deutsch sprach, um juristische Begriffe wie bequeath oder legatee korrekt verwenden zu können. Es stellt sich auch die Frage, ob allein der Verdacht auf mangelnde Sprachkenntnisse ausreicht, um das Testament anzufechten oder die testamentarischen Verfügungen zugunsten von Verwandten, die im Testament nicht genannt sind, neu zu interpretieren."
+    }
+  },
+  "val_005": {
+    "raw": "{\n  \"legal_areas\": [\"Familienrecht\", \"Strafrecht\", \"Jugendrecht\"],\n  \"law_codes\": [\"StPO\", \"OR\", \"ZGB\", \"StGB\", \"BV\", \"BGG\", \"IPRG\", \"DBG\", \"ZPO\", \"AHVG\", \"IVG\", \"UVG\", \"BVG\", \"SchKG\", \"ATSG\"],\n  \"keywords_de\": [\n    \"Übernachtbesuche\",\n    \"elterliche Sorge\",\n    \"Sorgerecht\",\n    \"Umgangsrecht\",\n    \"sexuelle Übergriffe\",\n    \"Minderjährige\",\n    \"Alkoholismus\",\n    \"Entscheidungspflicht ex officio\",\n    \"bestes Interesse des Kindes\",\n    \"Prognose zur Gefährdung des Kindeswohls\",\n    \"Verfügbarkeit der Eltern\",\n    \"Vollzugshilfe\",\n    \"Gutachten\",\n    \"Sozialbericht\",\n    \"überwachte Kontakte\",\n    \"Aufsichtsperson\",\n    \"Abänderung des Unterhalts\"\n  ],\n  \"hyde\": \"Die Frage impliziert verschiedene rechtliche Aspekte, darunter das Sorgerecht, das Umgangsrecht und das Strafrecht. Im Kontext dieser Frage ist es wichtig, den Fall unter dem Licht des Kindeswohls und der Notwendigkeit einer gerichtlichen Überprüfung zu betrachten. Es scheint, dass der Elternteil, der derzeit keinen Umgang mit den Kindern hat, aufgrund von Vorwürfen des sexuellen Missbrauchs einer anderen Person angeklagt ist. Diese Anschuldigungen könnten gemäß Art. 307a StGB (Strafgesetzbuch) eine Untersuchungshaft rechtfertigen. Die Frage impliziert auch, dass der Elternteil an einem Programm zur Behandlung seiner Alkoholsucht teilnimmt. Dies könnte gemäß Art. 39 Ziff. 1 BV (Bundesverfassung) als Faktor bei der Beurteilung seiner Fähigkeit, das Sorgerecht auszuüben, berücksichtigt werden. Darüber hinaus könnte die Empfehlung des lokalen Jugendamtes, die Kontakte auf den Tag zu beschränken und einen beaufsichtigenden Dritten einzubeziehen, als relevanter Faktor für die Entscheidungsfindung des Gerichts angesehen werden. Die Frage stellt jedoch auch fest, dass das Gutachten zur Gefährdung des Kindeswohls aus dem Familienakten nicht in die Akte aufgenommen wurde, was möglicherweise gemäß Art. 222 BV (Bundesverfassung) als Verstoß gegen das rechtliche Gehör angesehen werden könnte. In Anbetracht dieser Umstände könnte das Gericht entscheiden, die Übernachtbesuche vorübergehend auszusetzen und weitere Untersuchungen durchzuführen, um die Situation genauer zu beurteilen. Es ist jedoch wichtig zu betonen, dass dies eine vorläufige Einschätzung ist und die endgültige Entscheidung von den spezifischen Details des Falles und der genauen Rolle des Elternteils in den angeblichen Vorfällen abhängen wird.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Familienrecht",
+        "Strafrecht",
+        "Jugendrecht"
+      ],
+      "law_codes": [
+        "StPO",
+        "OR",
+        "ZGB",
+        "StGB",
+        "BV",
+        "BGG",
+        "IPRG",
+        "DBG",
+        "ZPO",
+        "AHVG",
+        "IVG",
+        "UVG",
+        "BVG",
+        "SchKG",
+        "ATSG"
+      ],
+      "keywords_de": [
+        "Übernachtbesuche",
+        "elterliche Sorge",
+        "Sorgerecht",
+        "Umgangsrecht",
+        "sexuelle Übergriffe",
+        "Minderjährige",
+        "Alkoholismus",
+        "Entscheidungspflicht ex officio",
+        "bestes Interesse des Kindes",
+        "Prognose zur Gefährdung des Kindeswohls",
+        "Verfügbarkeit der Eltern",
+        "Vollzugshilfe",
+        "Gutachten",
+        "Sozialbericht",
+        "überwachte Kontakte",
+        "Aufsichtsperson",
+        "Abänderung des Unterhalts"
+      ],
+      "hyde": "Die Frage impliziert verschiedene rechtliche Aspekte, darunter das Sorgerecht, das Umgangsrecht und das Strafrecht. Im Kontext dieser Frage ist es wichtig, den Fall unter dem Licht des Kindeswohls und der Notwendigkeit einer gerichtlichen Überprüfung zu betrachten. Es scheint, dass der Elternteil, der derzeit keinen Umgang mit den Kindern hat, aufgrund von Vorwürfen des sexuellen Missbrauchs einer anderen Person angeklagt ist. Diese Anschuldigungen könnten gemäß Art. 307a StGB (Strafgesetzbuch) eine Untersuchungshaft rechtfertigen. Die Frage impliziert auch, dass der Elternteil an einem Programm zur Behandlung seiner Alkoholsucht teilnimmt. Dies könnte gemäß Art. 39 Ziff. 1 BV (Bundesverfassung) als Faktor bei der Beurteilung seiner Fähigkeit, das Sorgerecht auszuüben, berücksichtigt werden. Darüber hinaus könnte die Empfehlung des lokalen Jugendamtes, die Kontakte auf den Tag zu beschränken und einen beaufsichtigenden Dritten einzubeziehen, als relevanter Faktor für die Entscheidungsfindung des Gerichts angesehen werden. Die Frage stellt jedoch auch fest, dass das Gutachten zur Gefährdung des Kindeswohls aus dem Familienakten nicht in die Akte aufgenommen wurde, was möglicherweise gemäß Art. 222 BV (Bundesverfassung) als Verstoß gegen das rechtliche Gehör angesehen werden könnte. In Anbetracht dieser Umstände könnte das Gericht entscheiden, die Übernachtbesuche vorübergehend auszusetzen und weitere Untersuchungen durchzuführen, um die Situation genauer zu beurteilen. Es ist jedoch wichtig zu betonen, dass dies eine vorläufige Einschätzung ist und die endgültige Entscheidung von den spezifischen Details des Falles und der genauen Rolle des Elternteils in den angeblichen Vorfällen abhängen wird."
+    }
+  },
+  "val_006": {
+    "raw": "{\n  \"legal_areas\": [\"Mietrecht\", \"Sachversicherung\", \"Vertragsrecht\", \"Nachbarrecht\"],\n  \"law_codes\": [\"MietV\", \"VVG\", \"BGB\", \"NachbG\"],\n  \"keywords_de\": [\"Mietminderung\", \"Sachschaden\", \"Vertragsbruch\", \"Fahrlässigkeit\", \"Sorgfaltspflicht\", \"Gratisarbeit\", \"Nachbarhaftung\"],\n  \"hyde\": \"G könnte für den Schaden haftbar gemacht werden, und wenn ja, sollte die Haftung auf der Grundlage einer vertraglichen Verpflichtung oder einer unentgeltlichen Handlung, die aus einem freiwilligen Akt der Hilfeleistung resultiert, sowie nach welchem Grad an Sorgfalt – dem objektiven Standard von Art. 364 Abs. 1 OR oder, wenn es als unentgeltliche Zuwendung behandelt wird, Art. 248 Abs. 1 OR durch Analogie oder Art. 41 OR – beurteilt werden? Es ist fraglich, ob seine Handlungen als fahrlässig im Sinne des § 41 OR angesehen werden können, da er ohne die erforderliche Bundeszertifizierung für die Stilllegung von Heizöltanks auftrat, mit einem Gerät, das Funken produzieren kann, das Innere des Tanks nicht vollständig leerte und keine ausreichende Belüftung sicherstellte.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Mietrecht",
+        "Sachversicherung",
+        "Vertragsrecht",
+        "Nachbarrecht"
+      ],
+      "law_codes": [
+        "MietV",
+        "VVG",
+        "BGB",
+        "NachbG"
+      ],
+      "keywords_de": [
+        "Mietminderung",
+        "Sachschaden",
+        "Vertragsbruch",
+        "Fahrlässigkeit",
+        "Sorgfaltspflicht",
+        "Gratisarbeit",
+        "Nachbarhaftung"
+      ],
+      "hyde": "G könnte für den Schaden haftbar gemacht werden, und wenn ja, sollte die Haftung auf der Grundlage einer vertraglichen Verpflichtung oder einer unentgeltlichen Handlung, die aus einem freiwilligen Akt der Hilfeleistung resultiert, sowie nach welchem Grad an Sorgfalt – dem objektiven Standard von Art. 364 Abs. 1 OR oder, wenn es als unentgeltliche Zuwendung behandelt wird, Art. 248 Abs. 1 OR durch Analogie oder Art. 41 OR – beurteilt werden? Es ist fraglich, ob seine Handlungen als fahrlässig im Sinne des § 41 OR angesehen werden können, da er ohne die erforderliche Bundeszertifizierung für die Stilllegung von Heizöltanks auftrat, mit einem Gerät, das Funken produzieren kann, das Innere des Tanks nicht vollständig leerte und keine ausreichende Belüftung sicherstellte."
+    }
+  },
+  "val_007": {
+    "raw": "{\n  \"legal_areas\": [\"Erbrecht\", \"Eigentumsrecht\"],\n  \"law_codes\": [\"Art. 4519 CPLR\", \"Art. 934 ZGB\", \"Art. 936 ZGB\"],\n  \"keywords_de\": [\n    \"Schenkung\",\n    \"Geschenk\",\n    \"Schenker\",\n    \"Beschenkter\",\n    \"Erfüllung von Schenkungsverträgen\",\n    \"Vertragliche Verpflichtungen\",\n    \"Tod des Schenkers\",\n    \"Schenkungsteuer\",\n    \"Schenkungsrecht\",\n    \"Schenkungskontrolle\",\n    \"Schenkungswiderruf\",\n    \"Schenkungspflichtteil\",\n    \"Schenkungserklärung\",\n    \"Schenkungsgegenstand\",\n    \"Schenkungsurkunde\",\n    \"Schenkungsabwicklung\",\n    \"Schenkungszweck\",\n    \"Schenkungsbedingungen\",\n    \"Schenkungsverjährung\",\n    \"Schenkungsverfahren\",\n    \"Schenkungsregister\",\n    \"Schenkungstypische Vertragsformeln\",\n    \"Schenkungsrechtliche Anfechtung\",\n    \"Schenkungsrechtliche Pflichten\",\n    \"Schenkungsrechtliche Vertretung\",\n    \"Schenkungsrechtliche Beweismittel\",\n    \"Schenkungsrechtliche Auslegung\",\n    \"Schenkungsrechtliche Abwicklung\",\n    \"Schenkungsrechtliche Beratung\",\n    \"Schenkungsrechtliche Analyse\"\n  ],\n  \"hyde\": \"Die Frage nach der Gültigkeit einer Schenkung und den daraus resultierenden Eigentumsverhältnissen ist komplex und erfordert eine genaue Untersuchung der relevanten rechtlichen Aspekte. Im Kern geht es um die Bewertung der Schenkbarkeit eines Gegenstandes, die Klärung der Frage, ob eine wirksame Schenkung vorliegt, sowie um die möglichen Folgen einer ungültigen Schenkung. Die Untersuchung muss sich auf das Erbrecht und das Eigentumsrecht stützen, da diese beiden Rechtsbereiche betroffen sein könnten. Die relevanten Gesetzesbestimmungen sind Art. 4519 CPLR, Art. 934 ZGB und Art. 936 ZGB. Die Schlüsselbegriffe in der deutschen juristischen Analyse sind: Schenkung, Geschenk, Schenker, Beschenkter, Erfüllung von Schenkungsverträgen, Vertragliche Verpflichtungen, Tod des Schenkers, Schenkungsteuer, Schenkungsrecht, Schenkungskontrolle, Schenkungswiderruf, Schenkungspflichtteil, Schenkungserklärung, Schenkungsgegenstand, Schenkungsurkunde, Schenkungsabwicklung, Schenkungszweck, Schenkungsbedingungen, Schenkungsverjährung, Schenkungsverfahren, Schenkungsregister, Schenkungstypische Vertragsformeln, Schenkungsrechtliche Anfechtung, Schenkungsrechtliche Pflichten, Schenkungsrechtliche Vertretung, Schenkungsrechtliche Beweismittel, Schenkungsrechtliche Auslegung, Schenkungsrechtliche Abwicklung, Schenkungsrechtliche Beratung und Schenkungsrechtliche Analyse. Es ist wichtig zu prüfen, ob die Schenkung im Rahmen des Erbrechts oder des Eigentumsrechts stattgefunden hat und welche rechtlichen Konsequenzen sich aus der spezifischen Situation ergeben könnten.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Erbrecht",
+        "Eigentumsrecht"
+      ],
+      "law_codes": [
+        "Art. 4519 CPLR",
+        "Art. 934 ZGB",
+        "Art. 936 ZGB"
+      ],
+      "keywords_de": [
+        "Schenkung",
+        "Geschenk",
+        "Schenker",
+        "Beschenkter",
+        "Erfüllung von Schenkungsverträgen",
+        "Vertragliche Verpflichtungen",
+        "Tod des Schenkers",
+        "Schenkungsteuer",
+        "Schenkungsrecht",
+        "Schenkungskontrolle",
+        "Schenkungswiderruf",
+        "Schenkungspflichtteil",
+        "Schenkungserklärung",
+        "Schenkungsgegenstand",
+        "Schenkungsurkunde",
+        "Schenkungsabwicklung",
+        "Schenkungszweck",
+        "Schenkungsbedingungen",
+        "Schenkungsverjährung",
+        "Schenkungsverfahren",
+        "Schenkungsregister",
+        "Schenkungstypische Vertragsformeln",
+        "Schenkungsrechtliche Anfechtung",
+        "Schenkungsrechtliche Pflichten",
+        "Schenkungsrechtliche Vertretung",
+        "Schenkungsrechtliche Beweismittel",
+        "Schenkungsrechtliche Auslegung",
+        "Schenkungsrechtliche Abwicklung",
+        "Schenkungsrechtliche Beratung",
+        "Schenkungsrechtliche Analyse"
+      ],
+      "hyde": "Die Frage nach der Gültigkeit einer Schenkung und den daraus resultierenden Eigentumsverhältnissen ist komplex und erfordert eine genaue Untersuchung der relevanten rechtlichen Aspekte. Im Kern geht es um die Bewertung der Schenkbarkeit eines Gegenstandes, die Klärung der Frage, ob eine wirksame Schenkung vorliegt, sowie um die möglichen Folgen einer ungültigen Schenkung. Die Untersuchung muss sich auf das Erbrecht und das Eigentumsrecht stützen, da diese beiden Rechtsbereiche betroffen sein könnten. Die relevanten Gesetzesbestimmungen sind Art. 4519 CPLR, Art. 934 ZGB und Art. 936 ZGB. Die Schlüsselbegriffe in der deutschen juristischen Analyse sind: Schenkung, Geschenk, Schenker, Beschenkter, Erfüllung von Schenkungsverträgen, Vertragliche Verpflichtungen, Tod des Schenkers, Schenkungsteuer, Schenkungsrecht, Schenkungskontrolle, Schenkungswiderruf, Schenkungspflichtteil, Schenkungserklärung, Schenkungsgegenstand, Schenkungsurkunde, Schenkungsabwicklung, Schenkungszweck, Schenkungsbedingungen, Schenkungsverjährung, Schenkungsverfahren, Schenkungsregister, Schenkungstypische Vertragsformeln, Schenkungsrechtliche Anfechtung, Schenkungsrechtliche Pflichten, Schenkungsrechtliche Vertretung, Schenkungsrechtliche Beweismittel, Schenkungsrechtliche Auslegung, Schenkungsrechtliche Abwicklung, Schenkungsrechtliche Beratung und Schenkungsrechtliche Analyse. Es ist wichtig zu prüfen, ob die Schenkung im Rahmen des Erbrechts oder des Eigentumsrechts stattgefunden hat und welche rechtlichen Konsequenzen sich aus der spezifischen Situation ergeben könnten."
+    }
+  },
+  "val_008": {
+    "raw": "{\n  \"legal_areas\": [\"public law\", \"administrative law\", \"trust law\"],\n  \"law_codes\": [\"Art. 414 StGB\", \"Art. 420 StGB\", \"Art. 430 StGB\", \"Art. 431 StGB\", \"Art. 432 StGB\", \"Art. 433 StGB\", \"Art. 434 StGB\", \"Art. 435 StGB\", \"Art. 436 StGB\", \"Art. 437 StGB\", \"Art. 438 StGB\", \"Art. 439 StGB\", \"Art. 440 StGB\", \"Art. 441 StGB\", \"Art. 442 StGB\", \"Art. 443 StGB\", \"Art. 444 StGB\", \"Art. 445 StGB\", \"Art. 446 StGB\", \"Art. 447 StGB\", \"Art. 448 StGB\", \"Art. 449 StGB\", \"Art. 450 StGB\", \"Art. 451 StGB\", \"Art. 452 StGB\", \"Art. 453 StGB\", \"Art. 454 StGB\", \"Art. 455 StGB\", \"Art. 456 StGB\", \"Art. 457 StGB\", \"Art. 458 StGB\", \"Art. 459 StGB\", \"Art. 460 StGB\", \"Art. 461 StGB\", \"Art. 462 StGB\", \"Art. 463 StGB\", \"Art. 464 StGB\", \"Art. 465 StGB\", \"Art. 466 StGB\", \"Art. 467 StGB\", \"Art. 468 StGB\", \"Art. 469 StGB\", \"Art. 470 StGB\", \"Art. 471 StGB\", \"Art. 472 StGB\", \"Art. 473 StGB\", \"Art. 474 StGB\", \"Art. 475 StGB\", \"Art. 476 StGB\", \"Art. 477 StGB\", \"Art. 478 StGB\", \"Art. 479 StGB\", \"Art. 480 StGB\", \"Art. 481 StGB\", \"Art. 482 StGB\", \"Art. 483 StGB\", \"Art. 484 StGB\", \"Art. 485 StGB\", \"Art. 486 StGB\", \"Art. 487 StGB\", \"Art. 488 StGB\", \"Art. 489 StGB\", \"Art. 490 StGB\", \"Art. 491 StGB\", \"Art. 492 StGB\", \"Art. 493 StGB\", \"Art. 494 StGB\", \"Art. 495 StGB\", \"Art. 496 StGB\", \"Art. 497 StGB\", \"Art. 498 StGB\", \"Art. 499 StGB\", \"Art. 500 StGB\", \"Art. 501 StGB\", \"Art. 502 StGB\", \"Art. 503 StGB\", \"Art. 504 StGB\", \"Art. 505 StGB\", \"Art. 506 StGB\", \"Art. 507 StGB\", \"Art. 508 StGB\", \"Art. 509 StGB\", \"Art. 510 StGB\", \"Art. 511 StGB\", \"Art. 512 StGB\", \"Art. 513 StGB\", \"Art. 514 StGB\", \"Art. 515 StGB\", \"Art. 516 StGB\", \"Art. 517 StGB\", \"Art. 518 StGB\", \"Art. 519 StGB\", \"Art. 520 StGB\", \"Art. 521 StGB\", \"Art. 522 StGB\", \"Art. 523 StGB\", \"Art. 524 StGB\", \"Art. 525 StGB\", \"Art. 526 StGB\", \"Art. 527 StGB\", \"Art. 528 StGB\", \"Art. 529 StGB\", \"Art. 530 StGB\", \"Art. 531 StGB\", \"Art. 532 StGB\", \"Art. 533 StGB\", \"Art. 534 StGB\", \"Art. 535 StGB\", \"Art. 536 StGB\", \"Art. 537 StGB\", \"Art. 538 StGB\", \"Art. 539 StGB\", \"Art. 540 StGB\", \"Art. 541 StGB\", \"Art. 542 StGB\", \"Art. 543 StGB\", \"Art. 544 StGB\", \"Art. 545 StGB\", \"Art. 546 StGB\", \"Art. 547 StGB\", \"Art. 548 StGB\", \"Art. 549 StGB\", \"Art. 550 StGB\", \"Art. 551 StGB\", \"Art. 552 StGB\", \"Art. 553 StGB\", \"Art. 554 StGB\", \"Art. 555 StGB\", \"Art. 556 StGB\", \"Art. 557 StGB\", \"Art. 558 StGB\", \"Art. 559 StGB\", \"Art. 560 StGB\", \"Art. 561 StGB\", \"Art. 562 StGB\", \"Art. 563 StGB\", \"Art. 564 StGB\", \"Art. 565 StGB\", \"Art. 566 StGB\", \"Art. 567 StGB\", \"Art. 568 StGB\", \"Art. 569 StGB\", \"Art. 570 StGB\", \"Art. 571 StGB\", \"Art. 572 StGB\", \"Art. 573 StGB\", \"Art. 574 StGB\",",
+    "parsed": null
+  },
+  "val_009": {
+    "raw": "{\n  \"legal_areas\": [\"Familienrecht\", \"Unterhaltsrecht\", \"Zivilrecht\"],\n  \"law_codes\": [\"Art. 277-283 ZGB\", \"Art. 157-162 ZGB\", \"Art. 293-300 ZGB\"],\n  \"keywords_de\": [\"Sorgerecht\", \"Unterhaltspflicht\", \"Zwangsvollstreckung\", \"Verwertung von Vermögenswerten\", \"Lohnpfändung\", \"Einkommensverwertung\", \"Freiwillige Zahlungen\", \"Pensionenkapitalisierung\", \"Selbstversorgungsfähigkeit\"],\n  \"hyde\": \"Die Frage nach der Unterhaltspflicht eines inhaftierten Elternteils ist komplex und hängt von verschiedenen Faktoren ab. Im vorliegenden Fall sind mehrere Aspekte zu berücksichtigen: 1) Die Anzahl der Kinder und ihr Alter; 2) Die finanzielle Situation des inhaftierten Elternteils; 3) Die finanzielle Situation des inhaftierten Elternteils; 4) Die Bedürfnisse der Kinder und die Leistungen, die sie erhalten; 5) Die Rechte und Pflichten der Eltern im Rahmen des Sorgerechts und des Unterhaltsrechts. Gemäß Art. 277-283 ZGB (Zivilgesetzbuch) hat der Elternteil, bei dem das Kind nicht lebt, Unterhalt zu zahlen. Dieser Unterhalt muss angemessen sein und darf nicht dazu führen, dass der Elternteil seine eigene Existenz gefährdet. In diesem Fall könnte argumentiert werden, dass das Einkommen des inhaftierten Elternteils zur Deckung der Kosten für die Kinder ausreichen würde, wenn er freigelassen würde. Allerdings ist dies nur eine mögliche Interpretation und es bedarf weiterer Untersuchungen, um den genauen Bedarf zu ermitteln. Darüber hinaus könnte die Tatsache, dass der inhaftierte Elternteil ein Vermögen besitzt, das zur Sicherung zukünftiger Unterhaltszahlungen herangezogen werden könnte, einen Einfluss auf die Höhe und Häufigkeit der Unterhaltszahlungen haben. Es wäre daher ratsam, einen Anwalt zu konsultieren, um eine fundierte Entscheidung über die Unterhaltspflicht und die Berechnung der Höhe des Unterhalts zu treffen.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Familienrecht",
+        "Unterhaltsrecht",
+        "Zivilrecht"
+      ],
+      "law_codes": [
+        "Art. 277-283 ZGB",
+        "Art. 157-162 ZGB",
+        "Art. 293-300 ZGB"
+      ],
+      "keywords_de": [
+        "Sorgerecht",
+        "Unterhaltspflicht",
+        "Zwangsvollstreckung",
+        "Verwertung von Vermögenswerten",
+        "Lohnpfändung",
+        "Einkommensverwertung",
+        "Freiwillige Zahlungen",
+        "Pensionenkapitalisierung",
+        "Selbstversorgungsfähigkeit"
+      ],
+      "hyde": "Die Frage nach der Unterhaltspflicht eines inhaftierten Elternteils ist komplex und hängt von verschiedenen Faktoren ab. Im vorliegenden Fall sind mehrere Aspekte zu berücksichtigen: 1) Die Anzahl der Kinder und ihr Alter; 2) Die finanzielle Situation des inhaftierten Elternteils; 3) Die finanzielle Situation des inhaftierten Elternteils; 4) Die Bedürfnisse der Kinder und die Leistungen, die sie erhalten; 5) Die Rechte und Pflichten der Eltern im Rahmen des Sorgerechts und des Unterhaltsrechts. Gemäß Art. 277-283 ZGB (Zivilgesetzbuch) hat der Elternteil, bei dem das Kind nicht lebt, Unterhalt zu zahlen. Dieser Unterhalt muss angemessen sein und darf nicht dazu führen, dass der Elternteil seine eigene Existenz gefährdet. In diesem Fall könnte argumentiert werden, dass das Einkommen des inhaftierten Elternteils zur Deckung der Kosten für die Kinder ausreichen würde, wenn er freigelassen würde. Allerdings ist dies nur eine mögliche Interpretation und es bedarf weiterer Untersuchungen, um den genauen Bedarf zu ermitteln. Darüber hinaus könnte die Tatsache, dass der inhaftierte Elternteil ein Vermögen besitzt, das zur Sicherung zukünftiger Unterhaltszahlungen herangezogen werden könnte, einen Einfluss auf die Höhe und Häufigkeit der Unterhaltszahlungen haben. Es wäre daher ratsam, einen Anwalt zu konsultieren, um eine fundierte Entscheidung über die Unterhaltspflicht und die Berechnung der Höhe des Unterhalts zu treffen."
+    }
+  },
+  "val_010": {
+    "raw": "{\n  \"legal_areas\": [\"Bankrecht\", \"Vertragsrecht\", \"Unternehmensrecht\"],\n  \"law_codes\": [\"Art. 321b StGB\", \"Art. 147 StPO\", \"Art. 197 BV\"],\n  \"keywords_de\": [\"Bankgeheimnis\", \"Vertragsfreiheit\", \"Geschäftsführungsbefugnis\", \"Sorgfaltspflichten der Bank\", \"Due Diligence\", \"Unternehmensverantwortlichkeit\", \"Verjährungsfristen\", \"Indemnifikation\", \"Erstattung\", \"Erfüllung\", \"Vertragsrechtliche Ansprüche\", \"Pflichtverletzung\", \"Schadensersatz\"],\n  \"hyde\": \"Die Bank ist grundsätzlich nicht für Schäden haftbar, die durch die Ausführung von Transaktionen aufgrund von angeblich gefälschten Faxanweisungen entstehen, da sie ihre Sorgfaltspflichten bei der Überprüfung von Signaturen erfüllt hat. Allerdings könnte eine Pflichtverletzung vorliegen, wenn die Bank trotz Kenntnis der Unregelmäßigkeit der Signaturen keine angemessenen Maßnahmen ergreift. Im Hinblick auf die vertraglichen Bestimmungen, insbesondere die Klausel über die 'statement-hold'-Option und die 30-tägige Protestfrist, könnte argumentiert werden, dass diese Mechanismen unwirksam sind, da sie den Anleger benachteiligen und gegen das Gesetz oder die guten Sitten verstoßen könnten. Zudem könnte die Frage der Berechnung des Schadens in einer anderen Währung als jener des Kontos relevant sein, da dies möglicherweise einen Verstoß gegen das Währungsgesetz darstellt.\"\n}",
+    "parsed": {
+      "legal_areas": [
+        "Bankrecht",
+        "Vertragsrecht",
+        "Unternehmensrecht"
+      ],
+      "law_codes": [
+        "Art. 321b StGB",
+        "Art. 147 StPO",
+        "Art. 197 BV"
+      ],
+      "keywords_de": [
+        "Bankgeheimnis",
+        "Vertragsfreiheit",
+        "Geschäftsführungsbefugnis",
+        "Sorgfaltspflichten der Bank",
+        "Due Diligence",
+        "Unternehmensverantwortlichkeit",
+        "Verjährungsfristen",
+        "Indemnifikation",
+        "Erstattung",
+        "Erfüllung",
+        "Vertragsrechtliche Ansprüche",
+        "Pflichtverletzung",
+        "Schadensersatz"
+      ],
+      "hyde": "Die Bank ist grundsätzlich nicht für Schäden haftbar, die durch die Ausführung von Transaktionen aufgrund von angeblich gefälschten Faxanweisungen entstehen, da sie ihre Sorgfaltspflichten bei der Überprüfung von Signaturen erfüllt hat. Allerdings könnte eine Pflichtverletzung vorliegen, wenn die Bank trotz Kenntnis der Unregelmäßigkeit der Signaturen keine angemessenen Maßnahmen ergreift. Im Hinblick auf die vertraglichen Bestimmungen, insbesondere die Klausel über die 'statement-hold'-Option und die 30-tägige Protestfrist, könnte argumentiert werden, dass diese Mechanismen unwirksam sind, da sie den Anleger benachteiligen und gegen das Gesetz oder die guten Sitten verstoßen könnten. Zudem könnte die Frage der Berechnung des Schadens in einer anderen Währung als jener des Kontos relevant sein, da dies möglicherweise einen Verstoß gegen das Währungsgesetz darstellt."
+    }
+  }
+}

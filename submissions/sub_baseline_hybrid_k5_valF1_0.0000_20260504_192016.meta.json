@@ -1,0 +1,32 @@
+{
+  "submission": "sub_baseline_hybrid_k5_valF1_0.0000_20260504_192016.csv",
+  "pipeline": "BM25 + BGE-M3 dense + RRF (k=60)",
+  "enrichment": "law: title prepend, court: parent prepend",
+  "top_k": 5,
+  "val_macro_f1": 0.0,
+  "val_per_query_f1": {
+    "val_001": 0.0,
+    "val_002": 0.0,
+    "val_003": 0.0,
+    "val_004": 0.0,
+    "val_005": 0.0,
+    "val_006": 0.0,
+    "val_007": 0.0,
+    "val_008": 0.0,
+    "val_009": 0.0,
+    "val_010": 0.0
+  },
+  "topk_sweep": {
+    "5": 0.0,
+    "10": 0.0,
+    "15": 0.0,
+    "20": 0.0,
+    "25": 0.0,
+    "30": 0.0,
+    "35": 0.0,
+    "40": 0.0,
+    "50": 0.0,
+    "60": 0.0
+  },
+  "timestamp": "20260504_192016"
+}

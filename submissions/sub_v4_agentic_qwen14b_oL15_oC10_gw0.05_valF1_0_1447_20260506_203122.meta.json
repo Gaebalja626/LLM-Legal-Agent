@@ -1,0 +1,34 @@
+{
+  "submission": "sub_v4_agentic_qwen14b_oL15_oC10_gw0.05_valF1_0_1447_20260506_203122.csv",
+  "pipeline": "Qwen3-14B-AWQ expansion (orig+kw+hyde) → BGE-M3 split dense → RRF → Graph 1-hop boost → quota output",
+  "config": {
+    "llm_model": "Qwen/Qwen3-14B-AWQ",
+    "embedding_model": "BAAI/bge-m3",
+    "max_seq_length": 256,
+    "K_LAW": 200,
+    "K_COURT": 200,
+    "out_n_law": 15,
+    "out_n_court": 10,
+    "graph_pool": 100,
+    "graph_w": 0.05,
+    "modes": [
+      "orig",
+      "kw",
+      "hyde"
+    ]
+  },
+  "val_macro_f1": 0.14473156633227985,
+  "val_per_query_f1": {
+    "val_001": 0.11940298507462685,
+    "val_002": 0.19672131147540983,
+    "val_003": 0.02777777777777778,
+    "val_004": 0.22857142857142856,
+    "val_005": 0.1111111111111111,
+    "val_006": 0.18604651162790697,
+    "val_007": 0.2727272727272727,
+    "val_008": 0.11111111111111112,
+    "val_009": 0.15384615384615383,
+    "val_010": 0.04
+  },
+  "n_test_predictions": 40
+}

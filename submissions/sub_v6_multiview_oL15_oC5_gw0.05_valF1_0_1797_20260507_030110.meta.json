@@ -1,0 +1,37 @@
+{
+  "submission": "sub_v6_multiview_oL15_oC5_gw0.05_valF1_0_1797_20260507_030110.csv",
+  "pipeline": "Qwen3-14B-AWQ round-1 + multi-view (statute/sub_q3/concise) → BGE-M3 split dense → RRF → court→law graph boost",
+  "config": {
+    "llm_model": "Qwen/Qwen3-14B-AWQ",
+    "embedding_model": "BAAI/bge-m3",
+    "max_seq_length": 256,
+    "K_LAW": 200,
+    "K_COURT": 200,
+    "graph_pool": 100,
+    "graph_w": 0.05,
+    "out_n_law": 15,
+    "out_n_court": 5,
+    "modes": [
+      "orig",
+      "kw",
+      "hyde",
+      "hyde_statute",
+      "sub_q3",
+      "trans_concise"
+    ]
+  },
+  "val_macro_f1": 0.17968848543265767,
+  "val_per_query_f1": {
+    "val_001": 0.12903225806451613,
+    "val_002": 0.21428571428571427,
+    "val_003": 0.029850746268656716,
+    "val_004": 0.26666666666666666,
+    "val_005": 0.19354838709677416,
+    "val_006": 0.15789473684210525,
+    "val_007": 0.358974358974359,
+    "val_008": 0.12244897959183673,
+    "val_009": 0.23529411764705882,
+    "val_010": 0.08888888888888889
+  },
+  "n_test_predictions": 40
+}
